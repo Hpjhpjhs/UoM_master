@@ -1,0 +1,55 @@
+\documentclass[11pt, twocolumn]{article}
+
+\usepackage[top=0.5in, bottom=1in, left=1in, right=0.5in]{geometry}
+\usepackage{amssymb}
+
+\begin{document}
+
+\title{ Report on Lab Work 2}
+\author{Lei Liu, 9669373}
+\date{\today}
+\maketitle
+
+\section{Pair of SQL Queries}
+\subsection{Join VS Cross Join}
+A. select o.name as Organization, o.established, c.name as country, c.capital as capital, cit.name as city, cit.population\\
+from country as c, organization as o, ismember as m, city as cit\\
+where c.code = o.country \\
+and o.country = m.country \\
+and o.abbreviation = m.organization \\
+and cit.name = o.city;
+
+\section{Task 2: Relational-algebraic expression}
+(6)Return countries that are not landlocked (i.e., have a sea coast).
+$$ \backslash project\_\{name\} \ (\backslash project\_\{name, \ code\}\  country \  \backslash join\_ \{country=code\} \ geo\_sea);$$
+(7)Return the names of all lakes, rivers and seas.
+$$ \backslash rename\_\{ L\_R\_S\_names\} (  \backslash project\_\{name\} \ lake) $$$$ \backslash union ( \backslash project\_\{name\} \ river) \ \backslash union \   ( \backslash project\_\{name\} \ sea);$$
+(8)Return the average length of a river.
+$$ \backslash project\_\{avg(length)\} \ river;$$
+(9)Return the name of countries that have more than 10 islands.
+$$\pi_{name, \ num\_island} \  ( \sigma_{code=country \ \wedge \ num\_island>10} $$$$ ( _{country} \gamma_{count(island) \rightarrow num\_island } (geo\_island ) \ \bowtie  \ country ) )$$
+\newpage
+(10)Return the length of all rivers in Great Britain.
+$$ \backslash project\_\{rname, \ length\}  \backslash select\_\{country = 'GB'\} $$$$ \ ( \backslash rename\_\{rname, \ length\} \   \backslash project\_\{name, \  length\} \ river $$$$  \backslash join $$$$  \backslash rename\_\{rname, \  country\}  \backslash project\_\{river, \ country\} \ geo\_river);$$
+(11)Return the name of the countries that have the 10 longest total length of rivers.
+$$\pi_{countryname \ limit \ 10}( $$$$
+\tau _{length}(
+_{countryname} \gamma _{sum(length) \rightarrow length}( $$$$ 
+\sigma_{name=river}(
+river\bowtie $$$$
+\pi_{country.name\rightarrow countryname, river}( $$$$
+\sigma_{country=code}(
+geo\_river \bowtie country))))))$$
+Question (6),(7),(8), and (10) were executed via the RA software, and their output were printed in file:\\ \textit{"Lei\_Liu\_LW1\_RA\_Result.txt"}.
+\section{Task 3: SQL expression}
+(12)Return the names of up to 10 countries and the value corresponding to half the country’s population.$$select \ name, \ (population/2) \  as \ half\_of\_population \ 
+from \ country \ limit \ 10;$$
+(13)Return all the information available about cities whose name is Manchester.$$select \ * \ from \ city \ where \ name\ =\ 'Manchester';$$
+(14)Return the name of cities whose name starts with the substring 'Man’.$$select \ name \ from \ city \ where \ name \ like \ 'Man\%';$$
+(15)Return the name of both countries with Buddhist populations and organizations, established after 1st December 1994, that the country is a member of.
+$$select \ c.name \ as \ country, \  organization \ from \ country \ c \ join \ $$ $$(select \ distinct \ m.country \ as \ country\_code, \ o.name \ as \ organization \ 	$$$$from \ organization \ o \ join \ ismember \ m \ on \ m.organization=o.abbreviation \ $$ $$where \ o.established > '1994-12-01' \ and \ m.country \ in \ $$ $$( \ select \ country \ from \ religion \ where \ name='Buddhist' ) ) mem $$ $$on c.code = mem.country\_code;$$
+(16)Return the name of each country with the number of islands in it.
+$$select \ c.name, \ count(geo.island) \ as \ num\_island \ from \ country \ c $$$$ join \ geo\_island \ geo \ on \ c.code=geo.country \ group \ by \ geo.island;$$
+Executed result were logged in file: \textit{Lei\_Liu\_LW1\_SQL.log}\\
+Also, the sql script file is: \textit{Lei\_Liu\_LW1\_SQL.sql}
+\end{document}

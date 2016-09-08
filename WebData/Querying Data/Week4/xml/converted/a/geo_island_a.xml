@@ -1,0 +1,421 @@
+
+<geo_island>
+   <geo_island-tuple island="Svalbard" country="SVAX" province="Svalbard"/>
+   <geo_island-tuple island="Greenland" country="GROX" province="Greenland"/>
+   <geo_island-tuple island="Iceland" country="IS" province="Iceland"/>
+   <geo_island-tuple island="Aust-Vagoey" country="N" province="Nordland"/>
+   <geo_island-tuple island="Streymoy" country="FARX" province="Faroe Islands"/>
+   <geo_island-tuple island="Ireland" country="IRL" province="Ireland"/>
+   <geo_island-tuple island="Ireland" country="GB" province="Northern Ireland"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Avon"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Bedfordshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Berkshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Buckinghamshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cambridgeshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cheshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cleveland"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cornwall"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cumbria"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Derbyshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Devon"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Dorset"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Durham"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="East Sussex"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Essex"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Gloucestershire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Greater London"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Greater Manchester"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Hampshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Hereford and Worcester"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Hertfordshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Humberside"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Kent"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Lancashire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Leicestershire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Lincolnshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Merseyside"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Norfolk"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Northamptonshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Northumberland"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="North Yorkshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Nottinghamshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Oxfordshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Shropshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Somerset"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="South Yorkshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Staffordshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Suffolk"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Surrey"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Tyne and Wear"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Warwickshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="West Midlands"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="West Sussex"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="West Yorkshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Wiltshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Borders"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Central"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Dumfries and Galloway"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Fife"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Grampian"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Highland"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Lothian"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Strathclyde"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Tayside"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Aberconwy and Colwyn"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Blaenau Gwent"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Bridgend"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Caerphilly"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Cardiff"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Carmarthenshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Ceredigion"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Denbighshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Flintshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Gwynedd"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Merthyr Tydfil"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Monmouthshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Neath and Port Talbot"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Newport"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Pembrokeshire"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Powys"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Rhondda Cynon Taff"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Swansea"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Torfaen"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Vale of Glamorgan"/>
+   <geo_island-tuple island="Great Britain" country="GB" province="Wrexham"/>
+   <geo_island-tuple island="Shetland Mainland" country="GB" province="Shetland"/>
+   <geo_island-tuple island="Orkney Mainland" country="GB" province="Orkneys"/>
+   <geo_island-tuple island="South Ronaldsay" country="GB" province="Orkneys"/>
+   <geo_island-tuple island="Hoy" country="GB" province="Orkneys"/>
+   <geo_island-tuple island="Westray" country="GB" province="Orkneys"/>
+   <geo_island-tuple island="Barra" country="GB" province="Outer Hebrides"/>
+   <geo_island-tuple island="South Uist" country="GB" province="Outer Hebrides"/>
+   <geo_island-tuple island="Benbecula" country="GB" province="Outer Hebrides"/>
+   <geo_island-tuple island="North Uist" country="GB" province="Outer Hebrides"/>
+   <geo_island-tuple island="Lewis and Harris" country="GB" province="Outer Hebrides"/>
+   <geo_island-tuple island="Skye" country="GB" province="Highland"/>
+   <geo_island-tuple island="Rhum" country="GB" province="Highland"/>
+   <geo_island-tuple island="Mull" country="GB" province="Highland"/>
+   <geo_island-tuple island="Islay" country="GB" province="Strathclyde"/>
+   <geo_island-tuple island="Jura" country="GB" province="Strathclyde"/>
+   <geo_island-tuple island="Arran" country="GB" province="Strathclyde"/>
+   <geo_island-tuple island="Isle of Man" country="GBM" province="Man"/>
+   <geo_island-tuple island="Anglesey" country="GB" province="Anglesey"/>
+   <geo_island-tuple island="Isle of Wight" country="GB" province="Isle of Wight"/>
+   <geo_island-tuple island="Lundy" country="GB" province="Devon"/>
+   <geo_island-tuple island="Bishop Rock" country="GB" province="Cornwall"/>
+   <geo_island-tuple island="Guernsey" country="GBG" province="Guernsey"/>
+   <geo_island-tuple island="Jersey" country="GBJ" province="Jersey"/>
+   <geo_island-tuple island="Gotland" country="S" province="Gotland"/>
+   <geo_island-tuple island="Oeland" country="S" province="Kalmar"/>
+   <geo_island-tuple island="Aland" country="SF" province="Aland"/>
+   <geo_island-tuple island="Dagoe" country="EW" province="Estonia"/>
+   <geo_island-tuple island="Oesel" country="EW" province="Estonia"/>
+   <geo_island-tuple island="Seeland" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Fuenen" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Langeland" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Falster" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Lolland" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Bornholm" country="DK" province="Denmark"/>
+   <geo_island-tuple island="Helgoland" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Fehmarn" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Rugen" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_island-tuple island="Usedom" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_island-tuple island="Usedom" country="PL" province="Szczecinskie"/>
+   <geo_island-tuple island="Sylt" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Fohr" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Amrum" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Pellworm" country="D" province="Schleswig Holstein"/>
+   <geo_island-tuple island="Wangerooge" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Spiekeroog" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Langeoog" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Baltrum" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Norderney" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Juist" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Borkum" country="D" province="Niedersachsen"/>
+   <geo_island-tuple island="Schiermonnikoog" country="NL" province="Friesland"/>
+   <geo_island-tuple island="Ameland" country="NL" province="Friesland"/>
+   <geo_island-tuple island="Terschelling" country="NL" province="Friesland"/>
+   <geo_island-tuple island="Vlieland" country="NL" province="Friesland"/>
+   <geo_island-tuple island="Texel" country="NL" province="Noord Holland"/>
+   <geo_island-tuple island="Korfu" country="GR" province="Ionioi Nisoi"/>
+   <geo_island-tuple island="Lefkas" country="GR" province="Ionioi Nisoi"/>
+   <geo_island-tuple island="Kefallinia" country="GR" province="Ionioi Nisoi"/>
+   <geo_island-tuple island="Zakinthos" country="GR" province="Ionioi Nisoi"/>
+   <geo_island-tuple island="Kreta" country="GR" province="Kriti"/>
+   <geo_island-tuple island="Chios" country="GR" province="Voreion Aiyaion"/>
+   <geo_island-tuple island="Samos" country="GR" province="Voreion Aiyaion"/>
+   <geo_island-tuple island="Ikaria" country="GR" province="Voreion Aiyaion"/>
+   <geo_island-tuple island="Lesbos" country="GR" province="Voreion Aiyaion"/>
+   <geo_island-tuple island="Kos" country="GR" province="Notion Aiyaion"/>
+   <geo_island-tuple island="Rhodos" country="GR" province="Notion Aiyaion"/>
+   <geo_island-tuple island="Cyprus" country="CY" province="Cyprus"/>
+   <geo_island-tuple island="Alicudi" country="I" province="Calabria"/>
+   <geo_island-tuple island="Filicudi" country="I" province="Calabria"/>
+   <geo_island-tuple island="Salina" country="I" province="Calabria"/>
+   <geo_island-tuple island="Lipari" country="I" province="Calabria"/>
+   <geo_island-tuple island="Vulcano" country="I" province="Calabria"/>
+   <geo_island-tuple island="Panarea" country="I" province="Calabria"/>
+   <geo_island-tuple island="Stromboli" country="I" province="Calabria"/>
+   <geo_island-tuple island="Lampedusa" country="I" province="Sicilia"/>
+   <geo_island-tuple island="Linosa" country="I" province="Sicilia"/>
+   <geo_island-tuple island="Sicilia" country="I" province="Sicilia"/>
+   <geo_island-tuple island="Malta" country="M" province="Malta"/>
+   <geo_island-tuple island="Gozo" country="M" province="Malta"/>
+   <geo_island-tuple island="Sardegna" country="I" province="Sardegna"/>
+   <geo_island-tuple island="Corse" country="F" province="Corse"/>
+   <geo_island-tuple island="Menorca" country="E" province="Balearic Islands"/>
+   <geo_island-tuple island="Mallorca" country="E" province="Balearic Islands"/>
+   <geo_island-tuple island="Ibiza" country="E" province="Balearic Islands"/>
+   <geo_island-tuple island="Formentera" country="E" province="Balearic Islands"/>
+   <geo_island-tuple island="Lanzarote" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Fuerteventura" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Gran Canaria" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Teneriffa" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Gomera" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Hierro" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="La Palma" country="E" province="Canary Islands"/>
+   <geo_island-tuple island="Madeira" country="P" province="Madeira"/>
+   <geo_island-tuple island="Porto Santo" country="P" province="Madeira"/>
+   <geo_island-tuple island="Sao Miguel" country="P" province="Azores"/>
+   <geo_island-tuple island="Santa Maria" country="P" province="Azores"/>
+   <geo_island-tuple island="Terceira" country="P" province="Azores"/>
+   <geo_island-tuple island="Sao Jorge" country="P" province="Azores"/>
+   <geo_island-tuple island="Pico" country="P" province="Azores"/>
+   <geo_island-tuple island="Faial" country="P" province="Azores"/>
+   <geo_island-tuple island="Graciosa" country="P" province="Azores"/>
+   <geo_island-tuple island="Flores" country="P" province="Azores"/>
+   <geo_island-tuple island="Corvo" country="P" province="Azores"/>
+   <geo_island-tuple island="Santiago" country="CV" province="Cape Verde"/>
+   <geo_island-tuple island="Fogo" country="CV" province="Cape Verde"/>
+   <geo_island-tuple island="Sao Tome" country="STP" province="Sao Tome and Principe"/>
+   <geo_island-tuple island="Principe" country="STP" province="Sao Tome and Principe"/>
+   <geo_island-tuple island="Bioko" country="GQ" province="Equatorial Guinea"/>
+   <geo_island-tuple island="Saint Helena" country="HELX" province="Saint Helena"/>
+   <geo_island-tuple island="Ascension" country="HELX" province="Saint Helena"/>
+   <geo_island-tuple island="Tristan Da Cunha" country="HELX" province="Saint Helena"/>
+   <geo_island-tuple island="West Falkland" country="FALK" province="Falkland Islands"/>
+   <geo_island-tuple island="East Falkland" country="FALK" province="Falkland Islands"/>
+   <geo_island-tuple island="Bahrain" country="BRN" province="Bahrain"/>
+   <geo_island-tuple island="Khark" country="IR" province="Fars"/>
+   <geo_island-tuple island="Gheschm" country="IR" province="Hormozgan"/>
+   <geo_island-tuple island="Lavan" country="IR" province="Fars"/>
+   <geo_island-tuple island="Christmas Island" country="XMAS" province="Christmas Island"/>
+   <geo_island-tuple island="Pulau Panjang" country="COCO" province="Cocos Islands"/>
+   <geo_island-tuple island="Male" country="MV" province="Maldives"/>
+   <geo_island-tuple island="Kavaratti" country="IND" province="Lakshadweep Is."/>
+   <geo_island-tuple island="Sri Lanka" country="CL" province="Sri Lanka"/>
+   <geo_island-tuple island="South Andaman Island" country="IND" province="Andaman and Nicobar Is."/>
+   <geo_island-tuple island="Sokotra" country="YE" province="Yemen"/>
+   <geo_island-tuple island="Sansibar" country="EAT" province="Mjini Magharibi"/>
+   <geo_island-tuple island="Pemba" country="EAT" province="Mjini Magharibi"/>
+   <geo_island-tuple island="Mahe" country="SY" province="Seychelles"/>
+   <geo_island-tuple island="Grand Comoro" country="COM" province="Comoros"/>
+   <geo_island-tuple island="Anjouan" country="COM" province="Comoros"/>
+   <geo_island-tuple island="Mohilla" country="COM" province="Comoros"/>
+   <geo_island-tuple island="Mayotte" country="MAYO" province="Mayotte"/>
+   <geo_island-tuple island="Reunion" country="REUN" province="Reunion"/>
+   <geo_island-tuple island="Mauritius" country="MS" province="Mauritius"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Antsiranana"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Antananarivo"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Fianarantsoa"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Mahajanga"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Toamasina"/>
+   <geo_island-tuple island="Madagaskar" country="RM" province="Toliara"/>
+   <geo_island-tuple island="Kotelny Island" country="R" province="Rep. of Sakha"/>
+   <geo_island-tuple island="Paramuschir" country="R" province="Kamchatskaya oblast"/>
+   <geo_island-tuple island="Olkhon" country="R" province="Rep. of Buryatiya"/>
+   <geo_island-tuple island="Sachalin" country="R" province="Sakhalinskaya oblast"/>
+   <geo_island-tuple island="Hokkaido" country="J" province="Hokkaido"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Fukuoka"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Saga"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Nagasaki"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Kumamoto"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Oita"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Miyazaki"/>
+   <geo_island-tuple island="Kyushu" country="J" province="Kagoshima"/>
+   <geo_island-tuple island="Shikoku" country="J" province="Tokushima"/>
+   <geo_island-tuple island="Shikoku" country="J" province="Kagawa"/>
+   <geo_island-tuple island="Shikoku" country="J" province="Ehime"/>
+   <geo_island-tuple island="Shikoku" country="J" province="Kochi"/>
+   <geo_island-tuple island="Honshu" country="J" province="Aomori"/>
+   <geo_island-tuple island="Honshu" country="J" province="Iwate"/>
+   <geo_island-tuple island="Honshu" country="J" province="Miyagi"/>
+   <geo_island-tuple island="Honshu" country="J" province="Akita"/>
+   <geo_island-tuple island="Honshu" country="J" province="Yamagata"/>
+   <geo_island-tuple island="Honshu" country="J" province="Fukushima"/>
+   <geo_island-tuple island="Honshu" country="J" province="Ibaraki"/>
+   <geo_island-tuple island="Honshu" country="J" province="Tochigi"/>
+   <geo_island-tuple island="Honshu" country="J" province="Gumma"/>
+   <geo_island-tuple island="Honshu" country="J" province="Saitama"/>
+   <geo_island-tuple island="Honshu" country="J" province="Chiba"/>
+   <geo_island-tuple island="Honshu" country="J" province="Tokyo"/>
+   <geo_island-tuple island="Honshu" country="J" province="Kanagawa"/>
+   <geo_island-tuple island="Honshu" country="J" province="Niigata"/>
+   <geo_island-tuple island="Honshu" country="J" province="Toyama"/>
+   <geo_island-tuple island="Honshu" country="J" province="Ishikawa"/>
+   <geo_island-tuple island="Honshu" country="J" province="Fukui"/>
+   <geo_island-tuple island="Honshu" country="J" province="Yamanashi"/>
+   <geo_island-tuple island="Honshu" country="J" province="Nagano"/>
+   <geo_island-tuple island="Honshu" country="J" province="Gifu"/>
+   <geo_island-tuple island="Honshu" country="J" province="Shizuoka"/>
+   <geo_island-tuple island="Honshu" country="J" province="Aichi"/>
+   <geo_island-tuple island="Honshu" country="J" province="Mie"/>
+   <geo_island-tuple island="Honshu" country="J" province="Shiga"/>
+   <geo_island-tuple island="Honshu" country="J" province="Kyoto"/>
+   <geo_island-tuple island="Honshu" country="J" province="Osaka"/>
+   <geo_island-tuple island="Honshu" country="J" province="Hyogo"/>
+   <geo_island-tuple island="Honshu" country="J" province="Nara"/>
+   <geo_island-tuple island="Honshu" country="J" province="Wakayama"/>
+   <geo_island-tuple island="Honshu" country="J" province="Tottori"/>
+   <geo_island-tuple island="Honshu" country="J" province="Shimane"/>
+   <geo_island-tuple island="Honshu" country="J" province="Okayama"/>
+   <geo_island-tuple island="Honshu" country="J" province="Hiroshima"/>
+   <geo_island-tuple island="Honshu" country="J" province="Yamaguchi"/>
+   <geo_island-tuple island="Okinawa" country="J" province="Okinawa"/>
+   <geo_island-tuple island="Jeju" country="ROK" province="South Korea"/>
+   <geo_island-tuple island="Taiwan" country="RC" province="Taiwan"/>
+   <geo_island-tuple island="Hainan" country="TJ" province="Hainan"/>
+   <geo_island-tuple island="Luzon" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Mindoro" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Negros" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Panay" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Bohol" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Leyte" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Samar" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Cebu" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Mindanao" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Palawan" country="RP" province="Philippines"/>
+   <geo_island-tuple island="Singapore" country="SGP" province="Singapore"/>
+   <geo_island-tuple island="Sumatra" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Samosir" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Batam" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Bangka" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Krakatau" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Java" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Borneo" country="BRU" province="Brunei"/>
+   <geo_island-tuple island="Borneo" country="MAL" province="Sabah"/>
+   <geo_island-tuple island="Borneo" country="MAL" province="Sarawak"/>
+   <geo_island-tuple island="Borneo" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Bali" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Lombok" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Sumbawa" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Sulawesi" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Timor" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Timor" country="TL" province="Timor-Leste"/>
+   <geo_island-tuple island="Ambon" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="Ceram" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="New Guinea" country="RI" province="Indonesia"/>
+   <geo_island-tuple island="New Guinea" country="PNG" province="Papua New Guinea"/>
+   <geo_island-tuple island="Bougainville" country="PNG" province="Papua New Guinea"/>
+   <geo_island-tuple island="Guadalcanal" country="SLB" province="Solomon Islands"/>
+   <geo_island-tuple island="Grande Terre" country="NCA" province="New Caledonia"/>
+   <geo_island-tuple island="Cangaroo Island" country="AUS" province="South Australia"/>
+   <geo_island-tuple island="Melville Island" country="AUS" province="Northern Territory"/>
+   <geo_island-tuple island="Tasmania" country="AUS" province="Tasmania"/>
+   <geo_island-tuple island="Victoria Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Banks Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Prince of Wales Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Baffin Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Southampton Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Ellesmere Island" country="CDN" province="Northwest Territories"/>
+   <geo_island-tuple island="Saint Pierre" country="SPMI" province="Saint Pierre and Miquelon"/>
+   <geo_island-tuple island="Miquelon-Langlade" country="SPMI" province="Saint Pierre and Miquelon"/>
+   <geo_island-tuple island="Newfoundland" country="CDN" province="Newfoundland"/>
+   <geo_island-tuple island="Prince Edward Island" country="CDN" province="Prince Edward Island"/>
+   <geo_island-tuple island="Rene Levasseur Island" country="CDN" province="Ontario"/>
+   <geo_island-tuple island="Manitoulin" country="CDN" province="Ontario"/>
+   <geo_island-tuple island="Martha s Vineyard" country="USA" province="Massachusetts"/>
+   <geo_island-tuple island="Nantucket" country="USA" province="Massachusetts"/>
+   <geo_island-tuple island="Long Island" country="USA" province="New York"/>
+   <geo_island-tuple island="Grand Bermuda" country="BERM" province="Bermuda"/>
+   <geo_island-tuple island="New Providence" country="BS" province="Bahamas"/>
+   <geo_island-tuple island="Grand Turk" country="TUCA" province="Turks and Caicos Islands"/>
+   <geo_island-tuple island="Providenciales" country="TUCA" province="Turks and Caicos Islands"/>
+   <geo_island-tuple island="North Caicos" country="TUCA" province="Turks and Caicos Islands"/>
+   <geo_island-tuple island="Cuba" country="C" province="Ciego de Avila"/>
+   <geo_island-tuple island="Cuba" country="C" province="Cienfuegos"/>
+   <geo_island-tuple island="Cuba" country="C" province="Ciudad de la Habana"/>
+   <geo_island-tuple island="Cuba" country="C" province="Granma"/>
+   <geo_island-tuple island="Cuba" country="C" province="Guantanamo"/>
+   <geo_island-tuple island="Cuba" country="C" province="Holguin"/>
+   <geo_island-tuple island="Cuba" country="C" province="La Habana"/>
+   <geo_island-tuple island="Cuba" country="C" province="Las Tunas"/>
+   <geo_island-tuple island="Cuba" country="C" province="Matanzas"/>
+   <geo_island-tuple island="Cuba" country="C" province="Pinar del Rio"/>
+   <geo_island-tuple island="Cuba" country="C" province="Sancti Spiritus"/>
+   <geo_island-tuple island="Cuba" country="C" province="Santiago de Cuba"/>
+   <geo_island-tuple island="Cuba" country="C" province="Villa Clara"/>
+   <geo_island-tuple island="Jamaica" country="JA" province="Jamaica"/>
+   <geo_island-tuple island="Hispaniola" country="DOM" province="Dominican Republic"/>
+   <geo_island-tuple island="Hispaniola" country="RH" province="Haiti"/>
+   <geo_island-tuple island="Puerto Rico" country="PR" province="Puerto Rico"/>
+   <geo_island-tuple island="Tortola" country="BVIR" province="British Virgin Islands"/>
+   <geo_island-tuple island="Saint Thomas" country="VIRG" province="Virgin Islands"/>
+   <geo_island-tuple island="Anguilla" country="AXA" province="Anguilla"/>
+   <geo_island-tuple island="St. Martin" country="NA" province="Netherlands Antilles"/>
+   <geo_island-tuple island="St. Martin" country="SMAR" province="Saint Martin"/>
+   <geo_island-tuple island="Saint Kitts" country="KN" province="Saint Kitts and Nevis"/>
+   <geo_island-tuple island="Nevis" country="KN" province="Saint Kitts and Nevis"/>
+   <geo_island-tuple island="Barbuda" country="AG" province="Antigua and Barbuda"/>
+   <geo_island-tuple island="Antigua" country="AG" province="Antigua and Barbuda"/>
+   <geo_island-tuple island="Montserrat" country="MNTS" province="Montserrat"/>
+   <geo_island-tuple island="Basse-Terre" country="GUAD" province="Guadeloupe"/>
+   <geo_island-tuple island="Grande-Terre" country="GUAD" province="Guadeloupe"/>
+   <geo_island-tuple island="Dominica" country="WD" province="Dominica"/>
+   <geo_island-tuple island="Martinique" country="MART" province="Martinique"/>
+   <geo_island-tuple island="Saint Lucia" country="WL" province="Saint Lucia"/>
+   <geo_island-tuple island="Saint Vincent" country="WV" province="Saint Vincent and the Grenadines"/>
+   <geo_island-tuple island="Barbados" country="BDS" province="Barbados"/>
+   <geo_island-tuple island="Grenada" country="WG" province="Grenada"/>
+   <geo_island-tuple island="Trinidad" country="TT" province="Trinidad and Tobago"/>
+   <geo_island-tuple island="Tobago" country="TT" province="Trinidad and Tobago"/>
+   <geo_island-tuple island="Curacao" country="NA" province="Netherlands Antilles"/>
+   <geo_island-tuple island="Bonaire" country="NA" province="Netherlands Antilles"/>
+   <geo_island-tuple island="Aruba" country="ARU" province="Aruba"/>
+   <geo_island-tuple island="Grand Cayman" country="CAYM" province="Cayman Islands"/>
+   <geo_island-tuple island="Little Cayman" country="CAYM" province="Cayman Islands"/>
+   <geo_island-tuple island="Cayman Brac" country="CAYM" province="Cayman Islands"/>
+   <geo_island-tuple island="Isla da Ometepe" country="NIC" province="Nicaragua"/>
+   <geo_island-tuple island="Vancouver Island" country="CDN" province="British Columbia"/>
+   <geo_island-tuple island="Santa Cruz Island" country="USA" province="California"/>
+   <geo_island-tuple island="Santa Catalina Island" country="USA" province="California"/>
+   <geo_island-tuple island="Santa Rosa Island" country="USA" province="California"/>
+   <geo_island-tuple island="San Clemente Island" country="USA" province="California"/>
+   <geo_island-tuple island="San Miguel Island" country="USA" province="California"/>
+   <geo_island-tuple island="Isabela" country="EC" province="Ecuador"/>
+   <geo_island-tuple island="Niihau" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Kauai" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Oahu" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Molokai" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Lanai" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Maui" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Hawaii" country="USA" province="Hawaii"/>
+   <geo_island-tuple island="Niue" country="NIUE" province="Niue"/>
+   <geo_island-tuple island="Saipan" country="NMIS" province="Northern Mariana Islands"/>
+   <geo_island-tuple island="Tinian" country="NMIS" province="Northern Mariana Islands"/>
+   <geo_island-tuple island="Rota" country="NMIS" province="Northern Mariana Islands"/>
+   <geo_island-tuple island="Pitcairn" country="PITC" province="Pitcairn Islands"/>
+   <geo_island-tuple island="Uvea" country="WAFU" province="Wallis and Futuna"/>
+   <geo_island-tuple island="Futuna" country="WAFU" province="Wallis and Futuna"/>
+   <geo_island-tuple island="Tarawa" country="KIR" province="Kiribati"/>
+   <geo_island-tuple island="Tongatapu" country="TO" province="Tonga"/>
+   <geo_island-tuple island="Viti Levu" country="FJI" province="Fiji"/>
+   <geo_island-tuple island="Vanua Levu" country="FJI" province="Fiji"/>
+   <geo_island-tuple island="Norfolk Island" country="NORF" province="Norfolk Island"/>
+   <geo_island-tuple island="Nauru" country="NAU" province="Nauru"/>
+   <geo_island-tuple island="Koror" country="PAL" province="Palau"/>
+   <geo_island-tuple island="Babelthuap" country="PAL" province="Palau"/>
+   <geo_island-tuple island="Fongafale" country="TUV" province="Tuvalu"/>
+   <geo_island-tuple island="Efate" country="VU" province="Vanuatu"/>
+   <geo_island-tuple island="Upolu" country="WS" province="Samoa"/>
+   <geo_island-tuple island="Savaii" country="WS" province="Samoa"/>
+   <geo_island-tuple island="Tutuila" country="AMSA" province="American Samoa"/>
+   <geo_island-tuple island="Rarotonga" country="COOK" province="Cook Islands"/>
+   <geo_island-tuple island="Tahiti" country="FPOL" province="French Polynesia"/>
+   <geo_island-tuple island="Guam" country="GUAM" province="Guam"/>
+   <geo_island-tuple island="Majuro" country="MH" province="Marshall Islands"/>
+   <geo_island-tuple island="Ponape" country="FSM" province="Micronesia"/>
+   <geo_island-tuple island="Osterinsel" country="RCH" province="Chile"/>
+   <geo_island-tuple island="Te Ika-a-Maui (North Island)" country="NZ" province="New Zealand"/>
+   <geo_island-tuple island="Te Waka-a-Maui (South Island)" country="NZ" province="New Zealand"/>
+</geo_island>

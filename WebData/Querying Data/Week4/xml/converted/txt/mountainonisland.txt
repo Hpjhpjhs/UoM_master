@@ -1,0 +1,67 @@
+Oeraefajoekull|Iceland
+Snoefell|Iceland
+Ben Nevis|Great Britain
+Monte Cinto|Corse
+Etna|Sicilia
+Psiloritis|Kreta
+Olympos|Cyprus
+Pico de Teide|Teneriffa
+Pico de los Nieves|Gran Canaria
+Roque de los Muchachos|La Palma
+Pico Ruivo|Madeira
+Pico|Pico
+Fogo|Fogo
+Pico Basile|Bioko
+Pico de Sao Tome|Sao Tome
+Queen Marys Peak|Tristan Da Cunha
+Tsaratanana|Madagaskar
+Tsiafajavona|Madagaskar
+Andringitra|Madagaskar
+Piton des Neiges|Reunion
+Piton de la Fournaise|Reunion
+Zhima|Olkhon
+Asahi-Dake|Hokkaido
+Yu Shan|Taiwan
+Pulog|Luzon
+Pinatubo|Luzon
+Mount Apo|Mindanao
+Kanlaon|Negros
+Mantalingajan|Palawan
+Kinabalu|Borneo
+Leuser|Sumatra
+Kerinci|Sumatra
+Krakatau|Krakatau
+Merapi|Java
+Semeru|Java
+Gunung Agung|Bali
+Rinjani|Lombok
+Tambora|Sumbawa
+Rantekombola|Sulawesi
+Tatamailau|Timor
+Gunung Binaiya|Ceram
+Puncak Jaya|New Guinea
+Mt. Wilhelm|New Guinea
+Mt. Giluwe|New Guinea
+Mt. Balbi|Bougainville
+Mt.Victoria|Viti Levu
+Silisili|Savaii
+Mont Orohena|Tahiti
+Popomanaseu|Guadalcanal
+Mauna Kea|Hawaii
+Mauna Loa|Hawaii
+Haleakala|Maui
+Mt. Cook|Te Waka-a-Maui (South Island)
+Ruapehu|Te Ika-a-Maui (North Island)
+Barbeau Peak|Ellesmere Island
+Mt. Odin|Baffin Island
+Mt. Babel|Rene Levasseur Island
+Concepcion|Isla da Ometepe
+Pico Turquino|Cuba
+Blue Mountain Peak|Jamaica
+Pico Duarte|Hispaniola
+Cerro de Punta|Puerto Rico
+La Soufriere|Basse-Terre
+Soufriere Hills|Montserrat
+Soufriere|Saint Vincent
+Morne Diablotins|Dominica
+Pelee|Martinique

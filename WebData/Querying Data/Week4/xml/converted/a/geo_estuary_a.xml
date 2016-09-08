@@ -1,0 +1,268 @@
+
+<geo_estuary>
+   <geo_estuary-tuple river="Thjorsa" country="IS" province="Iceland"/>
+   <geo_estuary-tuple river="Joekulsa a Fjoellum" country="IS" province="Iceland"/>
+   <geo_estuary-tuple river="Glomma" country="N" province="Oestfold"/>
+   <geo_estuary-tuple river="Lagen" country="N" province="Akershus"/>
+   <geo_estuary-tuple river="Goetaaelv" country="S" province="Goteborg och Bohus"/>
+   <geo_estuary-tuple river="Klaraelv" country="S" province="Varmland"/>
+   <geo_estuary-tuple river="Umeaelv" country="S" province="Vasterbotten"/>
+   <geo_estuary-tuple river="Dalaelv" country="S" province="Uppsala"/>
+   <geo_estuary-tuple river="Vaesterdalaelv" country="S" province="Dalarna"/>
+   <geo_estuary-tuple river="Oesterdalaelv" country="S" province="Dalarna"/>
+   <geo_estuary-tuple river="Paatsjoki" country="R" province="Murmanskaya oblast"/>
+   <geo_estuary-tuple river="Paatsjoki" country="N" province="Finnmark"/>
+   <geo_estuary-tuple river="Ounasjoki" country="SF" province="Lappia"/>
+   <geo_estuary-tuple river="Kemijoki" country="SF" province="Lappia"/>
+   <geo_estuary-tuple river="Oulujoki" country="SF" province="Oulu"/>
+   <geo_estuary-tuple river="Kymijoki" country="SF" province="Kymi"/>
+   <geo_estuary-tuple river="Kymijoki" country="SF" province="Uusimaa"/>
+   <geo_estuary-tuple river="Kokemaeenjoki" country="SF" province="Turku-Pori"/>
+   <geo_estuary-tuple river="Vuoksi" country="R" province="Rep. of Karelia"/>
+   <geo_estuary-tuple river="Thames" country="GB" province="Essex"/>
+   <geo_estuary-tuple river="Thames" country="GB" province="Kent"/>
+   <geo_estuary-tuple river="Maas" country="NL" province="Zuid Holland"/>
+   <geo_estuary-tuple river="Maas" country="NL" province="Noord Brabant"/>
+   <geo_estuary-tuple river="Loire" country="F" province="Pays de la Loire"/>
+   <geo_estuary-tuple river="Garonne" country="F" province="Aquitaine"/>
+   <geo_estuary-tuple river="Rhone" country="F" province="Provence Cote dAzur"/>
+   <geo_estuary-tuple river="Saone" country="F" province="Rhone Alpes"/>
+   <geo_estuary-tuple river="Doubs" country="F" province="Bourgogne"/>
+   <geo_estuary-tuple river="Isere" country="F" province="Rhone Alpes"/>
+   <geo_estuary-tuple river="Seine" country="F" province="Haute Normandie"/>
+   <geo_estuary-tuple river="Marne" country="F" province="Ile de France"/>
+   <geo_estuary-tuple river="Tajo" country="P" province="Lisbon"/>
+   <geo_estuary-tuple river="Douro" country="P" province="Aveiro"/>
+   <geo_estuary-tuple river="Douro" country="P" province="Porto"/>
+   <geo_estuary-tuple river="Guadiana" country="E" province="Andalusia"/>
+   <geo_estuary-tuple river="Guadiana" country="P" province="Aveiro"/>
+   <geo_estuary-tuple river="Guadiana" country="P" province="Porto"/>
+   <geo_estuary-tuple river="Guadalquivir" country="E" province="Andalusia"/>
+   <geo_estuary-tuple river="Ebro" country="E" province="Catalonia"/>
+   <geo_estuary-tuple river="Po" country="I" province="Veneto"/>
+   <geo_estuary-tuple river="Po" country="I" province="Emilia Romagna"/>
+   <geo_estuary-tuple river="Ticino" country="I" province="Lombardia"/>
+   <geo_estuary-tuple river="Adda" country="I" province="Lombardia"/>
+   <geo_estuary-tuple river="Mincio" country="I" province="Veneto"/>
+   <geo_estuary-tuple river="Etsch" country="I" province="Veneto"/>
+   <geo_estuary-tuple river="Tiber" country="I" province="Lazio"/>
+   <geo_estuary-tuple river="Arno" country="I" province="Toscana"/>
+   <geo_estuary-tuple river="Donau" country="UA" province="Odeska"/>
+   <geo_estuary-tuple river="Donau" country="RO" province="Tulcea"/>
+   <geo_estuary-tuple river="Breg" country="D" province="Baden Wurttemberg"/>
+   <geo_estuary-tuple river="Brigach" country="D" province="Baden Wurttemberg"/>
+   <geo_estuary-tuple river="Iller" country="D" province="Baden Wurttemberg"/>
+   <geo_estuary-tuple river="Iller" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Lech" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Isar" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Ammer" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Wurm" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Inn" country="A" province="Tyrol"/>
+   <geo_estuary-tuple river="Inn" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Alz" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Salzach" country="A" province="Salzburg"/>
+   <geo_estuary-tuple river="Salzach" country="D" province="Bayern"/>
+   <geo_estuary-tuple river="Enns" country="A" province="Upper Austria"/>
+   <geo_estuary-tuple river="Enns" country="A" province="Styria"/>
+   <geo_estuary-tuple river="Enns" country="A" province="Salzburg"/>
+   <geo_estuary-tuple river="Enns" country="A" province="Lower Austria"/>
+   <geo_estuary-tuple river="March" country="A" province="Lower Austria"/>
+   <geo_estuary-tuple river="March" country="SK" province="Slovakia"/>
+   <geo_estuary-tuple river="Raab" country="H" province="Gyor Sopron"/>
+   <geo_estuary-tuple river="Waag" country="SK" province="Slovakia"/>
+   <geo_estuary-tuple river="Drau" country="HR" province="Croatia"/>
+   <geo_estuary-tuple river="Mur" country="H" province="Zala"/>
+   <geo_estuary-tuple river="Mur" country="HR" province="Croatia"/>
+   <geo_estuary-tuple river="Theiss" country="SRB" province="Serbia"/>
+   <geo_estuary-tuple river="Save" country="SRB" province="Serbia"/>
+   <geo_estuary-tuple river="Morava" country="SRB" province="Serbia"/>
+   <geo_estuary-tuple river="Western Morava" country="SRB" province="Serbia"/>
+   <geo_estuary-tuple river="Southern Morava" country="SRB" province="Serbia"/>
+   <geo_estuary-tuple river="Olt" country="RO" province="Olt"/>
+   <geo_estuary-tuple river="Pruth" country="RO" province="Galati"/>
+   <geo_estuary-tuple river="Pruth" country="MD" province="Moldova"/>
+   <geo_estuary-tuple river="Dnjestr" country="UA" province="Odeska"/>
+   <geo_estuary-tuple river="Weser" country="D" province="Bremen"/>
+   <geo_estuary-tuple river="Weser" country="D" province="Niedersachsen"/>
+   <geo_estuary-tuple river="Aller" country="D" province="Niedersachsen"/>
+   <geo_estuary-tuple river="Leine" country="D" province="Thuringen"/>
+   <geo_estuary-tuple river="Werra" country="D" province="Niedersachsen"/>
+   <geo_estuary-tuple river="Fulda" country="D" province="Hessen"/>
+   <geo_estuary-tuple river="Elbe" country="D" province="Niedersachsen"/>
+   <geo_estuary-tuple river="Moldau" country="CZ" province="Praha"/>
+   <geo_estuary-tuple river="Rhein" country="NL" province="Zuid Holland"/>
+   <geo_estuary-tuple river="Main" country="D" province="Hessen"/>
+   <geo_estuary-tuple river="Mosel" country="D" province="Rheinland Pfalz"/>
+   <geo_estuary-tuple river="Saar" country="D" province="Rheinland Pfalz"/>
+   <geo_estuary-tuple river="Neckar" country="D" province="Baden Wurttemberg"/>
+   <geo_estuary-tuple river="Aare" country="CH" province="AG"/>
+   <geo_estuary-tuple river="Reuss" country="CH" province="AG"/>
+   <geo_estuary-tuple river="Limmat" country="CH" province="AG"/>
+   <geo_estuary-tuple river="Oder" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_estuary-tuple river="Oder" country="PL" province="Szczecinskie"/>
+   <geo_estuary-tuple river="Weichsel" country="PL" province="Gdanskie"/>
+   <geo_estuary-tuple river="Drin" country="AL" province="Albania"/>
+   <geo_estuary-tuple river="White Drin" country="AL" province="Albania"/>
+   <geo_estuary-tuple river="Black Drin" country="AL" province="Albania"/>
+   <geo_estuary-tuple river="Jordan" country="JOR" province="Jordan"/>
+   <geo_estuary-tuple river="Jordan" country="WEST" province="West Bank"/>
+   <geo_estuary-tuple river="Kura" country="AZ" province="Azerbaijan"/>
+   <geo_estuary-tuple river="Schatt al Arab" country="IRQ" province="Al Anbar"/>
+   <geo_estuary-tuple river="Tigris" country="IRQ" province="Al Anbar"/>
+   <geo_estuary-tuple river="Euphrat" country="IRQ" province="Al Anbar"/>
+   <geo_estuary-tuple river="Murat" country="TR" province="Elazig"/>
+   <geo_estuary-tuple river="Karasu" country="TR" province="Erzincan"/>
+   <geo_estuary-tuple river="Karun" country="IR" province="Khuzestan"/>
+   <geo_estuary-tuple river="Northern Dwina" country="R" province="Arkhangelskaya oblast"/>
+   <geo_estuary-tuple river="Suchona" country="R" province="Vologodskaya oblast"/>
+   <geo_estuary-tuple river="Petschora" country="R" province="Arkhangelskaya oblast"/>
+   <geo_estuary-tuple river="Newa" country="R" province="Leningradskaya oblast"/>
+   <geo_estuary-tuple river="Swir" country="R" province="Leningradskaya oblast"/>
+   <geo_estuary-tuple river="Narva" country="R" province="Pskovskaya oblast"/>
+   <geo_estuary-tuple river="Western Dwina" country="LV" province="Latvia"/>
+   <geo_estuary-tuple river="Volga" country="R" province="Astrakhanskaya oblast"/>
+   <geo_estuary-tuple river="Oka" country="R" province="Nizhegorodskaya oblast"/>
+   <geo_estuary-tuple river="Don" country="R" province="Rostovskaya oblast"/>
+   <geo_estuary-tuple river="Dnepr" country="UA" province="Khersonska"/>
+   <geo_estuary-tuple river="Ural" country="KAZ" province="Atyrau"/>
+   <geo_estuary-tuple river="Ob" country="R" province="Tyumenskaya oblast"/>
+   <geo_estuary-tuple river="Irtysch" country="R" province="Tyumenskaya oblast"/>
+   <geo_estuary-tuple river="Tobol" country="R" province="Tyumenskaya oblast"/>
+   <geo_estuary-tuple river="Ischim" country="R" province="Tyumenskaya oblast"/>
+   <geo_estuary-tuple river="Katun" country="R" province="Altayskiy kray"/>
+   <geo_estuary-tuple river="Jenissej" country="R" province="Krasnoyarskiy kray"/>
+   <geo_estuary-tuple river="Angara" country="R" province="Krasnoyarskiy kray"/>
+   <geo_estuary-tuple river="Chatanga" country="R" province="Krasnoyarskiy kray"/>
+   <geo_estuary-tuple river="Lena" country="R" province="Rep. of Sakha"/>
+   <geo_estuary-tuple river="Amur" country="R" province="Khabarovskiy kray"/>
+   <geo_estuary-tuple river="Schilka" country="R" province="Chitinskaya oblast"/>
+   <geo_estuary-tuple river="Argun" country="R" province="Chitinskaya oblast"/>
+   <geo_estuary-tuple river="Argun" country="TJ" province="Heilongjiang"/>
+   <geo_estuary-tuple river="Kolyma" country="R" province="Rep. of Sakha"/>
+   <geo_estuary-tuple river="Syrdarja" country="UZB" province="Toshkent"/>
+   <geo_estuary-tuple river="Naryn" country="TAD" province="Khujand"/>
+   <geo_estuary-tuple river="Amudarja" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_estuary-tuple river="Pjandsh" country="AFG" province="Afghanistan"/>
+   <geo_estuary-tuple river="Pjandsh" country="TAD" province="Khatlon"/>
+   <geo_estuary-tuple river="Hwangho" country="TJ" province="Shandong"/>
+   <geo_estuary-tuple river="Jangtse" country="TJ" province="Jiangsu"/>
+   <geo_estuary-tuple river="Jangtse" country="TJ" province="Shanghai (munic.)"/>
+   <geo_estuary-tuple river="Mekong" country="VN" province="Vietnam"/>
+   <geo_estuary-tuple river="Saluen" country="MYA" province="Mon"/>
+   <geo_estuary-tuple river="Irawaddy" country="MYA" province="Yangon"/>
+   <geo_estuary-tuple river="Irawaddy" country="MYA" province="Kachin"/>
+   <geo_estuary-tuple river="Ganges" country="IND" province="West Bengal"/>
+   <geo_estuary-tuple river="Brahmaputra" country="BD" province="Bangladesh"/>
+   <geo_estuary-tuple river="Indus" country="PK" province="Pakistan"/>
+   <geo_estuary-tuple river="Asahan" country="RI" province="Indonesia"/>
+   <geo_estuary-tuple river="Yukon River" country="USA" province="Alaska"/>
+   <geo_estuary-tuple river="Mackenzie River" country="CDN" province="Northwest Territories"/>
+   <geo_estuary-tuple river="Nelson River" country="CDN" province="Manitoba"/>
+   <geo_estuary-tuple river="Saskatchewan River" country="CDN" province="Saskatchewan"/>
+   <geo_estuary-tuple river="Saint Lawrence River" country="CDN" province="Quebec"/>
+   <geo_estuary-tuple river="Niagara River" country="CDN" province="Ontario"/>
+   <geo_estuary-tuple river="Detroit River" country="CDN" province="Ontario"/>
+   <geo_estuary-tuple river="Manicouagan" country="CDN" province="Quebec"/>
+   <geo_estuary-tuple river="Riviere Richelieu" country="CDN" province="Quebec"/>
+   <geo_estuary-tuple river="Merrimack River" country="USA" province="Massachusetts"/>
+   <geo_estuary-tuple river="Connecticut River" country="USA" province="Connecticut"/>
+   <geo_estuary-tuple river="Hudson River" country="USA" province="New York"/>
+   <geo_estuary-tuple river="Mississippi" country="USA" province="Louisiana"/>
+   <geo_estuary-tuple river="Missouri" country="USA" province="Missouri"/>
+   <geo_estuary-tuple river="Arkansas" country="USA" province="Arkansas"/>
+   <geo_estuary-tuple river="Ohio River" country="USA" province="Illinois"/>
+   <geo_estuary-tuple river="Ohio River" country="USA" province="Kentucky"/>
+   <geo_estuary-tuple river="Allegheny River" country="USA" province="Pennsylvania"/>
+   <geo_estuary-tuple river="Tennessee" country="USA" province="Kentucky"/>
+   <geo_estuary-tuple river="Columbia River" country="USA" province="Oregon"/>
+   <geo_estuary-tuple river="Columbia River" country="USA" province="Washington"/>
+   <geo_estuary-tuple river="Truckee River" country="USA" province="Nevada"/>
+   <geo_estuary-tuple river="Colorado" country="MEX" province="Baja California"/>
+   <geo_estuary-tuple river="Colorado" country="MEX" province="Sonora"/>
+   <geo_estuary-tuple river="Rio Grande" country="MEX" province="Tamaulipas"/>
+   <geo_estuary-tuple river="Rio Grande" country="USA" province="Texas"/>
+   <geo_estuary-tuple river="Rio Lerma" country="MEX" province="Mexico, Estado de"/>
+   <geo_estuary-tuple river="Rio San Juan" country="CR" province="Alajuela"/>
+   <geo_estuary-tuple river="Rio San Juan" country="NIC" province="Nicaragua"/>
+   <geo_estuary-tuple river="Rio Desaguadero" country="BOL" province="Bolivia"/>
+   <geo_estuary-tuple river="Rio Magdalena" country="CO" province="Atlantico"/>
+   <geo_estuary-tuple river="Orinoco" country="YV" province="Delta Amacuro"/>
+   <geo_estuary-tuple river="Amazonas" country="BR" province="Amapa"/>
+   <geo_estuary-tuple river="Amazonas" country="BR" province="Para"/>
+   <geo_estuary-tuple river="Rio Negro" country="BR" province="Amazonas"/>
+   <geo_estuary-tuple river="Rio Madeira" country="BR" province="Amazonas"/>
+   <geo_estuary-tuple river="Rio Mamore" country="BOL" province="Bolivia"/>
+   <geo_estuary-tuple river="Tocantins" country="BR" province="Para"/>
+   <geo_estuary-tuple river="Rio Sao Francisco" country="BR" province="Alagoas"/>
+   <geo_estuary-tuple river="Rio Sao Francisco" country="BR" province="Sergipe"/>
+   <geo_estuary-tuple river="Parana" country="RA" province="Buenos Aires"/>
+   <geo_estuary-tuple river="Parana" country="RA" province="Entre Rios"/>
+   <geo_estuary-tuple river="Paraguay" country="RA" province="Chaco"/>
+   <geo_estuary-tuple river="Paraguay" country="PY" province="Paraguay"/>
+   <geo_estuary-tuple river="Uruguay" country="RA" province="Entre Rios"/>
+   <geo_estuary-tuple river="Uruguay" country="ROU" province="Uruguay"/>
+   <geo_estuary-tuple river="Gambia" country="WAG" province="Gambia"/>
+   <geo_estuary-tuple river="Senegal" country="RIM" province="Mauritania"/>
+   <geo_estuary-tuple river="Senegal" country="SN" province="Saint Louis"/>
+   <geo_estuary-tuple river="Volta" country="GH" province="Ghana"/>
+   <geo_estuary-tuple river="Niger" country="WAN" province="Nigeria"/>
+   <geo_estuary-tuple river="Bani" country="RMM" province="Mali"/>
+   <geo_estuary-tuple river="Benue" country="WAN" province="Nigeria"/>
+   <geo_estuary-tuple river="Schari" country="CAM" province="Nord extreme"/>
+   <geo_estuary-tuple river="Schari" country="TCH" province="Chad"/>
+   <geo_estuary-tuple river="Nile" country="ET" province="El Buhayra"/>
+   <geo_estuary-tuple river="Nile" country="ET" province="El Daqahliya"/>
+   <geo_estuary-tuple river="Nile" country="ET" province="Dumyat"/>
+   <geo_estuary-tuple river="Nile" country="ET" province="Kafr el Sheikh"/>
+   <geo_estuary-tuple river="Nile" country="ET" province="Sharqiya"/>
+   <geo_estuary-tuple river="Atbara" country="SUD" province="ash Shamaliyah"/>
+   <geo_estuary-tuple river="Blue Nile" country="SUD" province="al Khartum"/>
+   <geo_estuary-tuple river="White Nile" country="SUD" province="al Khartum"/>
+   <geo_estuary-tuple river="Sobat" country="SUD" province="Aali an Nil"/>
+   <geo_estuary-tuple river="Bahr el-Ghasal" country="SUD" province="Aali an Nil"/>
+   <geo_estuary-tuple river="Bahr el-Djebel/Albert-Nil" country="SUD" province="Aali an Nil"/>
+   <geo_estuary-tuple river="Semliki" country="ZRE" province="Haut Zaire"/>
+   <geo_estuary-tuple river="Semliki" country="EAU" province="Uganda"/>
+   <geo_estuary-tuple river="Victoria Nile" country="EAU" province="Uganda"/>
+   <geo_estuary-tuple river="Akagera" country="EAT" province="Mwanza"/>
+   <geo_estuary-tuple river="Jubba" country="SP" province="Somalia"/>
+   <geo_estuary-tuple river="Shabelle" country="SP" province="Somalia"/>
+   <geo_estuary-tuple river="Sanaga" country="CAM" province="Cote/Littoral"/>
+   <geo_estuary-tuple river="Zaire" country="ZRE" province="Bas Zaire"/>
+   <geo_estuary-tuple river="Sanga" country="RCB" province="Congo"/>
+   <geo_estuary-tuple river="Ubangi" country="RCB" province="Congo"/>
+   <geo_estuary-tuple river="Ubangi" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Bomu" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Bomu" country="RCA" province="Central African Republic"/>
+   <geo_estuary-tuple river="Uelle" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Kwa" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Fimi" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Lukenie" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Kasai" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Cuango" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Cuilo" country="ZRE" province="Bandundu"/>
+   <geo_estuary-tuple river="Ruki" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Busira" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Tshuapa" country="ZRE" province="Equateur"/>
+   <geo_estuary-tuple river="Lulua" country="ZRE" province="Kasai Occidental"/>
+   <geo_estuary-tuple river="Lomami" country="ZRE" province="Haut Zaire"/>
+   <geo_estuary-tuple river="Aruwimi" country="ZRE" province="Haut Zaire"/>
+   <geo_estuary-tuple river="Lualaba" country="ZRE" province="Haut Zaire"/>
+   <geo_estuary-tuple river="Lukuga" country="ZRE" province="Shaba/Katanga"/>
+   <geo_estuary-tuple river="Ruzizi" country="ZRE" province="Kivu"/>
+   <geo_estuary-tuple river="Ruzizi" country="BI" province="Burundi"/>
+   <geo_estuary-tuple river="Luvua" country="ZRE" province="Shaba/Katanga"/>
+   <geo_estuary-tuple river="Luapula" country="ZRE" province="Shaba/Katanga"/>
+   <geo_estuary-tuple river="Luapula" country="Z" province="Luapula"/>
+   <geo_estuary-tuple river="Zambezi" country="MOC" province="Manica"/>
+   <geo_estuary-tuple river="Zambezi" country="MOC" province="Zambezia"/>
+   <geo_estuary-tuple river="Chire" country="MOC" province="Tete"/>
+   <geo_estuary-tuple river="Chire" country="MOC" province="Zambezia"/>
+   <geo_estuary-tuple river="Limpopo" country="MOC" province="Gaza"/>
+   <geo_estuary-tuple river="Oranje" country="NAM" province="Namibia"/>
+   <geo_estuary-tuple river="Oranje" country="RSA" province="Northern Cape"/>
+   <geo_estuary-tuple river="Vaal" country="RSA" province="Northern Cape"/>
+   <geo_estuary-tuple river="Murray River" country="AUS" province="South Australia"/>
+   <geo_estuary-tuple river="Darling River" country="AUS" province="New South Wales"/>
+   <geo_estuary-tuple river="Murrumbidgee River" country="AUS" province="New South Wales"/>
+</geo_estuary>

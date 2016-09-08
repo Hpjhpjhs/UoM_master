@@ -1,0 +1,418 @@
+Svalbard|SVAX|Svalbard
+Greenland|GROX|Greenland
+Iceland|IS|Iceland
+Aust-Vagoey|N|Nordland
+Streymoy|FARX|Faroe Islands
+Ireland|IRL|Ireland
+Ireland|GB|Northern Ireland
+Great Britain|GB|Avon
+Great Britain|GB|Bedfordshire
+Great Britain|GB|Berkshire
+Great Britain|GB|Buckinghamshire
+Great Britain|GB|Cambridgeshire
+Great Britain|GB|Cheshire
+Great Britain|GB|Cleveland
+Great Britain|GB|Cornwall
+Great Britain|GB|Cumbria
+Great Britain|GB|Derbyshire
+Great Britain|GB|Devon
+Great Britain|GB|Dorset
+Great Britain|GB|Durham
+Great Britain|GB|East Sussex
+Great Britain|GB|Essex
+Great Britain|GB|Gloucestershire
+Great Britain|GB|Greater London
+Great Britain|GB|Greater Manchester
+Great Britain|GB|Hampshire
+Great Britain|GB|Hereford and Worcester
+Great Britain|GB|Hertfordshire
+Great Britain|GB|Humberside
+Great Britain|GB|Kent
+Great Britain|GB|Lancashire
+Great Britain|GB|Leicestershire
+Great Britain|GB|Lincolnshire
+Great Britain|GB|Merseyside
+Great Britain|GB|Norfolk
+Great Britain|GB|Northamptonshire
+Great Britain|GB|Northumberland
+Great Britain|GB|North Yorkshire
+Great Britain|GB|Nottinghamshire
+Great Britain|GB|Oxfordshire
+Great Britain|GB|Shropshire
+Great Britain|GB|Somerset
+Great Britain|GB|South Yorkshire
+Great Britain|GB|Staffordshire
+Great Britain|GB|Suffolk
+Great Britain|GB|Surrey
+Great Britain|GB|Tyne and Wear
+Great Britain|GB|Warwickshire
+Great Britain|GB|West Midlands
+Great Britain|GB|West Sussex
+Great Britain|GB|West Yorkshire
+Great Britain|GB|Wiltshire
+Great Britain|GB|Borders
+Great Britain|GB|Central
+Great Britain|GB|Dumfries and Galloway
+Great Britain|GB|Fife
+Great Britain|GB|Grampian
+Great Britain|GB|Highland
+Great Britain|GB|Lothian
+Great Britain|GB|Strathclyde
+Great Britain|GB|Tayside
+Great Britain|GB|Aberconwy and Colwyn
+Great Britain|GB|Blaenau Gwent
+Great Britain|GB|Bridgend
+Great Britain|GB|Caerphilly
+Great Britain|GB|Cardiff
+Great Britain|GB|Carmarthenshire
+Great Britain|GB|Ceredigion
+Great Britain|GB|Denbighshire
+Great Britain|GB|Flintshire
+Great Britain|GB|Gwynedd
+Great Britain|GB|Merthyr Tydfil
+Great Britain|GB|Monmouthshire
+Great Britain|GB|Neath and Port Talbot
+Great Britain|GB|Newport
+Great Britain|GB|Pembrokeshire
+Great Britain|GB|Powys
+Great Britain|GB|Rhondda Cynon Taff
+Great Britain|GB|Swansea
+Great Britain|GB|Torfaen
+Great Britain|GB|Vale of Glamorgan
+Great Britain|GB|Wrexham
+Shetland Mainland|GB|Shetland
+Orkney Mainland|GB|Orkneys
+South Ronaldsay|GB|Orkneys
+Hoy|GB|Orkneys
+Westray|GB|Orkneys
+Barra|GB|Outer Hebrides
+South Uist|GB|Outer Hebrides
+Benbecula|GB|Outer Hebrides
+North Uist|GB|Outer Hebrides
+Lewis and Harris|GB|Outer Hebrides
+Skye|GB|Highland
+Rhum|GB|Highland
+Mull|GB|Highland
+Islay|GB|Strathclyde
+Jura|GB|Strathclyde
+Arran|GB|Strathclyde
+Isle of Man|GBM|Man
+Anglesey|GB|Anglesey
+Isle of Wight|GB|Isle of Wight
+Lundy|GB|Devon
+Bishop Rock|GB|Cornwall
+Guernsey|GBG|Guernsey
+Jersey|GBJ|Jersey
+Gotland|S|Gotland
+Oeland|S|Kalmar
+Aland|SF|Aland
+Dagoe|EW|Estonia
+Oesel|EW|Estonia
+Seeland|DK|Denmark
+Fuenen|DK|Denmark
+Langeland|DK|Denmark
+Falster|DK|Denmark
+Lolland|DK|Denmark
+Bornholm|DK|Denmark
+Helgoland|D|Schleswig Holstein
+Fehmarn|D|Schleswig Holstein
+Rugen|D|Mecklenburg Vorpommern
+Usedom|D|Mecklenburg Vorpommern
+Usedom|PL|Szczecinskie
+Sylt|D|Schleswig Holstein
+Fohr|D|Schleswig Holstein
+Amrum|D|Schleswig Holstein
+Pellworm|D|Schleswig Holstein
+Wangerooge|D|Niedersachsen
+Spiekeroog|D|Niedersachsen
+Langeoog|D|Niedersachsen
+Baltrum|D|Niedersachsen
+Norderney|D|Niedersachsen
+Juist|D|Niedersachsen
+Borkum|D|Niedersachsen
+Schiermonnikoog|NL|Friesland
+Ameland|NL|Friesland
+Terschelling|NL|Friesland
+Vlieland|NL|Friesland
+Texel|NL|Noord Holland
+Korfu|GR|Ionioi Nisoi
+Lefkas|GR|Ionioi Nisoi
+Kefallinia|GR|Ionioi Nisoi
+Zakinthos|GR|Ionioi Nisoi
+Kreta|GR|Kriti
+Chios|GR|Voreion Aiyaion
+Samos|GR|Voreion Aiyaion
+Ikaria|GR|Voreion Aiyaion
+Lesbos|GR|Voreion Aiyaion
+Kos|GR|Notion Aiyaion
+Rhodos|GR|Notion Aiyaion
+Cyprus|CY|Cyprus
+Alicudi|I|Calabria
+Filicudi|I|Calabria
+Salina|I|Calabria
+Lipari|I|Calabria
+Vulcano|I|Calabria
+Panarea|I|Calabria
+Stromboli|I|Calabria
+Lampedusa|I|Sicilia
+Linosa|I|Sicilia
+Sicilia|I|Sicilia
+Malta|M|Malta
+Gozo|M|Malta
+Sardegna|I|Sardegna
+Corse|F|Corse
+Menorca|E|Balearic Islands
+Mallorca|E|Balearic Islands
+Ibiza|E|Balearic Islands
+Formentera|E|Balearic Islands
+Lanzarote|E|Canary Islands
+Fuerteventura|E|Canary Islands
+Gran Canaria|E|Canary Islands
+Teneriffa|E|Canary Islands
+Gomera|E|Canary Islands
+Hierro|E|Canary Islands
+La Palma|E|Canary Islands
+Madeira|P|Madeira
+Porto Santo|P|Madeira
+Sao Miguel|P|Azores
+Santa Maria|P|Azores
+Terceira|P|Azores
+Sao Jorge|P|Azores
+Pico|P|Azores
+Faial|P|Azores
+Graciosa|P|Azores
+Flores|P|Azores
+Corvo|P|Azores
+Santiago|CV|Cape Verde
+Fogo|CV|Cape Verde
+Sao Tome|STP|Sao Tome and Principe
+Principe|STP|Sao Tome and Principe
+Bioko|GQ|Equatorial Guinea
+Saint Helena|HELX|Saint Helena
+Ascension|HELX|Saint Helena
+Tristan Da Cunha|HELX|Saint Helena
+West Falkland|FALK|Falkland Islands
+East Falkland|FALK|Falkland Islands
+Bahrain|BRN|Bahrain
+Khark|IR|Fars
+Gheschm|IR|Hormozgan
+Lavan|IR|Fars
+Christmas Island|XMAS|Christmas Island
+Pulau Panjang|COCO|Cocos Islands
+Male|MV|Maldives
+Kavaratti|IND|Lakshadweep Is.
+Sri Lanka|CL|Sri Lanka
+South Andaman Island|IND|Andaman and Nicobar Is.
+Sokotra|YE|Yemen
+Sansibar|EAT|Mjini Magharibi
+Pemba|EAT|Mjini Magharibi
+Mahe|SY|Seychelles
+Grand Comoro|COM|Comoros
+Anjouan|COM|Comoros
+Mohilla|COM|Comoros
+Mayotte|MAYO|Mayotte
+Reunion|REUN|Reunion
+Mauritius|MS|Mauritius
+Madagaskar|RM|Antsiranana
+Madagaskar|RM|Antananarivo
+Madagaskar|RM|Fianarantsoa
+Madagaskar|RM|Mahajanga
+Madagaskar|RM|Toamasina
+Madagaskar|RM|Toliara
+Kotelny Island|R|Rep. of Sakha
+Paramuschir|R|Kamchatskaya oblast
+Olkhon|R|Rep. of Buryatiya
+Sachalin|R|Sakhalinskaya oblast
+Hokkaido|J|Hokkaido
+Kyushu|J|Fukuoka
+Kyushu|J|Saga
+Kyushu|J|Nagasaki
+Kyushu|J|Kumamoto
+Kyushu|J|Oita
+Kyushu|J|Miyazaki
+Kyushu|J|Kagoshima
+Shikoku|J|Tokushima
+Shikoku|J|Kagawa
+Shikoku|J|Ehime
+Shikoku|J|Kochi
+Honshu|J|Aomori
+Honshu|J|Iwate
+Honshu|J|Miyagi
+Honshu|J|Akita
+Honshu|J|Yamagata
+Honshu|J|Fukushima
+Honshu|J|Ibaraki
+Honshu|J|Tochigi
+Honshu|J|Gumma
+Honshu|J|Saitama
+Honshu|J|Chiba
+Honshu|J|Tokyo
+Honshu|J|Kanagawa
+Honshu|J|Niigata
+Honshu|J|Toyama
+Honshu|J|Ishikawa
+Honshu|J|Fukui
+Honshu|J|Yamanashi
+Honshu|J|Nagano
+Honshu|J|Gifu
+Honshu|J|Shizuoka
+Honshu|J|Aichi
+Honshu|J|Mie
+Honshu|J|Shiga
+Honshu|J|Kyoto
+Honshu|J|Osaka
+Honshu|J|Hyogo
+Honshu|J|Nara
+Honshu|J|Wakayama
+Honshu|J|Tottori
+Honshu|J|Shimane
+Honshu|J|Okayama
+Honshu|J|Hiroshima
+Honshu|J|Yamaguchi
+Okinawa|J|Okinawa
+Jeju|ROK|South Korea
+Taiwan|RC|Taiwan
+Hainan|TJ|Hainan
+Luzon|RP|Philippines
+Mindoro|RP|Philippines
+Negros|RP|Philippines
+Panay|RP|Philippines
+Bohol|RP|Philippines
+Leyte|RP|Philippines
+Samar|RP|Philippines
+Cebu|RP|Philippines
+Mindanao|RP|Philippines
+Palawan|RP|Philippines
+Singapore|SGP|Singapore
+Sumatra|RI|Indonesia
+Samosir|RI|Indonesia
+Batam|RI|Indonesia
+Bangka|RI|Indonesia
+Krakatau|RI|Indonesia
+Java|RI|Indonesia
+Borneo|BRU|Brunei
+Borneo|MAL|Sabah
+Borneo|MAL|Sarawak
+Borneo|RI|Indonesia
+Bali|RI|Indonesia
+Lombok|RI|Indonesia
+Sumbawa|RI|Indonesia
+Sulawesi|RI|Indonesia
+Timor|RI|Indonesia
+Timor|TL|Timor-Leste
+Ambon|RI|Indonesia
+Ceram|RI|Indonesia
+New Guinea|RI|Indonesia
+New Guinea|PNG|Papua New Guinea
+Bougainville|PNG|Papua New Guinea
+Guadalcanal|SLB|Solomon Islands
+Grande Terre|NCA|New Caledonia
+Cangaroo Island|AUS|South Australia
+Melville Island|AUS|Northern Territory
+Tasmania|AUS|Tasmania
+Victoria Island|CDN|Northwest Territories
+Banks Island|CDN|Northwest Territories
+Prince of Wales Island|CDN|Northwest Territories
+Baffin Island|CDN|Northwest Territories
+Southampton Island|CDN|Northwest Territories
+Ellesmere Island|CDN|Northwest Territories
+Saint Pierre|SPMI|Saint Pierre and Miquelon
+Miquelon-Langlade|SPMI|Saint Pierre and Miquelon
+Newfoundland|CDN|Newfoundland
+Prince Edward Island|CDN|Prince Edward Island
+Rene Levasseur Island|CDN|Ontario
+Manitoulin|CDN|Ontario
+Martha s Vineyard|USA|Massachusetts
+Nantucket|USA|Massachusetts
+Long Island|USA|New York
+Grand Bermuda|BERM|Bermuda
+New Providence|BS|Bahamas
+Grand Turk|TUCA|Turks and Caicos Islands
+Providenciales|TUCA|Turks and Caicos Islands
+North Caicos|TUCA|Turks and Caicos Islands
+Cuba|C|Ciego de Avila
+Cuba|C|Cienfuegos
+Cuba|C|Ciudad de la Habana
+Cuba|C|Granma
+Cuba|C|Guantanamo
+Cuba|C|Holguin
+Cuba|C|La Habana
+Cuba|C|Las Tunas
+Cuba|C|Matanzas
+Cuba|C|Pinar del Rio
+Cuba|C|Sancti Spiritus
+Cuba|C|Santiago de Cuba
+Cuba|C|Villa Clara
+Jamaica|JA|Jamaica
+Hispaniola|DOM|Dominican Republic
+Hispaniola|RH|Haiti
+Puerto Rico|PR|Puerto Rico
+Tortola|BVIR|British Virgin Islands
+Saint Thomas|VIRG|Virgin Islands
+Anguilla|AXA|Anguilla
+St. Martin|NA|Netherlands Antilles
+St. Martin|SMAR|Saint Martin
+Saint Kitts|KN|Saint Kitts and Nevis
+Nevis|KN|Saint Kitts and Nevis
+Barbuda|AG|Antigua and Barbuda
+Antigua|AG|Antigua and Barbuda
+Montserrat|MNTS|Montserrat
+Basse-Terre|GUAD|Guadeloupe
+Grande-Terre|GUAD|Guadeloupe
+Dominica|WD|Dominica
+Martinique|MART|Martinique
+Saint Lucia|WL|Saint Lucia
+Saint Vincent|WV|Saint Vincent and the Grenadines
+Barbados|BDS|Barbados
+Grenada|WG|Grenada
+Trinidad|TT|Trinidad and Tobago
+Tobago|TT|Trinidad and Tobago
+Curacao|NA|Netherlands Antilles
+Bonaire|NA|Netherlands Antilles
+Aruba|ARU|Aruba
+Grand Cayman|CAYM|Cayman Islands
+Little Cayman|CAYM|Cayman Islands
+Cayman Brac|CAYM|Cayman Islands
+Isla da Ometepe|NIC|Nicaragua
+Vancouver Island|CDN|British Columbia
+Santa Cruz Island|USA|California
+Santa Catalina Island|USA|California
+Santa Rosa Island|USA|California
+San Clemente Island|USA|California
+San Miguel Island|USA|California
+Isabela|EC|Ecuador
+Niihau|USA|Hawaii
+Kauai|USA|Hawaii
+Oahu|USA|Hawaii
+Molokai|USA|Hawaii
+Lanai|USA|Hawaii
+Maui|USA|Hawaii
+Hawaii|USA|Hawaii
+Niue|NIUE|Niue
+Saipan|NMIS|Northern Mariana Islands
+Tinian|NMIS|Northern Mariana Islands
+Rota|NMIS|Northern Mariana Islands
+Pitcairn|PITC|Pitcairn Islands
+Uvea|WAFU|Wallis and Futuna
+Futuna|WAFU|Wallis and Futuna
+Tarawa|KIR|Kiribati
+Tongatapu|TO|Tonga
+Viti Levu|FJI|Fiji
+Vanua Levu|FJI|Fiji
+Norfolk Island|NORF|Norfolk Island
+Nauru|NAU|Nauru
+Koror|PAL|Palau
+Babelthuap|PAL|Palau
+Fongafale|TUV|Tuvalu
+Efate|VU|Vanuatu
+Upolu|WS|Samoa
+Savaii|WS|Samoa
+Tutuila|AMSA|American Samoa
+Rarotonga|COOK|Cook Islands
+Tahiti|FPOL|French Polynesia
+Guam|GUAM|Guam
+Majuro|MH|Marshall Islands
+Ponape|FSM|Micronesia
+Osterinsel|RCH|Chile
+Te Ika-a-Maui (North Island)|NZ|New Zealand
+Te Waka-a-Maui (South Island)|NZ|New Zealand

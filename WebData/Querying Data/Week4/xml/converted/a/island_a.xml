@@ -1,0 +1,279 @@
+
+<island>
+   <island-tuple name="Svalbard" islands="Svalbard" area="39044.0" height="1717.0" type="MISSING" longitude="18.2" latitude="78.9"/>
+   <island-tuple name="Greenland" islands="MISSING" area="2175600.0" height="MISSING" type="MISSING" longitude="-40.0" latitude="70.0"/>
+   <island-tuple name="Iceland" islands="MISSING" area="102829.0" height="2119.0" type="volcanic" longitude="-18.0" latitude="65.0"/>
+   <island-tuple name="Aust-Vagoey" islands="Lofotes" area="526.0" height="1146.0" type="MISSING" longitude="14.6" latitude="68.3"/>
+   <island-tuple name="Streymoy" islands="Faroe Islands" area="373.0" height="789.0" type="MISSING" longitude="-7.0" latitude="62.0"/>
+   <island-tuple name="Ireland" islands="British Isles" area="84421.0" height="1041.0" type="MISSING" longitude="-7.8" latitude="53.5"/>
+   <island-tuple name="Great Britain" islands="British Isles" area="229850.0" height="1344.0" type="MISSING" longitude="-1.5" latitude="53.0"/>
+   <island-tuple name="Shetland Mainland" islands="Shetland Islands" area="970.0" height="449.0" type="MISSING" longitude="-1.3" latitude="60.3"/>
+   <island-tuple name="Orkney Mainland" islands="Orkney Islands" area="492.0" height="MISSING" type="MISSING" longitude="-3.1" latitude="59.0"/>
+   <island-tuple name="South Ronaldsay" islands="Orkney Islands" area="50.0" height="MISSING" type="MISSING" longitude="-3.1" latitude="58.6"/>
+   <island-tuple name="Hoy" islands="Orkney Islands" area="143.0" height="MISSING" type="MISSING" longitude="-3.2" latitude="59.1"/>
+   <island-tuple name="Westray" islands="Orkney Islands" area="47.0" height="MISSING" type="MISSING" longitude="-3.0" latitude="59.4"/>
+   <island-tuple name="Barra" islands="Outer Hebrides" area="91.0" height="MISSING" type="MISSING" longitude="-7.7" latitude="57.0"/>
+   <island-tuple name="South Uist" islands="Outer Hebrides" area="320.0" height="MISSING" type="MISSING" longitude="-7.2" latitude="57.2"/>
+   <island-tuple name="Benbecula" islands="Outer Hebrides" area="82.0" height="MISSING" type="MISSING" longitude="-7.3" latitude="57.45"/>
+   <island-tuple name="North Uist" islands="Outer Hebrides" area="303.0" height="MISSING" type="MISSING" longitude="-7.1" latitude="57.4"/>
+   <island-tuple name="Lewis and Harris" islands="Outer Hebrides" area="2170.0" height="MISSING" type="MISSING" longitude="-6.8" latitude="57.9"/>
+   <island-tuple name="Skye" islands="Inner Hebrides" area="1385.0" height="993.0" type="MISSING" longitude="-6.3" latitude="57.3"/>
+   <island-tuple name="Rhum" islands="Inner Hebrides" area="104.0" height="810.0" type="volcanic" longitude="-6.3" latitude="57.0"/>
+   <island-tuple name="Mull" islands="Inner Hebrides" area="910.0" height="MISSING" type="MISSING" longitude="6.0" latitude="56.3"/>
+   <island-tuple name="Islay" islands="Inner Hebrides" area="619.6" height="491.0" type="MISSING" longitude="7.0" latitude="62.1"/>
+   <island-tuple name="Jura" islands="Inner Hebrides" area="367.0" height="785.0" type="MISSING" longitude="-6.0" latitude="56.0"/>
+   <island-tuple name="Arran" islands="Inner Hebrides" area="430.0" height="874.0" type="MISSING" longitude="-5.5" latitude="55.3"/>
+   <island-tuple name="Isle of Man" islands="British Isles" area="588.0" height="621.0" type="MISSING" longitude="-4.5" latitude="54.1"/>
+   <island-tuple name="Anglesey" islands="British Isles" area="715.0" height="MISSING" type="MISSING" longitude="-4.4" latitude="53.3"/>
+   <island-tuple name="Isle of Wight" islands="British Isles" area="381.0" height="MISSING" type="MISSING" longitude="-1.3" latitude="50.6"/>
+   <island-tuple name="Lundy" islands="MISSING" area="4.24" height="MISSING" type="MISSING" longitude="-4.5" latitude="51.0"/>
+   <island-tuple name="Bishop Rock" islands="Scilly Islands" area="MISSING" height="MISSING" type="MISSING" longitude="-6.3" latitude="50.0"/>
+   <island-tuple name="Guernsey" islands="Channel Islands" area="194.0" height="MISSING" type="MISSING" longitude="-2.6" latitude="49.6"/>
+   <island-tuple name="Jersey" islands="Channel Islands" area="117.0" height="MISSING" type="MISSING" longitude="-2.1" latitude="49.2"/>
+   <island-tuple name="Gotland" islands="MISSING" area="3140.0" height="MISSING" type="MISSING" longitude="18.5" latitude="57.5"/>
+   <island-tuple name="Oeland" islands="MISSING" area="1344.0" height="MISSING" type="MISSING" longitude="17.0" latitude="57.0"/>
+   <island-tuple name="Aland" islands="Aland Islands" area="650.0" height="MISSING" type="MISSING" longitude="20.0" latitude="60.1"/>
+   <island-tuple name="Dagoe" islands="MISSING" area="965.0" height="MISSING" type="MISSING" longitude="22.7" latitude="58.8"/>
+   <island-tuple name="Oesel" islands="MISSING" area="2714.0" height="54.0" type="MISSING" longitude="22.0" latitude="58.3"/>
+   <island-tuple name="Seeland" islands="MISSING" area="7439.0" height="MISSING" type="MISSING" longitude="12.0" latitude="55.3"/>
+   <island-tuple name="Fuenen" islands="MISSING" area="2976.0" height="MISSING" type="MISSING" longitude="10.25" latitude="55.35"/>
+   <island-tuple name="Langeland" islands="MISSING" area="284.0" height="MISSING" type="MISSING" longitude="10.5" latitude="55.0"/>
+   <island-tuple name="Falster" islands="MISSING" area="514.0" height="MISSING" type="MISSING" longitude="12.0" latitude="54.8"/>
+   <island-tuple name="Lolland" islands="MISSING" area="1241.0" height="MISSING" type="MISSING" longitude="11.5" latitude="54.4"/>
+   <island-tuple name="Bornholm" islands="MISSING" area="588.0" height="162.0" type="MISSING" longitude="14.9" latitude="55.1"/>
+   <island-tuple name="Helgoland" islands="MISSING" area="1.7" height="61.3" type="MISSING" longitude="7.9" latitude="54.2"/>
+   <island-tuple name="Fehmarn" islands="MISSING" area="185.0" height="27.2" type="MISSING" longitude="11.2" latitude="54.4"/>
+   <island-tuple name="Rugen" islands="MISSING" area="926.0" height="161.0" type="MISSING" longitude="13.4" latitude="54.5"/>
+   <island-tuple name="Usedom" islands="MISSING" area="445.0" height="MISSING" type="MISSING" longitude="14.1" latitude="53.9"/>
+   <island-tuple name="Sylt" islands="Nordfriesische Inseln" area="99.0" height="52.5" type="MISSING" longitude="8.3" latitude="54.9"/>
+   <island-tuple name="Fohr" islands="Nordfriesische Inseln" area="82.0" height="13.0" type="MISSING" longitude="8.5" latitude="54.7"/>
+   <island-tuple name="Amrum" islands="Nordfriesische Inseln" area="20.5" height="32.0" type="MISSING" longitude="8.3" latitude="54.65"/>
+   <island-tuple name="Pellworm" islands="Nordfriesische Inseln" area="37.4" height="2.0" type="MISSING" longitude="8.6" latitude="54.5"/>
+   <island-tuple name="Wangerooge" islands="Ostfriesische Inseln" area="7.9" height="17.0" type="MISSING" longitude="7.9" latitude="53.8"/>
+   <island-tuple name="Spiekeroog" islands="Ostfriesische Inseln" area="18.2" height="3.0" type="MISSING" longitude="7.6" latitude="53.8"/>
+   <island-tuple name="Langeoog" islands="Ostfriesische Inseln" area="20.0" height="5.0" type="MISSING" longitude="7.5" latitude="53.65"/>
+   <island-tuple name="Baltrum" islands="Ostfriesische Inseln" area="6.5" height="5.0" type="MISSING" longitude="7.4" latitude="53.6"/>
+   <island-tuple name="Norderney" islands="Ostfriesische Inseln" area="26.3" height="5.0" type="MISSING" longitude="7.9" latitude="53.7"/>
+   <island-tuple name="Juist" islands="Ostfriesische Inseln" area="16.4" height="3.0" type="MISSING" longitude="7.0" latitude="53.6"/>
+   <island-tuple name="Borkum" islands="Ostfriesische Inseln" area="31.0" height="6.0" type="MISSING" longitude="6.7" latitude="53.6"/>
+   <island-tuple name="Schiermonnikoog" islands="Westfriesische Inseln" area="40.0" height="MISSING" type="MISSING" longitude="6.2" latitude="53.5"/>
+   <island-tuple name="Ameland" islands="Westfriesische Inseln" area="57.6" height="MISSING" type="MISSING" longitude="5.75" latitude="53.5"/>
+   <island-tuple name="Terschelling" islands="Westfriesische Inseln" area="88.0" height="MISSING" type="MISSING" longitude="5.3" latitude="53.4"/>
+   <island-tuple name="Vlieland" islands="Westfriesische Inseln" area="40.0" height="MISSING" type="MISSING" longitude="5.0" latitude="53.25"/>
+   <island-tuple name="Texel" islands="Westfriesische Inseln" area="162.0" height="15.0" type="MISSING" longitude="4.8" latitude="53.1"/>
+   <island-tuple name="Korfu" islands="Ionic Islands" area="593.0" height="906.0" type="MISSING" longitude="19.8" latitude="39.6"/>
+   <island-tuple name="Lefkas" islands="Ionic Islands" area="293.0" height="1158.0" type="MISSING" longitude="20.6" latitude="38.7"/>
+   <island-tuple name="Kefallinia" islands="Ionic Islands" area="689.0" height="1628.0" type="MISSING" longitude="20.6" latitude="38.2"/>
+   <island-tuple name="Zakinthos" islands="Ionic Islands" area="406.0" height="756.0" type="MISSING" longitude="20.75" latitude="37.8"/>
+   <island-tuple name="Kreta" islands="MISSING" area="8331.0" height="2456.0" type="MISSING" longitude="25.0" latitude="37.0"/>
+   <island-tuple name="Chios" islands="Sporades" area="843.0" height="1297.0" type="MISSING" longitude="26.2" latitude="38.4"/>
+   <island-tuple name="Samos" islands="Sporades" area="478.0" height="1434.0" type="MISSING" longitude="26.8" latitude="37.7"/>
+   <island-tuple name="Ikaria" islands="Sporades" area="255.0" height="1037.0" type="MISSING" longitude="26.2" latitude="37.6"/>
+   <island-tuple name="Lesbos" islands="Sporades" area="1636.0" height="968.0" type="MISSING" longitude="26.3" latitude="39.2"/>
+   <island-tuple name="Kos" islands="Sporades" area="287.0" height="846.0" type="MISSING" longitude="27.1" latitude="36.8"/>
+   <island-tuple name="Rhodos" islands="Sporades" area="1401.0" height="1215.0" type="MISSING" longitude="28.0" latitude="36.2"/>
+   <island-tuple name="Cyprus" islands="MISSING" area="9251.0" height="1952.0" type="MISSING" longitude="33.2" latitude="35.4"/>
+   <island-tuple name="Alicudi" islands="Lipari Islands" area="5.2" height="675.0" type="volcanic" longitude="14.4" latitude="38.6"/>
+   <island-tuple name="Filicudi" islands="Lipari Islands" area="9.5" height="774.0" type="volcanic" longitude="14.55" latitude="38.6"/>
+   <island-tuple name="Salina" islands="Lipari Islands" area="26.8" height="962.0" type="volcanic" longitude="14.9" latitude="38.6"/>
+   <island-tuple name="Lipari" islands="Lipari Islands" area="37.5" height="602.0" type="volcanic" longitude="14.95" latitude="38.5"/>
+   <island-tuple name="Vulcano" islands="Lipari Islands" area="21.2" height="499.0" type="volcanic" longitude="15.0" latitude="38.4"/>
+   <island-tuple name="Panarea" islands="Lipari Islands" area="3.4" height="421.0" type="volcanic" longitude="15.05" latitude="38.65"/>
+   <island-tuple name="Stromboli" islands="Lipari Islands" area="12.6" height="926.0" type="volcanic" longitude="15.15" latitude="38.8"/>
+   <island-tuple name="Lampedusa" islands="MISSING" area="20.0" height="113.0" type="volcanic" longitude="13.2" latitude="35.4"/>
+   <island-tuple name="Linosa" islands="MISSING" area="5.0" height="195.0" type="volcanic" longitude="13.85" latitude="35.85"/>
+   <island-tuple name="Sicilia" islands="MISSING" area="25462.0" height="3323.0" type="MISSING" longitude="14.0" latitude="37.0"/>
+   <island-tuple name="Malta" islands="Malta" area="246.0" height="252.0" type="MISSING" longitude="14.5" latitude="35.9"/>
+   <island-tuple name="Gozo" islands="Malta" area="67.0" height="176.0" type="MISSING" longitude="14.3" latitude="36.05"/>
+   <island-tuple name="Sardegna" islands="MISSING" area="24090.0" height="1834.0" type="MISSING" longitude="9.0" latitude="40.0"/>
+   <island-tuple name="Corse" islands="MISSING" area="8680.0" height="2706.0" type="MISSING" longitude="8.4" latitude="41.4"/>
+   <island-tuple name="Menorca" islands="Baleares" area="760.0" height="358.0" type="MISSING" longitude="4.0" latitude="40.0"/>
+   <island-tuple name="Mallorca" islands="Baleares" area="3618.0" height="1445.0" type="MISSING" longitude="3.0" latitude="39.3"/>
+   <island-tuple name="Ibiza" islands="Baleares" area="572.0" height="476.0" type="MISSING" longitude="1.5" latitude="38.5"/>
+   <island-tuple name="Formentera" islands="Baleares" area="83.0" height="192.0" type="MISSING" longitude="1.5" latitude="38.0"/>
+   <island-tuple name="Lanzarote" islands="Canares" area="846.0" height="671.0" type="volcanic" longitude="-13.6" latitude="29.0"/>
+   <island-tuple name="Fuerteventura" islands="Canares" area="1660.0" height="807.0" type="volcanic" longitude="-14.0" latitude="28.4"/>
+   <island-tuple name="Gran Canaria" islands="Canares" area="1560.0" height="1949.0" type="volcanic" longitude="-15.6" latitude="28.0"/>
+   <island-tuple name="Teneriffa" islands="Canares" area="2034.0" height="3718.0" type="volcanic" longitude="-16.6" latitude="28.3"/>
+   <island-tuple name="Gomera" islands="Canares" area="369.0" height="1487.0" type="volcanic" longitude="-17.3" latitude="28.1"/>
+   <island-tuple name="Hierro" islands="Canares" area="268.0" height="1500.0" type="volcanic" longitude="-18.0" latitude="27.7"/>
+   <island-tuple name="La Palma" islands="Canares" area="708.0" height="2426.0" type="volcanic" longitude="-17.9" latitude="28.7"/>
+   <island-tuple name="Madeira" islands="Madeira" area="794.0" height="1861.0" type="volcanic" longitude="-16.0" latitude="31.0"/>
+   <island-tuple name="Porto Santo" islands="Madeira" area="42.0" height="517.0" type="volcanic" longitude="-16.35" latitude="33.0"/>
+   <island-tuple name="Sao Miguel" islands="Azores" area="747.0" height="MISSING" type="volcanic" longitude="-25.5" latitude="37.7"/>
+   <island-tuple name="Santa Maria" islands="Azores" area="97.0" height="MISSING" type="volcanic" longitude="-25.1" latitude="37.0"/>
+   <island-tuple name="Terceira" islands="Azores" area="400.0" height="1022.0" type="volcanic" longitude="-27.2" latitude="38.7"/>
+   <island-tuple name="Sao Jorge" islands="Azores" area="233.5" height="1053.0" type="volcanic" longitude="-28.0" latitude="38.6"/>
+   <island-tuple name="Pico" islands="Azores" area="442.0" height="2351.0" type="volcanic" longitude="-28.4" latitude="38.5"/>
+   <island-tuple name="Faial" islands="Azores" area="172.0" height="1043.0" type="volcanic" longitude="-28.7" latitude="38.6"/>
+   <island-tuple name="Graciosa" islands="Azores" area="61.0" height="402.0" type="volcanic" longitude="-28.0" latitude="39.0"/>
+   <island-tuple name="Flores" islands="Azores" area="143.0" height="914.0" type="volcanic" longitude="-31.2" latitude="39.5"/>
+   <island-tuple name="Corvo" islands="Azores" area="17.5" height="718.0" type="volcanic" longitude="-31.1" latitude="39.7"/>
+   <island-tuple name="Santiago" islands="Cape Verdes" area="991.0" height="1394.0" type="volcanic" longitude="-23.6" latitude="15.1"/>
+   <island-tuple name="Fogo" islands="Cape Verdes" area="476.0" height="2829.0" type="volcanic" longitude="-24.4" latitude="17.95"/>
+   <island-tuple name="Sao Tome" islands="MISSING" area="859.0" height="2024.0" type="volcanic" longitude="6.6" latitude="0.2"/>
+   <island-tuple name="Principe" islands="MISSING" area="142.0" height="927.0" type="volcanic" longitude="7.4" latitude="1.6"/>
+   <island-tuple name="Bioko" islands="MISSING" area="2017.0" height="3011.0" type="volcanic" longitude="8.7" latitude="3.5"/>
+   <island-tuple name="Saint Helena" islands="MISSING" area="122.0" height="MISSING" type="volcanic" longitude="-5.44" latitude="-15.56"/>
+   <island-tuple name="Ascension" islands="MISSING" area="91.0" height="MISSING" type="volcanic" longitude="-14.4" latitude="-7.9"/>
+   <island-tuple name="Tristan Da Cunha" islands="MISSING" area="104.0" height="MISSING" type="volcanic" longitude="-12.3" latitude="-37.1"/>
+   <island-tuple name="West Falkland" islands="Falkland Islands" area="4532.0" height="700.0" type="MISSING" longitude="-60.1" latitude="-51.8"/>
+   <island-tuple name="East Falkland" islands="Falkland Islands" area="6605.0" height="705.0" type="MISSING" longitude="-58.8" latitude="-51.8"/>
+   <island-tuple name="Bahrain" islands="MISSING" area="620.0" height="135.0" type="MISSING" longitude="50.5" latitude="26.0"/>
+   <island-tuple name="Khark" islands="MISSING" area="20.5" height="MISSING" type="MISSING" longitude="50.2" latitude="29.1"/>
+   <island-tuple name="Gheschm" islands="MISSING" area="1491.0" height="MISSING" type="MISSING" longitude="MISSING" latitude="MISSING"/>
+   <island-tuple name="Lavan" islands="MISSING" area="76.0" height="MISSING" type="MISSING" longitude="53.1" latitude="26.5"/>
+   <island-tuple name="Christmas Island" islands="MISSING" area="135.0" height="350.0" type="coral" longitude="105.43" latitude="-10.25"/>
+   <island-tuple name="Pulau Panjang" islands="Cocos Islands" area="6.23" height="9.0" type="atoll" longitude="96.9" latitude="-12.2"/>
+   <island-tuple name="Male" islands="Maldives" area="2.74" height="1.0" type="atoll" longitude="72.0" latitude="2.0"/>
+   <island-tuple name="Kavaratti" islands="Laccadives" area="6.0" height="2.0" type="MISSING" longitude="72.6" latitude="10.6"/>
+   <island-tuple name="Sri Lanka" islands="MISSING" area="65610.0" height="MISSING" type="MISSING" longitude="80.0" latitude="7.0"/>
+   <island-tuple name="South Andaman Island" islands="Andaman Islands" area="1210.0" height="366.0" type="MISSING" longitude="92.5" latitude="11.4"/>
+   <island-tuple name="Sokotra" islands="MISSING" area="3579.0" height="1525.0" type="MISSING" longitude="53.9" latitude="12.5"/>
+   <island-tuple name="Sansibar" islands="MISSING" area="1658.0" height="135.0" type="MISSING" longitude="39.3" latitude="-6.1"/>
+   <island-tuple name="Pemba" islands="MISSING" area="984.0" height="MISSING" type="MISSING" longitude="39.7" latitude="-5.2"/>
+   <island-tuple name="Mahe" islands="Seychelles" area="154.0" height="905.0" type="MISSING" longitude="55.5" latitude="-4.65"/>
+   <island-tuple name="Grand Comoro" islands="Comores" area="1148.0" height="MISSING" type="MISSING" longitude="43.4" latitude="-11.7"/>
+   <island-tuple name="Anjouan" islands="Comores" area="424.0" height="MISSING" type="MISSING" longitude="44.35" latitude="-12.2"/>
+   <island-tuple name="Mohilla" islands="Comores" area="290.0" height="MISSING" type="MISSING" longitude="43.75" latitude="-12.25"/>
+   <island-tuple name="Mayotte" islands="Comores" area="374.0" height="660.0" type="volcanic" longitude="45.13" latitude="-12.46"/>
+   <island-tuple name="Reunion" islands="MISSING" area="2510.0" height="3069.0" type="volcanic" longitude="55.5" latitude="-20.9"/>
+   <island-tuple name="Mauritius" islands="MISSING" area="1860.0" height="828.0" type="volcanic" longitude="57.0" latitude="-20.0"/>
+   <island-tuple name="Madagaskar" islands="MISSING" area="587041.0" height="2876.0" type="MISSING" longitude="46.0" latitude="-20.0"/>
+   <island-tuple name="Kotelny Island" islands="MISSING" area="11665.0" height="374.0" type="MISSING" longitude="141.0" latitude="75.4"/>
+   <island-tuple name="Paramuschir" islands="Curiles" area="2042.0" height="1816.0" type="volcanic" longitude="155.75" latitude="50.5"/>
+   <island-tuple name="Olkhon" islands="MISSING" area="730.0" height="1276.0" type="MISSING" longitude="107.4" latitude="53.15"/>
+   <island-tuple name="Sachalin" islands="MISSING" area="76400.0" height="1609.0" type="volcanic" longitude="143.0" latitude="50.0"/>
+   <island-tuple name="Hokkaido" islands="Japan" area="83456.0" height="2290.0" type="volcanic" longitude="143.0" latitude="43.3"/>
+   <island-tuple name="Kyushu" islands="Japan" area="35640.0" height="1758.0" type="volcanic" longitude="131.0" latitude="32.0"/>
+   <island-tuple name="Shikoku" islands="Japan" area="18000.0" height="1965.0" type="volcanic" longitude="134.0" latitude="34.0"/>
+   <island-tuple name="Honshu" islands="Japan" area="230500.0" height="3776.0" type="volcanic" longitude="138.6" latitude="36.3"/>
+   <island-tuple name="Okinawa" islands="Japan" area="2255.0" height="MISSING" type="volcanic" longitude="128.0" latitude="26.0"/>
+   <island-tuple name="Jeju" islands="MISSING" area="1845.0" height="1950.0" type="volcanic" longitude="126.5" latitude="33.4"/>
+   <island-tuple name="Taiwan" islands="MISSING" area="35801.0" height="3950.0" type="MISSING" longitude="121.0" latitude="24.0"/>
+   <island-tuple name="Hainan" islands="MISSING" area="34380.0" height="1897.0" type="MISSING" longitude="109.6" latitude="19.1"/>
+   <island-tuple name="Luzon" islands="Phillipines" area="108172.0" height="2928.0" type="MISSING" longitude="121.0" latitude="16.1"/>
+   <island-tuple name="Mindoro" islands="Phillipines" area="10244.0" height="MISSING" type="MISSING" longitude="121.1" latitude="13.0"/>
+   <island-tuple name="Negros" islands="Phillipines" area="13328.0" height="2435.0" type="MISSING" longitude="123.0" latitude="10.0"/>
+   <island-tuple name="Panay" islands="Phillipines" area="12297.0" height="2117.0" type="MISSING" longitude="122.5" latitude="11.15"/>
+   <island-tuple name="Bohol" islands="Phillipines" area="4117.0" height="MISSING" type="MISSING" longitude="124.2" latitude="9.9"/>
+   <island-tuple name="Leyte" islands="Phillipines" area="7368.0" height="MISSING" type="MISSING" longitude="124.9" latitude="11.0"/>
+   <island-tuple name="Samar" islands="Phillipines" area="13080.0" height="MISSING" type="MISSING" longitude="125.1" latitude="12.0"/>
+   <island-tuple name="Cebu" islands="Phillipines" area="5088.0" height="1000.0" type="MISSING" longitude="123.8" latitude="10.4"/>
+   <island-tuple name="Mindanao" islands="Phillipines" area="95581.0" height="2954.0" type="MISSING" longitude="124.9" latitude="7.55"/>
+   <island-tuple name="Palawan" islands="Phillipines" area="11785.0" height="2085.0" type="MISSING" longitude="118.4" latitude="9.5"/>
+   <island-tuple name="Singapore" islands="MISSING" area="632.6" height="176.0" type="MISSING" longitude="103.833" latitude="1.3"/>
+   <island-tuple name="Sumatra" islands="Sunda Islands" area="473000.0" height="3805.0" type="MISSING" longitude="102.0" latitude="0.0"/>
+   <island-tuple name="Samosir" islands="MISSING" area="852.0" height="MISSING" type="volcanic" longitude="98.85" latitude="2.6"/>
+   <island-tuple name="Batam" islands="Sunda Islands" area="415.0" height="MISSING" type="MISSING" longitude="104.05" latitude="1.1"/>
+   <island-tuple name="Bangka" islands="Sunda Islands" area="11942.0" height="700.0" type="MISSING" longitude="106.0" latitude="2.25"/>
+   <island-tuple name="Krakatau" islands="Sunda Islands" area="MISSING" height="813.0" type="volcanic" longitude="105.6" latitude="-6.1"/>
+   <island-tuple name="Java" islands="Sunda Islands" area="126650.0" height="3676.0" type="MISSING" longitude="111.25" latitude="-7.5"/>
+   <island-tuple name="Borneo" islands="Sunda Islands" area="743122.0" height="4101.0" type="MISSING" longitude="113.67" latitude="-0.2"/>
+   <island-tuple name="Bali" islands="Sunda Islands" area="5561.0" height="3142.0" type="volcanic" longitude="115.1" latitude="-8.4"/>
+   <island-tuple name="Lombok" islands="Sunda Islands" area="4725.0" height="3726.0" type="volcanic" longitude="116.5" latitude="-8.4"/>
+   <island-tuple name="Sumbawa" islands="Sunda Islands" area="15448.0" height="2850.0" type="MISSING" longitude="116.1" latitude="-8.8"/>
+   <island-tuple name="Sulawesi" islands="Sunda Islands" area="189216.0" height="3455.0" type="volcanic" longitude="120.3" latitude="-2.1"/>
+   <island-tuple name="Timor" islands="Sunda Islands" area="33850.0" height="2963.0" type="MISSING" longitude="124.9" latitude="-9.2"/>
+   <island-tuple name="Ambon" islands="Moluccan Islands" area="775.0" height="1225.0" type="MISSING" longitude="128.2" latitude="-3.7"/>
+   <island-tuple name="Ceram" islands="Moluccan Islands" area="17100.0" height="3027.0" type="MISSING" longitude="128.0" latitude="-2.0"/>
+   <island-tuple name="New Guinea" islands="MISSING" area="786000.0" height="4884.0" type="MISSING" longitude="142.0" latitude="-5.0"/>
+   <island-tuple name="Bougainville" islands="Solomon Islands" area="8800.0" height="2715.0" type="MISSING" longitude="155.25" latitude="-6.2"/>
+   <island-tuple name="Guadalcanal" islands="Solomon Islands" area="5358.0" height="2335.0" type="MISSING" longitude="160.2" latitude="-9.6"/>
+   <island-tuple name="Grande Terre" islands="New Caledonia" area="16372.0" height="1628.0" type="MISSING" longitude="166.27" latitude="-22.16"/>
+   <island-tuple name="Cangaroo Island" islands="MISSING" area="4405.0" height="307.0" type="MISSING" longitude="137.3" latitude="-35.8"/>
+   <island-tuple name="Melville Island" islands="MISSING" area="5800.0" height="MISSING" type="MISSING" longitude="131.0" latitude="-12.0"/>
+   <island-tuple name="Tasmania" islands="MISSING" area="67800.0" height="1617.0" type="MISSING" longitude="145.0" latitude="-42.0"/>
+   <island-tuple name="Victoria Island" islands="Canadian Arctic Islands" area="212291.0" height="MISSING" type="MISSING" longitude="-110.1" latitude="70.75"/>
+   <island-tuple name="Banks Island" islands="Canadian Arctic Islands" area="70028.0" height="MISSING" type="MISSING" longitude="-122.1" latitude="72.85"/>
+   <island-tuple name="Prince of Wales Island" islands="Canadian Arctic Islands" area="33339.0" height="MISSING" type="MISSING" longitude="-98.55" latitude="72.6"/>
+   <island-tuple name="Baffin Island" islands="Canadian Arctic Islands" area="507451.0" height="2147.0" type="MISSING" longitude="72.0" latitude="69.0"/>
+   <island-tuple name="Southampton Island" islands="Canadian Arctic Islands" area="41214.0" height="625.0" type="MISSING" longitude="-84.5" latitude="64.5"/>
+   <island-tuple name="Ellesmere Island" islands="Canadian Arctic Islands" area="196236.0" height="2616.0" type="MISSING" longitude="-79.6" latitude="79.25"/>
+   <island-tuple name="Saint Pierre" islands="MISSING" area="26.0" height="MISSING" type="MISSING" longitude="-56.0" latitude="47.0"/>
+   <island-tuple name="Miquelon-Langlade" islands="MISSING" area="205.0" height="240.0" type="MISSING" longitude="-56.3" latitude="47.1"/>
+   <island-tuple name="Newfoundland" islands="MISSING" area="108860.0" height="814.0" type="MISSING" longitude="-55.8" latitude="48.6"/>
+   <island-tuple name="Prince Edward Island" islands="MISSING" area="5660.0" height="142.0" type="MISSING" longitude="-63.4" latitude="46.3"/>
+   <island-tuple name="Rene Levasseur Island" islands="MISSING" area="2020.0" height="952.0" type="MISSING" longitude="-68.7" latitude="51.4"/>
+   <island-tuple name="Manitoulin" islands="MISSING" area="2766.0" height="MISSING" type="MISSING" longitude="-82.2" latitude="45.75"/>
+   <island-tuple name="Martha s Vineyard" islands="MISSING" area="232.0" height="MISSING" type="MISSING" longitude="-70.6" latitude="41.4"/>
+   <island-tuple name="Nantucket" islands="MISSING" area="125.0" height="MISSING" type="MISSING" longitude="-70.1" latitude="41.5"/>
+   <island-tuple name="Long Island" islands="MISSING" area="3566.0" height="MISSING" type="MISSING" longitude="-73.3" latitude="40.8"/>
+   <island-tuple name="Grand Bermuda" islands="Bermuda Islands" area="53.3" height="79.0" type="coral" longitude="-64.47" latitude="32.17"/>
+   <island-tuple name="New Providence" islands="Bahama Islands" area="207.0" height="MISSING" type="MISSING" longitude="-77.4" latitude="25.0"/>
+   <island-tuple name="Grand Turk" islands="Turks and Caicos Islands" area="14.0" height="20.0" type="MISSING" longitude="-71.08" latitude="21.28"/>
+   <island-tuple name="Providenciales" islands="Turks and Caicos Islands" area="MISSING" height="MISSING" type="MISSING" longitude="-72.3" latitude="22.0"/>
+   <island-tuple name="North Caicos" islands="Turks and Caicos Islands" area="MISSING" height="20.0" type="MISSING" longitude="-72.1" latitude="22.1"/>
+   <island-tuple name="Cuba" islands="Greater Antilles" area="105806.0" height="1974.0" type="MISSING" longitude="-79.0" latitude="22.0"/>
+   <island-tuple name="Jamaica" islands="Greater Antilles" area="10991.0" height="2256.0" type="MISSING" longitude="-77.3" latitude="18.1"/>
+   <island-tuple name="Hispaniola" islands="Greater Antilles" area="76192.0" height="3098.0" type="MISSING" longitude="-70.7" latitude="19.0"/>
+   <island-tuple name="Puerto Rico" islands="Greater Antilles" area="8870.0" height="1338.0" type="MISSING" longitude="-66.12" latitude="18.49"/>
+   <island-tuple name="Tortola" islands="Lesser Antilles" area="55.0" height="521.0" type="volcanic" longitude="-64.37" latitude="18.27"/>
+   <island-tuple name="Saint Thomas" islands="Lesser Antilles" area="31.0" height="MISSING" type="MISSING" longitude="-64.9" latitude="18.3"/>
+   <island-tuple name="Anguilla" islands="Lesser Antilles" area="91.0" height="65.0" type="MISSING" longitude="-64.0" latitude="18.0"/>
+   <island-tuple name="St. Martin" islands="Lesser Antilles" area="87.0" height="411.0" type="MISSING" longitude="-63.1" latitude="18.1"/>
+   <island-tuple name="Saint Kitts" islands="Lesser Antilles" area="164.0" height="1156.0" type="volcanic" longitude="-62.75" latitude="17.3"/>
+   <island-tuple name="Nevis" islands="Lesser Antilles" area="93.0" height="985.0" type="volcanic" longitude="-62.3" latitude="17.0"/>
+   <island-tuple name="Barbuda" islands="Lesser Antilles" area="161.0" height="MISSING" type="MISSING" longitude="-61.4" latitude="17.3"/>
+   <island-tuple name="Antigua" islands="Lesser Antilles" area="281.0" height="400.0" type="MISSING" longitude="-61.8" latitude="17.05"/>
+   <island-tuple name="Montserrat" islands="Lesser Antilles" area="102.0" height="1050.0" type="volcanic" longitude="-62.13" latitude="16.42"/>
+   <island-tuple name="Basse-Terre" islands="Lesser Antilles" area="848.0" height="1467.0" type="volcanic" longitude="-61.8" latitude="16.15"/>
+   <island-tuple name="Grande-Terre" islands="Lesser Antilles" area="589.0" height="MISSING" type="volcanic" longitude="-61.4" latitude="16.3"/>
+   <island-tuple name="Dominica" islands="Lesser Antilles" area="746.0" height="1447.0" type="volcanic" longitude="-61.35" latitude="15.4"/>
+   <island-tuple name="Martinique" islands="Lesser Antilles" area="1128.0" height="1397.0" type="volcanic" longitude="-61.0" latitude="14.6"/>
+   <island-tuple name="Saint Lucia" islands="Lesser Antilles" area="616.0" height="950.0" type="volcanic" longitude="-60.5" latitude="14.0"/>
+   <island-tuple name="Saint Vincent" islands="Lesser Antilles" area="346.0" height="1300.0" type="volcanic" longitude="-61.3" latitude="13.25"/>
+   <island-tuple name="Barbados" islands="Lesser Antilles" area="430.0" height="336.0" type="lime" longitude="-59.3" latitude="13.0"/>
+   <island-tuple name="Grenada" islands="Lesser Antilles" area="344.0" height="840.0" type="volcanic" longitude="-62.0" latitude="12.0"/>
+   <island-tuple name="Trinidad" islands="Lesser Antilles" area="4827.0" height="940.0" type="MISSING" longitude="-61.35" latitude="10.4"/>
+   <island-tuple name="Tobago" islands="Lesser Antilles" area="301.0" height="576.0" type="MISSING" longitude="-60.7" latitude="11.25"/>
+   <island-tuple name="Curacao" islands="Lesser Antilles" area="444.0" height="MISSING" type="MISSING" longitude="-69.0" latitude="12.2"/>
+   <island-tuple name="Bonaire" islands="Lesser Antilles" area="288.0" height="MISSING" type="MISSING" longitude="-68.3" latitude="12.2"/>
+   <island-tuple name="Aruba" islands="Lesser Antilles" area="193.0" height="188.0" type="MISSING" longitude="-70.02" latitude="12.31"/>
+   <island-tuple name="Grand Cayman" islands="Cayman Islands" area="197.0" height="MISSING" type="MISSING" longitude="-81.23" latitude="19.18"/>
+   <island-tuple name="Little Cayman" islands="Cayman Islands" area="20.0" height="MISSING" type="MISSING" longitude="-80.0" latitude="19.8"/>
+   <island-tuple name="Cayman Brac" islands="Cayman Islands" area="30.0" height="MISSING" type="MISSING" longitude="-79.8" latitude="19.7"/>
+   <island-tuple name="Isla da Ometepe" islands="MISSING" area="270.0" height="1700.0" type="MISSING" longitude="-85.6" latitude="11.5"/>
+   <island-tuple name="Vancouver Island" islands="MISSING" area="31285.0" height="2195.0" type="MISSING" longitude="-125.65" latitude="49.6"/>
+   <island-tuple name="Santa Cruz Island" islands="Californian Channel Islands" area="245.0" height="747.0" type="MISSING" longitude="-119.7" latitude="34.0"/>
+   <island-tuple name="Santa Catalina Island" islands="Californian Channel Islands" area="194.0" height="648.0" type="MISSING" longitude="-118.2" latitude="33.2"/>
+   <island-tuple name="Santa Rosa Island" islands="Californian Channel Islands" area="215.0" height="484.0" type="MISSING" longitude="-120.1" latitude="34.0"/>
+   <island-tuple name="San Clemente Island" islands="Californian Channel Islands" area="147.0" height="599.0" type="MISSING" longitude="-118.5" latitude="33.0"/>
+   <island-tuple name="San Miguel Island" islands="Californian Channel Islands" area="37.0" height="259.0" type="MISSING" longitude="-120.4" latitude="33.0"/>
+   <island-tuple name="Isabela" islands="Galapagos" area="5436.0" height="1707.0" type="volcanic" longitude="-91.3" latitude="-1.0"/>
+   <island-tuple name="Niihau" islands="Hawaii Islands" area="178.0" height="381.0" type="MISSING" longitude="-160.1" latitude="21.9"/>
+   <island-tuple name="Kauai" islands="Hawaii Islands" area="1433.0" height="1598.0" type="MISSING" longitude="-159.5" latitude="22.0"/>
+   <island-tuple name="Oahu" islands="Hawaii Islands" area="1557.0" height="1225.0" type="MISSING" longitude="-158.0" latitude="21.5"/>
+   <island-tuple name="Molokai" islands="Hawaii Islands" area="676.0" height="1512.0" type="MISSING" longitude="-157.0" latitude="21.1"/>
+   <island-tuple name="Lanai" islands="Hawaii Islands" area="364.0" height="1027.0" type="MISSING" longitude="-157.0" latitude="20.5"/>
+   <island-tuple name="Maui" islands="Hawaii Islands" area="1883.0" height="3055.0" type="MISSING" longitude="-156.3" latitude="20.7"/>
+   <island-tuple name="Hawaii" islands="Hawaii Islands" area="10450.0" height="MISSING" type="MISSING" longitude="-155.5" latitude="19.6"/>
+   <island-tuple name="Niue" islands="MISSING" area="260.0" height="67.0" type="coral" longitude="-169.55" latitude="-19.01"/>
+   <island-tuple name="Saipan" islands="Mariana Islands" area="115.0" height="474.0" type="volcanic" longitude="145.75" latitude="15.2"/>
+   <island-tuple name="Tinian" islands="Mariana Islands" area="101.0" height="171.0" type="MISSING" longitude="145.6" latitude="15.0"/>
+   <island-tuple name="Rota" islands="Mariana Islands" area="85.0" height="495.0" type="MISSING" longitude="145.2" latitude="15.15"/>
+   <island-tuple name="Pitcairn" islands="Pitcairn Islands" area="4.5" height="347.0" type="volcanic" longitude="-130.05" latitude="-25.04"/>
+   <island-tuple name="Uvea" islands="Wallis Islands" area="90.0" height="MISSING" type="MISSING" longitude="-176.2" latitude="-13.16"/>
+   <island-tuple name="Futuna" islands="Futuna Islands" area="64.0" height="MISSING" type="MISSING" longitude="-178.1" latitude="-14.3"/>
+   <island-tuple name="Tarawa" islands="Gilbert Islands" area="MISSING" height="MISSING" type="atoll" longitude="173.0" latitude="1.4"/>
+   <island-tuple name="Tongatapu" islands="Tonga Islands" area="260.0" height="65.0" type="coral" longitude="-175.15" latitude="-21.2"/>
+   <island-tuple name="Viti Levu" islands="Fiji Islands" area="10429.0" height="MISSING" type="volcanic" longitude="178.0" latitude="-17.8"/>
+   <island-tuple name="Vanua Levu" islands="Fiji Islands" area="5500.0" height="MISSING" type="volcanic" longitude="179.25" latitude="-16.35"/>
+   <island-tuple name="Norfolk Island" islands="MISSING" area="34.0" height="318.0" type="volcanic" longitude="168.0" latitude="-29.0"/>
+   <island-tuple name="Nauru" islands="MISSING" area="21.0" height="60.0" type="coral" longitude="167.0" latitude="-1.0"/>
+   <island-tuple name="Koror" islands="Carolines" area="8.0" height="100.0" type="volcanic" longitude="134.5" latitude="7.3"/>
+   <island-tuple name="Babelthuap" islands="Carolines" area="8.0" height="331.0" type="volcanic" longitude="134.6" latitude="7.5"/>
+   <island-tuple name="Fongafale" islands="Ellice Islands" area="2.8" height="MISSING" type="atoll" longitude="179.1" latitude="-8.5"/>
+   <island-tuple name="Efate" islands="Vanuatu" area="900.0" height="647.0" type="MISSING" longitude="168.4" latitude="-17.8"/>
+   <island-tuple name="Upolu" islands="Samoan Islands" area="1125.0" height="1158.0" type="volcanic" longitude="-171.75" latitude="-13.9"/>
+   <island-tuple name="Savaii" islands="Samoan Islands" area="1707.0" height="1858.0" type="volcanic" longitude="-172.4" latitude="-13.6"/>
+   <island-tuple name="Tutuila" islands="Samoan Islands" area="135.0" height="MISSING" type="volcanic" longitude="-170.42" latitude="-14.16"/>
+   <island-tuple name="Rarotonga" islands="Cook Islands" area="67.0" height="653.0" type="volcanic" longitude="-159.46" latitude="-21.12"/>
+   <island-tuple name="Tahiti" islands="Polynesian Islands" area="1045.0" height="2241.0" type="volcanic" longitude="-149.34" latitude="-17.32"/>
+   <island-tuple name="Guam" islands="Mariana Islands" area="541.0" height="MISSING" type="coral" longitude="144.7" latitude="13.4"/>
+   <island-tuple name="Majuro" islands="Marshall Islands" area="9.2" height="MISSING" type="atoll" longitude="171.4" latitude="7.1"/>
+   <island-tuple name="Ponape" islands="Micronesian Islands" area="336.0" height="782.0" type="volcanic" longitude="158.2" latitude="6.85"/>
+   <island-tuple name="Osterinsel" islands="MISSING" area="163.0" height="MISSING" type="volcanic" longitude="-109.35" latitude="-27.1"/>
+   <island-tuple name="Te Ika-a-Maui (North Island)" islands="New Zealand" area="114597.0" height="2797.0" type="MISSING" longitude="175.7" latitude="-38.4"/>
+   <island-tuple name="Te Waka-a-Maui (South Island)" islands="New Zealand" area="151757.0" height="3754.0" type="MISSING" longitude="170.4" latitude="-44.0"/>
+</island>

@@ -1,0 +1,457 @@
+
+<religion>
+   <religion-tuple country="AL" name="Muslim" percentage="70.0"/>
+   <religion-tuple country="AL" name="Roman Catholic" percentage="10.0"/>
+   <religion-tuple country="AL" name="Christian Orthodox" percentage="20.0"/>
+   <religion-tuple country="GR" name="Muslim" percentage="1.3"/>
+   <religion-tuple country="GR" name="Christian Orthodox" percentage="98.0"/>
+   <religion-tuple country="MK" name="Muslim" percentage="30.0"/>
+   <religion-tuple country="MK" name="Christian Orthodox" percentage="67.0"/>
+   <religion-tuple country="SRB" name="Christian Orthodox" percentage="85.0"/>
+   <religion-tuple country="SRB" name="Muslim" percentage="3.2"/>
+   <religion-tuple country="SRB" name="Roman Catholic" percentage="5.5"/>
+   <religion-tuple country="SRB" name="Protestant" percentage="1.1"/>
+   <religion-tuple country="MNE" name="Christian Orthodox" percentage="74.2"/>
+   <religion-tuple country="MNE" name="Muslim" percentage="17.7"/>
+   <religion-tuple country="MNE" name="Roman Catholic" percentage="3.5"/>
+   <religion-tuple country="AND" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="F" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="F" name="Jewish" percentage="1.0"/>
+   <religion-tuple country="F" name="Roman Catholic" percentage="90.0"/>
+   <religion-tuple country="F" name="Protestant" percentage="2.0"/>
+   <religion-tuple country="E" name="Roman Catholic" percentage="99.0"/>
+   <religion-tuple country="A" name="Roman Catholic" percentage="85.0"/>
+   <religion-tuple country="A" name="Protestant" percentage="6.0"/>
+   <religion-tuple country="CZ" name="Roman Catholic" percentage="39.2"/>
+   <religion-tuple country="CZ" name="Protestant" percentage="4.6"/>
+   <religion-tuple country="CZ" name="Christian Orthodox" percentage="3.0"/>
+   <religion-tuple country="D" name="Roman Catholic" percentage="37.0"/>
+   <religion-tuple country="D" name="Protestant" percentage="45.0"/>
+   <religion-tuple country="H" name="Roman Catholic" percentage="67.5"/>
+   <religion-tuple country="H" name="Protestant" percentage="25.0"/>
+   <religion-tuple country="I" name="Roman Catholic" percentage="98.0"/>
+   <religion-tuple country="FL" name="Roman Catholic" percentage="87.3"/>
+   <religion-tuple country="FL" name="Protestant" percentage="8.3"/>
+   <religion-tuple country="SK" name="Roman Catholic" percentage="60.3"/>
+   <religion-tuple country="SK" name="Protestant" percentage="8.4"/>
+   <religion-tuple country="SK" name="Christian Orthodox" percentage="4.1"/>
+   <religion-tuple country="SLO" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="SLO" name="Roman Catholic" percentage="96.0"/>
+   <religion-tuple country="CH" name="Roman Catholic" percentage="47.6"/>
+   <religion-tuple country="CH" name="Protestant" percentage="44.3"/>
+   <religion-tuple country="BY" name="Christian Orthodox" percentage="60.0"/>
+   <religion-tuple country="PL" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="B" name="Roman Catholic" percentage="75.0"/>
+   <religion-tuple country="B" name="Protestant" percentage="25.0"/>
+   <religion-tuple country="L" name="Roman Catholic" percentage="97.0"/>
+   <religion-tuple country="L" name="Jewish" percentage="3.0"/>
+   <religion-tuple country="NL" name="Muslim" percentage="3.0"/>
+   <religion-tuple country="NL" name="Roman Catholic" percentage="34.0"/>
+   <religion-tuple country="NL" name="Protestant" percentage="25.0"/>
+   <religion-tuple country="BIH" name="Muslim" percentage="40.0"/>
+   <religion-tuple country="BIH" name="Protestant" percentage="4.0"/>
+   <religion-tuple country="BIH" name="Christian Orthodox" percentage="31.0"/>
+   <religion-tuple country="BIH" name="Roman Catholic" percentage="15.0"/>
+   <religion-tuple country="HR" name="Protestant" percentage="0.4"/>
+   <religion-tuple country="HR" name="Christian Orthodox" percentage="11.1"/>
+   <religion-tuple country="HR" name="Roman Catholic" percentage="76.5"/>
+   <religion-tuple country="HR" name="Muslim" percentage="1.2"/>
+   <religion-tuple country="BG" name="Muslim" percentage="13.0"/>
+   <religion-tuple country="BG" name="Jewish" percentage="0.8"/>
+   <religion-tuple country="BG" name="Roman Catholic" percentage="0.7"/>
+   <religion-tuple country="BG" name="Christian Orthodox" percentage="85.0"/>
+   <religion-tuple country="RO" name="Roman Catholic" percentage="6.0"/>
+   <religion-tuple country="RO" name="Protestant" percentage="6.0"/>
+   <religion-tuple country="RO" name="Christian Orthodox" percentage="70.0"/>
+   <religion-tuple country="TR" name="Muslim" percentage="99.8"/>
+   <religion-tuple country="DK" name="Protestant" percentage="91.0"/>
+   <religion-tuple country="DK" name="Roman Catholic" percentage="2.0"/>
+   <religion-tuple country="FARX" name="Protestant" percentage="100.0"/>
+   <religion-tuple country="SF" name="Christian Orthodox" percentage="1.0"/>
+   <religion-tuple country="SF" name="Protestant" percentage="89.0"/>
+   <religion-tuple country="N" name="Protestant" percentage="87.8"/>
+   <religion-tuple country="N" name="Roman Catholic" percentage="1.0"/>
+   <religion-tuple country="S" name="Roman Catholic" percentage="1.5"/>
+   <religion-tuple country="S" name="Protestant" percentage="94.0"/>
+   <religion-tuple country="S" name="Pentecostal" percentage="1.0"/>
+   <religion-tuple country="MC" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="GBZ" name="Muslim" percentage="8.0"/>
+   <religion-tuple country="GBZ" name="Jewish" percentage="2.0"/>
+   <religion-tuple country="GBZ" name="Roman Catholic" percentage="74.0"/>
+   <religion-tuple country="GBZ" name="Protestant" percentage="11.0"/>
+   <religion-tuple country="V" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="IS" name="Protestant" percentage="96.0"/>
+   <religion-tuple country="IS" name="Roman Catholic" percentage="3.0"/>
+   <religion-tuple country="IRL" name="Roman Catholic" percentage="93.0"/>
+   <religion-tuple country="IRL" name="Anglican" percentage="3.0"/>
+   <religion-tuple country="RSM" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="M" name="Roman Catholic" percentage="98.0"/>
+   <religion-tuple country="MD" name="Jewish" percentage="1.5"/>
+   <religion-tuple country="MD" name="Christian Orthodox" percentage="98.5"/>
+   <religion-tuple country="P" name="Roman Catholic" percentage="97.0"/>
+   <religion-tuple country="P" name="Protestant" percentage="1.0"/>
+   <religion-tuple country="AFG" name="Muslim" percentage="99.0"/>
+   <religion-tuple country="TJ" name="Muslim" percentage="2.0"/>
+   <religion-tuple country="TJ" name="Christian" percentage="1.0"/>
+   <religion-tuple country="IR" name="Muslim" percentage="99.0"/>
+   <religion-tuple country="IR" name="Bahai" percentage="1.0"/>
+   <religion-tuple country="PK" name="Muslim" percentage="97.0"/>
+   <religion-tuple country="TAD" name="Muslim" percentage="85.0"/>
+   <religion-tuple country="TM" name="Muslim" percentage="87.0"/>
+   <religion-tuple country="TM" name="Christian Orthodox" percentage="11.0"/>
+   <religion-tuple country="UZB" name="Muslim" percentage="88.0"/>
+   <religion-tuple country="UZB" name="Christian Orthodox" percentage="9.0"/>
+   <religion-tuple country="ARM" name="Christian Orthodox" percentage="94.0"/>
+   <religion-tuple country="GE" name="Muslim" percentage="11.0"/>
+   <religion-tuple country="GE" name="Armenian Apostolic" percentage="8.0"/>
+   <religion-tuple country="GE" name="Christian Orthodox" percentage="75.0"/>
+   <religion-tuple country="AZ" name="Muslim" percentage="93.4"/>
+   <religion-tuple country="AZ" name="Christian Orthodox" percentage="4.8"/>
+   <religion-tuple country="BRN" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="BD" name="Muslim" percentage="83.0"/>
+   <religion-tuple country="BD" name="Hindu" percentage="16.0"/>
+   <religion-tuple country="MYA" name="Muslim" percentage="4.0"/>
+   <religion-tuple country="MYA" name="Christian" percentage="4.0"/>
+   <religion-tuple country="MYA" name="Buddhist" percentage="89.0"/>
+   <religion-tuple country="IND" name="Muslim" percentage="14.0"/>
+   <religion-tuple country="IND" name="Christian" percentage="2.4"/>
+   <religion-tuple country="IND" name="Buddhist" percentage="0.7"/>
+   <religion-tuple country="IND" name="Hindu" percentage="80.0"/>
+   <religion-tuple country="IND" name="Sikh" percentage="2.0"/>
+   <religion-tuple country="IND" name="Jains" percentage="0.5"/>
+   <religion-tuple country="BHT" name="Buddhist" percentage="75.0"/>
+   <religion-tuple country="BHT" name="Hindu" percentage="25.0"/>
+   <religion-tuple country="BRU" name="Muslim" percentage="63.0"/>
+   <religion-tuple country="BRU" name="Christian" percentage="8.0"/>
+   <religion-tuple country="BRU" name="Buddhist" percentage="14.0"/>
+   <religion-tuple country="LAO" name="Buddhist" percentage="60.0"/>
+   <religion-tuple country="THA" name="Muslim" percentage="3.8"/>
+   <religion-tuple country="THA" name="Buddhist" percentage="95.0"/>
+   <religion-tuple country="THA" name="Christian" percentage="0.5"/>
+   <religion-tuple country="THA" name="Hindu" percentage="0.1"/>
+   <religion-tuple country="K" name="Buddhist" percentage="95.0"/>
+   <religion-tuple country="KAZ" name="Muslim" percentage="47.0"/>
+   <religion-tuple country="KAZ" name="Protestant" percentage="2.0"/>
+   <religion-tuple country="KAZ" name="Christian Orthodox" percentage="44.0"/>
+   <religion-tuple country="HONX" name="Christian" percentage="10.0"/>
+   <religion-tuple country="MACX" name="Roman Catholic" percentage="7.0"/>
+   <religion-tuple country="MACX" name="Protestant" percentage="1.0"/>
+   <religion-tuple country="MACX" name="Buddhist" percentage="45.0"/>
+   <religion-tuple country="MNG" name="Muslim" percentage="4.0"/>
+   <religion-tuple country="NEP" name="Muslim" percentage="3.0"/>
+   <religion-tuple country="NEP" name="Buddhist" percentage="5.0"/>
+   <religion-tuple country="NEP" name="Hindu" percentage="90.0"/>
+   <religion-tuple country="XMAS" name="Muslim" percentage="25.0"/>
+   <religion-tuple country="XMAS" name="Christian" percentage="18.0"/>
+   <religion-tuple country="XMAS" name="Buddhist" percentage="36.0"/>
+   <religion-tuple country="COCO" name="Muslim" percentage="80.0"/>
+   <religion-tuple country="COCO" name="Christian" percentage="20.0"/>
+   <religion-tuple country="CY" name="Muslim" percentage="18.0"/>
+   <religion-tuple country="CY" name="Christian Orthodox" percentage="78.0"/>
+   <religion-tuple country="GAZA" name="Muslim" percentage="98.7"/>
+   <religion-tuple country="GAZA" name="Jewish" percentage="0.6"/>
+   <religion-tuple country="GAZA" name="Christian" percentage="0.7"/>
+   <religion-tuple country="IL" name="Christian" percentage="2.0"/>
+   <religion-tuple country="IL" name="Muslim" percentage="14.0"/>
+   <religion-tuple country="IL" name="Druze" percentage="2.0"/>
+   <religion-tuple country="IL" name="Judaism" percentage="82.0"/>
+   <religion-tuple country="ET" name="Muslim" percentage="94.0"/>
+   <religion-tuple country="ET" name="Coptic Christian" percentage="6.0"/>
+   <religion-tuple country="RI" name="Muslim" percentage="87.0"/>
+   <religion-tuple country="RI" name="Roman Catholic" percentage="3.0"/>
+   <religion-tuple country="RI" name="Protestant" percentage="6.0"/>
+   <religion-tuple country="RI" name="Buddhist" percentage="1.0"/>
+   <religion-tuple country="RI" name="Hindu" percentage="2.0"/>
+   <religion-tuple country="TL" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="TL" name="Protestant" percentage="1.0"/>
+   <religion-tuple country="TL" name="Roman Catholic" percentage="98.0"/>
+   <religion-tuple country="PNG" name="Roman Catholic" percentage="22.0"/>
+   <religion-tuple country="PNG" name="Protestant" percentage="26.0"/>
+   <religion-tuple country="PNG" name="Anglican" percentage="5.0"/>
+   <religion-tuple country="PNG" name="Seventh-Day Adventist" percentage="1.0"/>
+   <religion-tuple country="PNG" name="Presbyterian" percentage="8.0"/>
+   <religion-tuple country="PNG" name="Evangelical Alliance" percentage="4.0"/>
+   <religion-tuple country="IRQ" name="Muslim" percentage="97.0"/>
+   <religion-tuple country="IRQ" name="Christian" percentage="3.0"/>
+   <religion-tuple country="JOR" name="Muslim" percentage="92.0"/>
+   <religion-tuple country="JOR" name="Christian" percentage="8.0"/>
+   <religion-tuple country="KWT" name="Muslim" percentage="85.0"/>
+   <religion-tuple country="SA" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="SYR" name="Muslim" percentage="90.0"/>
+   <religion-tuple country="SYR" name="Christian" percentage="10.0"/>
+   <religion-tuple country="RL" name="Christian" percentage="30.0"/>
+   <religion-tuple country="RL" name="Muslim" percentage="70.0"/>
+   <religion-tuple country="WEST" name="Muslim" percentage="75.0"/>
+   <religion-tuple country="WEST" name="Jewish" percentage="17.0"/>
+   <religion-tuple country="WEST" name="Christian" percentage="8.0"/>
+   <religion-tuple country="J" name="Buddhist" percentage="84.0"/>
+   <religion-tuple country="ROK" name="Buddhist" percentage="47.4"/>
+   <religion-tuple country="ROK" name="Christian" percentage="48.6"/>
+   <religion-tuple country="ROK" name="Confucianism" percentage="3.0"/>
+   <religion-tuple country="ROK" name="Chondogyo" percentage="0.2"/>
+   <religion-tuple country="MV" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="OM" name="Muslim" percentage="75.0"/>
+   <religion-tuple country="UAE" name="Muslim" percentage="96.0"/>
+   <religion-tuple country="RP" name="Muslim" percentage="5.0"/>
+   <religion-tuple country="RP" name="Roman Catholic" percentage="83.0"/>
+   <religion-tuple country="RP" name="Protestant" percentage="9.0"/>
+   <religion-tuple country="RP" name="Buddhist" percentage="3.0"/>
+   <religion-tuple country="Q" name="Muslim" percentage="95.0"/>
+   <religion-tuple country="CL" name="Muslim" percentage="8.0"/>
+   <religion-tuple country="CL" name="Christian" percentage="8.0"/>
+   <religion-tuple country="CL" name="Buddhist" percentage="69.0"/>
+   <religion-tuple country="CL" name="Hindu" percentage="15.0"/>
+   <religion-tuple country="RC" name="Christian" percentage="4.5"/>
+   <religion-tuple country="RC" name="Taoist" percentage="93.0"/>
+   <religion-tuple country="AXA" name="Roman Catholic" percentage="5.7"/>
+   <religion-tuple country="AXA" name="Protestant" percentage="30.2"/>
+   <religion-tuple country="AXA" name="Anglican" percentage="29.0"/>
+   <religion-tuple country="AXA" name="Methodist" percentage="23.9"/>
+   <religion-tuple country="ARU" name="Roman Catholic" percentage="80.8"/>
+   <religion-tuple country="ARU" name="Protestant" percentage="9.0"/>
+   <religion-tuple country="BS" name="Roman Catholic" percentage="19.0"/>
+   <religion-tuple country="BS" name="Protestant" percentage="12.0"/>
+   <religion-tuple country="BS" name="Anglican" percentage="20.0"/>
+   <religion-tuple country="BS" name="Baptist" percentage="32.0"/>
+   <religion-tuple country="BS" name="Methodist" percentage="6.0"/>
+   <religion-tuple country="BS" name="Church of God" percentage="6.0"/>
+   <religion-tuple country="BDS" name="Roman Catholic" percentage="4.0"/>
+   <religion-tuple country="BDS" name="Protestant" percentage="67.0"/>
+   <religion-tuple country="BZ" name="Roman Catholic" percentage="62.0"/>
+   <religion-tuple country="BZ" name="Protestant" percentage="30.0"/>
+   <religion-tuple country="MEX" name="Roman Catholic" percentage="89.0"/>
+   <religion-tuple country="MEX" name="Protestant" percentage="6.0"/>
+   <religion-tuple country="BERM" name="Roman Catholic" percentage="15.0"/>
+   <religion-tuple country="BERM" name="Anglican" percentage="23.0"/>
+   <religion-tuple country="BERM" name="Seventh-Day Adventist" percentage="5.0"/>
+   <religion-tuple country="BERM" name="Protestant" percentage="18.0"/>
+   <religion-tuple country="BERM" name="African Methodist Episcopal" percentage="11.0"/>
+   <religion-tuple country="BVIR" name="Roman Catholic" percentage="10.0"/>
+   <religion-tuple country="BVIR" name="Protestant" percentage="86.0"/>
+   <religion-tuple country="CDN" name="Roman Catholic" percentage="45.0"/>
+   <religion-tuple country="CDN" name="Anglican" percentage="8.0"/>
+   <religion-tuple country="CDN" name="United Church" percentage="12.0"/>
+   <religion-tuple country="USA" name="Jewish" percentage="2.0"/>
+   <religion-tuple country="USA" name="Roman Catholic" percentage="28.0"/>
+   <religion-tuple country="USA" name="Protestant" percentage="56.0"/>
+   <religion-tuple country="CAYM" name="Roman Catholic" percentage="11.0"/>
+   <religion-tuple country="CAYM" name="Anglican" percentage="5.7"/>
+   <religion-tuple country="CAYM" name="Church of God" percentage="26.0"/>
+   <religion-tuple country="CAYM" name="United Church" percentage="11.8"/>
+   <religion-tuple country="CR" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="NIC" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="NIC" name="Protestant" percentage="5.0"/>
+   <religion-tuple country="PA" name="Roman Catholic" percentage="85.0"/>
+   <religion-tuple country="PA" name="Protestant" percentage="15.0"/>
+   <religion-tuple country="C" name="Roman Catholic" percentage="85.0"/>
+   <religion-tuple country="WD" name="Roman Catholic" percentage="77.0"/>
+   <religion-tuple country="WD" name="Protestant" percentage="15.0"/>
+   <religion-tuple country="DOM" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="RH" name="Roman Catholic" percentage="80.0"/>
+   <religion-tuple country="RH" name="Protestant" percentage="16.0"/>
+   <religion-tuple country="ES" name="Roman Catholic" percentage="75.0"/>
+   <religion-tuple country="HCA" name="Roman Catholic" percentage="97.0"/>
+   <religion-tuple country="GROX" name="Protestant" percentage="100.0"/>
+   <religion-tuple country="GUAD" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="GUAD" name="Protestant" percentage="1.0"/>
+   <religion-tuple country="GUAD" name="Hindu" percentage="4.0"/>
+   <religion-tuple country="JA" name="Roman Catholic" percentage="5.0"/>
+   <religion-tuple country="JA" name="Protestant" percentage="55.9"/>
+   <religion-tuple country="MART" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="MART" name="Hindu" percentage="5.0"/>
+   <religion-tuple country="CO" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="PR" name="Roman Catholic" percentage="85.0"/>
+   <religion-tuple country="PR" name="Protestant" percentage="15.0"/>
+   <religion-tuple country="WL" name="Roman Catholic" percentage="90.0"/>
+   <religion-tuple country="WL" name="Protestant" percentage="7.0"/>
+   <religion-tuple country="WL" name="Anglican" percentage="3.0"/>
+   <religion-tuple country="SPMI" name="Roman Catholic" percentage="99.0"/>
+   <religion-tuple country="TT" name="Muslim" percentage="6.0"/>
+   <religion-tuple country="TT" name="Roman Catholic" percentage="32.2"/>
+   <religion-tuple country="TT" name="Protestant" percentage="14.0"/>
+   <religion-tuple country="TT" name="Anglican" percentage="14.4"/>
+   <religion-tuple country="TT" name="Hindu" percentage="24.3"/>
+   <religion-tuple country="TUCA" name="Anglican" percentage="18.0"/>
+   <religion-tuple country="TUCA" name="Baptist" percentage="40.0"/>
+   <religion-tuple country="TUCA" name="Church of God" percentage="12.0"/>
+   <religion-tuple country="TUCA" name="Methodist" percentage="16.0"/>
+   <religion-tuple country="VIRG" name="Roman Catholic" percentage="34.0"/>
+   <religion-tuple country="VIRG" name="Baptist" percentage="42.0"/>
+   <religion-tuple country="VIRG" name="Episcopalian" percentage="17.0"/>
+   <religion-tuple country="AMSA" name="Roman Catholic" percentage="20.0"/>
+   <religion-tuple country="AMSA" name="Protestant" percentage="30.0"/>
+   <religion-tuple country="AMSA" name="Christian Congregationalist" percentage="50.0"/>
+   <religion-tuple country="AUS" name="Roman Catholic" percentage="26.0"/>
+   <religion-tuple country="AUS" name="Anglican" percentage="26.1"/>
+   <religion-tuple country="AUS" name="Christian" percentage="24.3"/>
+   <religion-tuple country="COOK" name="Christian" percentage="100.0"/>
+   <religion-tuple country="FJI" name="Muslim" percentage="8.0"/>
+   <religion-tuple country="FJI" name="Christian" percentage="52.0"/>
+   <religion-tuple country="FJI" name="Hindu" percentage="38.0"/>
+   <religion-tuple country="FPOL" name="Roman Catholic" percentage="30.0"/>
+   <religion-tuple country="FPOL" name="Protestant" percentage="54.0"/>
+   <religion-tuple country="GUAM" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="KIR" name="Roman Catholic" percentage="52.6"/>
+   <religion-tuple country="KIR" name="Protestant" percentage="40.9"/>
+   <religion-tuple country="KIR" name="Mormon" percentage="6.0"/>
+   <religion-tuple country="MH" name="Christian" percentage="100.0"/>
+   <religion-tuple country="FSM" name="Roman Catholic" percentage="50.0"/>
+   <religion-tuple country="FSM" name="Protestant" percentage="47.0"/>
+   <religion-tuple country="NAU" name="Christian" percentage="100.0"/>
+   <religion-tuple country="NCA" name="Roman Catholic" percentage="60.0"/>
+   <religion-tuple country="NCA" name="Protestant" percentage="30.0"/>
+   <religion-tuple country="NZ" name="Roman Catholic" percentage="15.0"/>
+   <religion-tuple country="NZ" name="Protestant" percentage="3.0"/>
+   <religion-tuple country="NZ" name="Anglican" percentage="24.0"/>
+   <religion-tuple country="NZ" name="Baptist" percentage="2.0"/>
+   <religion-tuple country="NZ" name="Methodist" percentage="5.0"/>
+   <religion-tuple country="NZ" name="Presbyterian" percentage="18.0"/>
+   <religion-tuple country="NIUE" name="Mormon" percentage="10.0"/>
+   <religion-tuple country="NIUE" name="Ekalesia Niue" percentage="61.0"/>
+   <religion-tuple country="NIUE" name="Roman Catholic" percentage="7.2"/>
+   <religion-tuple country="NORF" name="Roman Catholic" percentage="11.7"/>
+   <religion-tuple country="NORF" name="Anglican" percentage="39.0"/>
+   <religion-tuple country="NORF" name="Seventh-Day Adventist" percentage="4.4"/>
+   <religion-tuple country="NORF" name="Uniting Church Australia" percentage="16.4"/>
+   <religion-tuple country="PITC" name="Seventh-Day Adventist" percentage="100.0"/>
+   <religion-tuple country="SLB" name="Roman Catholic" percentage="19.0"/>
+   <religion-tuple country="SLB" name="Protestant" percentage="5.0"/>
+   <religion-tuple country="SLB" name="Anglican" percentage="34.0"/>
+   <religion-tuple country="SLB" name="Baptist" percentage="17.0"/>
+   <religion-tuple country="SLB" name="Seventh-Day Adventist" percentage="10.0"/>
+   <religion-tuple country="SLB" name="United" percentage="11.0"/>
+   <religion-tuple country="TO" name="Christian" percentage="100.0"/>
+   <religion-tuple country="TUV" name="Bahai" percentage="1.0"/>
+   <religion-tuple country="TUV" name="Seventh-Day Adventist" percentage="1.4"/>
+   <religion-tuple country="TUV" name="Church Tuvalu" percentage="97.0"/>
+   <religion-tuple country="VU" name="Roman Catholic" percentage="15.0"/>
+   <religion-tuple country="VU" name="Anglican" percentage="15.0"/>
+   <religion-tuple country="VU" name="Seventh-Day Adventist" percentage="6.2"/>
+   <religion-tuple country="VU" name="Presbyterian" percentage="36.7"/>
+   <religion-tuple country="VU" name="Church Christ" percentage="3.8"/>
+   <religion-tuple country="WAFU" name="Roman Catholic" percentage="99.0"/>
+   <religion-tuple country="WS" name="Christian" percentage="99.7"/>
+   <religion-tuple country="RA" name="Jewish" percentage="2.0"/>
+   <religion-tuple country="RA" name="Roman Catholic" percentage="90.0"/>
+   <religion-tuple country="RA" name="Protestant" percentage="2.0"/>
+   <religion-tuple country="BOL" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="BR" name="Roman Catholic" percentage="70.0"/>
+   <religion-tuple country="RCH" name="Roman Catholic" percentage="89.0"/>
+   <religion-tuple country="RCH" name="Protestant" percentage="11.0"/>
+   <religion-tuple country="PY" name="Roman Catholic" percentage="90.0"/>
+   <religion-tuple country="ROU" name="Jewish" percentage="2.0"/>
+   <religion-tuple country="ROU" name="Roman Catholic" percentage="66.0"/>
+   <religion-tuple country="ROU" name="Protestant" percentage="2.0"/>
+   <religion-tuple country="PE" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="FGU" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="GUY" name="Muslim" percentage="9.0"/>
+   <religion-tuple country="GUY" name="Christian" percentage="57.0"/>
+   <religion-tuple country="GUY" name="Hindu" percentage="33.0"/>
+   <religion-tuple country="SME" name="Muslim" percentage="19.6"/>
+   <religion-tuple country="SME" name="Roman Catholic" percentage="22.8"/>
+   <religion-tuple country="SME" name="Protestant" percentage="25.2"/>
+   <religion-tuple country="SME" name="Hindu" percentage="27.4"/>
+   <religion-tuple country="YV" name="Roman Catholic" percentage="96.0"/>
+   <religion-tuple country="YV" name="Protestant" percentage="2.0"/>
+   <religion-tuple country="EC" name="Roman Catholic" percentage="95.0"/>
+   <religion-tuple country="DZ" name="Muslim" percentage="99.0"/>
+   <religion-tuple country="DZ" name="Christian" percentage="0.5"/>
+   <religion-tuple country="DZ" name="Jewish" percentage="0.5"/>
+   <religion-tuple country="LAR" name="Muslim" percentage="97.0"/>
+   <religion-tuple country="RMM" name="Muslim" percentage="90.0"/>
+   <religion-tuple country="RMM" name="Christian" percentage="1.0"/>
+   <religion-tuple country="RIM" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="MA" name="Muslim" percentage="98.7"/>
+   <religion-tuple country="MA" name="Jewish" percentage="0.2"/>
+   <religion-tuple country="MA" name="Christian" percentage="1.1"/>
+   <religion-tuple country="RN" name="Muslim" percentage="80.0"/>
+   <religion-tuple country="TN" name="Muslim" percentage="98.0"/>
+   <religion-tuple country="TN" name="Jewish" percentage="1.0"/>
+   <religion-tuple country="TN" name="Christian" percentage="1.0"/>
+   <religion-tuple country="WSA" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="ANG" name="Roman Catholic" percentage="38.0"/>
+   <religion-tuple country="ANG" name="Protestant" percentage="15.0"/>
+   <religion-tuple country="RCB" name="Muslim" percentage="2.0"/>
+   <religion-tuple country="RCB" name="Christian" percentage="50.0"/>
+   <religion-tuple country="NAM" name="Protestant" percentage="50.0"/>
+   <religion-tuple country="ZRE" name="Muslim" percentage="10.0"/>
+   <religion-tuple country="ZRE" name="Roman Catholic" percentage="50.0"/>
+   <religion-tuple country="ZRE" name="Protestant" percentage="20.0"/>
+   <religion-tuple country="ZRE" name="Kimbanguist" percentage="10.0"/>
+   <religion-tuple country="Z" name="Christian" percentage="60.0"/>
+   <religion-tuple country="Z" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="BEN" name="Muslim" percentage="15.0"/>
+   <religion-tuple country="BEN" name="Christian" percentage="15.0"/>
+   <religion-tuple country="BF" name="Muslim" percentage="50.0"/>
+   <religion-tuple country="BF" name="Christian" percentage="10.0"/>
+   <religion-tuple country="WAN" name="Muslim" percentage="50.0"/>
+   <religion-tuple country="WAN" name="Christian" percentage="40.0"/>
+   <religion-tuple country="RT" name="Muslim" percentage="10.0"/>
+   <religion-tuple country="RT" name="Christian" percentage="20.0"/>
+   <religion-tuple country="RB" name="Christian" percentage="50.0"/>
+   <religion-tuple country="RSA" name="Muslim" percentage="2.0"/>
+   <religion-tuple country="ZW" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="ZW" name="Christian" percentage="25.0"/>
+   <religion-tuple country="CI" name="Muslim" percentage="60.0"/>
+   <religion-tuple country="CI" name="Christian" percentage="12.0"/>
+   <religion-tuple country="GH" name="Muslim" percentage="30.0"/>
+   <religion-tuple country="GH" name="Christian" percentage="24.0"/>
+   <religion-tuple country="BI" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="BI" name="Christian" percentage="67.0"/>
+   <religion-tuple country="RWA" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="RWA" name="Roman Catholic" percentage="65.0"/>
+   <religion-tuple country="RWA" name="Protestant" percentage="9.0"/>
+   <religion-tuple country="CAM" name="Muslim" percentage="16.0"/>
+   <religion-tuple country="CAM" name="Christian" percentage="33.0"/>
+   <religion-tuple country="RCA" name="Muslim" percentage="15.0"/>
+   <religion-tuple country="RCA" name="Roman Catholic" percentage="25.0"/>
+   <religion-tuple country="RCA" name="Protestant" percentage="25.0"/>
+   <religion-tuple country="TCH" name="Muslim" percentage="50.0"/>
+   <religion-tuple country="TCH" name="Christian" percentage="25.0"/>
+   <religion-tuple country="GQ" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="G" name="Muslim" percentage="1.0"/>
+   <religion-tuple country="G" name="Christian" percentage="55.0"/>
+   <religion-tuple country="CV" name="Roman Catholic" percentage="100.0"/>
+   <religion-tuple country="SUD" name="Muslim" percentage="70.0"/>
+   <religion-tuple country="SUD" name="Christian" percentage="5.0"/>
+   <religion-tuple country="COM" name="Roman Catholic" percentage="14.0"/>
+   <religion-tuple country="COM" name="Muslim" percentage="86.0"/>
+   <religion-tuple country="RG" name="Muslim" percentage="85.0"/>
+   <religion-tuple country="RG" name="Christian" percentage="8.0"/>
+   <religion-tuple country="LB" name="Muslim" percentage="20.0"/>
+   <religion-tuple country="LB" name="Christian" percentage="10.0"/>
+   <religion-tuple country="DJI" name="Muslim" percentage="94.0"/>
+   <religion-tuple country="DJI" name="Christian" percentage="6.0"/>
+   <religion-tuple country="ETH" name="Muslim" percentage="45.0"/>
+   <religion-tuple country="ETH" name="Christian Orthodox" percentage="35.0"/>
+   <religion-tuple country="SP" name="Muslim" percentage="100.0"/>
+   <religion-tuple country="EAK" name="Roman Catholic" percentage="28.0"/>
+   <religion-tuple country="EAK" name="Protestant" percentage="38.0"/>
+   <religion-tuple country="WAG" name="Muslim" percentage="90.0"/>
+   <religion-tuple country="WAG" name="Christian" percentage="9.0"/>
+   <religion-tuple country="SN" name="Muslim" percentage="92.0"/>
+   <religion-tuple country="SN" name="Christian" percentage="2.0"/>
+   <religion-tuple country="GNB" name="Muslim" percentage="30.0"/>
+   <religion-tuple country="GNB" name="Christian" percentage="5.0"/>
+   <religion-tuple country="WAL" name="Muslim" percentage="60.0"/>
+   <religion-tuple country="WAL" name="Christian" percentage="10.0"/>
+   <religion-tuple country="EAU" name="Muslim" percentage="16.0"/>
+   <religion-tuple country="EAU" name="Roman Catholic" percentage="33.0"/>
+   <religion-tuple country="EAU" name="Protestant" percentage="33.0"/>
+   <religion-tuple country="LS" name="Christian" percentage="80.0"/>
+   <religion-tuple country="RM" name="Muslim" percentage="7.0"/>
+   <religion-tuple country="RM" name="Christian" percentage="41.0"/>
+   <religion-tuple country="MW" name="Muslim" percentage="20.0"/>
+   <religion-tuple country="MW" name="Roman Catholic" percentage="20.0"/>
+   <religion-tuple country="MW" name="Protestant" percentage="55.0"/>
+   <religion-tuple country="MOC" name="Muslim" percentage="20.0"/>
+   <religion-tuple country="MOC" name="Christian" percentage="30.0"/>
+   <religion-tuple country="MS" name="Muslim" percentage="16.6"/>
+   <religion-tuple country="MS" name="Christian" percentage="28.3"/>
+   <religion-tuple country="MS" name="Hindu" percentage="52.0"/>
+   <religion-tuple country="MAYO" name="Muslim" percentage="97.0"/>
+   <religion-tuple country="SD" name="Christian" percentage="60.0"/>
+   <religion-tuple country="REUN" name="Roman Catholic" percentage="94.0"/>
+   <religion-tuple country="SY" name="Roman Catholic" percentage="90.0"/>
+   <religion-tuple country="SY" name="Anglican" percentage="8.0"/>
+</religion>

@@ -1,0 +1,437 @@
+
+<locatedon>
+   <locatedon-tuple city="Iraklion" province="Kriti" country="GR" island="Kreta"/>
+   <locatedon-tuple city="Mytilini" province="Voreion Aiyaion" country="GR" island="Lesbos"/>
+   <locatedon-tuple city="Ajaccio" province="Corse" country="F" island="Corse"/>
+   <locatedon-tuple city="Palma de Mallorca" province="Balearic Islands" country="E" island="Mallorca"/>
+   <locatedon-tuple city="Santa Cruz de Tenerife" province="Canary Islands" country="E" island="Teneriffa"/>
+   <locatedon-tuple city="Las Palmas de Gran Canaria" province="Canary Islands" country="E" island="Gran Canaria"/>
+   <locatedon-tuple city="La Laguna" province="Canary Islands" country="E" island="Teneriffa"/>
+   <locatedon-tuple city="Palermo" province="Sicilia" country="I" island="Sicilia"/>
+   <locatedon-tuple city="Messina" province="Sicilia" country="I" island="Sicilia"/>
+   <locatedon-tuple city="Catania" province="Sicilia" country="I" island="Sicilia"/>
+   <locatedon-tuple city="Siracusa" province="Sicilia" country="I" island="Sicilia"/>
+   <locatedon-tuple city="Cagliari" province="Sardegna" country="I" island="Sardegna"/>
+   <locatedon-tuple city="Sassari" province="Sardegna" country="I" island="Sardegna"/>
+   <locatedon-tuple city="Yuzhno Sakhalinsk" province="Sakhalinskaya oblast" country="R" island="Sachalin"/>
+   <locatedon-tuple city="Copenhagen" province="Denmark" country="DK" island="Seeland"/>
+   <locatedon-tuple city="Odense" province="Denmark" country="DK" island="Fuenen"/>
+   <locatedon-tuple city="Torshavn" province="Faroe Islands" country="FARX" island="Streymoy"/>
+   <locatedon-tuple city="Saint Peter Port" province="Guernsey" country="GBG" island="Guernsey"/>
+   <locatedon-tuple city="Reykjavik" province="Iceland" country="IS" island="Iceland"/>
+   <locatedon-tuple city="Keflavik" province="Iceland" country="IS" island="Iceland"/>
+   <locatedon-tuple city="Hafnarfjoerdur" province="Iceland" country="IS" island="Iceland"/>
+   <locatedon-tuple city="Akureyri" province="Iceland" country="IS" island="Iceland"/>
+   <locatedon-tuple city="Dublin" province="Ireland" country="IRL" island="Ireland"/>
+   <locatedon-tuple city="Saint Helier" province="Jersey" country="GBJ" island="Jersey"/>
+   <locatedon-tuple city="Valletta" province="Malta" country="M" island="Malta"/>
+   <locatedon-tuple city="Victoria" province="Malta" country="M" island="Gozo"/>
+   <locatedon-tuple city="Douglas" province="Man" country="GBM" island="Isle of Man"/>
+   <locatedon-tuple city="Ponta Delgada" province="Azores" country="P" island="Sao Miguel"/>
+   <locatedon-tuple city="Funchal" province="Madeira" country="P" island="Madeira"/>
+   <locatedon-tuple city="Longyearbyen" province="Svalbard" country="SVAX" island="Svalbard"/>
+   <locatedon-tuple city="Bristol" province="Avon" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bedford" province="Bedfordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Luton" province="Bedfordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Reading" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wokingham" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newbury" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Windsor" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Slough" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bracknell" province="Berkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Aylesbury" province="Buckinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Milton Keynes" province="Buckinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wycombe" province="Buckinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Cambridge" province="Cambridgeshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Peterborough" province="Cambridgeshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Huntingdon" province="Cambridgeshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Chester" province="Cheshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Warrington" province="Cheshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Macclesfield" province="Cheshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Crewe" province="Cheshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Middlesbrough" province="Cleveland" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stockton on Tees" province="Cleveland" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Truro" province="Cornwall" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Carlisle" province="Cumbria" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Derby" province="Derbyshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sutton in Ashfield" province="Derbyshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Chesterfield" province="Derbyshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Matlock" province="Derbyshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Plymouth" province="Devon" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Exeter" province="Devon" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bournemouth" province="Dorset" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Poole" province="Dorset" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Dorchester" province="Dorset" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Darlington" province="Durham" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Durham" province="Durham" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Brighton" province="East Sussex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Lewes" province="East Sussex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Chelmsford" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Southend on Sea" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Basildon" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Colchester" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Braintree" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Epping Forest" province="Essex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Cheltenham" province="Gloucestershire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stroud" province="Gloucestershire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Gloucester" province="Gloucestershire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="London" province="Greater London" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Manchester" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wigan" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stockport" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bolton" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Salford" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Tameside" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Oldham" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Trafford" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Rochdale" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bury" province="Greater Manchester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Winchester" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Southampton" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Portsmouth" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Basingstoke" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Havant" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Eastleigh" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Fareham" province="Hampshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Worcester" province="Hereford and Worcester" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Saint Albans" province="Hertfordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Hertford" province="Hertfordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Kingston upon Hull" province="Humberside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Beverley" province="Humberside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Hull" province="Humberside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Maidstone" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Rochester upon Medway" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Canterbury" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Swale" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sevenoaks" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Dover" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Tonbridge" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Tunbridge Wells" province="Kent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Preston" province="Lancashire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Blackpool" province="Lancashire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Blackburn" province="Lancashire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Lancaster" province="Lancashire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Leichester" province="Leicestershire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Lincoln" province="Lincolnshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Liverpool" province="Merseyside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wiral" province="Merseyside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sefton" province="Merseyside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Saint Helens" province="Merseyside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Knowsley" province="Merseyside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Norwich" province="Norfolk" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Kings Lynn" province="Norfolk" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Northampton" province="Northamptonshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Harrogate" province="North Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Scarborough" province="North Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="York" province="North Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Northallerton" province="North Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Nottingham" province="Nottinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newark on Trent" province="Nottinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Mansfield" province="Nottinghamshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Oxford" province="Oxfordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Shrewsbury" province="Shropshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Taunton" province="Somerset" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Barnsley" province="South Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sheffield" province="South Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Doncaster" province="South Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Rotherham" province="South Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stafford" province="Staffordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stoke on Trent" province="Staffordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newcastle under Lyme" province="Staffordshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Ipswich" province="Suffolk" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Guildford" province="Surrey" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Reigate" province="Surrey" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Elmbridge" province="Surrey" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Kingston" province="Surrey" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sunderland" province="Tyne and Wear" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newcastle upon Tyne" province="Tyne and Wear" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Gateshead" province="Tyne and Wear" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Warwick" province="Warwickshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Nuneaton" province="Warwickshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stratford on Avon" province="Warwickshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Birmingham" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Dudley" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Coventry" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Walsall" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wolverhampton" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Solihull" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="West Bromwich" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Sandwell" province="West Midlands" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Chichester" province="West Sussex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Horsham" province="West Sussex" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wakefield" province="West Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Leeds" province="West Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bradford" province="West Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Kirklees" province="West Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Huddersfield" province="West Yorkshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Salisbury" province="Wiltshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Trowbridge" province="Wiltshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newtown St. Boswells" province="Borders" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Stirling" province="Central" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Dumfries" province="Dumfries and Galloway" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Glenrothes" province="Fife" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Aberdeen" province="Grampian" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Inverness" province="Highland" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Edinburgh" province="Lothian" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Glasgow" province="Strathclyde" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Renfrew" province="Strathclyde" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Dundee" province="Tayside" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Colwyn Bay" province="Aberconwy and Colwyn" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Llangefni" province="Anglesey" country="GB" island="Anglesey"/>
+   <locatedon-tuple city="Ebbw Vale" province="Blaenau Gwent" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Bridgend" province="Bridgend" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Ystrad Fawr" province="Caerphilly" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Cardiff" province="Cardiff" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Carmarthen" province="Carmarthenshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Aberystwyth" province="Ceredigion" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Ruthin" province="Denbighshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Mold" province="Flintshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Caernarfon" province="Gwynedd" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Merthyr Tydfil" province="Merthyr Tydfil" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Cwmbran" province="Monmouthshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Port Talbot" province="Neath and Port Talbot" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Newport" province="Newport" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Haverfordwest" province="Pembrokeshire" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Llandrindod Wells" province="Powys" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Rhondda" province="Rhondda Cynon Taff" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Swansea" province="Swansea" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Pontypool" province="Torfaen" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Rhymney Valley" province="Vale of Glamorgan" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Barry" province="Vale of Glamorgan" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Wrexham" province="Wrexham" country="GB" island="Great Britain"/>
+   <locatedon-tuple city="Belfast" province="Northern Ireland" country="GB" island="Ireland"/>
+   <locatedon-tuple city="Kirkwall" province="Orkneys" country="GB" island="Orkney Mainland"/>
+   <locatedon-tuple city="Stornoway" province="Outer Hebrides" country="GB" island="Lewis and Harris"/>
+   <locatedon-tuple city="Lerwick" province="Shetland" country="GB" island="Shetland Mainland"/>
+   <locatedon-tuple city="Haikou" province="Hainan" country="TJ" island="Hainan"/>
+   <locatedon-tuple city="Sanya" province="Hainan" country="TJ" island="Hainan"/>
+   <locatedon-tuple city="Manama" province="Bahrain" country="BRN" island="Bahrain"/>
+   <locatedon-tuple city="Port Blair" province="Andaman and Nicobar Is." country="IND" island="South Andaman Island"/>
+   <locatedon-tuple city="Kavaratti" province="Lakshadweep Is." country="IND" island="Kavaratti"/>
+   <locatedon-tuple city="Bandar Seri Begawan" province="Brunei" country="BRU" island="Borneo"/>
+   <locatedon-tuple city="Kota Kinabalu" province="Sabah" country="MAL" island="Borneo"/>
+   <locatedon-tuple city="Tawai" province="Sabah" country="MAL" island="Borneo"/>
+   <locatedon-tuple city="Sandakan" province="Sabah" country="MAL" island="Borneo"/>
+   <locatedon-tuple city="Kuching" province="Sarawak" country="MAL" island="Borneo"/>
+   <locatedon-tuple city="Sibu" province="Sarawak" country="MAL" island="Borneo"/>
+   <locatedon-tuple city="Flying Fish Cove" province="Christmas Island" country="XMAS" island="Christmas Island"/>
+   <locatedon-tuple city="West Island" province="Cocos Islands" country="COCO" island="Pulau Panjang"/>
+   <locatedon-tuple city="Nicosia" province="Cyprus" country="CY" island="Cyprus"/>
+   <locatedon-tuple city="Jakarta" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Bandung" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Semarang" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Surabaya" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Yogyakarta" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Banda Aceh" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Bengkulu" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Jambi" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Bandar Lampung" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Padang" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Palembang" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Medan" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Pontianak" province="Indonesia" country="RI" island="Borneo"/>
+   <locatedon-tuple city="Banjarmasin" province="Indonesia" country="RI" island="Borneo"/>
+   <locatedon-tuple city="Palangkaraya" province="Indonesia" country="RI" island="Borneo"/>
+   <locatedon-tuple city="Samarinda" province="Indonesia" country="RI" island="Borneo"/>
+   <locatedon-tuple city="Ujung Pandang" province="Indonesia" country="RI" island="Sulawesi"/>
+   <locatedon-tuple city="Ambon" province="Indonesia" country="RI" island="Ambon"/>
+   <locatedon-tuple city="Malang" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Surakarta" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Pekan Baru" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Balikpapan" province="Indonesia" country="RI" island="Borneo"/>
+   <locatedon-tuple city="Manado" province="Indonesia" country="RI" island="Sulawesi"/>
+   <locatedon-tuple city="Bogor" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Cirebon" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Kediri" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Pekalongan" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Tegal" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Pematang Siantar" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Binjai" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Probolinggo" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Madiun" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Pasuruan" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Magelang" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Sukabumi" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Gorontalo" province="Indonesia" country="RI" island="Sulawesi"/>
+   <locatedon-tuple city="Blitar" province="Indonesia" country="RI" island="Java"/>
+   <locatedon-tuple city="Tebing Tinggi" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Pangkal Pinang" province="Indonesia" country="RI" island="Bangka"/>
+   <locatedon-tuple city="Tanjung Balai" province="Indonesia" country="RI" island="Sumatra"/>
+   <locatedon-tuple city="Batam" province="Indonesia" country="RI" island="Batam"/>
+   <locatedon-tuple city="Pare Pare" province="Indonesia" country="RI" island="Sulawesi"/>
+   <locatedon-tuple city="Dili" province="Timor-Leste" country="TL" island="Timor"/>
+   <locatedon-tuple city="Port Moresby" province="Papua New Guinea" country="PNG" island="New Guinea"/>
+   <locatedon-tuple city="Sapporo" province="Hokkaido" country="J" island="Hokkaido"/>
+   <locatedon-tuple city="Hakodate" province="Hokkaido" country="J" island="Hokkaido"/>
+   <locatedon-tuple city="Aomori" province="Aomori" country="J" island="Honshu"/>
+   <locatedon-tuple city="Morioka" province="Iwate" country="J" island="Honshu"/>
+   <locatedon-tuple city="Sendai" province="Miyagi" country="J" island="Honshu"/>
+   <locatedon-tuple city="Akita" province="Akita" country="J" island="Honshu"/>
+   <locatedon-tuple city="Yamagata" province="Yamagata" country="J" island="Honshu"/>
+   <locatedon-tuple city="Fukushima" province="Fukushima" country="J" island="Honshu"/>
+   <locatedon-tuple city="Mito" province="Ibaraki" country="J" island="Honshu"/>
+   <locatedon-tuple city="Utsonomiya" province="Tochigi" country="J" island="Honshu"/>
+   <locatedon-tuple city="Maebashi" province="Gumma" country="J" island="Honshu"/>
+   <locatedon-tuple city="Urawa" province="Saitama" country="J" island="Honshu"/>
+   <locatedon-tuple city="Chiba" province="Chiba" country="J" island="Honshu"/>
+   <locatedon-tuple city="Tokyo" province="Tokyo" country="J" island="Honshu"/>
+   <locatedon-tuple city="Yokohama" province="Kanagawa" country="J" island="Honshu"/>
+   <locatedon-tuple city="Kawasaki" province="Kanagawa" country="J" island="Honshu"/>
+   <locatedon-tuple city="Niigata" province="Niigata" country="J" island="Honshu"/>
+   <locatedon-tuple city="Toyama" province="Toyama" country="J" island="Honshu"/>
+   <locatedon-tuple city="Kanazawa" province="Ishikawa" country="J" island="Honshu"/>
+   <locatedon-tuple city="Fukui" province="Fukui" country="J" island="Honshu"/>
+   <locatedon-tuple city="Kofu" province="Yamanashi" country="J" island="Honshu"/>
+   <locatedon-tuple city="Nagano" province="Nagano" country="J" island="Honshu"/>
+   <locatedon-tuple city="Gifu" province="Gifu" country="J" island="Honshu"/>
+   <locatedon-tuple city="Shizuoka" province="Shizuoka" country="J" island="Honshu"/>
+   <locatedon-tuple city="Nagoya" province="Aichi" country="J" island="Honshu"/>
+   <locatedon-tuple city="Tsu" province="Mie" country="J" island="Honshu"/>
+   <locatedon-tuple city="Otsu" province="Shiga" country="J" island="Honshu"/>
+   <locatedon-tuple city="Kyoto" province="Kyoto" country="J" island="Honshu"/>
+   <locatedon-tuple city="Osaka" province="Osaka" country="J" island="Honshu"/>
+   <locatedon-tuple city="Kobe" province="Hyogo" country="J" island="Honshu"/>
+   <locatedon-tuple city="Nara" province="Nara" country="J" island="Honshu"/>
+   <locatedon-tuple city="Wakayama" province="Wakayama" country="J" island="Honshu"/>
+   <locatedon-tuple city="Tottori" province="Tottori" country="J" island="Honshu"/>
+   <locatedon-tuple city="Matsue" province="Shimane" country="J" island="Honshu"/>
+   <locatedon-tuple city="Okayama" province="Okayama" country="J" island="Honshu"/>
+   <locatedon-tuple city="Hiroshima" province="Hiroshima" country="J" island="Honshu"/>
+   <locatedon-tuple city="Yamaguchi" province="Yamaguchi" country="J" island="Honshu"/>
+   <locatedon-tuple city="Tokushima" province="Tokushima" country="J" island="Shikoku"/>
+   <locatedon-tuple city="Takamatsu" province="Kagawa" country="J" island="Shikoku"/>
+   <locatedon-tuple city="Matsuyama" province="Ehime" country="J" island="Shikoku"/>
+   <locatedon-tuple city="Kochi" province="Kochi" country="J" island="Shikoku"/>
+   <locatedon-tuple city="Fukuoka" province="Fukuoka" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Kita Kyushu" province="Fukuoka" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Saga" province="Saga" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Nagasaki" province="Nagasaki" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Kumamoto" province="Kumamoto" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Oita" province="Oita" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Miyazaki" province="Miyazaki" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Kagoshima" province="Kagoshima" country="J" island="Kyushu"/>
+   <locatedon-tuple city="Naha" province="Okinawa" country="J" island="Okinawa"/>
+   <locatedon-tuple city="Male" province="Maldives" country="MV" island="Male"/>
+   <locatedon-tuple city="Manila" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Quezon" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Kalookan" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Davao" province="Philippines" country="RP" island="Mindanao"/>
+   <locatedon-tuple city="Cebu" province="Philippines" country="RP" island="Cebu"/>
+   <locatedon-tuple city="Zamboanga" province="Philippines" country="RP" island="Mindanao"/>
+   <locatedon-tuple city="Makati" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Pasig" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Cagayan de Oro" province="Philippines" country="RP" island="Mindanao"/>
+   <locatedon-tuple city="Pasay" province="Philippines" country="RP" island="Luzon"/>
+   <locatedon-tuple city="Singapore" province="Singapore" country="SGP" island="Singapore"/>
+   <locatedon-tuple city="Colombo" province="Sri Lanka" country="CL" island="Sri Lanka"/>
+   <locatedon-tuple city="Changhua" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Hualien" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Fengshan" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Pingtung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Fengyuan" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Panchiao" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Chungho" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Sanchuung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Hsinchuang" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Yungho" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Hsintien" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Taitung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Taoyuan" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Chungli" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Chiai" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Chilung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Hsinchu" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Kaohsiung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Taichung" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Tainan" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="Taipei" province="Taiwan" country="RC" island="Taiwan"/>
+   <locatedon-tuple city="The Valley" province="Anguilla" country="AXA" island="Anguilla"/>
+   <locatedon-tuple city="Saint Johns" province="Antigua and Barbuda" country="AG" island="Antigua"/>
+   <locatedon-tuple city="Oranjestad" province="Aruba" country="ARU" island="Aruba"/>
+   <locatedon-tuple city="Nassau" province="Bahamas" country="BS" island="New Providence"/>
+   <locatedon-tuple city="Bridgetown" province="Barbados" country="BDS" island="Barbados"/>
+   <locatedon-tuple city="Hamilton" province="Bermuda" country="BERM" island="Grand Bermuda"/>
+   <locatedon-tuple city="Road Town" province="British Virgin Islands" country="BVIR" island="Tortola"/>
+   <locatedon-tuple city="Victoria" province="British Columbia" country="CDN" island="Vancouver Island"/>
+   <locatedon-tuple city="Saint Johns" province="Newfoundland" country="CDN" island="Newfoundland"/>
+   <locatedon-tuple city="George Town" province="Cayman Islands" country="CAYM" island="Grand Cayman"/>
+   <locatedon-tuple city="Camaguey" province="Camaguey" country="C" island="Cuba"/>
+   <locatedon-tuple city="Ciego de Avila" province="Ciego de Avila" country="C" island="Cuba"/>
+   <locatedon-tuple city="Cienfuegos" province="Cienfuegos" country="C" island="Cuba"/>
+   <locatedon-tuple city="Havana" province="Ciudad de la Habana" country="C" island="Cuba"/>
+   <locatedon-tuple city="Bayamo" province="Granma" country="C" island="Cuba"/>
+   <locatedon-tuple city="Manzanillo" province="Granma" country="C" island="Cuba"/>
+   <locatedon-tuple city="Guantanamo" province="Guantanamo" country="C" island="Cuba"/>
+   <locatedon-tuple city="Holguin" province="Holguin" country="C" island="Cuba"/>
+   <locatedon-tuple city="Victoria de las Tunas" province="Las Tunas" country="C" island="Cuba"/>
+   <locatedon-tuple city="Matanzas" province="Matanzas" country="C" island="Cuba"/>
+   <locatedon-tuple city="Pinar del Rio" province="Pinar del Rio" country="C" island="Cuba"/>
+   <locatedon-tuple city="Sancti Spiritus" province="Sancti Spiritus" country="C" island="Cuba"/>
+   <locatedon-tuple city="Santiago de Cuba" province="Santiago de Cuba" country="C" island="Cuba"/>
+   <locatedon-tuple city="Santa Clara" province="Villa Clara" country="C" island="Cuba"/>
+   <locatedon-tuple city="Nueva Gerona" province="Isla de la Juventud" country="C" island="Cuba"/>
+   <locatedon-tuple city="Roseau" province="Dominica" country="WD" island="Dominica"/>
+   <locatedon-tuple city="Santo Domingo" province="Dominican Republic" country="DOM" island="Hispaniola"/>
+   <locatedon-tuple city="Port-au-Prince" province="Haiti" country="RH" island="Hispaniola"/>
+   <locatedon-tuple city="Nuuk" province="Greenland" country="GROX" island="Greenland"/>
+   <locatedon-tuple city="Saint Georges" province="Grenada" country="WG" island="Grenada"/>
+   <locatedon-tuple city="Basse-Terre" province="Guadeloupe" country="GUAD" island="Basse-Terre"/>
+   <locatedon-tuple city="Kingston" province="Jamaica" country="JA" island="Jamaica"/>
+   <locatedon-tuple city="Fort-de-France" province="Martinique" country="MART" island="Martinique"/>
+   <locatedon-tuple city="Plymouth" province="Montserrat" country="MNTS" island="Montserrat"/>
+   <locatedon-tuple city="Willemstad" province="Netherlands Antilles" country="NA" island="Curacao"/>
+   <locatedon-tuple city="Marigot" province="Saint Martin" country="SMAR" island="St. Martin"/>
+   <locatedon-tuple city="San Juan" province="Puerto Rico" country="PR" island="Puerto Rico"/>
+   <locatedon-tuple city="Basseterre" province="Saint Kitts and Nevis" country="KN" island="Saint Kitts"/>
+   <locatedon-tuple city="Castries" province="Saint Lucia" country="WL" island="Saint Lucia"/>
+   <locatedon-tuple city="Saint-Pierre" province="Saint Pierre and Miquelon" country="SPMI" island="Saint Pierre"/>
+   <locatedon-tuple city="Kingstown" province="Saint Vincent and the Grenadines" country="WV" island="Saint Vincent"/>
+   <locatedon-tuple city="Port-of-Spain" province="Trinidad and Tobago" country="TT" island="Trinidad"/>
+   <locatedon-tuple city="Grand Turk" province="Turks and Caicos Islands" country="TUCA" island="Grand Turk"/>
+   <locatedon-tuple city="Charlotte Amalie" province="Virgin Islands" country="VIRG" island="Saint Thomas"/>
+   <locatedon-tuple city="Pago Pago" province="American Samoa" country="AMSA" island="Tutuila"/>
+   <locatedon-tuple city="Hobart" province="Tasmania" country="AUS" island="Tasmania"/>
+   <locatedon-tuple city="Avarua" province="Cook Islands" country="COOK" island="Rarotonga"/>
+   <locatedon-tuple city="Suva" province="Fiji" country="FJI" island="Viti Levu"/>
+   <locatedon-tuple city="Papeete" province="French Polynesia" country="FPOL" island="Tahiti"/>
+   <locatedon-tuple city="Agana" province="Guam" country="GUAM" island="Guam"/>
+   <locatedon-tuple city="Dededo" province="Guam" country="GUAM" island="Guam"/>
+   <locatedon-tuple city="Tarawa" province="Kiribati" country="KIR" island="Tarawa"/>
+   <locatedon-tuple city="Majuro" province="Marshall Islands" country="MH" island="Majuro"/>
+   <locatedon-tuple city="Kolonia" province="Micronesia" country="FSM" island="Ponape"/>
+   <locatedon-tuple city="Palikir" province="Micronesia" country="FSM" island="Ponape"/>
+   <locatedon-tuple city="Yaren" province="Nauru" country="NAU" island="Nauru"/>
+   <locatedon-tuple city="Noumea" province="New Caledonia" country="NCA" island="Grande Terre"/>
+   <locatedon-tuple city="Wellington" province="New Zealand" country="NZ" island="Te Ika-a-Maui (North Island)"/>
+   <locatedon-tuple city="Auckland" province="New Zealand" country="NZ" island="Te Ika-a-Maui (North Island)"/>
+   <locatedon-tuple city="Christchurch" province="New Zealand" country="NZ" island="Te Waka-a-Maui (South Island)"/>
+   <locatedon-tuple city="Alofi" province="Niue" country="NIUE" island="Niue"/>
+   <locatedon-tuple city="Kingston" province="Norfolk Island" country="NORF" island="Norfolk Island"/>
+   <locatedon-tuple city="Saipan" province="Northern Mariana Islands" country="NMIS" island="Saipan"/>
+   <locatedon-tuple city="Koror" province="Palau" country="PAL" island="Koror"/>
+   <locatedon-tuple city="Melekeok" province="Palau" country="PAL" island="Babelthuap"/>
+   <locatedon-tuple city="Adamstown" province="Pitcairn Islands" country="PITC" island="Pitcairn"/>
+   <locatedon-tuple city="Honiara" province="Solomon Islands" country="SLB" island="Guadalcanal"/>
+   <locatedon-tuple city="Nukualofa" province="Tonga" country="TO" island="Tongatapu"/>
+   <locatedon-tuple city="Funafuti" province="Tuvalu" country="TUV" island="Fongafale"/>
+   <locatedon-tuple city="Port-Vila" province="Vanuatu" country="VU" island="Efate"/>
+   <locatedon-tuple city="Mata-Utu" province="Wallis and Futuna" country="WAFU" island="Uvea"/>
+   <locatedon-tuple city="Apia" province="Samoa" country="WS" island="Upolu"/>
+   <locatedon-tuple city="Stanley" province="Falkland Islands" country="FALK" island="East Falkland"/>
+   <locatedon-tuple city="Malabo" province="Equatorial Guinea" country="GQ" island="Bioko"/>
+   <locatedon-tuple city="Praia" province="Cape Verde" country="CV" island="Santiago"/>
+   <locatedon-tuple city="Moroni" province="Comoros" country="COM" island="Grand Comoro"/>
+   <locatedon-tuple city="Antsiranana" province="Antsiranana" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Antananarivo" province="Antananarivo" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Antsirabe" province="Antananarivo" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Fianarantsoa" province="Fianarantsoa" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Majunga" province="Mahajanga" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Tamatave" province="Toamasina" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Toliara" province="Toliara" country="RM" island="Madagaskar"/>
+   <locatedon-tuple city="Port Louis" province="Mauritius" country="MS" island="Mauritius"/>
+   <locatedon-tuple city="Mamoutzou" province="Mayotte" country="MAYO" island="Mayotte"/>
+   <locatedon-tuple city="Saint-Denis" province="Reunion" country="REUN" island="Reunion"/>
+   <locatedon-tuple city="Jamestown" province="Saint Helena" country="HELX" island="Saint Helena"/>
+   <locatedon-tuple city="Sao Tome" province="Sao Tome and Principe" country="STP" island="Sao Tome"/>
+   <locatedon-tuple city="Victoria" province="Seychelles" country="SY" island="Mahe"/>
+</locatedon>

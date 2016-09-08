@@ -1,0 +1,156 @@
+
+<organization>
+   <organization-tuple abbreviation="ACP" name="African, Caribbean, and Pacific Countries" city="Brussels" country="B" province="Brabant" established="1976-04-01"/>
+   <organization-tuple abbreviation="AfDB" name="African Development Bank" city="Abidjan" country="CI" province="Cote dIvoire" established="1963-08-04"/>
+   <organization-tuple abbreviation="ACCT" name="Agency for Cultural and Technical Cooperation" city="Paris" country="F" province="Ile de France" established="1970-03-21"/>
+   <organization-tuple abbreviation="OPANAL" name="Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean" city="Mexico City" country="MEX" province="Distrito Federal" established="1967-02-14"/>
+   <organization-tuple abbreviation="AG" name="Andean Group" city="Lima" country="PE" province="Lima" established="1969-05-26"/>
+   <organization-tuple abbreviation="ABEDA" name="Arab Bank for Economic Development in Africa" city="Khartoum" country="SUD" province="al Khartum" established="1974-02-18"/>
+   <organization-tuple abbreviation="ACC" name="Arab Cooperation Council" city="MISSING" country="MISSING" province="MISSING" established="1989-02-16"/>
+   <organization-tuple abbreviation="AFESD" name="Arab Fund for Economic and Social Development" city="MISSING" country="MISSING" province="MISSING" established="1968-05-16"/>
+   <organization-tuple abbreviation="AL" name="Arab League" city="Cairo" country="ET" province="El Qahira" established="1945-03-22"/>
+   <organization-tuple abbreviation="AMU" name="Arab Maghreb Union" city="Rabat" country="MA" province="Morocco" established="1989-02-17"/>
+   <organization-tuple abbreviation="AMF" name="Arab Monetary Fund" city="Abu Dhabi" country="UAE" province="Abu Dhabi" established="1976-04-27"/>
+   <organization-tuple abbreviation="APEC" name="Asia Pacific Economic Cooperation" city="Singapore" country="SGP" province="Singapore" established="1989-11-07"/>
+   <organization-tuple abbreviation="AsDB" name="Asian Development Bank" city="Manila" country="RP" province="Philippines" established="1966-12-19"/>
+   <organization-tuple abbreviation="ASEAN" name="Association of Southeast Asian Nations" city="Jakarta" country="RI" province="Indonesia" established="1967-08-09"/>
+   <organization-tuple abbreviation="Mekong Group" name="ASEAN-Mekong Basin Development Group" city="MISSING" country="MISSING" province="MISSING" established="1995-12-01"/>
+   <organization-tuple abbreviation="ANZUS" name="Australia-New Zealand-United States Security Treaty" city="Canberra" country="AUS" province="Australia Capital Territory" established="1951-09-01"/>
+   <organization-tuple abbreviation="BIS" name="Bank for International Settlements" city="Basel" country="CH" province="BS" established="1930-01-20"/>
+   <organization-tuple abbreviation="Benelux" name="Benelux Economic Union" city="Brussels" country="B" province="Brabant" established="1958-02-03"/>
+   <organization-tuple abbreviation="BSEC" name="Black Sea Economic Cooperation Zone" city="MISSING" country="MISSING" province="MISSING" established="1992-06-25"/>
+   <organization-tuple abbreviation="Caricom" name="Caribbean Community and Common Market" city="Georgetown" country="GUY" province="Guyana" established="1973-07-04"/>
+   <organization-tuple abbreviation="CDB" name="Caribbean Development Bank" city="MISSING" country="MISSING" province="MISSING" established="1969-10-18"/>
+   <organization-tuple abbreviation="UDEAC" name="Central African Customs and Economic Union" city="Bangui" country="RCA" province="Central African Republic" established="1964-12-08"/>
+   <organization-tuple abbreviation="BDEAC" name="Central African States Development Bank" city="Brazzaville" country="RCB" province="Congo" established="1975-12-03"/>
+   <organization-tuple abbreviation="BCIE" name="Central American Bank for Economic Integration" city="Tegucigalpa" country="HCA" province="Francisco Morazan" established="1960-12-13"/>
+   <organization-tuple abbreviation="CACM" name="Central American Common Market" city="Guatemala City" country="GCA" province="Guatemala" established="1960-12-13"/>
+   <organization-tuple abbreviation="CEI" name="Central European Initiative" city="Budapest" country="H" province="Budapest (munic.)" established="1991-07-27"/>
+   <organization-tuple abbreviation="CP" name="Colombo Plan" city="Colombo" country="CL" province="Sri Lanka" established="1951-07-01"/>
+   <organization-tuple abbreviation="C" name="Commonwealth" city="London" country="GB" province="Greater London" established="1931-12-31"/>
+   <organization-tuple abbreviation="CIS" name="Commonwealth of Independent States" city="Minsk" country="BY" province="Belarus" established="1991-12-08"/>
+   <organization-tuple abbreviation="CAEU" name="Council of Arab Economic Unity" city="Amman" country="JOR" province="Jordan" established="1957-06-03"/>
+   <organization-tuple abbreviation="CE" name="Council of Europe" city="Strasbourg" country="F" province="Alsace" established="1949-05-05"/>
+   <organization-tuple abbreviation="CBSS" name="Council of the Baltic Sea States" city="MISSING" country="MISSING" province="MISSING" established="1992-03-05"/>
+   <organization-tuple abbreviation="Entente" name="Council of the Entente" city="Abidjan" country="CI" province="Cote dIvoire" established="1959-05-29"/>
+   <organization-tuple abbreviation="CCC" name="Customs Cooperation Council" city="Brussels" country="B" province="Brabant" established="1950-12-15"/>
+   <organization-tuple abbreviation="EADB" name="East African Development Bank" city="Kampala" country="EAU" province="Uganda" established="1967-06-06"/>
+   <organization-tuple abbreviation="ESCAP" name="Economic and Social Commission for Asia and the Pacific" city="Bangkok" country="THA" province="Thailand" established="1947-03-28"/>
+   <organization-tuple abbreviation="ESCWA" name="Economic and Social Commission for Western Asia" city="Amman" country="JOR" province="Jordan" established="1973-08-09"/>
+   <organization-tuple abbreviation="ECA" name="Economic Commission for Africa" city="Addis Ababa" country="ETH" province="Ethiopia" established="1958-04-29"/>
+   <organization-tuple abbreviation="ECE" name="Economic Commission for Europe" city="Geneva" country="CH" province="GE" established="1947-03-28"/>
+   <organization-tuple abbreviation="ECLAC" name="Economic Commission for Latin America and the Caribbean" city="Santiago" country="RCH" province="Chile" established="1948-02-25"/>
+   <organization-tuple abbreviation="CEEAC" name="Economic Community of Central African States" city="Libreville" country="G" province="Gabon" established="1983-10-18"/>
+   <organization-tuple abbreviation="CEPGL" name="Economic Community of the Great Lakes Countries" city="MISSING" country="MISSING" province="MISSING" established="1976-09-26"/>
+   <organization-tuple abbreviation="ECOWAS" name="Economic Community of West African States" city="Lagos" country="WAN" province="Nigeria" established="1975-05-28"/>
+   <organization-tuple abbreviation="ECO" name="Economic Cooperation Organization" city="Tehran" country="IR" province="Tehran" established="1985-01-01"/>
+   <organization-tuple abbreviation="EBRD" name="European Bank for Reconstruction and Development" city="London" country="GB" province="Greater London" established="1991-04-15"/>
+   <organization-tuple abbreviation="EFTA" name="European Free Trade Association" city="Geneva" country="CH" province="GE" established="1960-01-04"/>
+   <organization-tuple abbreviation="EIB" name="European Investment Bank" city="Luxembourg" country="L" province="Luxembourg" established="1957-03-25"/>
+   <organization-tuple abbreviation="CERN" name="European Organization for Nuclear Research" city="Geneva" country="CH" province="GE" established="1953-07-01"/>
+   <organization-tuple abbreviation="ESA" name="European Space Agency" city="Paris" country="F" province="Ile de France" established="1973-07-31"/>
+   <organization-tuple abbreviation="EU" name="European Union" city="Brussels" country="B" province="Brabant" established="1992-02-07"/>
+   <organization-tuple abbreviation="FAO" name="Food and Agriculture Organization" city="Rome" country="I" province="Lazio" established="1945-10-16"/>
+   <organization-tuple abbreviation="FZ" name="Franc Zone" city="Paris" country="F" province="Ile de France" established="1945-12-20"/>
+   <organization-tuple abbreviation="G-2" name="Group of 2" city="MISSING" country="MISSING" province="MISSING" established="MISSING"/>
+   <organization-tuple abbreviation="G-3" name="Group of 3" city="MISSING" country="MISSING" province="MISSING" established="1990-10-01"/>
+   <organization-tuple abbreviation="G-5" name="Group of 5" city="MISSING" country="MISSING" province="MISSING" established="1985-09-22"/>
+   <organization-tuple abbreviation="G-6" name="Group of 6" city="MISSING" country="MISSING" province="MISSING" established="1984-05-22"/>
+   <organization-tuple abbreviation="G-7" name="Group of 7" city="MISSING" country="MISSING" province="MISSING" established="1985-09-22"/>
+   <organization-tuple abbreviation="G-8" name="Group of 8" city="MISSING" country="MISSING" province="MISSING" established="1975-10-01"/>
+   <organization-tuple abbreviation="G-9" name="Group of 9" city="MISSING" country="MISSING" province="MISSING" established="MISSING"/>
+   <organization-tuple abbreviation="G-10" name="Group of 10" city="Paris" country="F" province="Ile de France" established="1962-10-01"/>
+   <organization-tuple abbreviation="G-11" name="Group of 11" city="MISSING" country="MISSING" province="MISSING" established="1984-06-22"/>
+   <organization-tuple abbreviation="G-15" name="Group of 15" city="Geneva" country="CH" province="GE" established="MISSING"/>
+   <organization-tuple abbreviation="G-19" name="Group of 19" city="MISSING" country="MISSING" province="MISSING" established="1975-10-01"/>
+   <organization-tuple abbreviation="G-24" name="Group of 24" city="Brussels" country="B" province="Brabant" established="1972-01-01"/>
+   <organization-tuple abbreviation="G-77" name="Group of 77" city="MISSING" country="MISSING" province="MISSING" established="1967-10-01"/>
+   <organization-tuple abbreviation="GCC" name="Gulf Cooperation Council" city="Riyadh" country="SA" province="Saudi Arabia" established="1981-05-25"/>
+   <organization-tuple abbreviation="IADB" name="Inter-American Development Bank" city="Washington" country="USA" province="Distr. Columbia" established="1959-04-08"/>
+   <organization-tuple abbreviation="IGADD" name="Inter-Governmental Authority on Drought and Development" city="Djibouti" country="DJI" province="Djibouti" established="1986-01-15"/>
+   <organization-tuple abbreviation="IAEA" name="International Atomic Energy Agency" city="Vienna" country="A" province="Vienna" established="1956-10-26"/>
+   <organization-tuple abbreviation="IBRD" name="International Bank for Reconstruction and Development" city="Washington" country="USA" province="Distr. Columbia" established="1944-07-22"/>
+   <organization-tuple abbreviation="ICC" name="International Chamber of Commerce" city="Paris" country="F" province="Ile de France" established="1919-01-01"/>
+   <organization-tuple abbreviation="ICAO" name="International Civil Aviation Organization" city="Montreal" country="CDN" province="Quebec" established="1944-12-07"/>
+   <organization-tuple abbreviation="ICFTU" name="International Confederation of Free Trade Unions" city="Brussels" country="B" province="Brabant" established="1949-12-01"/>
+   <organization-tuple abbreviation="Interpol" name="International Criminal Police Organization" city="Lyon" country="F" province="Rhone Alpes" established="1956-06-13"/>
+   <organization-tuple abbreviation="IDA" name="International Development Association" city="Washington" country="USA" province="Distr. Columbia" established="1960-01-26"/>
+   <organization-tuple abbreviation="IEA" name="International Energy Agency" city="Paris" country="F" province="Ile de France" established="1974-11-15"/>
+   <organization-tuple abbreviation="IFRCS" name="International Federation of Red Cross and Red Crescent Societies" city="Geneva" country="CH" province="GE" established="1919-05-05"/>
+   <organization-tuple abbreviation="IFC" name="International Finance Corporation" city="Washington" country="USA" province="Distr. Columbia" established="1955-05-25"/>
+   <organization-tuple abbreviation="IFAD" name="International Fund for Agricultural Development" city="Rome" country="I" province="Lazio" established="1974-11-01"/>
+   <organization-tuple abbreviation="ILO" name="International Labor Organization" city="Geneva" country="CH" province="GE" established="1919-04-11"/>
+   <organization-tuple abbreviation="IMO" name="International Maritime Organization" city="London" country="GB" province="Greater London" established="1958-03-17"/>
+   <organization-tuple abbreviation="Inmarsat" name="International Mobile Satellite Organization" city="London" country="GB" province="Greater London" established="1976-09-03"/>
+   <organization-tuple abbreviation="IMF" name="International Monetary Fund" city="Washington" country="USA" province="Distr. Columbia" established="1944-07-22"/>
+   <organization-tuple abbreviation="IOC" name="International Olympic Committee" city="Lausanne" country="CH" province="VD" established="1894-06-23"/>
+   <organization-tuple abbreviation="IOM" name="International Organization for Migration" city="Geneva" country="CH" province="GE" established="1951-12-05"/>
+   <organization-tuple abbreviation="ISO" name="International Organization for Standardization" city="Geneva" country="CH" province="GE" established="1947-02-01"/>
+   <organization-tuple abbreviation="ICRM" name="International Red Cross and Red Crescent Movement" city="Geneva" country="CH" province="GE" established="1928-01-01"/>
+   <organization-tuple abbreviation="ITU" name="International Telecommunication Union" city="Geneva" country="CH" province="GE" established="1932-12-09"/>
+   <organization-tuple abbreviation="Intelsat" name="International Telecommunications Satellite Organization" city="Washington" country="USA" province="Distr. Columbia" established="1971-08-20"/>
+   <organization-tuple abbreviation="IDB" name="Islamic Development Bank" city="Jeddah" country="SA" province="Saudi Arabia" established="1973-12-15"/>
+   <organization-tuple abbreviation="LAES" name="Latin American Economic System" city="Caracas" country="YV" province="Distrito Federal" established="1975-10-17"/>
+   <organization-tuple abbreviation="LAIA" name="Latin American Integration Association" city="Montevideo" country="ROU" province="Uruguay" established="1980-08-12"/>
+   <organization-tuple abbreviation="MTCR" name="Missile Technology Control Regime" city="MISSING" country="MISSING" province="MISSING" established="1987-04-16"/>
+   <organization-tuple abbreviation="NAM" name="Nonaligned Movement" city="Jakarta" country="RI" province="Indonesia" established="1961-09-01"/>
+   <organization-tuple abbreviation="NC" name="Nordic Council" city="Stockholm" country="S" province="Stockholm" established="1952-03-16"/>
+   <organization-tuple abbreviation="NIB" name="Nordic Investment Bank" city="Helsinki" country="SF" province="Uusimaa" established="1975-12-04"/>
+   <organization-tuple abbreviation="ANC" name="North Atlantic Cooperation Council" city="Brussels" country="B" province="Brabant" established="1991-11-08"/>
+   <organization-tuple abbreviation="NATO" name="North Atlantic Treaty Organization" city="Brussels" country="B" province="Brabant" established="1949-09-17"/>
+   <organization-tuple abbreviation="EN" name="Nuclear Energy Agency" city="MISSING" country="MISSING" province="MISSING" established="1958-01-01"/>
+   <organization-tuple abbreviation="NSG" name="Nuclear Suppliers Group" city="Vienna" country="A" province="Vienna" established="MISSING"/>
+   <organization-tuple abbreviation="OECD" name="Organization for Economic Cooperation and Development" city="Paris" country="F" province="Ile de France" established="1960-12-14"/>
+   <organization-tuple abbreviation="OSCE" name="Organization for Security and Cooperation in Europe" city="Vienna" country="A" province="Vienna" established="1995-01-01"/>
+   <organization-tuple abbreviation="OAU" name="Organization of African Unity" city="Addis Ababa" country="ETH" province="Ethiopia" established="1963-05-25"/>
+   <organization-tuple abbreviation="OAS" name="Organization of American States" city="Washington" country="USA" province="Distr. Columbia" established="1948-04-30"/>
+   <organization-tuple abbreviation="OAPEC" name="Organization of Arab Petroleum Exporting Countries" city="MISSING" country="MISSING" province="MISSING" established="1968-01-09"/>
+   <organization-tuple abbreviation="OECS" name="Organization of Eastern Caribbean States" city="Castries" country="WL" province="Saint Lucia" established="1981-06-18"/>
+   <organization-tuple abbreviation="OPEC" name="Organization of Petroleum Exporting Countries" city="Vienna" country="A" province="Vienna" established="1960-09-14"/>
+   <organization-tuple abbreviation="OIC" name="Organization of the Islamic Conference" city="Jeddah" country="SA" province="Saudi Arabia" established="1969-09-22"/>
+   <organization-tuple abbreviation="PFP" name="Partnership for Peace" city="MISSING" country="MISSING" province="MISSING" established="1994-01-10"/>
+   <organization-tuple abbreviation="PCA" name="Permanent Court of Arbitration" city="MISSING" country="MISSING" province="MISSING" established="1899-07-29"/>
+   <organization-tuple abbreviation="RG" name="Rio Group" city="MISSING" country="MISSING" province="MISSING" established="1988-01-01"/>
+   <organization-tuple abbreviation="SAARC" name="South Asian Association for Regional Cooperation" city="Kathmandu" country="NEP" province="Nepal" established="1985-12-08"/>
+   <organization-tuple abbreviation="SPC" name="South Pacific Commission" city="Noumea" country="NCA" province="New Caledonia" established="1947-02-06"/>
+   <organization-tuple abbreviation="SPF" name="South Pacific Forum" city="Suva" country="FJI" province="Fiji" established="1971-08-05"/>
+   <organization-tuple abbreviation="Sparteca" name="South Pacific Regional Trade and Economic Cooperation Agreement" city="MISSING" country="MISSING" province="MISSING" established="1981-01-01"/>
+   <organization-tuple abbreviation="SACU" name="Southern African Customs Union" city="Pretoria" country="RSA" province="Gauteng" established="1969-12-11"/>
+   <organization-tuple abbreviation="SADC" name="Southern African Development Community" city="Gaborone" country="RB" province="Botswana" established="1992-08-17"/>
+   <organization-tuple abbreviation="Mercosur" name="Southern Cone Common Market" city="Buenos Aires" country="RA" province="Distrito Federal" established="1991-03-26"/>
+   <organization-tuple abbreviation="UN" name="United Nations" city="New York" country="USA" province="New York" established="1945-06-26"/>
+   <organization-tuple abbreviation="UNAVEM III" name="United Nations Angola Verification Mission" city="New York" country="USA" province="New York" established="1988-12-20"/>
+   <organization-tuple abbreviation="UNAMIR" name="United Nations Assistance Mission for Rwanda" city="New York" country="USA" province="New York" established="1993-10-05"/>
+   <organization-tuple abbreviation="UNCTAD" name="United Nations Conference on Trade and Development" city="Geneva" country="CH" province="GE" established="1964-12-30"/>
+   <organization-tuple abbreviation="UNCRO" name="United Nations Confidence Restoration Operation in Croatia" city="New York" country="USA" province="New York" established="1995-03-31"/>
+   <organization-tuple abbreviation="UNDOF" name="United Nations Disengagement Observer Force" city="Damascus" country="SYR" province="Syria" established="1974-05-31"/>
+   <organization-tuple abbreviation="UNESCO" name="United Nations Educational, Scientific, and Cultural Organization" city="Paris" country="F" province="Ile de France" established="1945-11-16"/>
+   <organization-tuple abbreviation="UNFICYP" name="United Nations Force in Cyprus" city="New York" country="USA" province="New York" established="1964-03-04"/>
+   <organization-tuple abbreviation="UNIDO" name="United Nations Industrial Development Organization" city="Vienna" country="A" province="Vienna" established="1966-11-17"/>
+   <organization-tuple abbreviation="UNITAR" name="United Nations Institute for Training and Research" city="MISSING" country="MISSING" province="MISSING" established="1963-12-11"/>
+   <organization-tuple abbreviation="UNIFIL" name="United Nations Interim Force in Lebanon" city="New York" country="USA" province="New York" established="1978-03-19"/>
+   <organization-tuple abbreviation="UNIKOM" name="United Nations Iraq-Kuwait Observation Mission" city="New York" country="USA" province="New York" established="1991-04-09"/>
+   <organization-tuple abbreviation="UNMOGIP" name="United Nations Military Observer Group in India and Pakistan" city="New York" country="USA" province="New York" established="1948-08-13"/>
+   <organization-tuple abbreviation="MINURSO" name="United Nations Mission for the Referendum in Western Sahara" city="New York" country="USA" province="New York" established="1991-04-29"/>
+   <organization-tuple abbreviation="UNMIH" name="United Nations Mission in Haiti" city="New York" country="USA" province="New York" established="1993-09-23"/>
+   <organization-tuple abbreviation="UNMOT" name="United Nations Mission of Observers in Tajikistan" city="New York" country="USA" province="New York" established="1994-12-16"/>
+   <organization-tuple abbreviation="UNOMIG" name="United Nations Observer Mission in Georgia" city="New York" country="USA" province="New York" established="MISSING"/>
+   <organization-tuple abbreviation="UNOMIL" name="United Nations Observer Mission in Liberia" city="New York" country="USA" province="New York" established="1993-09-22"/>
+   <organization-tuple abbreviation="UNHCR" name="United Nations Office of the High Commissioner for Refugees" city="Geneva" country="CH" province="GE" established="1949-12-03"/>
+   <organization-tuple abbreviation="UNPREDEP" name="United Nations Preventive Deployment Force" city="MISSING" country="MISSING" province="MISSING" established="1995-03-31"/>
+   <organization-tuple abbreviation="UNPROFOR" name="United Nations Protection Force" city="New York" country="USA" province="New York" established="1992-02-28"/>
+   <organization-tuple abbreviation="UNRWA" name="United Nations Relief and Works Agency for Palestine Refugees in the Near East" city="Vienna" country="A" province="Vienna" established="1949-12-08"/>
+   <organization-tuple abbreviation="UNTSO" name="United Nations Truce Supervision Organization" city="Jerusalem" country="IL" province="Central" established="1948-05-01"/>
+   <organization-tuple abbreviation="UNU" name="United Nations University" city="MISSING" country="MISSING" province="MISSING" established="1973-12-06"/>
+   <organization-tuple abbreviation="UPU" name="Universal Postal Union" city="Bern" country="CH" province="BE" established="1874-10-09"/>
+   <organization-tuple abbreviation="WADB" name="West African Development Bank" city="Lome" country="RT" province="Togo" established="1973-11-14"/>
+   <organization-tuple abbreviation="WEU" name="Western European Union" city="Brussels" country="B" province="Brabant" established="1954-10-23"/>
+   <organization-tuple abbreviation="WCL" name="World Confederation of Labor" city="Brussels" country="B" province="Brabant" established="1920-06-19"/>
+   <organization-tuple abbreviation="WFTU" name="World Federation of Trade Unions" city="Prague" country="CZ" province="Praha" established="1945-10-03"/>
+   <organization-tuple abbreviation="WHO" name="World Health Organization" city="Geneva" country="CH" province="GE" established="1946-07-22"/>
+   <organization-tuple abbreviation="WIPO" name="World Intellectual Property Organization" city="Geneva" country="CH" province="GE" established="1967-07-14"/>
+   <organization-tuple abbreviation="WMO" name="World Meteorological Organization" city="Geneva" country="CH" province="GE" established="1947-10-11"/>
+   <organization-tuple abbreviation="WToO" name="World Tourism Organization" city="Madrid" country="E" province="Madrid" established="1975-01-02"/>
+   <organization-tuple abbreviation="WTrO" name="World Trade Organization" city="MISSING" country="MISSING" province="MISSING" established="1994-04-15"/>
+   <organization-tuple abbreviation="ZC" name="Zangger Committee" city="MISSING" country="MISSING" province="MISSING" established="MISSING"/>
+</organization>

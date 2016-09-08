@@ -1,0 +1,274 @@
+<sea>
+   <sea-tuple>
+      <name>
+         Skagerrak
+      </name>
+      <depth>
+         725.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Kattegat
+      </name>
+      <depth>
+         94.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         North Sea
+      </name>
+      <depth>
+         200.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         The Channel
+      </name>
+      <depth>
+         175.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Black Sea
+      </name>
+      <depth>
+         2211.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sea of Azov
+      </name>
+      <depth>
+         100.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Baltic Sea
+      </name>
+      <depth>
+         459.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Atlantic Ocean
+      </name>
+      <depth>
+         9219.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Mediterranean Sea
+      </name>
+      <depth>
+         5121.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Gulf of Mexico
+      </name>
+      <depth>
+         4375.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Norwegian Sea
+      </name>
+      <depth>
+         3860.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Barents Sea
+      </name>
+      <depth>
+         32.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sibirian Sea
+      </name>
+      <depth>
+         540.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Arctic Ocean
+      </name>
+      <depth>
+         5608.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Bering Sea
+      </name>
+      <depth>
+         4096.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Pacific Ocean
+      </name>
+      <depth>
+         11034.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sea of Okhotsk
+      </name>
+      <depth>
+         3372.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sea of Japan
+      </name>
+      <depth>
+         4036.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Yellow Sea
+      </name>
+      <depth>
+         200.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         East China Sea
+      </name>
+      <depth>
+         2370.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         South China Sea
+      </name>
+      <depth>
+         5420.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Persian Gulf
+      </name>
+      <depth>
+         102.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Irish Sea
+      </name>
+      <depth>
+         272.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Caribbean Sea
+      </name>
+      <depth>
+         7240.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Indian Ocean
+      </name>
+      <depth>
+         6400.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Arabian Sea
+      </name>
+      <depth>
+         5203.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Gulf of Oman
+      </name>
+      <depth>
+         3350.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Red Sea
+      </name>
+      <depth>
+         2635.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Gulf of Aden
+      </name>
+      <depth>
+         5143.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Gulf of Bengal
+      </name>
+      <depth>
+         4045.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Andaman Sea
+      </name>
+      <depth>
+         3113.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Malakka Strait
+      </name>
+      <depth>
+         104.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sunda Sea
+      </name>
+      <depth>
+         7440.0
+      </depth>
+   </sea-tuple>
+   <sea-tuple>
+      <name>
+         Sulawesi Sea
+      </name>
+      <depth>
+         6218.0
+      </depth>
+   </sea-tuple>
+</sea>

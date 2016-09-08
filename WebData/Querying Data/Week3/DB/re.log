@@ -1,0 +1,6 @@
+select * from Bar where name like 'T%';
+TOVCZ|City Centre
+TALVD|Northern Quarter
+TDXXV|Northern Quarter
+TSWVH|Northern Quarter
+TLKBQ|Northern Quarter

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Violates the following rules:
+1. The name of each family coincides with the last name of each of their contacts.(Family Rode)
+4. Every house and every family occurs in some occupancy. (Family Rode did not occur anywhere in occupancy)
+7. For each period, each family occupies some house. (Only King family has house in  period 4, and Rode family doesnot have any house anywhere)
+-->
+<rota>
+    <families>
+        <family name="Smith">
+            <MainContact>
+                <FirstName>Ben</FirstName>
+                <LastName>Smith</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Mindy</FirstName>
+                <LastName>Smith</LastName>
+            </AuxillaryContact>
+        </family>
+        <family name="Lutter">
+            <MainContact>
+                <FirstName>Ben</FirstName>
+                <LastName>Lutter</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Mindy</FirstName>
+                <LastName>Lutter</LastName>
+            </AuxillaryContact>
+        </family>
+        <family name="Kracht">
+            <MainContact>
+                <FirstName>Ben</FirstName>
+                <LastName>Kracht</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Phillip</FirstName>
+                <LastName>Kracht</LastName>
+            </AuxillaryContact>
+        </family>
+        <family name="Miller">
+            <MainContact>
+                <FirstName>Bill</FirstName>
+                <LastName>Miller</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Betty</FirstName>
+                <LastName>Miller</LastName>
+            </AuxillaryContact>
+            <AuxillaryContact>
+                <FirstName>Betty</FirstName>
+                <LastName>Miller</LastName>
+            </AuxillaryContact>
+        </family>
+        <family name="King">
+            <MainContact>
+                <FirstName>Paula</FirstName>
+                <LastName>King</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Bob</FirstName>
+                <LastName>King</LastName>
+            </AuxillaryContact>
+            <AuxillaryContact>
+                <FirstName>Mary</FirstName>
+                <LastName>King</LastName>
+            </AuxillaryContact>
+        </family>
+        <family name="Rode">
+            <MainContact>
+                <FirstName>Paula</FirstName>
+                <LastName>None</LastName>
+            </MainContact>
+            <AuxillaryContact>
+                <FirstName>Bob</FirstName>
+                <LastName>Rode</LastName>
+            </AuxillaryContact>
+            <AuxillaryContact>
+                <FirstName>Mary</FirstName>
+                <LastName>King</LastName>
+            </AuxillaryContact>
+        </family>
+    </families>
+    <houses>
+        <house name="HighBrow" castle="true"/>
+        <house name="LittleWoods" />
+        <house name="MyCastle"/>
+        <house name="Kibanda"/>
+        <house name="Kula"/>
+    </houses>
+    <occupancy>
+        <period time="1" family="Miller" house="HighBrow"/>
+        <period time="1" family="King" house="LittleWoods"/>
+        <period time="1" family="Smith" house="MyCastle"/>
+        <period time="2" family="King" house="HighBrow"/>
+        <period time="2" family="Smith" house="LittleWoods"/>
+        <period time="2" family="Miller" house="MyCastle"/>
+        <period time="3" family="Lutter" house="Kibanda"/>
+        <period time="3" family="Kracht" house="Kula"/>
+        <period time="4" family="King" house="Kula"/>
+    </occupancy>
+</rota>

@@ -1,0 +1,66 @@
+
+<desert>
+   <desert-tuple name="Kalahari" area="1200000.0" longitude="21.0" latitude="-22.0"/>
+   <desert-tuple name="Namib" area="95000.0" longitude="15.0" latitude="-25.0"/>
+   <desert-tuple name="Ferlo" area="70000.0" longitude="-14.0" latitude="15.0"/>
+   <desert-tuple name="Trarza" area="50000.0" longitude="-15.0" latitude="18.0"/>
+   <desert-tuple name="Erg Ouarane" area="80000.0" longitude="-11.0" latitude="21.0"/>
+   <desert-tuple name="Erg Maqteir" area="40000.0" longitude="-11.0" latitude="22.0"/>
+   <desert-tuple name="Saguia el-Hamra" area="25000.0" longitude="-10.0" latitude="27.0"/>
+   <desert-tuple name="Erg Igidi" area="150000.0" longitude="-5.0" latitude="27.0"/>
+   <desert-tuple name="Hamada du Draa" area="35000.0" longitude="MISSING" latitude="MISSING"/>
+   <desert-tuple name="Erg Chech" area="10000.0" longitude="-3.0" latitude="25.0"/>
+   <desert-tuple name="Tanezrouft" area="160000.0" longitude="0.0" latitude="23.0"/>
+   <desert-tuple name="Azaouad" area="80000.0" longitude="0.0" latitude="20.0"/>
+   <desert-tuple name="Grand Erg Ouest" area="200000.0" longitude="-1.0" latitude="30.0"/>
+   <desert-tuple name="Grand Erg Est" area="150000.0" longitude="8.0" latitude="31.0"/>
+   <desert-tuple name="Erg Isaouane" area="80000.0" longitude="8.0" latitude="28.0"/>
+   <desert-tuple name="Hamada al-Hamra" area="84000.0" longitude="12.0" latitude="30.0"/>
+   <desert-tuple name="Fesan" area="300000.0" longitude="13.0" latitude="26.0"/>
+   <desert-tuple name="Erg Rebiana" area="200000.0" longitude="22.0" latitude="23.0"/>
+   <desert-tuple name="Talak" area="100000.0" longitude="6.0" latitude="17.0"/>
+   <desert-tuple name="Tenere" area="600000.0" longitude="11.0" latitude="18.0"/>
+   <desert-tuple name="Djourab" area="100000.0" longitude="18.0" latitude="17.0"/>
+   <desert-tuple name="Erdi Ennedi" area="180000.0" longitude="22.0" latitude="18.0"/>
+   <desert-tuple name="Libyan Desert" area="1100000.0" longitude="MISSING" latitude="MISSING"/>
+   <desert-tuple name="Darfur" area="500000.0" longitude="27.0" latitude="15.0"/>
+   <desert-tuple name="Arabian Desert" area="50000.0" longitude="26.0" latitude="33.0"/>
+   <desert-tuple name="Nubian Desert" area="50000.0" longitude="21.0" latitude="32.0"/>
+   <desert-tuple name="Negev" area="12000.0" longitude="35.0" latitude="30.5"/>
+   <desert-tuple name="Syrian Desert" area="518000.0" longitude="39.0" latitude="33.0"/>
+   <desert-tuple name="Nefud" area="78000.0" longitude="42.0" latitude="28.0"/>
+   <desert-tuple name="Rub Al Chali" area="780000.0" longitude="51.0" latitude="21.0"/>
+   <desert-tuple name="Dascht-e-Kavir" area="77600.0" longitude="55.0" latitude="32.5"/>
+   <desert-tuple name="Dascht-e-Lut" area="166000.0" longitude="57.0" latitude="32.5"/>
+   <desert-tuple name="Dascht-e-Margoh" area="40000.0" longitude="62.0" latitude="31.0"/>
+   <desert-tuple name="Rigestan" area="25000.0" longitude="65.0" latitude="30.0"/>
+   <desert-tuple name="Thar" area="240000.0" longitude="72.0" latitude="27.5"/>
+   <desert-tuple name="Ryn" area="80000.0" longitude="47.0" latitude="48.0"/>
+   <desert-tuple name="Ust Urt" area="180000.0" longitude="56.0" latitude="43.0"/>
+   <desert-tuple name="Karakum" area="400000.0" longitude="60.0" latitude="40.0"/>
+   <desert-tuple name="Kysylkum" area="200000.0" longitude="65.0" latitude="44.0"/>
+   <desert-tuple name="Mujunkum" area="37500.0" longitude="72.0" latitude="44.0"/>
+   <desert-tuple name="TaklaMakan" area="300000.0" longitude="82.0" latitude="38.0"/>
+   <desert-tuple name="Gurbantunggut" area="48800.0" longitude="87.5" latitude="45.0"/>
+   <desert-tuple name="Kum Tagh" area="22000.0" longitude="92.0" latitude="40.0"/>
+   <desert-tuple name="Qaidam" area="120000.0" longitude="95.0" latitude="37.5"/>
+   <desert-tuple name="Gobi" area="1000000.0" longitude="105.0" latitude="41.0"/>
+   <desert-tuple name="Ordos" area="90000.0" longitude="108.0" latitude="38.0"/>
+   <desert-tuple name="Great Sandy Desert" area="360000.0" longitude="123.0" latitude="-20.0"/>
+   <desert-tuple name="Gibson Desert" area="310800.0" longitude="125.0" latitude="-23.0"/>
+   <desert-tuple name="Great Victoria Desert" area="424400.0" longitude="129.0" latitude="-29.0"/>
+   <desert-tuple name="Nullarbor Plain" area="200000.0" longitude="129.0" latitude="-31.0"/>
+   <desert-tuple name="Simpson Desert" area="176500.0" longitude="137.0" latitude="-25.0"/>
+   <desert-tuple name="Red Centre" area="1000000.0" longitude="135.0" latitude="-26.0"/>
+   <desert-tuple name="Tanami" area="37500.0" longitude="130.0" latitude="-20.0"/>
+   <desert-tuple name="Sturt Desert" area="13000.0" longitude="141.0" latitude="-29.0"/>
+   <desert-tuple name="Owyhee" area="36000.0" longitude="-117.0" latitude="42.0"/>
+   <desert-tuple name="Great Salt Lake Desert" area="10360.0" longitude="-114.0" latitude="41.0"/>
+   <desert-tuple name="Colorado Plateau" area="337000.0" longitude="-110.0" latitude="36.0"/>
+   <desert-tuple name="Great Basin" area="300000.0" longitude="-117.0" latitude="38.0"/>
+   <desert-tuple name="Mojave" area="57000.0" longitude="-115.2" latitude="36.2"/>
+   <desert-tuple name="Sonora" area="320000.0" longitude="-113.0" latitude="32.0"/>
+   <desert-tuple name="Chihuahua" area="360000.0" longitude="-105.0" latitude="31.0"/>
+   <desert-tuple name="Baja California Desert" area="30000.0" longitude="-116.0" latitude="31.0"/>
+   <desert-tuple name="Atacama" area="181300.0" longitude="-69.25" latitude="-24.5"/>
+</desert>

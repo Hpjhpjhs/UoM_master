@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h xmlns:head="nshead">
+
+    <a xmlns:dl="deceptiveURI">
+        <dl:b>is deceptive</dl:b>
+       
+        
+        
+    </a>
+
+    <a xmlns:dl="deceptive">
+        
+        <dl:c>DECEPTVIE</dl:c>
+    </a>
+    
+    
+</h>

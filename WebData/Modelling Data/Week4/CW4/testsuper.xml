@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h>
+    <a xmlns:foo="ums">
+        <a xmlns:foo="ums"/>
+    </a>
+
+    <a xmlns:dl="deceptiveURI"/>
+    <a xmlns:dll="deceptive"/>
+</h>

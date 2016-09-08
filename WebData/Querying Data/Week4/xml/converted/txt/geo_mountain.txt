@@ -1,0 +1,295 @@
+Oeraefajoekull|IS|Iceland
+Snoefell|IS|Iceland
+Haltiatunturi|SF|Lappia
+Kebnekaise|S|Norrbotten
+Sarektjokko|S|Norrbotten
+Portefjaellen|S|Norrbotten
+Tarrekaise|S|Norrbotten
+Sulitjelma|N|Nordland
+Sulitjelma|S|Norrbotten
+Galdhoeppig|N|Oppland
+Jostedalsbre|N|Sogn og Fjordane
+Glittertind|N|Oppland
+Joekul|N|Hordaland
+Snoehetta|N|Oppland
+Ben Nevis|GB|Highland
+Feldberg|D|Baden Wurttemberg
+Brocken|D|Sachsen Anhalt
+Grosser Arber|D|Bayern
+Zugspitze|D|Bayern
+Zugspitze|A|Tyrol
+Mont Blanc|F|Rhone Alpes
+Mont Blanc|I|Valle dAosta
+Barre des Ecrins|F|Rhone Alpes
+GrandCombin|CH|VS
+Matterhorn|I|Valle dAosta
+Matterhorn|CH|VS
+Monte Rosa|I|Valle dAosta
+Monte Rosa|I|Lombardia
+Monte Rosa|CH|VS
+Finsteraarhorn|CH|BE
+Finsteraarhorn|CH|VS
+GranParadiso|I|Piemonte
+GranParadiso|I|Valle dAosta
+Piz Bernina|I|Lombardia
+Piz Bernina|CH|GR
+Crap_Sogn_Gion|CH|GR
+Marmolata|I|Trentino Alto Adige
+Marmolata|I|Veneto
+Grossglockner|A|Carinthia
+Hochgolling|A|Styria
+Hochgolling|A|Salzburg
+Grand Ballon|F|Alsace
+Grand Ballon|F|Lorraine
+Puy De Dome|F|Auvergne
+Puy de Sancy|F|Auvergne
+Vignemale|F|Midi Pyrenees
+Vignemale|E|Aragon
+Pico de Aneto|E|Aragon
+Torre de Cerredo|E|Asturias
+Torre de Cerredo|E|Castile and Leon
+Pico de Almanzor|E|Castile and Leon
+Moncayo|E|Aragon
+Moncayo|E|Castile and Leon
+Mulhacen|E|Andalusia
+Torre de Estrela|P|Guarda
+Monte Cinto|F|Corse
+Gran Sasso|I|Abruzzo
+Monte Falterona|I|Emilia Romagna
+Monte Falterona|I|Toscana
+Vesuv|I|Campania
+Etna|I|Sicilia
+Schneekoppe|CZ|Vychodocesky
+Schneekoppe|PL|Walbrzyskie
+GerlachovskyStit|SK|Slovakia
+Moldoveanu|RO|Arges
+Moldoveanu|RO|Brasov
+Moldoveanu|RO|Sibiu
+Musala|BG|Bulgaria
+Jezerce|AL|Albania
+Korab|AL|Albania
+Korab|MK|Macedonia
+Olymp|GR|Kedriki Makedhonia
+Olymp|GR|Thessalia
+Psiloritis|GR|Kriti
+Olympos|CY|Cyprus
+Pico de Teide|E|Canary Islands
+Pico de los Nieves|E|Canary Islands
+Roque de los Muchachos|E|Canary Islands
+Pico Ruivo|P|Madeira
+Pico|P|Azores
+Fogo|CV|Cape Verde
+Tubkhal|MA|Morocco
+Djebel Aures|MA|Morocco
+Tahat|DZ|Algeria
+Tamgak|RN|Niger
+Mont Greboun|RN|Niger
+Emi Kussi|TCH|Chad
+Jabal Marra|SUD|Darfur
+Jabal Katrina|ET|Sina al Janubiyah
+Fako|CAM|Sudoueste
+Pico Basile|GQ|Equatorial Guinea
+Pico de Sao Tome|STP|Sao Tome and Principe
+Queen Marys Peak|HELX|Saint Helena
+Ras Daschan Terara|ETH|Ethiopia
+Ruwenzori|ZRE|Kivu
+Ruwenzori|EAU|Uganda
+Elgon|EAK|Western
+Elgon|EAU|Uganda
+Kenia|EAK|Eastern
+Kilimanjaro|EAT|Kilimanjaro
+Mawenzi|EAT|Kilimanjaro
+Meru|EAT|Arusha
+Karisimbi|ZRE|Kivu
+Karisimbi|RWA|Rwanda
+Thabana Ntlenyana|LS|Lesotho
+Cathkin Peak|RSA|Kwazulu Natal
+Tsaratanana|RM|Antsiranana
+Tsiafajavona|RM|Antananarivo
+Andringitra|RM|Fianarantsoa
+Piton des Neiges|REUN|Reunion
+Piton de la Fournaise|REUN|Reunion
+Narodnaja|R|Rep. of Komi
+Demirkazik|TR|Nigde
+Ararat|TR|Agri
+Jabal Lubnan|RL|Lebanon
+Elbrus|R|Kabardino Balkar Rep.
+Kasbek|R|Rep. of North Ossetiya
+Kasbek|GE|Georgia
+Damavand|IR|Mazandaran
+Sabalan|IR|Azarbayian e Sharqi
+Zard Kuh|IR|Chahar Mahal e Bakhtiari
+Jabal Shuayb|YE|Yemen
+Dodabetta|IND|Tamil Nadu
+Pidurutalagala|CL|Sri Lanka
+Zhima|R|Rep. of Buryatiya
+Bjelucha|R|Rep. of Altay
+Bjelucha|KAZ|Shyghys Qazaqstan
+Pik Chan-Tengri|KGZ|Kyrgyzstan
+Pik Pobeda|TJ|Xinjiang Uygur
+Pik Pobeda|KGZ|Kyrgyzstan
+Pik Kommunizma|TAD|Badakhshoni Kuni
+Pik Lenina|TAD|Badakhshoni Kuni
+Pik Lenina|KGZ|Kyrgyzstan
+Pik Revoluzija|TAD|Badakhshoni Kuni
+Pik Moskva|TAD|Badakhshoni Kuni
+Pik Karl-Marx|TAD|Badakhshoni Kuni
+Tirich Mir|AFG|Afghanistan
+K2|TJ|Xinjiang Uygur
+K2|PK|Pakistan
+Gasherbrum II|TJ|Xinjiang Uygur
+Gasherbrum II|PK|Pakistan
+Gasherbrum I|TJ|Xinjiang Uygur
+Gasherbrum I|PK|Pakistan
+Broad Peak|TJ|Xinjiang Uygur
+Broad Peak|PK|Pakistan
+Nanga Parbat|PK|Pakistan
+Nanda Devi|IND|Uttar Pradesh
+Dhaulagiri|NEP|Nepal
+Annapurna|NEP|Nepal
+Manaslu|NEP|Nepal
+Shishapangma|TJ|Tibet
+Kailash|TJ|Tibet
+Cho Oyu|TJ|Tibet
+Cho Oyu|NEP|Nepal
+Mount Everest|TJ|Tibet
+Mount Everest|NEP|Nepal
+Lhotse|TJ|Tibet
+Lhotse|NEP|Nepal
+Makalu|TJ|Tibet
+Makalu|NEP|Nepal
+Kangchendzonga|IND|Sikkim
+Kangchendzonga|NEP|Nepal
+Kljutschewskaja Sopka|R|Kamchatskaya oblast
+Changbai Shan|TJ|Jilin
+Changbai Shan|NOK|North Korea
+Asahi-Dake|J|Hokkaido
+Fujisan|J|Yamanashi
+Fujisan|J|Shizuoka
+Hotaka-Dake|J|Nagano
+Hotaka-Dake|J|Gifu
+Yu Shan|RC|Taiwan
+Pulog|RP|Philippines
+Pinatubo|RP|Philippines
+Mount Apo|RP|Philippines
+Kanlaon|RP|Philippines
+Mantalingajan|RP|Philippines
+Kinabalu|MAL|Sabah
+Tahan|MAL|Kelantan
+Tahan|MAL|Pahang
+Leuser|RI|Indonesia
+Kerinci|RI|Indonesia
+Krakatau|RI|Indonesia
+Merapi|RI|Indonesia
+Semeru|RI|Indonesia
+Gunung Agung|RI|Indonesia
+Rinjani|RI|Indonesia
+Tambora|RI|Indonesia
+Rantekombola|RI|Indonesia
+Tatamailau|TL|Timor-Leste
+Gunung Binaiya|RI|Indonesia
+Puncak Jaya|RI|Indonesia
+Mt. Wilhelm|PNG|Papua New Guinea
+Mt. Giluwe|PNG|Papua New Guinea
+Mt. Balbi|PNG|Papua New Guinea
+Mt.Victoria|FJI|Fiji
+Silisili|WS|Samoa
+Mont Orohena|FPOL|French Polynesia
+Popomanaseu|SLB|Solomon Islands
+Mauna Kea|USA|Hawaii
+Mauna Loa|USA|Hawaii
+Haleakala|USA|Hawaii
+Mt. Kosciuszko|AUS|New South Wales
+Mt. Bogong|AUS|Victoria
+Uluru|AUS|Northern Territory
+Mt. Cook|NZ|New Zealand
+Ruapehu|NZ|New Zealand
+Mt Redoubt|USA|Alaska
+Mt McKinley|USA|Alaska
+Mt Blackburn|USA|Alaska
+Mt Bona|CDN|Saskatchewan
+Mt Bona|USA|Alaska
+Mt St.Elias|CDN|Yukon Territory
+Mt St.Elias|USA|Alaska
+Mt Logan|CDN|Yukon Territory
+Mt Fairweather|CDN|British Columbia
+Mt Fairweather|USA|Alaska
+Mt Waddington|CDN|British Columbia
+Mt Robson|CDN|British Columbia
+Mt Columbia|CDN|Alberta
+Mt Columbia|CDN|British Columbia
+Barbeau Peak|CDN|Northwest Territories
+Mt. Odin|CDN|Northwest Territories
+Mt. Babel|CDN|Quebec
+Granite Peak|USA|Montana
+Borah Peak|USA|Idaho
+Harney Peak|USA|South Dakota
+Gannett Peak|USA|Wyoming
+Kings Peak|USA|Utah
+Mt Elbert|USA|Colorado
+Pikes Peak|USA|Colorado
+Wheeler Peak|USA|New Mexico
+Humphreys Peak|USA|Arizona
+Guadalupe Peak|USA|Texas
+Mt Rainier|USA|Washington
+Mt Adams|USA|Washington
+Mt Hood|USA|Oregon
+Mt Whitney|USA|California
+Boundary Peak|USA|California
+Boundary Peak|USA|Nevada
+Mt Washington|USA|New Hampshire
+Mt Marcy|USA|New York
+Mt Mitchell|USA|North Carolina
+Clingmans Dome|USA|Tennessee
+Citlaltepetl (Pico de Orizaba)|MEX|Puebla
+Citlaltepetl (Pico de Orizaba)|MEX|Veracruz
+Popocatepetl|MEX|Mexico, Estado de
+Popocatepetl|MEX|Morelos
+Popocatepetl|MEX|Puebla
+Iztaccihuatl|MEX|Puebla
+Nevado de Toluca|MEX|Mexico, Estado de
+Nevado de Colima|MEX|Jalisco
+Tajumulco|GCA|Guatemala
+Concepcion|NIC|Nicaragua
+Irazu|CR|Cartago
+Cerro Chirripo|CR|Cartago
+Cerro Chirripo|CR|Limon
+Pico Turquino|C|Granma
+Pico Turquino|C|Santiago de Cuba
+Blue Mountain Peak|JA|Jamaica
+Pico Duarte|DOM|Dominican Republic
+Cerro de Punta|PR|Puerto Rico
+La Soufriere|GUAD|Guadeloupe
+Soufriere Hills|MNTS|Montserrat
+Soufriere|WV|Saint Vincent and the Grenadines
+Morne Diablotins|WD|Dominica
+Pelee|MART|Martinique
+Pico Cristobal Colon|CO|Magdalena
+Pico Bolivar|YV|Merida
+Nevado del Ruiz|CO|Choco
+Nevado del Ruiz|CO|Risaralda
+Nevado del Huila|CO|Huila
+Cayambe|EC|Ecuador
+Cotopaxi|EC|Ecuador
+Chimborazo|EC|Ecuador
+Huascaran|PE|Ancash
+Alpamayo|PE|Ancash
+Pico Rocarre|PE|Ancash
+Ausangate|PE|Cuzco
+Coropuna|PE|Arequipa
+Ampato|PE|Arequipa
+Illampu|BOL|Bolivia
+Illimani|BOL|Bolivia
+Sajama|BOL|Bolivia
+Licancabur|BOL|Bolivia
+Licancabur|RCH|Chile
+Llullaillaco|RA|Tucuman
+Llullaillaco|RCH|Chile
+Ojos del Salado|RA|Tucuman
+Ojos del Salado|RCH|Chile
+Monte Pissis|RA|La Rioja
+Monte Pissis|RA|Tucuman
+Aconcagua|RA|Mendoza
+Tupungato|RA|Mendoza
+Pico de Agulhas Negras|BR|Minas Gerais
+Pico de Agulhas Negras|BR|Rio de Janeiro

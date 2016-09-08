@@ -1,0 +1,8087 @@
+<geo_sea>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         DK
+      </country>
+      <province>
+         Denmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Oslo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Akershus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Oestfold
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Buskerud
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Vestfold
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Aust Agder
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Vest Agder
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Skagerrak
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Goteborg och Bohus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Kattegat
+      </sea>
+      <country>
+         DK
+      </country>
+      <province>
+         Denmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Kattegat
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Goteborg och Bohus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Kattegat
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Halland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Kattegat
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Kristianstad
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Kattegat
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Malmohus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Nord Pas de Calais
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         D
+      </country>
+      <province>
+         Bremen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         D
+      </country>
+      <province>
+         Niedersachsen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         D
+      </country>
+      <province>
+         Schleswig Holstein
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         B
+      </country>
+      <province>
+         West Flanders
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Groningen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Friesland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Flevoland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Noord Holland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Zuid Holland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         NL
+      </country>
+      <province>
+         Zeeland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         DK
+      </country>
+      <province>
+         Denmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Telemark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Vest Agder
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Rogaland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Hordaland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Sogn og Fjordane
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Essex
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Greater London
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Humberside
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Kent
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Norfolk
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Northumberland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         North Yorkshire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Suffolk
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Tyne and Wear
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Grampian
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Highland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Orkneys
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         North Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Shetland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Basse Normandie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Haute Normandie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Nord Pas de Calais
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Picardie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GBG
+      </country>
+      <province>
+         Guernsey
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GBJ
+      </country>
+      <province>
+         Jersey
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Cornwall
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Devon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Dorset
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         East Sussex
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Hampshire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Kent
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         The Channel
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         West Sussex
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Khersonska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Mykolayivska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Odeska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Krym
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Krasnodarsky kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         BG
+      </country>
+      <province>
+         Bulgaria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         RO
+      </country>
+      <province>
+         Constanta
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         RO
+      </country>
+      <province>
+         Tulcea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Artvin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Bolu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Giresun
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Istanbul
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Kastamonu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Kirklareli
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Kocaeli
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Ordu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Rize
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Sakarya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Samsun
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Sinop
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Trabzon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Zonguldak
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Black Sea
+      </sea>
+      <country>
+         GE
+      </country>
+      <province>
+         Georgia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Donetska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Khersonska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Zaporizka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         UA
+      </country>
+      <province>
+         Krym
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Rostovskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Azov
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Krasnodarsky kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         D
+      </country>
+      <province>
+         Mecklenburg Vorpommern
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         D
+      </country>
+      <province>
+         Schleswig Holstein
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         LV
+      </country>
+      <province>
+         Latvia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         LT
+      </country>
+      <province>
+         Lithuania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         PL
+      </country>
+      <province>
+         Elblaskie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         PL
+      </country>
+      <province>
+         Gdanskie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         PL
+      </country>
+      <province>
+         Koszalinskie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         PL
+      </country>
+      <province>
+         Slupskie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         PL
+      </country>
+      <province>
+         Szczecinskie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Kaliningradskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Sankt Peterburg
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Leningradskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         DK
+      </country>
+      <province>
+         Denmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         EW
+      </country>
+      <province>
+         Estonia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Aland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Kymi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Lappia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Oulu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Turku-Pori
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Uusimaa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         SF
+      </country>
+      <province>
+         Vaasa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Blekinge
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Gavleborg
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Gotland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Kalmar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Kristianstad
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Malmohus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Norrbotten
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Ostergotland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Sodermanland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Stockholm
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Uppsala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Vasterbotten
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Baltic Sea
+      </sea>
+      <country>
+         S
+      </country>
+      <province>
+         Vasternorrland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Aquitaine
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Bretagne
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Pays de la Loire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Poitou Charentes
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Andalusia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Asturias
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Basque Country
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Canary Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Cantabria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Galicia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         FARX
+      </country>
+      <province>
+         Faroe Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GBZ
+      </country>
+      <province>
+         Gibraltar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         IS
+      </country>
+      <province>
+         Iceland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         IRL
+      </country>
+      <province>
+         Ireland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Aveiro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Beja
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Braga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Coimbra
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Algarve
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Leiria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Lisbon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Porto
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Setubal
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Viana do Castelo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Azores
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         P
+      </country>
+      <province>
+         Madeira
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SVAX
+      </country>
+      <province>
+         Svalbard
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Cornwall
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Devon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Northern Ireland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Outer Hebrides
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         AXA
+      </country>
+      <province>
+         Anguilla
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         AG
+      </country>
+      <province>
+         Antigua and Barbuda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BS
+      </country>
+      <province>
+         Bahamas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BDS
+      </country>
+      <province>
+         Barbados
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BERM
+      </country>
+      <province>
+         Bermuda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BVIR
+      </country>
+      <province>
+         British Virgin Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Manitoba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         New Brunswick
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Newfoundland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Northwest Territories
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Nova Scotia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Ontario
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Prince Edward Island
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Quebec
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Connecticut
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Delaware
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Florida
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Georgia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Maine
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Maryland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Massachusetts
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         New Hampshire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         New Jersey
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         New York
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         North Carolina
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Rhode Island
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         South Carolina
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Virginia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Ciego de Avila
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Guantanamo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Holguin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         La Habana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Las Tunas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Matanzas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Sancti Spiritus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Villa Clara
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WD
+      </country>
+      <province>
+         Dominica
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         DOM
+      </country>
+      <province>
+         Dominican Republic
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RH
+      </country>
+      <province>
+         Haiti
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GROX
+      </country>
+      <province>
+         Greenland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WG
+      </country>
+      <province>
+         Grenada
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GUAD
+      </country>
+      <province>
+         Guadeloupe
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         MART
+      </country>
+      <province>
+         Martinique
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         MNTS
+      </country>
+      <province>
+         Montserrat
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         NA
+      </country>
+      <province>
+         Netherlands Antilles
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SMAR
+      </country>
+      <province>
+         Saint Martin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         PR
+      </country>
+      <province>
+         Puerto Rico
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         KN
+      </country>
+      <province>
+         Saint Kitts and Nevis
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WL
+      </country>
+      <province>
+         Saint Lucia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SPMI
+      </country>
+      <province>
+         Saint Pierre and Miquelon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WV
+      </country>
+      <province>
+         Saint Vincent and the Grenadines
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         TT
+      </country>
+      <province>
+         Trinidad and Tobago
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         TUCA
+      </country>
+      <province>
+         Turks and Caicos Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         VIRG
+      </country>
+      <province>
+         Virgin Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RA
+      </country>
+      <province>
+         Buenos Aires
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RA
+      </country>
+      <province>
+         Chubut
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RA
+      </country>
+      <province>
+         Rio Negro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RA
+      </country>
+      <province>
+         Santa Cruz
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RA
+      </country>
+      <province>
+         Tierra del Fuego
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Alagoas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Amapa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Bahia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Ceara
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Espirito Santo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Maranhao
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Para
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Paraiba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Parana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Pernambuco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Rio de Janeiro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Rio Grande do Norte
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Rio Grande do Sul
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Santa Catarina
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Sao Paulo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BR
+      </country>
+      <province>
+         Sergipe
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RCH
+      </country>
+      <province>
+         Chile
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ROU
+      </country>
+      <province>
+         Uruguay
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         FGU
+      </country>
+      <province>
+         French Guiana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GUY
+      </country>
+      <province>
+         Guyana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SME
+      </country>
+      <province>
+         Suriname
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Delta Amacuro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         FALK
+      </country>
+      <province>
+         Falkland Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RIM
+      </country>
+      <province>
+         Mauritania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         MA
+      </country>
+      <province>
+         Morocco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WSA
+      </country>
+      <province>
+         Western Sahara
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Cabinda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Zaire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Luanda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Cuanza Sul
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Benguela
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Namibe
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ANG
+      </country>
+      <province>
+         Bengo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RCB
+      </country>
+      <province>
+         Congo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         NAM
+      </country>
+      <province>
+         Namibia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         ZRE
+      </country>
+      <province>
+         Bas Zaire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         BEN
+      </country>
+      <province>
+         Benin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WAN
+      </country>
+      <province>
+         Nigeria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RT
+      </country>
+      <province>
+         Togo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RSA
+      </country>
+      <province>
+         Western Cape
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CI
+      </country>
+      <province>
+         Cote dIvoire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GH
+      </country>
+      <province>
+         Ghana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CAM
+      </country>
+      <province>
+         Centre
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CAM
+      </country>
+      <province>
+         Cote/Littoral
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CAM
+      </country>
+      <province>
+         Sudoueste
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GQ
+      </country>
+      <province>
+         Equatorial Guinea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         G
+      </country>
+      <province>
+         Gabon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         CV
+      </country>
+      <province>
+         Cape Verde
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         RG
+      </country>
+      <province>
+         Guinea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         LB
+      </country>
+      <province>
+         Liberia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WAG
+      </country>
+      <province>
+         Gambia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Dakar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Fatick
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Louga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Saint Louis
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Thies
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         SN
+      </country>
+      <province>
+         Ziguinchor
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         GNB
+      </country>
+      <province>
+         Guinea-Bissau
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         WAL
+      </country>
+      <province>
+         Sierra Leone
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         HELX
+      </country>
+      <province>
+         Saint Helena
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Atlantic Ocean
+      </sea>
+      <country>
+         STP
+      </country>
+      <province>
+         Sao Tome and Principe
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         AL
+      </country>
+      <province>
+         Albania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Anatoliki Makedhonia kai Thraki
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Attiki
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Dhytiki Ellas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Ionioi Nisoi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Ipiros
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Kedriki Makedhonia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Kriti
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Notion Aiyaion
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Peloponnisos
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Sterea Ellas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Thessalia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GR
+      </country>
+      <province>
+         Voreion Aiyaion
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         MNE
+      </country>
+      <province>
+         Montenegro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Corse
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Languedoc Roussillon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         F
+      </country>
+      <province>
+         Provence Cote dAzur
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Andalusia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Balearic Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Catalonia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Murcia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         E
+      </country>
+      <province>
+         Valencia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Veneto
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Friuli Venezia Giulia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Liguria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Emilia Romagna
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Toscana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Marche
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Lazio
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Abruzzo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Campania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Puglia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Calabria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Sicilia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         I
+      </country>
+      <province>
+         Sardegna
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         SLO
+      </country>
+      <province>
+         Slovenia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         BIH
+      </country>
+      <province>
+         Bosnia and Herzegovina
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         HR
+      </country>
+      <province>
+         Croatia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Adana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Antalya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Aydin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Balikesir
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Canakkale
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Hatay
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Icel
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Izmir
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TR
+      </country>
+      <province>
+         Mugla
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         MC
+      </country>
+      <province>
+         Monaco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GBZ
+      </country>
+      <province>
+         Gibraltar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         M
+      </country>
+      <province>
+         Malta
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         CY
+      </country>
+      <province>
+         Cyprus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         GAZA
+      </country>
+      <province>
+         Gaza Strip
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         Central
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         Haifa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         North
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         Tel Aviv
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         South
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Matruh
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Sina ash Shamaliyah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         El Buhayra
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         El Daqahliya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Dumyat
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Ismailiya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Kafr el Sheikh
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Sharqiya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Bur Said (munic.)
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         El Iskandariya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         SYR
+      </country>
+      <province>
+         Syria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         RL
+      </country>
+      <province>
+         Lebanon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         DZ
+      </country>
+      <province>
+         Algeria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         LAR
+      </country>
+      <province>
+         Libya
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         MA
+      </country>
+      <province>
+         Morocco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Mediterranean Sea
+      </sea>
+      <country>
+         TN
+      </country>
+      <province>
+         Tunisia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Campeche
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Tabasco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Tamaulipas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Veracruz
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Yucatan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Alabama
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Florida
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Louisiana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Mississippi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Texas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Ciudad de la Habana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         La Habana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Mexico
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Pinar del Rio
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         FARX
+      </country>
+      <province>
+         Faroe Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Sogn og Fjordane
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Moere og Romsdal
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Soer Trondelag
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Nord Trondelag
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Nordland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Troms
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Finnmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         IS
+      </country>
+      <province>
+         Iceland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         SVAX
+      </country>
+      <province>
+         Svalbard
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Shetland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Norwegian Sea
+      </sea>
+      <country>
+         GROX
+      </country>
+      <province>
+         Greenland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Barents Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Rep. of Karelia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Barents Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Arkhangelskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Barents Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Murmanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Barents Sea
+      </sea>
+      <country>
+         N
+      </country>
+      <province>
+         Finnmark
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sibirian Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Arkhangelskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sibirian Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Tyumenskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sibirian Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Krasnoyarskiy kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sibirian Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Rep. of Sakha
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sibirian Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Magadanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Magadanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         SVAX
+      </country>
+      <province>
+         Svalbard
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Northwest Territories
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Yukon Territory
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Alaska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arctic Ocean
+      </sea>
+      <country>
+         GROX
+      </country>
+      <province>
+         Greenland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Bering Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Kamchatskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Bering Sea
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Magadanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Bering Sea
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Alaska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Khabarovskiy kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Kamchatskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Magadanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Sakhalinskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PNG
+      </country>
+      <province>
+         Papua New Guinea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Hokkaido
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Aomori
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Iwate
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Miyagi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Fukushima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Ibaraki
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Chiba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kanagawa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Shizuoka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Aichi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Mie
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Wakayama
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Tokushima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kochi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Miyazaki
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kagoshima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Okinawa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MV
+      </country>
+      <province>
+         Maldives
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         RP
+      </country>
+      <province>
+         Philippines
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         RC
+      </country>
+      <province>
+         Taiwan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         GCA
+      </country>
+      <province>
+         Guatemala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Baja California
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Baja California Sur
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Chiapas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Colima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Guerrero
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Jalisco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Michoacan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Nayarit
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Oaxaca
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Sinaloa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Sonora
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         British Columbia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CDN
+      </country>
+      <province>
+         Yukon Territory
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Alaska
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         California
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Hawaii
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Oregon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         USA
+      </country>
+      <province>
+         Washington
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CR
+      </country>
+      <province>
+         Guanacaste
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CR
+      </country>
+      <province>
+         Puntarenas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NIC
+      </country>
+      <province>
+         Nicaragua
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Cocle
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Chiriqui
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Darien
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Herrera
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Los Santos
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Panama
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Veraguas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         ES
+      </country>
+      <province>
+         El Salvador
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Choluteca
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Valle
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Cauca
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Choco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Narino
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Valle de Cauca
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         AMSA
+      </country>
+      <province>
+         American Samoa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         New South Wales
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Queensland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Tasmania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Victoria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         COOK
+      </country>
+      <province>
+         Cook Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         FJI
+      </country>
+      <province>
+         Fiji
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         FPOL
+      </country>
+      <province>
+         French Polynesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         GUAM
+      </country>
+      <province>
+         Guam
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         KIR
+      </country>
+      <province>
+         Kiribati
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         MH
+      </country>
+      <province>
+         Marshall Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         FSM
+      </country>
+      <province>
+         Micronesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NAU
+      </country>
+      <province>
+         Nauru
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NCA
+      </country>
+      <province>
+         New Caledonia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NZ
+      </country>
+      <province>
+         New Zealand
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NIUE
+      </country>
+      <province>
+         Niue
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NORF
+      </country>
+      <province>
+         Norfolk Island
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         NMIS
+      </country>
+      <province>
+         Northern Mariana Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PAL
+      </country>
+      <province>
+         Palau
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PITC
+      </country>
+      <province>
+         Pitcairn Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         SLB
+      </country>
+      <province>
+         Solomon Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         TO
+      </country>
+      <province>
+         Tonga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         TUV
+      </country>
+      <province>
+         Tuvalu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         VU
+      </country>
+      <province>
+         Vanuatu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         WAFU
+      </country>
+      <province>
+         Wallis and Futuna
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         WS
+      </country>
+      <province>
+         Samoa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         RCH
+      </country>
+      <province>
+         Chile
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Ancash
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Arequipa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Ica
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         La Libertad
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Lambayeque
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Lima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Moquegua
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Piura
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Tacna
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         PE
+      </country>
+      <province>
+         Tumbes
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Pacific Ocean
+      </sea>
+      <country>
+         EC
+      </country>
+      <province>
+         Ecuador
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Okhotsk
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Kamchatskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Okhotsk
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Magadanskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Okhotsk
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Hokkaido
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Primorsky kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Khabarovskiy kray
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         R
+      </country>
+      <province>
+         Sakhalinskaya oblast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         NOK
+      </country>
+      <province>
+         North Korea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Hokkaido
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Aomori
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Akita
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Yamagata
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Niigata
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Toyama
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Ishikawa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Fukui
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kyoto
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Hyogo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Tottori
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Shimane
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Yamaguchi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Fukuoka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Saga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sea of Japan
+      </sea>
+      <country>
+         ROK
+      </country>
+      <province>
+         South Korea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Hebei
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Jiangsu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Liaoning
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Shandong
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         NOK
+      </country>
+      <province>
+         North Korea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Yellow Sea
+      </sea>
+      <country>
+         ROK
+      </country>
+      <province>
+         South Korea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Fujian
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Jiangsu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Zhejiang
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Saga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Nagasaki
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kumamoto
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Kagoshima
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         J
+      </country>
+      <province>
+         Okinawa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         ROK
+      </country>
+      <province>
+         South Korea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         East China Sea
+      </sea>
+      <country>
+         RC
+      </country>
+      <province>
+         Taiwan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Fujian
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Guangdong
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         TJ
+      </country>
+      <province>
+         Guangxi Zhuangzu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         BRU
+      </country>
+      <province>
+         Brunei
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Johor
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Kelantan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Pahang
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Sabah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Sarawak
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Terengganu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         THA
+      </country>
+      <province>
+         Thailand
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         K
+      </country>
+      <province>
+         Cambodia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         VN
+      </country>
+      <province>
+         Vietnam
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         HONX
+      </country>
+      <province>
+         Hong Kong
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         MACX
+      </country>
+      <province>
+         Macau
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         RP
+      </country>
+      <province>
+         Philippines
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         SGP
+      </country>
+      <province>
+         Singapore
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         South China Sea
+      </sea>
+      <country>
+         RC
+      </country>
+      <province>
+         Taiwan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         IR
+      </country>
+      <province>
+         Bushehr
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         IR
+      </country>
+      <province>
+         Hormozgan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         IR
+      </country>
+      <province>
+         Khuzestan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         BRN
+      </country>
+      <province>
+         Bahrain
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         IRQ
+      </country>
+      <province>
+         Al Basrah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         KWT
+      </country>
+      <province>
+         Kuwait
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         SA
+      </country>
+      <province>
+         Saudi Arabia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         OM
+      </country>
+      <province>
+         Oman
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Abu Dhabi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Ajman
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Dubayy
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Ras al Khaymah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Ash Shariqah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Umm al Qaywayn
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Persian Gulf
+      </sea>
+      <country>
+         Q
+      </country>
+      <province>
+         Qatar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         IRL
+      </country>
+      <province>
+         Ireland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GBM
+      </country>
+      <province>
+         Man
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Lancashire
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Merseyside
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Anglesey
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Cardiff
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Swansea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Irish Sea
+      </sea>
+      <country>
+         GB
+      </country>
+      <province>
+         Northern Ireland
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         AXA
+      </country>
+      <province>
+         Anguilla
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         AG
+      </country>
+      <province>
+         Antigua and Barbuda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         ARU
+      </country>
+      <province>
+         Aruba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         BZ
+      </country>
+      <province>
+         Belize
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         GCA
+      </country>
+      <province>
+         Guatemala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Quintana Roo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         MEX
+      </country>
+      <province>
+         Yucatan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         BVIR
+      </country>
+      <province>
+         British Virgin Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CAYM
+      </country>
+      <province>
+         Cayman Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CR
+      </country>
+      <province>
+         Limon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         NIC
+      </country>
+      <province>
+         Nicaragua
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Bocas del Toro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Colon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         PA
+      </country>
+      <province>
+         Comarca de San Blas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Ciego de Avila
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Cienfuegos
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Granma
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Guantanamo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         La Habana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Las Tunas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Matanzas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Pinar del Rio
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Sancti Spiritus
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Santiago de Cuba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         C
+      </country>
+      <province>
+         Isla de la Juventud
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         WD
+      </country>
+      <province>
+         Dominica
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         DOM
+      </country>
+      <province>
+         Dominican Republic
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         RH
+      </country>
+      <province>
+         Haiti
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Atlantida
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Colon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Cortes
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         HCA
+      </country>
+      <province>
+         Gracias a Dios
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         WG
+      </country>
+      <province>
+         Grenada
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         GUAD
+      </country>
+      <province>
+         Guadeloupe
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         JA
+      </country>
+      <province>
+         Jamaica
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         MART
+      </country>
+      <province>
+         Martinique
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         MNTS
+      </country>
+      <province>
+         Montserrat
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         NA
+      </country>
+      <province>
+         Netherlands Antilles
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         SMAR
+      </country>
+      <province>
+         Saint Martin
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Antioquia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Atlantico
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Choco
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Cordoba
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Guajira, La
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Magdalena
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         CO
+      </country>
+      <province>
+         Sucre
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         PR
+      </country>
+      <province>
+         Puerto Rico
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         KN
+      </country>
+      <province>
+         Saint Kitts and Nevis
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         WL
+      </country>
+      <province>
+         Saint Lucia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         WV
+      </country>
+      <province>
+         Saint Vincent and the Grenadines
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         TT
+      </country>
+      <province>
+         Trinidad and Tobago
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         VIRG
+      </country>
+      <province>
+         Virgin Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Anzoategui
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Aragua
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Carabobo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Delta Amacuro
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Falcon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Miranda
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Monagas
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Nueva Esparta
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Sucre
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Zulia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Caribbean Sea
+      </sea>
+      <country>
+         YV
+      </country>
+      <province>
+         Distrito Federal
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         PK
+      </country>
+      <province>
+         Pakistan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Kerala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Tamil Nadu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         XMAS
+      </country>
+      <province>
+         Christmas Island
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         COCO
+      </country>
+      <province>
+         Cocos Islands
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         TL
+      </country>
+      <province>
+         Timor-Leste
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MV
+      </country>
+      <province>
+         Maldives
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         YE
+      </country>
+      <province>
+         Yemen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         SGP
+      </country>
+      <province>
+         Singapore
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         CL
+      </country>
+      <province>
+         Sri Lanka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         New South Wales
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Northern Territory
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         South Australia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Tasmania
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Victoria
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         AUS
+      </country>
+      <province>
+         Western Australia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RSA
+      </country>
+      <province>
+         Eastern Cape
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RSA
+      </country>
+      <province>
+         Kwazulu Natal
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RSA
+      </country>
+      <province>
+         Western Cape
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAT
+      </country>
+      <province>
+         Tanga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAT
+      </country>
+      <province>
+         Pwani
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAT
+      </country>
+      <province>
+         Daressalam
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAT
+      </country>
+      <province>
+         Lindi
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAT
+      </country>
+      <province>
+         Mtwara
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         COM
+      </country>
+      <province>
+         Comoros
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         SP
+      </country>
+      <province>
+         Somalia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         EAK
+      </country>
+      <province>
+         Coast
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Antsiranana
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Antananarivo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Fianarantsoa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Mahajanga
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Toamasina
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         RM
+      </country>
+      <province>
+         Toliara
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Cabo Delgado
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Gaza
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Inhambane
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Maputo
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Nampula
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Sofala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Zambezia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MOC
+      </country>
+      <province>
+         Maputo (munic.)
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MS
+      </country>
+      <province>
+         Mauritius
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         MAYO
+      </country>
+      <province>
+         Mayotte
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         REUN
+      </country>
+      <province>
+         Reunion
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Indian Ocean
+      </sea>
+      <country>
+         SY
+      </country>
+      <province>
+         Seychelles
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         PK
+      </country>
+      <province>
+         Pakistan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Goa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Gujarat
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Karnataka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Kerala
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Maharashtra
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Tamil Nadu
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Lakshadweep Is.
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Arabian Sea
+      </sea>
+      <country>
+         OM
+      </country>
+      <province>
+         Oman
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Oman
+      </sea>
+      <country>
+         IR
+      </country>
+      <province>
+         Hormozgan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Oman
+      </sea>
+      <country>
+         IR
+      </country>
+      <province>
+         Sistan e Baluchestan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Oman
+      </sea>
+      <country>
+         PK
+      </country>
+      <province>
+         Pakistan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Oman
+      </sea>
+      <country>
+         OM
+      </country>
+      <province>
+         Oman
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Oman
+      </sea>
+      <country>
+         UAE
+      </country>
+      <province>
+         Al Fujayrah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         IL
+      </country>
+      <province>
+         South
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         El Bahr el Ahmar
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         Sina al Janubiyah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         ET
+      </country>
+      <province>
+         El Suweiz
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         JOR
+      </country>
+      <province>
+         Jordan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         SA
+      </country>
+      <province>
+         Saudi Arabia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         YE
+      </country>
+      <province>
+         Yemen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         SUD
+      </country>
+      <province>
+         ash Sharqiyah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         DJI
+      </country>
+      <province>
+         Djibouti
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Red Sea
+      </sea>
+      <country>
+         ER
+      </country>
+      <province>
+         Eritrea
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Aden
+      </sea>
+      <country>
+         YE
+      </country>
+      <province>
+         Yemen
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Aden
+      </sea>
+      <country>
+         DJI
+      </country>
+      <province>
+         Djibouti
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Aden
+      </sea>
+      <country>
+         SP
+      </country>
+      <province>
+         Somalia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         BD
+      </country>
+      <province>
+         Bangladesh
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Ayeyarwady
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Rakhine
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Andhra Pradesh
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Orissa
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         West Bengal
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Andaman and Nicobar Is.
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Gulf of Bengal
+      </sea>
+      <country>
+         CL
+      </country>
+      <province>
+         Sri Lanka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Ayeyarwady
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Bago
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Yangon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         MYA
+      </country>
+      <province>
+         Mon
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         IND
+      </country>
+      <province>
+         Andaman and Nicobar Is.
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         THA
+      </country>
+      <province>
+         Thailand
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Andaman Sea
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Johor
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Kedah
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Melaka
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Negeri Sembilan
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Perak
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Perlis
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Pulau Pinang
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Selangor
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         THA
+      </country>
+      <province>
+         Thailand
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Malakka Strait
+      </sea>
+      <country>
+         SGP
+      </country>
+      <province>
+         Singapore
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sunda Sea
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sunda Sea
+      </sea>
+      <country>
+         TL
+      </country>
+      <province>
+         Timor-Leste
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sulawesi Sea
+      </sea>
+      <country>
+         MAL
+      </country>
+      <province>
+         Sarawak
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sulawesi Sea
+      </sea>
+      <country>
+         RI
+      </country>
+      <province>
+         Indonesia
+      </province>
+   </geo_sea-tuple>
+   <geo_sea-tuple>
+      <sea>
+         Sulawesi Sea
+      </sea>
+      <country>
+         RP
+      </country>
+      <province>
+         Philippines
+      </province>
+   </geo_sea-tuple>
+</geo_sea>

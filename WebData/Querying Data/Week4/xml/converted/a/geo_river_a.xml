@@ -1,0 +1,854 @@
+
+<geo_river>
+   <geo_river-tuple river="Thjorsa" country="IS" province="Iceland"/>
+   <geo_river-tuple river="Joekulsa a Fjoellum" country="IS" province="Iceland"/>
+   <geo_river-tuple river="Glomma" country="N" province="Akershus"/>
+   <geo_river-tuple river="Glomma" country="N" province="Oestfold"/>
+   <geo_river-tuple river="Glomma" country="N" province="Hedmark"/>
+   <geo_river-tuple river="Glomma" country="N" province="Soer Trondelag"/>
+   <geo_river-tuple river="Lagen" country="N" province="Akershus"/>
+   <geo_river-tuple river="Lagen" country="N" province="Hedmark"/>
+   <geo_river-tuple river="Lagen" country="N" province="Oppland"/>
+   <geo_river-tuple river="Goetaaelv" country="S" province="Alvsborg"/>
+   <geo_river-tuple river="Goetaaelv" country="S" province="Goteborg och Bohus"/>
+   <geo_river-tuple river="Klaraelv" country="N" province="Hedmark"/>
+   <geo_river-tuple river="Klaraelv" country="S" province="Varmland"/>
+   <geo_river-tuple river="Umeaelv" country="S" province="Vasterbotten"/>
+   <geo_river-tuple river="Dalaelv" country="S" province="Gavleborg"/>
+   <geo_river-tuple river="Dalaelv" country="S" province="Dalarna"/>
+   <geo_river-tuple river="Dalaelv" country="S" province="Uppsala"/>
+   <geo_river-tuple river="Dalaelv" country="S" province="Vastmanland"/>
+   <geo_river-tuple river="Vaesterdalaelv" country="S" province="Dalarna"/>
+   <geo_river-tuple river="Oesterdalaelv" country="S" province="Dalarna"/>
+   <geo_river-tuple river="Paatsjoki" country="R" province="Murmanskaya oblast"/>
+   <geo_river-tuple river="Paatsjoki" country="SF" province="Lappia"/>
+   <geo_river-tuple river="Paatsjoki" country="N" province="Finnmark"/>
+   <geo_river-tuple river="Ounasjoki" country="SF" province="Lappia"/>
+   <geo_river-tuple river="Kemijoki" country="SF" province="Lappia"/>
+   <geo_river-tuple river="Oulujoki" country="SF" province="Oulu"/>
+   <geo_river-tuple river="Kymijoki" country="SF" province="Haeme"/>
+   <geo_river-tuple river="Kymijoki" country="SF" province="Kymi"/>
+   <geo_river-tuple river="Kymijoki" country="SF" province="Mikkeli"/>
+   <geo_river-tuple river="Kokemaeenjoki" country="SF" province="Turku-Pori"/>
+   <geo_river-tuple river="Vuoksi" country="R" province="Rep. of Karelia"/>
+   <geo_river-tuple river="Vuoksi" country="SF" province="Kuopio"/>
+   <geo_river-tuple river="Vuoksi" country="SF" province="Kymi"/>
+   <geo_river-tuple river="Thames" country="GB" province="Berkshire"/>
+   <geo_river-tuple river="Thames" country="GB" province="Buckinghamshire"/>
+   <geo_river-tuple river="Thames" country="GB" province="Essex"/>
+   <geo_river-tuple river="Thames" country="GB" province="Gloucestershire"/>
+   <geo_river-tuple river="Thames" country="GB" province="Greater London"/>
+   <geo_river-tuple river="Thames" country="GB" province="Kent"/>
+   <geo_river-tuple river="Thames" country="GB" province="Oxfordshire"/>
+   <geo_river-tuple river="Thames" country="GB" province="Surrey"/>
+   <geo_river-tuple river="Thames" country="GB" province="Wiltshire"/>
+   <geo_river-tuple river="Maas" country="F" province="Champagne Ardenne"/>
+   <geo_river-tuple river="Maas" country="F" province="Lorraine"/>
+   <geo_river-tuple river="Maas" country="B" province="Liege"/>
+   <geo_river-tuple river="Maas" country="B" province="Limburg"/>
+   <geo_river-tuple river="Maas" country="B" province="Namur"/>
+   <geo_river-tuple river="Maas" country="NL" province="Gelderland"/>
+   <geo_river-tuple river="Maas" country="NL" province="Zuid Holland"/>
+   <geo_river-tuple river="Maas" country="NL" province="Noord Brabant"/>
+   <geo_river-tuple river="Maas" country="NL" province="Limburg"/>
+   <geo_river-tuple river="Loire" country="F" province="Auvergne"/>
+   <geo_river-tuple river="Loire" country="F" province="Bourgogne"/>
+   <geo_river-tuple river="Loire" country="F" province="Centre"/>
+   <geo_river-tuple river="Loire" country="F" province="Pays de la Loire"/>
+   <geo_river-tuple river="Loire" country="F" province="Rhone Alpes"/>
+   <geo_river-tuple river="Garonne" country="F" province="Aquitaine"/>
+   <geo_river-tuple river="Garonne" country="F" province="Languedoc Roussillon"/>
+   <geo_river-tuple river="Garonne" country="F" province="Midi Pyrenees"/>
+   <geo_river-tuple river="Garonne" country="E" province="Catalonia"/>
+   <geo_river-tuple river="Rhone" country="F" province="Languedoc Roussillon"/>
+   <geo_river-tuple river="Rhone" country="F" province="Provence Cote dAzur"/>
+   <geo_river-tuple river="Rhone" country="F" province="Rhone Alpes"/>
+   <geo_river-tuple river="Rhone" country="CH" province="GE"/>
+   <geo_river-tuple river="Rhone" country="CH" province="VS"/>
+   <geo_river-tuple river="Rhone" country="CH" province="VD"/>
+   <geo_river-tuple river="Saone" country="F" province="Bourgogne"/>
+   <geo_river-tuple river="Saone" country="F" province="Franche Comte"/>
+   <geo_river-tuple river="Saone" country="F" province="Lorraine"/>
+   <geo_river-tuple river="Saone" country="F" province="Rhone Alpes"/>
+   <geo_river-tuple river="Doubs" country="F" province="Bourgogne"/>
+   <geo_river-tuple river="Doubs" country="F" province="Franche Comte"/>
+   <geo_river-tuple river="Doubs" country="CH" province="JU"/>
+   <geo_river-tuple river="Isere" country="F" province="Rhone Alpes"/>
+   <geo_river-tuple river="Seine" country="F" province="Bourgogne"/>
+   <geo_river-tuple river="Seine" country="F" province="Champagne Ardenne"/>
+   <geo_river-tuple river="Seine" country="F" province="Haute Normandie"/>
+   <geo_river-tuple river="Seine" country="F" province="Ile de France"/>
+   <geo_river-tuple river="Marne" country="F" province="Champagne Ardenne"/>
+   <geo_river-tuple river="Marne" country="F" province="Ile de France"/>
+   <geo_river-tuple river="Tajo" country="E" province="Castile La Mancha"/>
+   <geo_river-tuple river="Tajo" country="E" province="Estremadura"/>
+   <geo_river-tuple river="Tajo" country="P" province="Castelo Branco"/>
+   <geo_river-tuple river="Tajo" country="P" province="Lisbon"/>
+   <geo_river-tuple river="Tajo" country="P" province="Portalegre"/>
+   <geo_river-tuple river="Tajo" country="P" province="Santarem"/>
+   <geo_river-tuple river="Douro" country="E" province="Castile and Leon"/>
+   <geo_river-tuple river="Douro" country="P" province="Aveiro"/>
+   <geo_river-tuple river="Douro" country="P" province="Braganca"/>
+   <geo_river-tuple river="Douro" country="P" province="Guarda"/>
+   <geo_river-tuple river="Douro" country="P" province="Porto"/>
+   <geo_river-tuple river="Douro" country="P" province="Vila Real"/>
+   <geo_river-tuple river="Douro" country="P" province="Viseu"/>
+   <geo_river-tuple river="Guadiana" country="E" province="Andalusia"/>
+   <geo_river-tuple river="Guadiana" country="E" province="Castile La Mancha"/>
+   <geo_river-tuple river="Guadiana" country="E" province="Estremadura"/>
+   <geo_river-tuple river="Guadiana" country="P" province="Beja"/>
+   <geo_river-tuple river="Guadiana" country="P" province="Evora"/>
+   <geo_river-tuple river="Guadiana" country="P" province="Algarve"/>
+   <geo_river-tuple river="Guadiana" country="P" province="Portalegre"/>
+   <geo_river-tuple river="Guadalquivir" country="E" province="Andalusia"/>
+   <geo_river-tuple river="Ebro" country="E" province="Aragon"/>
+   <geo_river-tuple river="Ebro" country="E" province="Basque Country"/>
+   <geo_river-tuple river="Ebro" country="E" province="Castile and Leon"/>
+   <geo_river-tuple river="Ebro" country="E" province="Catalonia"/>
+   <geo_river-tuple river="Ebro" country="E" province="Navarre"/>
+   <geo_river-tuple river="Ebro" country="E" province="Rioja"/>
+   <geo_river-tuple river="Po" country="I" province="Piemonte"/>
+   <geo_river-tuple river="Po" country="I" province="Lombardia"/>
+   <geo_river-tuple river="Po" country="I" province="Veneto"/>
+   <geo_river-tuple river="Po" country="I" province="Emilia Romagna"/>
+   <geo_river-tuple river="Ticino" country="I" province="Piemonte"/>
+   <geo_river-tuple river="Ticino" country="I" province="Lombardia"/>
+   <geo_river-tuple river="Ticino" country="CH" province="TI"/>
+   <geo_river-tuple river="Adda" country="I" province="Lombardia"/>
+   <geo_river-tuple river="Mincio" country="I" province="Veneto"/>
+   <geo_river-tuple river="Etsch" country="I" province="Trentino Alto Adige"/>
+   <geo_river-tuple river="Etsch" country="I" province="Veneto"/>
+   <geo_river-tuple river="Tiber" country="I" province="Toscana"/>
+   <geo_river-tuple river="Tiber" country="I" province="Umbria"/>
+   <geo_river-tuple river="Tiber" country="I" province="Lazio"/>
+   <geo_river-tuple river="Arno" country="I" province="Toscana"/>
+   <geo_river-tuple river="Donau" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Donau" country="A" province="Vienna"/>
+   <geo_river-tuple river="Donau" country="A" province="Upper Austria"/>
+   <geo_river-tuple river="Donau" country="A" province="Lower Austria"/>
+   <geo_river-tuple river="Donau" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Donau" country="D" province="Bayern"/>
+   <geo_river-tuple river="Donau" country="H" province="Baranya"/>
+   <geo_river-tuple river="Donau" country="H" province="Bacs Kiskun"/>
+   <geo_river-tuple river="Donau" country="H" province="Fejer"/>
+   <geo_river-tuple river="Donau" country="H" province="Komarom Esztergom"/>
+   <geo_river-tuple river="Donau" country="H" province="Pest"/>
+   <geo_river-tuple river="Donau" country="H" province="Tolna"/>
+   <geo_river-tuple river="Donau" country="H" province="Budapest (munic.)"/>
+   <geo_river-tuple river="Donau" country="SK" province="Slovakia"/>
+   <geo_river-tuple river="Donau" country="UA" province="Odeska"/>
+   <geo_river-tuple river="Donau" country="HR" province="Croatia"/>
+   <geo_river-tuple river="Donau" country="BG" province="Bulgaria"/>
+   <geo_river-tuple river="Donau" country="RO" province="Braila"/>
+   <geo_river-tuple river="Donau" country="RO" province="Calarasi"/>
+   <geo_river-tuple river="Donau" country="RO" province="Caras Severin"/>
+   <geo_river-tuple river="Donau" country="RO" province="Constanta"/>
+   <geo_river-tuple river="Donau" country="RO" province="Dolj"/>
+   <geo_river-tuple river="Donau" country="RO" province="Galati"/>
+   <geo_river-tuple river="Donau" country="RO" province="Giurgiu"/>
+   <geo_river-tuple river="Donau" country="RO" province="Ialomita"/>
+   <geo_river-tuple river="Donau" country="RO" province="Mehedinti"/>
+   <geo_river-tuple river="Donau" country="RO" province="Olt"/>
+   <geo_river-tuple river="Donau" country="RO" province="Teleorman"/>
+   <geo_river-tuple river="Donau" country="RO" province="Tulcea"/>
+   <geo_river-tuple river="Donau" country="MD" province="Moldova"/>
+   <geo_river-tuple river="Breg" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Brigach" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Iller" country="A" province="Vorarlberg"/>
+   <geo_river-tuple river="Iller" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Iller" country="D" province="Bayern"/>
+   <geo_river-tuple river="Lech" country="A" province="Vorarlberg"/>
+   <geo_river-tuple river="Lech" country="A" province="Tyrol"/>
+   <geo_river-tuple river="Lech" country="D" province="Bayern"/>
+   <geo_river-tuple river="Isar" country="A" province="Tyrol"/>
+   <geo_river-tuple river="Isar" country="D" province="Bayern"/>
+   <geo_river-tuple river="Ammer" country="D" province="Bayern"/>
+   <geo_river-tuple river="Wurm" country="D" province="Bayern"/>
+   <geo_river-tuple river="Inn" country="A" province="Tyrol"/>
+   <geo_river-tuple river="Inn" country="D" province="Bayern"/>
+   <geo_river-tuple river="Inn" country="CH" province="GR"/>
+   <geo_river-tuple river="Alz" country="D" province="Bayern"/>
+   <geo_river-tuple river="Salzach" country="A" province="Salzburg"/>
+   <geo_river-tuple river="Salzach" country="D" province="Bayern"/>
+   <geo_river-tuple river="Enns" country="A" province="Salzburg"/>
+   <geo_river-tuple river="March" country="A" province="Lower Austria"/>
+   <geo_river-tuple river="March" country="CZ" province="Jihomoravsky"/>
+   <geo_river-tuple river="March" country="CZ" province="Severomoravsky"/>
+   <geo_river-tuple river="March" country="SK" province="Slovakia"/>
+   <geo_river-tuple river="Raab" country="A" province="Burgenland"/>
+   <geo_river-tuple river="Raab" country="A" province="Styria"/>
+   <geo_river-tuple river="Raab" country="H" province="Gyor Sopron"/>
+   <geo_river-tuple river="Raab" country="H" province="Vas"/>
+   <geo_river-tuple river="Raab" country="H" province="Veszprem"/>
+   <geo_river-tuple river="Raab" country="H" province="Gyor (munic.)"/>
+   <geo_river-tuple river="Waag" country="SK" province="Slovakia"/>
+   <geo_river-tuple river="Drau" country="A" province="Carinthia"/>
+   <geo_river-tuple river="Drau" country="H" province="Baranya"/>
+   <geo_river-tuple river="Drau" country="H" province="Somogy"/>
+   <geo_river-tuple river="Drau" country="H" province="Zala"/>
+   <geo_river-tuple river="Drau" country="I" province="Trentino Alto Adige"/>
+   <geo_river-tuple river="Drau" country="SLO" province="Slovenia"/>
+   <geo_river-tuple river="Drau" country="HR" province="Croatia"/>
+   <geo_river-tuple river="Mur" country="A" province="Styria"/>
+   <geo_river-tuple river="Mur" country="A" province="Salzburg"/>
+   <geo_river-tuple river="Mur" country="H" province="Zala"/>
+   <geo_river-tuple river="Mur" country="SLO" province="Slovenia"/>
+   <geo_river-tuple river="Mur" country="HR" province="Croatia"/>
+   <geo_river-tuple river="Theiss" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Theiss" country="H" province="Borsod Abauj Zemplen"/>
+   <geo_river-tuple river="Theiss" country="H" province="Csongrad"/>
+   <geo_river-tuple river="Theiss" country="H" province="Hajdu Bihar"/>
+   <geo_river-tuple river="Theiss" country="H" province="Heves"/>
+   <geo_river-tuple river="Theiss" country="H" province="Szabolcs Szatmar"/>
+   <geo_river-tuple river="Theiss" country="H" province="Szolnok"/>
+   <geo_river-tuple river="Theiss" country="H" province="Szeged (munic.)"/>
+   <geo_river-tuple river="Theiss" country="UA" province="Chernivetska"/>
+   <geo_river-tuple river="Theiss" country="UA" province="Ivano Frankivska"/>
+   <geo_river-tuple river="Theiss" country="UA" province="Zakarpatska"/>
+   <geo_river-tuple river="Save" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Save" country="SLO" province="Slovenia"/>
+   <geo_river-tuple river="Save" country="BIH" province="Bosnia and Herzegovina"/>
+   <geo_river-tuple river="Save" country="HR" province="Croatia"/>
+   <geo_river-tuple river="Morava" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Western Morava" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Southern Morava" country="MK" province="Macedonia"/>
+   <geo_river-tuple river="Southern Morava" country="SRB" province="Serbia"/>
+   <geo_river-tuple river="Southern Morava" country="KOS" province="Kosovo"/>
+   <geo_river-tuple river="Olt" country="RO" province="Brasov"/>
+   <geo_river-tuple river="Olt" country="RO" province="Covasna"/>
+   <geo_river-tuple river="Olt" country="RO" province="Harghita"/>
+   <geo_river-tuple river="Olt" country="RO" province="Olt"/>
+   <geo_river-tuple river="Olt" country="RO" province="Sibiu"/>
+   <geo_river-tuple river="Olt" country="RO" province="Vilcea"/>
+   <geo_river-tuple river="Pruth" country="UA" province="Chernivetska"/>
+   <geo_river-tuple river="Pruth" country="UA" province="Ivano Frankivska"/>
+   <geo_river-tuple river="Pruth" country="RO" province="Botosani"/>
+   <geo_river-tuple river="Pruth" country="RO" province="Galati"/>
+   <geo_river-tuple river="Pruth" country="RO" province="Iasi"/>
+   <geo_river-tuple river="Pruth" country="RO" province="Vaslui"/>
+   <geo_river-tuple river="Pruth" country="MD" province="Moldova"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Chernivetska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Ivano Frankivska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Khmelnytska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Lvivska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Odeska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Ternopilska"/>
+   <geo_river-tuple river="Dnjestr" country="UA" province="Vinnytska"/>
+   <geo_river-tuple river="Dnjestr" country="MD" province="Moldova"/>
+   <geo_river-tuple river="Weser" country="D" province="Bremen"/>
+   <geo_river-tuple river="Weser" country="D" province="Hessen"/>
+   <geo_river-tuple river="Weser" country="D" province="Niedersachsen"/>
+   <geo_river-tuple river="Weser" country="D" province="Nordrhein Westfalen"/>
+   <geo_river-tuple river="Aller" country="D" province="Niedersachsen"/>
+   <geo_river-tuple river="Leine" country="D" province="Niedersachsen"/>
+   <geo_river-tuple river="Leine" country="D" province="Thuringen"/>
+   <geo_river-tuple river="Werra" country="D" province="Hessen"/>
+   <geo_river-tuple river="Werra" country="D" province="Niedersachsen"/>
+   <geo_river-tuple river="Werra" country="D" province="Thuringen"/>
+   <geo_river-tuple river="Fulda" country="D" province="Hessen"/>
+   <geo_river-tuple river="Elbe" country="CZ" province="Severocesky"/>
+   <geo_river-tuple river="Elbe" country="CZ" province="Praha"/>
+   <geo_river-tuple river="Elbe" country="CZ" province="Vychodocesky"/>
+   <geo_river-tuple river="Elbe" country="D" province="Brandenburg"/>
+   <geo_river-tuple river="Elbe" country="D" province="Hamburg"/>
+   <geo_river-tuple river="Elbe" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_river-tuple river="Elbe" country="D" province="Niedersachsen"/>
+   <geo_river-tuple river="Elbe" country="D" province="Sachsen"/>
+   <geo_river-tuple river="Elbe" country="D" province="Sachsen Anhalt"/>
+   <geo_river-tuple river="Elbe" country="D" province="Schleswig Holstein"/>
+   <geo_river-tuple river="Moldau" country="CZ" province="Jihocesky"/>
+   <geo_river-tuple river="Moldau" country="CZ" province="Praha"/>
+   <geo_river-tuple river="Rhein" country="F" province="Alsace"/>
+   <geo_river-tuple river="Rhein" country="A" province="Vorarlberg"/>
+   <geo_river-tuple river="Rhein" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Rhein" country="D" province="Hessen"/>
+   <geo_river-tuple river="Rhein" country="D" province="Nordrhein Westfalen"/>
+   <geo_river-tuple river="Rhein" country="D" province="Rheinland Pfalz"/>
+   <geo_river-tuple river="Rhein" country="FL" province="Liechtenstein"/>
+   <geo_river-tuple river="Rhein" country="CH" province="AG"/>
+   <geo_river-tuple river="Rhein" country="CH" province="BL"/>
+   <geo_river-tuple river="Rhein" country="CH" province="BS"/>
+   <geo_river-tuple river="Rhein" country="CH" province="GR"/>
+   <geo_river-tuple river="Rhein" country="CH" province="SG"/>
+   <geo_river-tuple river="Rhein" country="CH" province="SH"/>
+   <geo_river-tuple river="Rhein" country="CH" province="TG"/>
+   <geo_river-tuple river="Rhein" country="CH" province="ZH"/>
+   <geo_river-tuple river="Rhein" country="NL" province="Gelderland"/>
+   <geo_river-tuple river="Rhein" country="NL" province="Zuid Holland"/>
+   <geo_river-tuple river="Main" country="D" province="Bayern"/>
+   <geo_river-tuple river="Main" country="D" province="Hessen"/>
+   <geo_river-tuple river="Mosel" country="F" province="Lorraine"/>
+   <geo_river-tuple river="Mosel" country="D" province="Rheinland Pfalz"/>
+   <geo_river-tuple river="Mosel" country="D" province="Saarland"/>
+   <geo_river-tuple river="Mosel" country="L" province="Luxembourg"/>
+   <geo_river-tuple river="Saar" country="F" province="Alsace"/>
+   <geo_river-tuple river="Saar" country="F" province="Lorraine"/>
+   <geo_river-tuple river="Saar" country="D" province="Rheinland Pfalz"/>
+   <geo_river-tuple river="Saar" country="D" province="Saarland"/>
+   <geo_river-tuple river="Neckar" country="D" province="Baden Wurttemberg"/>
+   <geo_river-tuple river="Aare" country="CH" province="AG"/>
+   <geo_river-tuple river="Aare" country="CH" province="BE"/>
+   <geo_river-tuple river="Aare" country="CH" province="SO"/>
+   <geo_river-tuple river="Reuss" country="CH" province="AG"/>
+   <geo_river-tuple river="Reuss" country="CH" province="LU"/>
+   <geo_river-tuple river="Reuss" country="CH" province="UR"/>
+   <geo_river-tuple river="Limmat" country="CH" province="AG"/>
+   <geo_river-tuple river="Limmat" country="CH" province="ZH"/>
+   <geo_river-tuple river="Oder" country="CZ" province="Severomoravsky"/>
+   <geo_river-tuple river="Oder" country="D" province="Brandenburg"/>
+   <geo_river-tuple river="Oder" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_river-tuple river="Oder" country="D" province="Sachsen"/>
+   <geo_river-tuple river="Oder" country="PL" province="Gorzowskie"/>
+   <geo_river-tuple river="Oder" country="PL" province="Legnickie"/>
+   <geo_river-tuple river="Oder" country="PL" province="Opolskie"/>
+   <geo_river-tuple river="Oder" country="PL" province="Szczecinskie"/>
+   <geo_river-tuple river="Oder" country="PL" province="Wroclawskie"/>
+   <geo_river-tuple river="Oder" country="PL" province="Zielonogorskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Warszwaskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Bielskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Bydgoskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Elblaskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Gdanskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Katowickie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Kieleckie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Krakowskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Lubelskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Plockie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Radomskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Rzeszowskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Siedleckie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Skierniewickie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Tarnobrzeskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Tarnowskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Torunskie"/>
+   <geo_river-tuple river="Weichsel" country="PL" province="Wloclawskie"/>
+   <geo_river-tuple river="Drin" country="AL" province="Albania"/>
+   <geo_river-tuple river="White Drin" country="AL" province="Albania"/>
+   <geo_river-tuple river="White Drin" country="KOS" province="Kosovo"/>
+   <geo_river-tuple river="Black Drin" country="AL" province="Albania"/>
+   <geo_river-tuple river="Black Drin" country="MK" province="Macedonia"/>
+   <geo_river-tuple river="Jordan" country="IL" province="North"/>
+   <geo_river-tuple river="Jordan" country="JOR" province="Jordan"/>
+   <geo_river-tuple river="Jordan" country="SYR" province="Syria"/>
+   <geo_river-tuple river="Jordan" country="RL" province="Lebanon"/>
+   <geo_river-tuple river="Jordan" country="WEST" province="West Bank"/>
+   <geo_river-tuple river="Kura" country="TR" province="Kars"/>
+   <geo_river-tuple river="Kura" country="GE" province="Georgia"/>
+   <geo_river-tuple river="Kura" country="AZ" province="Azerbaijan"/>
+   <geo_river-tuple river="Schatt al Arab" country="IR" province="Khuzestan"/>
+   <geo_river-tuple river="Schatt al Arab" country="IRQ" province="Al Basrah"/>
+   <geo_river-tuple river="Tigris" country="TR" province="Batman"/>
+   <geo_river-tuple river="Tigris" country="TR" province="Diyarbakir"/>
+   <geo_river-tuple river="Tigris" country="TR" province="Mardin"/>
+   <geo_river-tuple river="Tigris" country="TR" province="Siirt"/>
+   <geo_river-tuple river="Tigris" country="TR" province="Sirnak"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Babil"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Baghdad"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Al Basrah"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Maysan"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Ninawa"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Salah ad Din"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Ad Tamim"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Wasit"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Dahuk"/>
+   <geo_river-tuple river="Tigris" country="IRQ" province="Arbil"/>
+   <geo_river-tuple river="Tigris" country="SYR" province="Syria"/>
+   <geo_river-tuple river="Euphrat" country="TR" province="Adiyaman"/>
+   <geo_river-tuple river="Euphrat" country="TR" province="Gaziantep"/>
+   <geo_river-tuple river="Euphrat" country="TR" province="Malatya"/>
+   <geo_river-tuple river="Euphrat" country="TR" province="Sanliurfa"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Al Anbar"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Babil"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Al Basrah"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Dhi Qar"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Karbala"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Al Muthanna"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="An Najaf"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Ninawa"/>
+   <geo_river-tuple river="Euphrat" country="IRQ" province="Al Qadisiyah"/>
+   <geo_river-tuple river="Euphrat" country="SYR" province="Syria"/>
+   <geo_river-tuple river="Murat" country="TR" province="Agri"/>
+   <geo_river-tuple river="Murat" country="TR" province="Bingol"/>
+   <geo_river-tuple river="Murat" country="TR" province="Elazig"/>
+   <geo_river-tuple river="Murat" country="TR" province="Mus"/>
+   <geo_river-tuple river="Karasu" country="TR" province="Erzincan"/>
+   <geo_river-tuple river="Karasu" country="TR" province="Erzurum"/>
+   <geo_river-tuple river="Karun" country="IR" province="Boyer Ahmad e Kohkiluyeh"/>
+   <geo_river-tuple river="Karun" country="IR" province="Chahar Mahal e Bakhtiari"/>
+   <geo_river-tuple river="Karun" country="IR" province="Esfahan"/>
+   <geo_river-tuple river="Karun" country="IR" province="Khuzestan"/>
+   <geo_river-tuple river="Northern Dwina" country="R" province="Arkhangelskaya oblast"/>
+   <geo_river-tuple river="Northern Dwina" country="R" province="Vologodskaya oblast"/>
+   <geo_river-tuple river="Suchona" country="R" province="Vologodskaya oblast"/>
+   <geo_river-tuple river="Petschora" country="R" province="Rep. of Komi"/>
+   <geo_river-tuple river="Petschora" country="R" province="Arkhangelskaya oblast"/>
+   <geo_river-tuple river="Newa" country="R" province="Leningradskaya oblast"/>
+   <geo_river-tuple river="Swir" country="R" province="Leningradskaya oblast"/>
+   <geo_river-tuple river="Narva" country="R" province="Pskovskaya oblast"/>
+   <geo_river-tuple river="Narva" country="EW" province="Estonia"/>
+   <geo_river-tuple river="Western Dwina" country="BY" province="Belarus"/>
+   <geo_river-tuple river="Western Dwina" country="LV" province="Latvia"/>
+   <geo_river-tuple river="Western Dwina" country="R" province="Smolenskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Ivanovskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Kostromskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Tverskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Yaroslavskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Rep. of Mariy El"/>
+   <geo_river-tuple river="Volga" country="R" province="Chuvash Republic"/>
+   <geo_river-tuple river="Volga" country="R" province="Nizhegorodskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Rep. of Tatarstan"/>
+   <geo_river-tuple river="Volga" country="R" province="Astrakhanskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Volgogradskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Penzenskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Samarskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Saratovskaya oblast"/>
+   <geo_river-tuple river="Volga" country="R" province="Ulyanovskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Vladimirskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Kaluzhskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Moskovskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Orjolskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Ryazanskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Tulskaya oblast"/>
+   <geo_river-tuple river="Oka" country="R" province="Nizhegorodskaya oblast"/>
+   <geo_river-tuple river="Don" country="R" province="Tulskaya oblast"/>
+   <geo_river-tuple river="Don" country="R" province="Voronezhskaya oblast"/>
+   <geo_river-tuple river="Don" country="R" province="Lipetskaya oblast"/>
+   <geo_river-tuple river="Don" country="R" province="Volgogradskaya oblast"/>
+   <geo_river-tuple river="Don" country="R" province="Rostovskaya oblast"/>
+   <geo_river-tuple river="Dnepr" country="BY" province="Belarus"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Cherkaska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Chernihivska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Dnipropetrovska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Khersonska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Kyyivska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Kirovohradska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Poltavska"/>
+   <geo_river-tuple river="Dnepr" country="UA" province="Zaporizka"/>
+   <geo_river-tuple river="Dnepr" country="R" province="Smolenskaya oblast"/>
+   <geo_river-tuple river="Ural" country="R" province="Rep. of Bashkortostan"/>
+   <geo_river-tuple river="Ural" country="R" province="Orenburgskaya oblast"/>
+   <geo_river-tuple river="Ural" country="R" province="Chelyabinskaya oblast"/>
+   <geo_river-tuple river="Ural" country="KAZ" province="Atyrau"/>
+   <geo_river-tuple river="Ural" country="KAZ" province="Batys Qazaqstan"/>
+   <geo_river-tuple river="Ob" country="R" province="Altayskiy kray"/>
+   <geo_river-tuple river="Ob" country="R" province="Novosibirskaya oblast"/>
+   <geo_river-tuple river="Ob" country="R" province="Tomskaya oblast"/>
+   <geo_river-tuple river="Ob" country="R" province="Tyumenskaya oblast"/>
+   <geo_river-tuple river="Irtysch" country="R" province="Omskaya oblast"/>
+   <geo_river-tuple river="Irtysch" country="R" province="Tyumenskaya oblast"/>
+   <geo_river-tuple river="Irtysch" country="TJ" province="Xinjiang Uygur"/>
+   <geo_river-tuple river="Irtysch" country="KAZ" province="Pavlodar"/>
+   <geo_river-tuple river="Irtysch" country="KAZ" province="Semey"/>
+   <geo_river-tuple river="Irtysch" country="KAZ" province="Shyghys Qazaqstan"/>
+   <geo_river-tuple river="Tobol" country="R" province="Orenburgskaya oblast"/>
+   <geo_river-tuple river="Tobol" country="R" province="Kurganskaya oblast"/>
+   <geo_river-tuple river="Tobol" country="R" province="Tyumenskaya oblast"/>
+   <geo_river-tuple river="Tobol" country="KAZ" province="Qostanay"/>
+   <geo_river-tuple river="Ischim" country="R" province="Omskaya oblast"/>
+   <geo_river-tuple river="Ischim" country="R" province="Tyumenskaya oblast"/>
+   <geo_river-tuple river="Ischim" country="KAZ" province="Qaraghandy"/>
+   <geo_river-tuple river="Ischim" country="KAZ" province="Soltustik Qazaqstan"/>
+   <geo_river-tuple river="Katun" country="R" province="Rep. of Altay"/>
+   <geo_river-tuple river="Katun" country="R" province="Altayskiy kray"/>
+   <geo_river-tuple river="Jenissej" country="R" province="Rep. of Tyva"/>
+   <geo_river-tuple river="Jenissej" country="R" province="Rep. of Khakassiya"/>
+   <geo_river-tuple river="Jenissej" country="R" province="Krasnoyarskiy kray"/>
+   <geo_river-tuple river="Angara" country="R" province="Rep. of Buryatiya"/>
+   <geo_river-tuple river="Angara" country="R" province="Krasnoyarskiy kray"/>
+   <geo_river-tuple river="Angara" country="R" province="Irkutskaya oblast"/>
+   <geo_river-tuple river="Chatanga" country="R" province="Krasnoyarskiy kray"/>
+   <geo_river-tuple river="Lena" country="R" province="Irkutskaya oblast"/>
+   <geo_river-tuple river="Lena" country="R" province="Rep. of Sakha"/>
+   <geo_river-tuple river="Amur" country="R" province="Chitinskaya oblast"/>
+   <geo_river-tuple river="Amur" country="R" province="Yevreyskaya avt. oblast"/>
+   <geo_river-tuple river="Amur" country="R" province="Khabarovskiy kray"/>
+   <geo_river-tuple river="Amur" country="R" province="Amurskaya oblast"/>
+   <geo_river-tuple river="Amur" country="TJ" province="Heilongjiang"/>
+   <geo_river-tuple river="Schilka" country="R" province="Chitinskaya oblast"/>
+   <geo_river-tuple river="Argun" country="R" province="Chitinskaya oblast"/>
+   <geo_river-tuple river="Argun" country="TJ" province="Heilongjiang"/>
+   <geo_river-tuple river="Kolyma" country="R" province="Rep. of Sakha"/>
+   <geo_river-tuple river="Kolyma" country="R" province="Magadanskaya oblast"/>
+   <geo_river-tuple river="Syrdarja" country="TAD" province="Khujand"/>
+   <geo_river-tuple river="Syrdarja" country="UZB" province="Namangan"/>
+   <geo_river-tuple river="Syrdarja" country="UZB" province="Toshkent"/>
+   <geo_river-tuple river="Syrdarja" country="KAZ" province="Ongtustik Qazaqstan"/>
+   <geo_river-tuple river="Syrdarja" country="KAZ" province="Qyzylorda"/>
+   <geo_river-tuple river="Naryn" country="UZB" province="Toshkent"/>
+   <geo_river-tuple river="Naryn" country="KGZ" province="Kyrgyzstan"/>
+   <geo_river-tuple river="Amudarja" country="AFG" province="Afghanistan"/>
+   <geo_river-tuple river="Amudarja" country="TAD" province="Khatlon"/>
+   <geo_river-tuple river="Amudarja" country="TM" province="Dashhowuz"/>
+   <geo_river-tuple river="Amudarja" country="TM" province="Leban"/>
+   <geo_river-tuple river="Amudarja" country="UZB" province="Samarqand"/>
+   <geo_river-tuple river="Amudarja" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_river-tuple river="Pjandsh" country="AFG" province="Afghanistan"/>
+   <geo_river-tuple river="Pjandsh" country="TAD" province="Kulob"/>
+   <geo_river-tuple river="Pjandsh" country="TAD" province="Khatlon"/>
+   <geo_river-tuple river="Pjandsh" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Gansu"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Henan"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Qinghai"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Shaanxi"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Shandong"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Nei Monggol"/>
+   <geo_river-tuple river="Hwangho" country="TJ" province="Ningxia Huizu"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Anhui"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Hubei"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Hunan"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Jiangsu"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Jiangxi"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Qinghai"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Sichuan"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Yunnan"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Jangtse" country="TJ" province="Shanghai (munic.)"/>
+   <geo_river-tuple river="Mekong" country="TJ" province="Yunnan"/>
+   <geo_river-tuple river="Mekong" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Mekong" country="LAO" province="Laos"/>
+   <geo_river-tuple river="Mekong" country="THA" province="Thailand"/>
+   <geo_river-tuple river="Mekong" country="K" province="Cambodia"/>
+   <geo_river-tuple river="Mekong" country="VN" province="Vietnam"/>
+   <geo_river-tuple river="Saluen" country="TJ" province="Yunnan"/>
+   <geo_river-tuple river="Saluen" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Saluen" country="MYA" province="Kayin"/>
+   <geo_river-tuple river="Saluen" country="MYA" province="Kayah"/>
+   <geo_river-tuple river="Saluen" country="MYA" province="Mon"/>
+   <geo_river-tuple river="Saluen" country="MYA" province="Shan"/>
+   <geo_river-tuple river="Irawaddy" country="TJ" province="Yunnan"/>
+   <geo_river-tuple river="Irawaddy" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Ayeyarwady"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Magway"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Mandalay"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Bago"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Yangon"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Sagaing"/>
+   <geo_river-tuple river="Irawaddy" country="MYA" province="Kachin"/>
+   <geo_river-tuple river="Ganges" country="BD" province="Bangladesh"/>
+   <geo_river-tuple river="Ganges" country="IND" province="Bihar"/>
+   <geo_river-tuple river="Ganges" country="IND" province="Uttar Pradesh"/>
+   <geo_river-tuple river="Ganges" country="IND" province="West Bengal"/>
+   <geo_river-tuple river="Brahmaputra" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Brahmaputra" country="BD" province="Bangladesh"/>
+   <geo_river-tuple river="Brahmaputra" country="IND" province="Arunachal Pradesh"/>
+   <geo_river-tuple river="Brahmaputra" country="IND" province="Assam"/>
+   <geo_river-tuple river="Indus" country="TJ" province="Tibet"/>
+   <geo_river-tuple river="Indus" country="PK" province="Pakistan"/>
+   <geo_river-tuple river="Indus" country="IND" province="Jammu and Kashmir"/>
+   <geo_river-tuple river="Asahan" country="RI" province="Indonesia"/>
+   <geo_river-tuple river="Yukon River" country="CDN" province="Yukon Territory"/>
+   <geo_river-tuple river="Yukon River" country="USA" province="Alaska"/>
+   <geo_river-tuple river="Mackenzie River" country="CDN" province="Northwest Territories"/>
+   <geo_river-tuple river="Nelson River" country="CDN" province="Manitoba"/>
+   <geo_river-tuple river="Saskatchewan River" country="CDN" province="Alberta"/>
+   <geo_river-tuple river="Saskatchewan River" country="CDN" province="Manitoba"/>
+   <geo_river-tuple river="Saskatchewan River" country="CDN" province="Saskatchewan"/>
+   <geo_river-tuple river="Saint Lawrence River" country="CDN" province="Quebec"/>
+   <geo_river-tuple river="Saint Lawrence River" country="USA" province="New York"/>
+   <geo_river-tuple river="Niagara River" country="CDN" province="Ontario"/>
+   <geo_river-tuple river="Niagara River" country="USA" province="New York"/>
+   <geo_river-tuple river="Detroit River" country="CDN" province="Ontario"/>
+   <geo_river-tuple river="Detroit River" country="USA" province="Michigan"/>
+   <geo_river-tuple river="Manicouagan" country="CDN" province="Quebec"/>
+   <geo_river-tuple river="Riviere Richelieu" country="CDN" province="Quebec"/>
+   <geo_river-tuple river="Merrimack River" country="USA" province="Massachusetts"/>
+   <geo_river-tuple river="Merrimack River" country="USA" province="New Hampshire"/>
+   <geo_river-tuple river="Connecticut River" country="USA" province="Connecticut"/>
+   <geo_river-tuple river="Connecticut River" country="USA" province="Massachusetts"/>
+   <geo_river-tuple river="Connecticut River" country="USA" province="New Hampshire"/>
+   <geo_river-tuple river="Connecticut River" country="USA" province="Vermont"/>
+   <geo_river-tuple river="Hudson River" country="USA" province="New Jersey"/>
+   <geo_river-tuple river="Hudson River" country="USA" province="New York"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Arkansas"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Illinois"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Iowa"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Kentucky"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Louisiana"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Minnesota"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Mississippi"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Missouri"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Tennessee"/>
+   <geo_river-tuple river="Mississippi" country="USA" province="Wisconsin"/>
+   <geo_river-tuple river="Missouri" country="USA" province="Iowa"/>
+   <geo_river-tuple river="Missouri" country="USA" province="Kansas"/>
+   <geo_river-tuple river="Missouri" country="USA" province="Missouri"/>
+   <geo_river-tuple river="Missouri" country="USA" province="Montana"/>
+   <geo_river-tuple river="Missouri" country="USA" province="Nebraska"/>
+   <geo_river-tuple river="Missouri" country="USA" province="North Dakota"/>
+   <geo_river-tuple river="Missouri" country="USA" province="South Dakota"/>
+   <geo_river-tuple river="Arkansas" country="USA" province="Arkansas"/>
+   <geo_river-tuple river="Arkansas" country="USA" province="Colorado"/>
+   <geo_river-tuple river="Arkansas" country="USA" province="Kansas"/>
+   <geo_river-tuple river="Arkansas" country="USA" province="Oklahoma"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="Illinois"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="Indiana"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="Kentucky"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="Ohio"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="Pennsylvania"/>
+   <geo_river-tuple river="Ohio River" country="USA" province="West Virginia"/>
+   <geo_river-tuple river="Allegheny River" country="USA" province="New York"/>
+   <geo_river-tuple river="Allegheny River" country="USA" province="Pennsylvania"/>
+   <geo_river-tuple river="Tennessee" country="USA" province="Alabama"/>
+   <geo_river-tuple river="Tennessee" country="USA" province="Kentucky"/>
+   <geo_river-tuple river="Tennessee" country="USA" province="North Carolina"/>
+   <geo_river-tuple river="Tennessee" country="USA" province="Tennessee"/>
+   <geo_river-tuple river="Columbia River" country="CDN" province="British Columbia"/>
+   <geo_river-tuple river="Columbia River" country="USA" province="Oregon"/>
+   <geo_river-tuple river="Columbia River" country="USA" province="Washington"/>
+   <geo_river-tuple river="Truckee River" country="USA" province="California"/>
+   <geo_river-tuple river="Truckee River" country="USA" province="Nevada"/>
+   <geo_river-tuple river="Colorado" country="MEX" province="Baja California"/>
+   <geo_river-tuple river="Colorado" country="MEX" province="Sonora"/>
+   <geo_river-tuple river="Colorado" country="USA" province="Arizona"/>
+   <geo_river-tuple river="Colorado" country="USA" province="California"/>
+   <geo_river-tuple river="Colorado" country="USA" province="Colorado"/>
+   <geo_river-tuple river="Colorado" country="USA" province="Nevada"/>
+   <geo_river-tuple river="Colorado" country="USA" province="Utah"/>
+   <geo_river-tuple river="Rio Grande" country="MEX" province="Chihuahua"/>
+   <geo_river-tuple river="Rio Grande" country="MEX" province="Coahuila"/>
+   <geo_river-tuple river="Rio Grande" country="MEX" province="Nuevo Leon"/>
+   <geo_river-tuple river="Rio Grande" country="MEX" province="Tamaulipas"/>
+   <geo_river-tuple river="Rio Grande" country="USA" province="Colorado"/>
+   <geo_river-tuple river="Rio Grande" country="USA" province="New Mexico"/>
+   <geo_river-tuple river="Rio Grande" country="USA" province="Texas"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Guanajuato"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Jalisco"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Mexico, Estado de"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Michoacan"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Nayarit"/>
+   <geo_river-tuple river="Rio Lerma" country="MEX" province="Queretaro"/>
+   <geo_river-tuple river="Rio San Juan" country="CR" province="Alajuela"/>
+   <geo_river-tuple river="Rio San Juan" country="CR" province="Heredia"/>
+   <geo_river-tuple river="Rio San Juan" country="CR" province="Limon"/>
+   <geo_river-tuple river="Rio San Juan" country="NIC" province="Nicaragua"/>
+   <geo_river-tuple river="Rio Desaguadero" country="BOL" province="Bolivia"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Antioquia"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Atlantico"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Bolivar"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Boyaca"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Caldas"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Huila"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Magdalena"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Norte de Santander"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Santander del Sur"/>
+   <geo_river-tuple river="Rio Magdalena" country="CO" province="Tolima"/>
+   <geo_river-tuple river="Orinoco" country="CO" province="Guainia"/>
+   <geo_river-tuple river="Orinoco" country="CO" province="Vichada"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Amazonas"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Anzoategui"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Apure"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Bolivar"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Delta Amacuro"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Guarico"/>
+   <geo_river-tuple river="Orinoco" country="YV" province="Monagas"/>
+   <geo_river-tuple river="Amazonas" country="CO" province="Amazonas"/>
+   <geo_river-tuple river="Amazonas" country="BR" province="Amapa"/>
+   <geo_river-tuple river="Amazonas" country="BR" province="Amazonas"/>
+   <geo_river-tuple river="Amazonas" country="BR" province="Para"/>
+   <geo_river-tuple river="Amazonas" country="PE" province="Cuzco"/>
+   <geo_river-tuple river="Amazonas" country="PE" province="Loreto"/>
+   <geo_river-tuple river="Amazonas" country="PE" province="Ucayali"/>
+   <geo_river-tuple river="Rio Negro" country="CO" province="Guainia"/>
+   <geo_river-tuple river="Rio Negro" country="BR" province="Amazonas"/>
+   <geo_river-tuple river="Rio Negro" country="BR" province="Roraima"/>
+   <geo_river-tuple river="Rio Madeira" country="BOL" province="Bolivia"/>
+   <geo_river-tuple river="Rio Madeira" country="BR" province="Amazonas"/>
+   <geo_river-tuple river="Rio Madeira" country="BR" province="Rondonia"/>
+   <geo_river-tuple river="Rio Mamore" country="BOL" province="Bolivia"/>
+   <geo_river-tuple river="Tocantins" country="BR" province="Goias"/>
+   <geo_river-tuple river="Tocantins" country="BR" province="Maranhao"/>
+   <geo_river-tuple river="Tocantins" country="BR" province="Para"/>
+   <geo_river-tuple river="Tocantins" country="BR" province="Tocantins"/>
+   <geo_river-tuple river="Rio Sao Francisco" country="BR" province="Alagoas"/>
+   <geo_river-tuple river="Rio Sao Francisco" country="BR" province="Bahia"/>
+   <geo_river-tuple river="Rio Sao Francisco" country="BR" province="Minas Gerais"/>
+   <geo_river-tuple river="Rio Sao Francisco" country="BR" province="Pernambuco"/>
+   <geo_river-tuple river="Rio Sao Francisco" country="BR" province="Sergipe"/>
+   <geo_river-tuple river="Parana" country="RA" province="Buenos Aires"/>
+   <geo_river-tuple river="Parana" country="RA" province="Chaco"/>
+   <geo_river-tuple river="Parana" country="RA" province="Corrientes"/>
+   <geo_river-tuple river="Parana" country="RA" province="Entre Rios"/>
+   <geo_river-tuple river="Parana" country="RA" province="Misiones"/>
+   <geo_river-tuple river="Parana" country="RA" province="Santa Fe"/>
+   <geo_river-tuple river="Parana" country="RA" province="Distrito Federal"/>
+   <geo_river-tuple river="Parana" country="BR" province="Goias"/>
+   <geo_river-tuple river="Parana" country="BR" province="Mato Grosso do Sul"/>
+   <geo_river-tuple river="Parana" country="BR" province="Minas Gerais"/>
+   <geo_river-tuple river="Parana" country="BR" province="Parana"/>
+   <geo_river-tuple river="Parana" country="BR" province="Sao Paulo"/>
+   <geo_river-tuple river="Parana" country="PY" province="Paraguay"/>
+   <geo_river-tuple river="Paraguay" country="RA" province="Chaco"/>
+   <geo_river-tuple river="Paraguay" country="RA" province="Formosa"/>
+   <geo_river-tuple river="Paraguay" country="BOL" province="Bolivia"/>
+   <geo_river-tuple river="Paraguay" country="BR" province="Mato Grosso"/>
+   <geo_river-tuple river="Paraguay" country="BR" province="Mato Grosso do Sul"/>
+   <geo_river-tuple river="Paraguay" country="PY" province="Paraguay"/>
+   <geo_river-tuple river="Uruguay" country="RA" province="Corrientes"/>
+   <geo_river-tuple river="Uruguay" country="RA" province="Entre Rios"/>
+   <geo_river-tuple river="Uruguay" country="RA" province="Misiones"/>
+   <geo_river-tuple river="Uruguay" country="BR" province="Rio Grande do Sul"/>
+   <geo_river-tuple river="Uruguay" country="ROU" province="Uruguay"/>
+   <geo_river-tuple river="Gambia" country="RG" province="Guinea"/>
+   <geo_river-tuple river="Gambia" country="WAG" province="Gambia"/>
+   <geo_river-tuple river="Gambia" country="SN" province="Kolda"/>
+   <geo_river-tuple river="Gambia" country="SN" province="Tambacounda"/>
+   <geo_river-tuple river="Senegal" country="RMM" province="Mali"/>
+   <geo_river-tuple river="Senegal" country="RIM" province="Mauritania"/>
+   <geo_river-tuple river="Senegal" country="RG" province="Guinea"/>
+   <geo_river-tuple river="Senegal" country="SN" province="Saint Louis"/>
+   <geo_river-tuple river="Senegal" country="SN" province="Tambacounda"/>
+   <geo_river-tuple river="Volta" country="BF" province="Burkina Faso"/>
+   <geo_river-tuple river="Volta" country="GH" province="Ghana"/>
+   <geo_river-tuple river="Niger" country="RMM" province="Mali"/>
+   <geo_river-tuple river="Niger" country="RN" province="Niger"/>
+   <geo_river-tuple river="Niger" country="WAN" province="Nigeria"/>
+   <geo_river-tuple river="Niger" country="RG" province="Guinea"/>
+   <geo_river-tuple river="Bani" country="RMM" province="Mali"/>
+   <geo_river-tuple river="Bani" country="CI" province="Cote dIvoire"/>
+   <geo_river-tuple river="Benue" country="WAN" province="Nigeria"/>
+   <geo_river-tuple river="Benue" country="CAM" province="Nord"/>
+   <geo_river-tuple river="Schari" country="CAM" province="Nord extreme"/>
+   <geo_river-tuple river="Schari" country="RCA" province="Central African Republic"/>
+   <geo_river-tuple river="Schari" country="TCH" province="Chad"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Buhayra"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Daqahliya"/>
+   <geo_river-tuple river="Nile" country="ET" province="Dumyat"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Gharbiya"/>
+   <geo_river-tuple river="Nile" country="ET" province="Kafr el Sheikh"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Minufiya"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Qalubiya"/>
+   <geo_river-tuple river="Nile" country="ET" province="Sharqiya"/>
+   <geo_river-tuple river="Nile" country="ET" province="Aswan"/>
+   <geo_river-tuple river="Nile" country="ET" province="Asyut"/>
+   <geo_river-tuple river="Nile" country="ET" province="Beni Suef"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Giza"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Minya"/>
+   <geo_river-tuple river="Nile" country="ET" province="Qena"/>
+   <geo_river-tuple river="Nile" country="ET" province="Sohag"/>
+   <geo_river-tuple river="Nile" country="ET" province="El Qahira"/>
+   <geo_river-tuple river="Nile" country="SUD" province="al Khartum"/>
+   <geo_river-tuple river="Nile" country="SUD" province="ash Shamaliyah"/>
+   <geo_river-tuple river="Atbara" country="SUD" province="ash Shamaliyah"/>
+   <geo_river-tuple river="Atbara" country="SUD" province="ash Sharqiyah"/>
+   <geo_river-tuple river="Atbara" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="Blue Nile" country="SUD" province="al Khartum"/>
+   <geo_river-tuple river="Blue Nile" country="SUD" province="Nil al Asraq"/>
+   <geo_river-tuple river="Blue Nile" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="White Nile" country="SUD" province="Aali an Nil"/>
+   <geo_river-tuple river="White Nile" country="SUD" province="al Khartum"/>
+   <geo_river-tuple river="White Nile" country="SUD" province="Nil al Asraq"/>
+   <geo_river-tuple river="Sobat" country="SUD" province="Aali an Nil"/>
+   <geo_river-tuple river="Sobat" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="Pibor" country="SUD" province="Aali an Nil"/>
+   <geo_river-tuple river="Baro" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="Bahr el-Ghasal" country="SUD" province="Aali an Nil"/>
+   <geo_river-tuple river="Bahr el-Ghasal" country="SUD" province="Bahr al Ghazal"/>
+   <geo_river-tuple river="Bahr el-Djebel/Albert-Nil" country="SUD" province="Aali an Nil"/>
+   <geo_river-tuple river="Bahr el-Djebel/Albert-Nil" country="SUD" province="Bahr al Ghazal"/>
+   <geo_river-tuple river="Bahr el-Djebel/Albert-Nil" country="SUD" province="al Istiwaiyah"/>
+   <geo_river-tuple river="Bahr el-Djebel/Albert-Nil" country="EAU" province="Uganda"/>
+   <geo_river-tuple river="Semliki" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Semliki" country="ZRE" province="Kivu"/>
+   <geo_river-tuple river="Semliki" country="EAU" province="Uganda"/>
+   <geo_river-tuple river="Victoria Nile" country="EAU" province="Uganda"/>
+   <geo_river-tuple river="Akagera" country="RWA" province="Rwanda"/>
+   <geo_river-tuple river="Akagera" country="EAT" province="Mwanza"/>
+   <geo_river-tuple river="Jubba" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="Jubba" country="SP" province="Somalia"/>
+   <geo_river-tuple river="Shabelle" country="ETH" province="Ethiopia"/>
+   <geo_river-tuple river="Shabelle" country="SP" province="Somalia"/>
+   <geo_river-tuple river="Sanaga" country="CAM" province="Centre"/>
+   <geo_river-tuple river="Sanaga" country="CAM" province="Est"/>
+   <geo_river-tuple river="Sanaga" country="CAM" province="Cote/Littoral"/>
+   <geo_river-tuple river="Zaire" country="RCB" province="Congo"/>
+   <geo_river-tuple river="Zaire" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Zaire" country="ZRE" province="Bas Zaire"/>
+   <geo_river-tuple river="Zaire" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Zaire" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Zaire" country="ZRE" province="Kinshasa"/>
+   <geo_river-tuple river="Sanga" country="RCB" province="Congo"/>
+   <geo_river-tuple river="Sanga" country="CAM" province="Est"/>
+   <geo_river-tuple river="Sanga" country="RCA" province="Central African Republic"/>
+   <geo_river-tuple river="Ubangi" country="RCB" province="Congo"/>
+   <geo_river-tuple river="Ubangi" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Ubangi" country="RCA" province="Central African Republic"/>
+   <geo_river-tuple river="Bomu" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Bomu" country="RCA" province="Central African Republic"/>
+   <geo_river-tuple river="Uelle" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Uelle" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Kwa" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Fimi" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Lukenie" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Lukenie" country="ZRE" province="Kasai Occidental"/>
+   <geo_river-tuple river="Lukenie" country="ZRE" province="Kasai Oriental"/>
+   <geo_river-tuple river="Kasai" country="ANG" province="Lunda Norte"/>
+   <geo_river-tuple river="Kasai" country="ANG" province="Lunda Sul"/>
+   <geo_river-tuple river="Kasai" country="ANG" province="Moxico"/>
+   <geo_river-tuple river="Kasai" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Kasai" country="ZRE" province="Kasai Occidental"/>
+   <geo_river-tuple river="Kasai" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Cuango" country="ANG" province="Uige"/>
+   <geo_river-tuple river="Cuango" country="ANG" province="Malanje"/>
+   <geo_river-tuple river="Cuango" country="ANG" province="Lunda Norte"/>
+   <geo_river-tuple river="Cuango" country="ANG" province="Lunda Sul"/>
+   <geo_river-tuple river="Cuango" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Cuango" country="ZRE" province="Bas Zaire"/>
+   <geo_river-tuple river="Cuilo" country="ANG" province="Bie"/>
+   <geo_river-tuple river="Cuilo" country="ANG" province="Moxico"/>
+   <geo_river-tuple river="Cuilo" country="ANG" province="Cuando Cubango"/>
+   <geo_river-tuple river="Cuilo" country="ZRE" province="Bandundu"/>
+   <geo_river-tuple river="Ruki" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Busira" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Tshuapa" country="ZRE" province="Equateur"/>
+   <geo_river-tuple river="Tshuapa" country="ZRE" province="Kasai Oriental"/>
+   <geo_river-tuple river="Lulua" country="ZRE" province="Kasai Occidental"/>
+   <geo_river-tuple river="Lulua" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Lomami" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Lomami" country="ZRE" province="Kasai Oriental"/>
+   <geo_river-tuple river="Lomami" country="ZRE" province="Kivu"/>
+   <geo_river-tuple river="Lomami" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Aruwimi" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Lualaba" country="ZRE" province="Haut Zaire"/>
+   <geo_river-tuple river="Lualaba" country="ZRE" province="Kivu"/>
+   <geo_river-tuple river="Lualaba" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Lukuga" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Ruzizi" country="ZRE" province="Kivu"/>
+   <geo_river-tuple river="Ruzizi" country="BI" province="Burundi"/>
+   <geo_river-tuple river="Ruzizi" country="RWA" province="Rwanda"/>
+   <geo_river-tuple river="Luvua" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Luapula" country="ZRE" province="Shaba/Katanga"/>
+   <geo_river-tuple river="Luapula" country="Z" province="Luapula"/>
+   <geo_river-tuple river="Zambezi" country="ANG" province="Moxico"/>
+   <geo_river-tuple river="Zambezi" country="Z" province="Central"/>
+   <geo_river-tuple river="Zambezi" country="Z" province="Lusaka"/>
+   <geo_river-tuple river="Zambezi" country="Z" province="Northwestern"/>
+   <geo_river-tuple river="Zambezi" country="Z" province="Southern"/>
+   <geo_river-tuple river="Zambezi" country="Z" province="Western"/>
+   <geo_river-tuple river="Zambezi" country="ZW" province="Zimbabwe"/>
+   <geo_river-tuple river="Zambezi" country="MOC" province="Manica"/>
+   <geo_river-tuple river="Zambezi" country="MOC" province="Tete"/>
+   <geo_river-tuple river="Zambezi" country="MOC" province="Zambezia"/>
+   <geo_river-tuple river="Chire" country="MW" province="Malawi"/>
+   <geo_river-tuple river="Chire" country="MOC" province="Tete"/>
+   <geo_river-tuple river="Chire" country="MOC" province="Zambezia"/>
+   <geo_river-tuple river="Limpopo" country="RB" province="Botswana"/>
+   <geo_river-tuple river="Limpopo" country="RSA" province="Gauteng"/>
+   <geo_river-tuple river="Limpopo" country="RSA" province="Limpopo"/>
+   <geo_river-tuple river="Limpopo" country="ZW" province="Zimbabwe"/>
+   <geo_river-tuple river="Limpopo" country="MOC" province="Gaza"/>
+   <geo_river-tuple river="Oranje" country="NAM" province="Namibia"/>
+   <geo_river-tuple river="Oranje" country="RSA" province="Free State"/>
+   <geo_river-tuple river="Oranje" country="RSA" province="Northern Cape"/>
+   <geo_river-tuple river="Oranje" country="LS" province="Lesotho"/>
+   <geo_river-tuple river="Vaal" country="RSA" province="Free State"/>
+   <geo_river-tuple river="Vaal" country="RSA" province="Mpumalanga"/>
+   <geo_river-tuple river="Vaal" country="RSA" province="Northern Cape"/>
+   <geo_river-tuple river="Vaal" country="RSA" province="North West"/>
+   <geo_river-tuple river="Murray River" country="AUS" province="New South Wales"/>
+   <geo_river-tuple river="Murray River" country="AUS" province="South Australia"/>
+   <geo_river-tuple river="Murray River" country="AUS" province="Victoria"/>
+   <geo_river-tuple river="Darling River" country="AUS" province="New South Wales"/>
+   <geo_river-tuple river="Darling River" country="AUS" province="Queensland"/>
+   <geo_river-tuple river="Murrumbidgee River" country="AUS" province="New South Wales"/>
+   <geo_river-tuple river="Murrumbidgee River" country="AUS" province="Australia Capital Territory"/>
+</geo_river>

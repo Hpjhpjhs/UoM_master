@@ -1,0 +1,352 @@
+
+<islandin>
+   <islandin-tuple island="Svalbard" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Svalbard" sea="Barents Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Svalbard" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Greenland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Greenland" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Greenland" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Iceland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Iceland" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Aust-Vagoey" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Streymoy" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Streymoy" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ireland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ireland" sea="Irish Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Great Britain" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Great Britain" sea="The Channel" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Great Britain" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Great Britain" sea="Irish Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Shetland Mainland" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Shetland Mainland" sea="Norwegian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Orkney Mainland" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="South Ronaldsay" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hoy" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Westray" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Barra" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="South Uist" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Benbecula" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="North Uist" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lewis and Harris" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Skye" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Rhum" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mull" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Islay" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Jura" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Arran" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Isle of Man" sea="Irish Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Anglesey" sea="Irish Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Isle of Wight" sea="The Channel" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lundy" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bishop Rock" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Guernsey" sea="The Channel" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Jersey" sea="The Channel" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gotland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Oeland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Aland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Dagoe" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Oesel" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Seeland" sea="Kattegat" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Seeland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fuenen" sea="Kattegat" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fuenen" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Langeland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Falster" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lolland" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bornholm" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Helgoland" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fehmarn" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Rugen" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Usedom" sea="Baltic Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sylt" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fohr" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Amrum" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Pellworm" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Wangerooge" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Spiekeroog" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Langeoog" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Baltrum" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Norderney" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Juist" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Borkum" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Schiermonnikoog" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ameland" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Terschelling" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Vlieland" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Texel" sea="North Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Korfu" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lefkas" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kefallinia" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Zakinthos" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kreta" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Chios" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Samos" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ikaria" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lesbos" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kos" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Rhodos" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cyprus" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Alicudi" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Filicudi" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Salina" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lipari" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Vulcano" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Panarea" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Stromboli" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lampedusa" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Linosa" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sicilia" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Malta" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gozo" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sardegna" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Corse" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Menorca" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mallorca" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ibiza" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Formentera" sea="Mediterranean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lanzarote" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fuerteventura" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gran Canaria" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Teneriffa" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gomera" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hierro" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="La Palma" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Madeira" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Porto Santo" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sao Miguel" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Santa Maria" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Terceira" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sao Jorge" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Pico" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Faial" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Graciosa" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Flores" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Corvo" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Santiago" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fogo" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sao Tome" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Principe" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bioko" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Helena" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ascension" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tristan Da Cunha" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="West Falkland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="East Falkland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bahrain" sea="Persian Gulf" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Khark" sea="Persian Gulf" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Khark" sea="Arabian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gheschm" sea="Persian Gulf" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Gheschm" sea="Arabian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lavan" sea="Persian Gulf" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lavan" sea="Arabian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Christmas Island" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Pulau Panjang" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Male" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kavaratti" sea="Arabian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sri Lanka" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sri Lanka" sea="Gulf of Bengal" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="South Andaman Island" sea="Gulf of Bengal" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="South Andaman Island" sea="Andaman Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sokotra" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sokotra" sea="Gulf of Aden" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sansibar" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Pemba" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mahe" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grand Comoro" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Anjouan" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mohilla" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mayotte" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Reunion" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mauritius" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Madagaskar" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kotelny Island" sea="Sibirian Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kotelny Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Paramuschir" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Paramuschir" sea="Sea of Okhotsk" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sachalin" sea="Sea of Okhotsk" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sachalin" sea="Sea of Japan" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hokkaido" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hokkaido" sea="Sea of Okhotsk" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hokkaido" sea="Sea of Japan" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kyushu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kyushu" sea="Sea of Japan" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kyushu" sea="East China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Shikoku" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Honshu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Honshu" sea="Sea of Japan" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Okinawa" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Okinawa" sea="East China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Jeju" sea="East China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Taiwan" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Taiwan" sea="East China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Taiwan" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hainan" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Luzon" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Luzon" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mindoro" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Negros" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Panay" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bohol" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Leyte" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Leyte" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Samar" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Samar" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cebu" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mindanao" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Mindanao" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Palawan" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Palawan" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Singapore" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumatra" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumatra" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumatra" sea="Andaman Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumatra" sea="Malakka Strait" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumatra" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Batam" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bangka" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bangka" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Krakatau" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Krakatau" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Java" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Java" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Borneo" sea="South China Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Borneo" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Borneo" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bali" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bali" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lombok" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lombok" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumbawa" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sumbawa" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sulawesi" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Sulawesi" sea="Sulawesi Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Timor" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Timor" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ambon" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ceram" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="New Guinea" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="New Guinea" sea="Sunda Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bougainville" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Guadalcanal" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grande Terre" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cangaroo Island" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Melville Island" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tasmania" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tasmania" sea="Indian Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Victoria Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Banks Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Prince of Wales Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Baffin Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Southampton Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ellesmere Island" sea="Arctic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Pierre" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Miquelon-Langlade" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Newfoundland" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Prince Edward Island" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Martha s Vineyard" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Nantucket" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Long Island" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grand Bermuda" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="New Providence" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grand Turk" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Providenciales" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="North Caicos" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cuba" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cuba" sea="Gulf of Mexico" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cuba" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Jamaica" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hispaniola" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hispaniola" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Puerto Rico" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Puerto Rico" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tortola" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tortola" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Thomas" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Thomas" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Anguilla" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Anguilla" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="St. Martin" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="St. Martin" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Kitts" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Kitts" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Nevis" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Nevis" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Barbuda" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Barbuda" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Antigua" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Antigua" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Montserrat" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Montserrat" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Basse-Terre" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Basse-Terre" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grande-Terre" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grande-Terre" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Dominica" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Dominica" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Martinique" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Martinique" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Lucia" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Lucia" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Vincent" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saint Vincent" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Barbados" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grenada" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grenada" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Trinidad" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Trinidad" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tobago" sea="Atlantic Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tobago" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Curacao" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Bonaire" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Aruba" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Grand Cayman" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Little Cayman" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Cayman Brac" sea="Caribbean Sea" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Vancouver Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Santa Cruz Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Santa Catalina Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Santa Rosa Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="San Clemente Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="San Miguel Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Isabela" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Niihau" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Kauai" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Oahu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Molokai" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Lanai" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Maui" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Hawaii" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Niue" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Saipan" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tinian" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Rota" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Pitcairn" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Uvea" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Futuna" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tarawa" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tongatapu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Viti Levu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Vanua Levu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Norfolk Island" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Nauru" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Koror" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Babelthuap" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Fongafale" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Efate" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Upolu" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Savaii" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tutuila" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Rarotonga" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Tahiti" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Guam" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Majuro" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Ponape" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Osterinsel" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Te Ika-a-Maui (North Island)" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Te Waka-a-Maui (South Island)" sea="Pacific Ocean" lake="MISSING" river="MISSING"/>
+   <islandin-tuple island="Olkhon" sea="MISSING" lake="Ozero Baikal" river="MISSING"/>
+   <islandin-tuple island="Samosir" sea="MISSING" lake="Lake Toba" river="MISSING"/>
+   <islandin-tuple island="Rene Levasseur Island" sea="MISSING" lake="Lake Manicouagan" river="MISSING"/>
+   <islandin-tuple island="Manitoulin" sea="MISSING" lake="Lake Huron" river="MISSING"/>
+   <islandin-tuple island="Isla da Ometepe" sea="MISSING" lake="Lake Nicaragua" river="MISSING"/>
+</islandin>

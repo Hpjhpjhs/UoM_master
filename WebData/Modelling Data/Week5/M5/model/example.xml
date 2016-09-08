@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conference>
+    <articles>
+        <article id="1">
+            <title>Pushing the EL Envelope</title>
+            <abstract>Recently, it has been shown that the small description logic (DL) EL, which allows for conjunction and existential restrictions, has better algorithmic properties than its counterpart FL0, which allows for conjunction and value restrictions. Whereas the subsumption problem in FL0 becomes already intractable in the presence of acyclic TBoxes, it remains tractable in EL even with general concept inclusion axioms (GCIs). On the one hand, we extend the positive result for EL by identifying a set of expressive means that can be added to EL without sacriﬁcing tractability. On the other hand, we show that basically all other additions of typical DL constructors to EL with GCIs make subsumption intractable, and in most cases even EXPTIMEcomplete. In addition, we show that subsumption inFL0 with GCIs is EXPTIME-complete.</abstract>
+            <status>published</status>
+        </article>
+        <article id="2">
+            <title>From SHIQ and RDF to OWL: the making of a Web Ontology Language</title>
+            <abstract>The OWL Web Ontology Language is a new formal language for representing ontologies in the Semantic Web. OWL has features from several families of representation languages, including primarily Description Logics and frames. OWL also shares many characteristics with RDF, the W3C base of the Semantic Web. In this paper, we discuss how the philosophy and features of OWL can be traced back to these older formalisms, with modifications driven by several other constraints on OWL. Several interesting problems have arisen where these influences on OWL have clashed.</abstract>
+            <status>published</status>
+        </article>
+        <article id="3">
+            <title>Semistructured data</title>
+            <abstract>In semistructured data, the information that is normally as- sociated with a schema is contained within the data, which is sometimes called “self-describing”. In some forms of semi- structured data there is no separate schema, in others it exists but only places loose constraints on the data. Semi- structured data has recently emerged as an important topic of study for a variety of reasons. First, there are data sources such as the Web, which we would like to treat as databases but which cannot be constrained by a schema. Second, it may be desirable to have an extremely flexible format for data exchange between disparate databases. Third, even when dealing with structured data, it may be helpful to view it. as semistructured for the purposes of browsing. This tu- torial will cover a number of issues surrounding such data: finding a concise formulation, building a sufficiently expres- sive language for querying and transformation, and opti- mizat,ion problems. </abstract>
+            <status>published</status>
+        </article>
+    </articles>
+    
+    <authors>
+        <!--article 1-->
+        <author username="Franz_Baader">
+            <fullname>
+                <firstname>Franz</firstname>
+                <lastname>Baader</lastname>
+            </fullname>
+        </author>
+        <author username="Sebastian_Brandt">
+            <fullname>
+                <firstname>Sebastian</firstname>
+                <lastname>Brandt</lastname>
+            </fullname>
+        </author>
+        <author username="Carsten_Lutz">
+            <fullname>
+                <firstname>Carsten</firstname>
+                <lastname>Lutz</lastname>
+            </fullname>
+        </author>
+        <!--article 2-->
+        <author username="Ian_Horrocks">
+            <fullname>
+                <firstname>Ian</firstname>
+                <lastname>Horrocks</lastname>
+            </fullname>
+        </author>
+        <author username="Peter_F. Patel-Schneider">
+            <fullname>
+                <firstname>Peter</firstname>
+                <lastname>F. Patel-Schneider</lastname>
+            </fullname>
+        </author>
+        <author username="Frank_van_Harmelen">
+            <fullname>
+                <firstname>Frank</firstname>
+                <midname>van</midname>
+                <lastname>Harmelen</lastname>
+            </fullname>
+        </author>
+        <!--article 3-->
+        <author username="Peter_Buneman">
+            <fullname>
+                <firstname>Peter</firstname>
+                <lastname>Buneman</lastname>
+            </fullname>
+        </author>
+    </authors>
+    
+    <institutions>
+        <institution id="1">
+            <name>Ititute for Theoretical Computer Science</name>
+            <country>Germany</country>
+            <address>TU Dresden</address>
+        </institution>
+        <institution id="2">
+            <name> Department of Computer Science of University of Manchester</name>
+            <country>UK</country>
+            <address>Oxford Road, Manchester M13 9PL</address>
+        </institution>
+        <institution id="3">
+            <name>Bell Labs Research of Lucent Technologies</name>
+            <country>USA</country>
+            <address>600 Mountain Avenue, Murray Hill, NJ 07974</address>
+        </institution>
+        <institution id="4">
+            <name>AI Department of Vrije Universiteit Amsterdam</name>
+            <country>The Netherlands</country>
+            <address>de Boelelaan 1081a, 1081HV Amsterdam</address>
+        </institution>
+        <institution id="5">
+            <name>Department of Computer and Information Science of University of Pennsylvania</name>
+            <country>USA</country>
+            <address>Philadelphia, PA</address>
+        </institution>
+    </institutions>
+
+    <article_author id="1" username="Franz_Baader"/>
+    <article_author id="1" username="Sebastian_Brandt"/>
+    <article_author id="1" username="Carsten_Lutz"/>
+    <article_author id="2" username="Ian_Horrocks"/>
+    <article_author id="2" username="Peter_F. Patel-Schneider"/>
+    <article_author id="2" username="Frank_van_Harmelen"/>
+    <article_author id="3" username="Peter_Buneman"/>
+
+    <author_institution username="Franz_Baader" id="1"/>
+    <author_institution username="Sebastian_Brandt" id="1"/>
+    <author_institution username="Carsten_Lutz" id="1"/>
+    <author_institution username="Ian_Horrocks" id="2"/>
+    <author_institution username="Peter_F. Patel-Schneider" id="3"/>
+    <author_institution username="Frank_van_Harmelen" id="4"/>
+    <author_institution username="Peter_Buneman" id="5" /> 
+
+</conference>

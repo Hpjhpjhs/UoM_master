@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:expression xmlns="foo1" xmlns:a="foo2" xmlns:b="bah" xmlns:c="haha">
+    <a:plus xmlns:a="foobah">(:Deceptive! a = foo2/foobah, here is foobah:)
+        <int value = "3"/>
+        <a:int xmlns:a="haha" value = "3"/>(:Deceptive! a = foo2/foobah/haha, here is haha:)
+    </a:plus>
+</a:expression>

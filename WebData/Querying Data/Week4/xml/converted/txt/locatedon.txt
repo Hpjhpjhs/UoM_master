@@ -1,0 +1,434 @@
+Iraklion|Kriti|GR|Kreta
+Mytilini|Voreion Aiyaion|GR|Lesbos
+Ajaccio|Corse|F|Corse
+Palma de Mallorca|Balearic Islands|E|Mallorca
+Santa Cruz de Tenerife|Canary Islands|E|Teneriffa
+Las Palmas de Gran Canaria|Canary Islands|E|Gran Canaria
+La Laguna|Canary Islands|E|Teneriffa
+Palermo|Sicilia|I|Sicilia
+Messina|Sicilia|I|Sicilia
+Catania|Sicilia|I|Sicilia
+Siracusa|Sicilia|I|Sicilia
+Cagliari|Sardegna|I|Sardegna
+Sassari|Sardegna|I|Sardegna
+Yuzhno Sakhalinsk|Sakhalinskaya oblast|R|Sachalin
+Copenhagen|Denmark|DK|Seeland
+Odense|Denmark|DK|Fuenen
+Torshavn|Faroe Islands|FARX|Streymoy
+Saint Peter Port|Guernsey|GBG|Guernsey
+Reykjavik|Iceland|IS|Iceland
+Keflavik|Iceland|IS|Iceland
+Hafnarfjoerdur|Iceland|IS|Iceland
+Akureyri|Iceland|IS|Iceland
+Dublin|Ireland|IRL|Ireland
+Saint Helier|Jersey|GBJ|Jersey
+Valletta|Malta|M|Malta
+Victoria|Malta|M|Gozo
+Douglas|Man|GBM|Isle of Man
+Ponta Delgada|Azores|P|Sao Miguel
+Funchal|Madeira|P|Madeira
+Longyearbyen|Svalbard|SVAX|Svalbard
+Bristol|Avon|GB|Great Britain
+Bedford|Bedfordshire|GB|Great Britain
+Luton|Bedfordshire|GB|Great Britain
+Reading|Berkshire|GB|Great Britain
+Wokingham|Berkshire|GB|Great Britain
+Newbury|Berkshire|GB|Great Britain
+Windsor|Berkshire|GB|Great Britain
+Slough|Berkshire|GB|Great Britain
+Bracknell|Berkshire|GB|Great Britain
+Aylesbury|Buckinghamshire|GB|Great Britain
+Milton Keynes|Buckinghamshire|GB|Great Britain
+Wycombe|Buckinghamshire|GB|Great Britain
+Cambridge|Cambridgeshire|GB|Great Britain
+Peterborough|Cambridgeshire|GB|Great Britain
+Huntingdon|Cambridgeshire|GB|Great Britain
+Chester|Cheshire|GB|Great Britain
+Warrington|Cheshire|GB|Great Britain
+Macclesfield|Cheshire|GB|Great Britain
+Crewe|Cheshire|GB|Great Britain
+Middlesbrough|Cleveland|GB|Great Britain
+Stockton on Tees|Cleveland|GB|Great Britain
+Truro|Cornwall|GB|Great Britain
+Carlisle|Cumbria|GB|Great Britain
+Derby|Derbyshire|GB|Great Britain
+Sutton in Ashfield|Derbyshire|GB|Great Britain
+Chesterfield|Derbyshire|GB|Great Britain
+Matlock|Derbyshire|GB|Great Britain
+Plymouth|Devon|GB|Great Britain
+Exeter|Devon|GB|Great Britain
+Bournemouth|Dorset|GB|Great Britain
+Poole|Dorset|GB|Great Britain
+Dorchester|Dorset|GB|Great Britain
+Darlington|Durham|GB|Great Britain
+Durham|Durham|GB|Great Britain
+Brighton|East Sussex|GB|Great Britain
+Lewes|East Sussex|GB|Great Britain
+Chelmsford|Essex|GB|Great Britain
+Southend on Sea|Essex|GB|Great Britain
+Basildon|Essex|GB|Great Britain
+Colchester|Essex|GB|Great Britain
+Braintree|Essex|GB|Great Britain
+Epping Forest|Essex|GB|Great Britain
+Cheltenham|Gloucestershire|GB|Great Britain
+Stroud|Gloucestershire|GB|Great Britain
+Gloucester|Gloucestershire|GB|Great Britain
+London|Greater London|GB|Great Britain
+Manchester|Greater Manchester|GB|Great Britain
+Wigan|Greater Manchester|GB|Great Britain
+Stockport|Greater Manchester|GB|Great Britain
+Bolton|Greater Manchester|GB|Great Britain
+Salford|Greater Manchester|GB|Great Britain
+Tameside|Greater Manchester|GB|Great Britain
+Oldham|Greater Manchester|GB|Great Britain
+Trafford|Greater Manchester|GB|Great Britain
+Rochdale|Greater Manchester|GB|Great Britain
+Bury|Greater Manchester|GB|Great Britain
+Winchester|Hampshire|GB|Great Britain
+Southampton|Hampshire|GB|Great Britain
+Portsmouth|Hampshire|GB|Great Britain
+Basingstoke|Hampshire|GB|Great Britain
+Havant|Hampshire|GB|Great Britain
+Eastleigh|Hampshire|GB|Great Britain
+Fareham|Hampshire|GB|Great Britain
+Worcester|Hereford and Worcester|GB|Great Britain
+Saint Albans|Hertfordshire|GB|Great Britain
+Hertford|Hertfordshire|GB|Great Britain
+Kingston upon Hull|Humberside|GB|Great Britain
+Beverley|Humberside|GB|Great Britain
+Hull|Humberside|GB|Great Britain
+Maidstone|Kent|GB|Great Britain
+Rochester upon Medway|Kent|GB|Great Britain
+Canterbury|Kent|GB|Great Britain
+Swale|Kent|GB|Great Britain
+Sevenoaks|Kent|GB|Great Britain
+Dover|Kent|GB|Great Britain
+Tonbridge|Kent|GB|Great Britain
+Tunbridge Wells|Kent|GB|Great Britain
+Preston|Lancashire|GB|Great Britain
+Blackpool|Lancashire|GB|Great Britain
+Blackburn|Lancashire|GB|Great Britain
+Lancaster|Lancashire|GB|Great Britain
+Leichester|Leicestershire|GB|Great Britain
+Lincoln|Lincolnshire|GB|Great Britain
+Liverpool|Merseyside|GB|Great Britain
+Wiral|Merseyside|GB|Great Britain
+Sefton|Merseyside|GB|Great Britain
+Saint Helens|Merseyside|GB|Great Britain
+Knowsley|Merseyside|GB|Great Britain
+Norwich|Norfolk|GB|Great Britain
+Kings Lynn|Norfolk|GB|Great Britain
+Northampton|Northamptonshire|GB|Great Britain
+Harrogate|North Yorkshire|GB|Great Britain
+Scarborough|North Yorkshire|GB|Great Britain
+York|North Yorkshire|GB|Great Britain
+Northallerton|North Yorkshire|GB|Great Britain
+Nottingham|Nottinghamshire|GB|Great Britain
+Newark on Trent|Nottinghamshire|GB|Great Britain
+Mansfield|Nottinghamshire|GB|Great Britain
+Oxford|Oxfordshire|GB|Great Britain
+Shrewsbury|Shropshire|GB|Great Britain
+Taunton|Somerset|GB|Great Britain
+Barnsley|South Yorkshire|GB|Great Britain
+Sheffield|South Yorkshire|GB|Great Britain
+Doncaster|South Yorkshire|GB|Great Britain
+Rotherham|South Yorkshire|GB|Great Britain
+Stafford|Staffordshire|GB|Great Britain
+Stoke on Trent|Staffordshire|GB|Great Britain
+Newcastle under Lyme|Staffordshire|GB|Great Britain
+Ipswich|Suffolk|GB|Great Britain
+Guildford|Surrey|GB|Great Britain
+Reigate|Surrey|GB|Great Britain
+Elmbridge|Surrey|GB|Great Britain
+Kingston|Surrey|GB|Great Britain
+Sunderland|Tyne and Wear|GB|Great Britain
+Newcastle upon Tyne|Tyne and Wear|GB|Great Britain
+Gateshead|Tyne and Wear|GB|Great Britain
+Warwick|Warwickshire|GB|Great Britain
+Nuneaton|Warwickshire|GB|Great Britain
+Stratford on Avon|Warwickshire|GB|Great Britain
+Birmingham|West Midlands|GB|Great Britain
+Dudley|West Midlands|GB|Great Britain
+Coventry|West Midlands|GB|Great Britain
+Walsall|West Midlands|GB|Great Britain
+Wolverhampton|West Midlands|GB|Great Britain
+Solihull|West Midlands|GB|Great Britain
+West Bromwich|West Midlands|GB|Great Britain
+Sandwell|West Midlands|GB|Great Britain
+Chichester|West Sussex|GB|Great Britain
+Horsham|West Sussex|GB|Great Britain
+Wakefield|West Yorkshire|GB|Great Britain
+Leeds|West Yorkshire|GB|Great Britain
+Bradford|West Yorkshire|GB|Great Britain
+Kirklees|West Yorkshire|GB|Great Britain
+Huddersfield|West Yorkshire|GB|Great Britain
+Salisbury|Wiltshire|GB|Great Britain
+Trowbridge|Wiltshire|GB|Great Britain
+Newtown St. Boswells|Borders|GB|Great Britain
+Stirling|Central|GB|Great Britain
+Dumfries|Dumfries and Galloway|GB|Great Britain
+Glenrothes|Fife|GB|Great Britain
+Aberdeen|Grampian|GB|Great Britain
+Inverness|Highland|GB|Great Britain
+Edinburgh|Lothian|GB|Great Britain
+Glasgow|Strathclyde|GB|Great Britain
+Renfrew|Strathclyde|GB|Great Britain
+Dundee|Tayside|GB|Great Britain
+Colwyn Bay|Aberconwy and Colwyn|GB|Great Britain
+Llangefni|Anglesey|GB|Anglesey
+Ebbw Vale|Blaenau Gwent|GB|Great Britain
+Bridgend|Bridgend|GB|Great Britain
+Ystrad Fawr|Caerphilly|GB|Great Britain
+Cardiff|Cardiff|GB|Great Britain
+Carmarthen|Carmarthenshire|GB|Great Britain
+Aberystwyth|Ceredigion|GB|Great Britain
+Ruthin|Denbighshire|GB|Great Britain
+Mold|Flintshire|GB|Great Britain
+Caernarfon|Gwynedd|GB|Great Britain
+Merthyr Tydfil|Merthyr Tydfil|GB|Great Britain
+Cwmbran|Monmouthshire|GB|Great Britain
+Port Talbot|Neath and Port Talbot|GB|Great Britain
+Newport|Newport|GB|Great Britain
+Haverfordwest|Pembrokeshire|GB|Great Britain
+Llandrindod Wells|Powys|GB|Great Britain
+Rhondda|Rhondda Cynon Taff|GB|Great Britain
+Swansea|Swansea|GB|Great Britain
+Pontypool|Torfaen|GB|Great Britain
+Rhymney Valley|Vale of Glamorgan|GB|Great Britain
+Barry|Vale of Glamorgan|GB|Great Britain
+Wrexham|Wrexham|GB|Great Britain
+Belfast|Northern Ireland|GB|Ireland
+Kirkwall|Orkneys|GB|Orkney Mainland
+Stornoway|Outer Hebrides|GB|Lewis and Harris
+Lerwick|Shetland|GB|Shetland Mainland
+Haikou|Hainan|TJ|Hainan
+Sanya|Hainan|TJ|Hainan
+Manama|Bahrain|BRN|Bahrain
+Port Blair|Andaman and Nicobar Is.|IND|South Andaman Island
+Kavaratti|Lakshadweep Is.|IND|Kavaratti
+Bandar Seri Begawan|Brunei|BRU|Borneo
+Kota Kinabalu|Sabah|MAL|Borneo
+Tawai|Sabah|MAL|Borneo
+Sandakan|Sabah|MAL|Borneo
+Kuching|Sarawak|MAL|Borneo
+Sibu|Sarawak|MAL|Borneo
+Flying Fish Cove|Christmas Island|XMAS|Christmas Island
+West Island|Cocos Islands|COCO|Pulau Panjang
+Nicosia|Cyprus|CY|Cyprus
+Jakarta|Indonesia|RI|Java
+Bandung|Indonesia|RI|Java
+Semarang|Indonesia|RI|Java
+Surabaya|Indonesia|RI|Java
+Yogyakarta|Indonesia|RI|Java
+Banda Aceh|Indonesia|RI|Sumatra
+Bengkulu|Indonesia|RI|Sumatra
+Jambi|Indonesia|RI|Sumatra
+Bandar Lampung|Indonesia|RI|Sumatra
+Padang|Indonesia|RI|Sumatra
+Palembang|Indonesia|RI|Sumatra
+Medan|Indonesia|RI|Sumatra
+Pontianak|Indonesia|RI|Borneo
+Banjarmasin|Indonesia|RI|Borneo
+Palangkaraya|Indonesia|RI|Borneo
+Samarinda|Indonesia|RI|Borneo
+Ujung Pandang|Indonesia|RI|Sulawesi
+Ambon|Indonesia|RI|Ambon
+Malang|Indonesia|RI|Java
+Surakarta|Indonesia|RI|Java
+Pekan Baru|Indonesia|RI|Sumatra
+Balikpapan|Indonesia|RI|Borneo
+Manado|Indonesia|RI|Sulawesi
+Bogor|Indonesia|RI|Java
+Cirebon|Indonesia|RI|Java
+Kediri|Indonesia|RI|Java
+Pekalongan|Indonesia|RI|Java
+Tegal|Indonesia|RI|Java
+Pematang Siantar|Indonesia|RI|Sumatra
+Binjai|Indonesia|RI|Sumatra
+Probolinggo|Indonesia|RI|Java
+Madiun|Indonesia|RI|Java
+Pasuruan|Indonesia|RI|Java
+Magelang|Indonesia|RI|Java
+Sukabumi|Indonesia|RI|Java
+Gorontalo|Indonesia|RI|Sulawesi
+Blitar|Indonesia|RI|Java
+Tebing Tinggi|Indonesia|RI|Sumatra
+Pangkal Pinang|Indonesia|RI|Bangka
+Tanjung Balai|Indonesia|RI|Sumatra
+Batam|Indonesia|RI|Batam
+Pare Pare|Indonesia|RI|Sulawesi
+Dili|Timor-Leste|TL|Timor
+Port Moresby|Papua New Guinea|PNG|New Guinea
+Sapporo|Hokkaido|J|Hokkaido
+Hakodate|Hokkaido|J|Hokkaido
+Aomori|Aomori|J|Honshu
+Morioka|Iwate|J|Honshu
+Sendai|Miyagi|J|Honshu
+Akita|Akita|J|Honshu
+Yamagata|Yamagata|J|Honshu
+Fukushima|Fukushima|J|Honshu
+Mito|Ibaraki|J|Honshu
+Utsonomiya|Tochigi|J|Honshu
+Maebashi|Gumma|J|Honshu
+Urawa|Saitama|J|Honshu
+Chiba|Chiba|J|Honshu
+Tokyo|Tokyo|J|Honshu
+Yokohama|Kanagawa|J|Honshu
+Kawasaki|Kanagawa|J|Honshu
+Niigata|Niigata|J|Honshu
+Toyama|Toyama|J|Honshu
+Kanazawa|Ishikawa|J|Honshu
+Fukui|Fukui|J|Honshu
+Kofu|Yamanashi|J|Honshu
+Nagano|Nagano|J|Honshu
+Gifu|Gifu|J|Honshu
+Shizuoka|Shizuoka|J|Honshu
+Nagoya|Aichi|J|Honshu
+Tsu|Mie|J|Honshu
+Otsu|Shiga|J|Honshu
+Kyoto|Kyoto|J|Honshu
+Osaka|Osaka|J|Honshu
+Kobe|Hyogo|J|Honshu
+Nara|Nara|J|Honshu
+Wakayama|Wakayama|J|Honshu
+Tottori|Tottori|J|Honshu
+Matsue|Shimane|J|Honshu
+Okayama|Okayama|J|Honshu
+Hiroshima|Hiroshima|J|Honshu
+Yamaguchi|Yamaguchi|J|Honshu
+Tokushima|Tokushima|J|Shikoku
+Takamatsu|Kagawa|J|Shikoku
+Matsuyama|Ehime|J|Shikoku
+Kochi|Kochi|J|Shikoku
+Fukuoka|Fukuoka|J|Kyushu
+Kita Kyushu|Fukuoka|J|Kyushu
+Saga|Saga|J|Kyushu
+Nagasaki|Nagasaki|J|Kyushu
+Kumamoto|Kumamoto|J|Kyushu
+Oita|Oita|J|Kyushu
+Miyazaki|Miyazaki|J|Kyushu
+Kagoshima|Kagoshima|J|Kyushu
+Naha|Okinawa|J|Okinawa
+Male|Maldives|MV|Male
+Manila|Philippines|RP|Luzon
+Quezon|Philippines|RP|Luzon
+Kalookan|Philippines|RP|Luzon
+Davao|Philippines|RP|Mindanao
+Cebu|Philippines|RP|Cebu
+Zamboanga|Philippines|RP|Mindanao
+Makati|Philippines|RP|Luzon
+Pasig|Philippines|RP|Luzon
+Cagayan de Oro|Philippines|RP|Mindanao
+Pasay|Philippines|RP|Luzon
+Singapore|Singapore|SGP|Singapore
+Colombo|Sri Lanka|CL|Sri Lanka
+Changhua|Taiwan|RC|Taiwan
+Hualien|Taiwan|RC|Taiwan
+Fengshan|Taiwan|RC|Taiwan
+Pingtung|Taiwan|RC|Taiwan
+Fengyuan|Taiwan|RC|Taiwan
+Panchiao|Taiwan|RC|Taiwan
+Chungho|Taiwan|RC|Taiwan
+Sanchuung|Taiwan|RC|Taiwan
+Hsinchuang|Taiwan|RC|Taiwan
+Yungho|Taiwan|RC|Taiwan
+Hsintien|Taiwan|RC|Taiwan
+Taitung|Taiwan|RC|Taiwan
+Taoyuan|Taiwan|RC|Taiwan
+Chungli|Taiwan|RC|Taiwan
+Chiai|Taiwan|RC|Taiwan
+Chilung|Taiwan|RC|Taiwan
+Hsinchu|Taiwan|RC|Taiwan
+Kaohsiung|Taiwan|RC|Taiwan
+Taichung|Taiwan|RC|Taiwan
+Tainan|Taiwan|RC|Taiwan
+Taipei|Taiwan|RC|Taiwan
+The Valley|Anguilla|AXA|Anguilla
+Saint Johns|Antigua and Barbuda|AG|Antigua
+Oranjestad|Aruba|ARU|Aruba
+Nassau|Bahamas|BS|New Providence
+Bridgetown|Barbados|BDS|Barbados
+Hamilton|Bermuda|BERM|Grand Bermuda
+Road Town|British Virgin Islands|BVIR|Tortola
+Victoria|British Columbia|CDN|Vancouver Island
+Saint Johns|Newfoundland|CDN|Newfoundland
+George Town|Cayman Islands|CAYM|Grand Cayman
+Camaguey|Camaguey|C|Cuba
+Ciego de Avila|Ciego de Avila|C|Cuba
+Cienfuegos|Cienfuegos|C|Cuba
+Havana|Ciudad de la Habana|C|Cuba
+Bayamo|Granma|C|Cuba
+Manzanillo|Granma|C|Cuba
+Guantanamo|Guantanamo|C|Cuba
+Holguin|Holguin|C|Cuba
+Victoria de las Tunas|Las Tunas|C|Cuba
+Matanzas|Matanzas|C|Cuba
+Pinar del Rio|Pinar del Rio|C|Cuba
+Sancti Spiritus|Sancti Spiritus|C|Cuba
+Santiago de Cuba|Santiago de Cuba|C|Cuba
+Santa Clara|Villa Clara|C|Cuba
+Nueva Gerona|Isla de la Juventud|C|Cuba
+Roseau|Dominica|WD|Dominica
+Santo Domingo|Dominican Republic|DOM|Hispaniola
+Port-au-Prince|Haiti|RH|Hispaniola
+Nuuk|Greenland|GROX|Greenland
+Saint Georges|Grenada|WG|Grenada
+Basse-Terre|Guadeloupe|GUAD|Basse-Terre
+Kingston|Jamaica|JA|Jamaica
+Fort-de-France|Martinique|MART|Martinique
+Plymouth|Montserrat|MNTS|Montserrat
+Willemstad|Netherlands Antilles|NA|Curacao
+Marigot|Saint Martin|SMAR|St. Martin
+San Juan|Puerto Rico|PR|Puerto Rico
+Basseterre|Saint Kitts and Nevis|KN|Saint Kitts
+Castries|Saint Lucia|WL|Saint Lucia
+Saint-Pierre|Saint Pierre and Miquelon|SPMI|Saint Pierre
+Kingstown|Saint Vincent and the Grenadines|WV|Saint Vincent
+Port-of-Spain|Trinidad and Tobago|TT|Trinidad
+Grand Turk|Turks and Caicos Islands|TUCA|Grand Turk
+Charlotte Amalie|Virgin Islands|VIRG|Saint Thomas
+Pago Pago|American Samoa|AMSA|Tutuila
+Hobart|Tasmania|AUS|Tasmania
+Avarua|Cook Islands|COOK|Rarotonga
+Suva|Fiji|FJI|Viti Levu
+Papeete|French Polynesia|FPOL|Tahiti
+Agana|Guam|GUAM|Guam
+Dededo|Guam|GUAM|Guam
+Tarawa|Kiribati|KIR|Tarawa
+Majuro|Marshall Islands|MH|Majuro
+Kolonia|Micronesia|FSM|Ponape
+Palikir|Micronesia|FSM|Ponape
+Yaren|Nauru|NAU|Nauru
+Noumea|New Caledonia|NCA|Grande Terre
+Wellington|New Zealand|NZ|Te Ika-a-Maui (North Island)
+Auckland|New Zealand|NZ|Te Ika-a-Maui (North Island)
+Christchurch|New Zealand|NZ|Te Waka-a-Maui (South Island)
+Alofi|Niue|NIUE|Niue
+Kingston|Norfolk Island|NORF|Norfolk Island
+Saipan|Northern Mariana Islands|NMIS|Saipan
+Koror|Palau|PAL|Koror
+Melekeok|Palau|PAL|Babelthuap
+Adamstown|Pitcairn Islands|PITC|Pitcairn
+Honiara|Solomon Islands|SLB|Guadalcanal
+Nukualofa|Tonga|TO|Tongatapu
+Funafuti|Tuvalu|TUV|Fongafale
+Port-Vila|Vanuatu|VU|Efate
+Mata-Utu|Wallis and Futuna|WAFU|Uvea
+Apia|Samoa|WS|Upolu
+Stanley|Falkland Islands|FALK|East Falkland
+Malabo|Equatorial Guinea|GQ|Bioko
+Praia|Cape Verde|CV|Santiago
+Moroni|Comoros|COM|Grand Comoro
+Antsiranana|Antsiranana|RM|Madagaskar
+Antananarivo|Antananarivo|RM|Madagaskar
+Antsirabe|Antananarivo|RM|Madagaskar
+Fianarantsoa|Fianarantsoa|RM|Madagaskar
+Majunga|Mahajanga|RM|Madagaskar
+Tamatave|Toamasina|RM|Madagaskar
+Toliara|Toliara|RM|Madagaskar
+Port Louis|Mauritius|MS|Mauritius
+Mamoutzou|Mayotte|MAYO|Mayotte
+Saint-Denis|Reunion|REUN|Reunion
+Jamestown|Saint Helena|HELX|Saint Helena
+Sao Tome|Sao Tome and Principe|STP|Sao Tome
+Victoria|Seychelles|SY|Mahe

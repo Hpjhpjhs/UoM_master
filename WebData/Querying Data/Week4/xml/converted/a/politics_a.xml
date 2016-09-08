@@ -1,0 +1,241 @@
+
+<politics>
+   <politics-tuple country="AL" independence="1912-11-28" dependent="MISSING" government="emerging democracy"/>
+   <politics-tuple country="GR" independence="1829-01-01" dependent="MISSING" government="parliamentary republic"/>
+   <politics-tuple country="MK" independence="1991-09-17" dependent="MISSING" government="emerging democracy"/>
+   <politics-tuple country="SRB" independence="2006-06-05" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="MNE" independence="2006-06-03" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="KOS" independence="2008-02-17" dependent="MISSING" government="republic"/>
+   <politics-tuple country="AND" independence="MISSING" dependent="MISSING" government="parliamentary democracy that retains as its heads of state a coprincipality"/>
+   <politics-tuple country="F" independence="MISSING" dependent="MISSING" government="republic"/>
+   <politics-tuple country="E" independence="1492-01-01" dependent="MISSING" government="parliamentary monarchy"/>
+   <politics-tuple country="A" independence="1918-11-12" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="CZ" independence="1993-01-01" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="D" independence="1871-01-18" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="H" independence="1001-01-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="I" independence="1861-03-17" dependent="MISSING" government="republic"/>
+   <politics-tuple country="FL" independence="1719-01-23" dependent="MISSING" government="hereditary constitutional monarchy"/>
+   <politics-tuple country="SK" independence="1993-01-01" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="SLO" independence="1991-06-25" dependent="MISSING" government="emerging democracy"/>
+   <politics-tuple country="CH" independence="MISSING" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="BY" independence="1991-08-25" dependent="MISSING" government="republic"/>
+   <politics-tuple country="LV" independence="1991-09-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="LT" independence="1991-09-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="PL" independence="1918-11-11" dependent="MISSING" government="democratic state"/>
+   <politics-tuple country="UA" independence="1991-12-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="R" independence="1991-08-24" dependent="MISSING" government="federation"/>
+   <politics-tuple country="B" independence="1830-10-04" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="L" independence="MISSING" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="NL" independence="1579-01-01" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="BIH" independence="1992-04-01" dependent="MISSING" government="emerging democracy"/>
+   <politics-tuple country="HR" independence="1991-06-25" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="BG" independence="1908-09-22" dependent="MISSING" government="emerging democracy"/>
+   <politics-tuple country="RO" independence="1881-01-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TR" independence="1923-10-29" dependent="MISSING" government="republican parliamentary democracy"/>
+   <politics-tuple country="DK" independence="MISSING" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="EW" independence="1991-09-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="FARX" independence="MISSING" dependent="DK" government="part of the Danish realm"/>
+   <politics-tuple country="SF" independence="1917-12-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="N" independence="1905-10-26" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="S" independence="MISSING" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="MC" independence="1419-01-01" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="GBZ" independence="MISSING" dependent="GB" government="dependent territory of the UK"/>
+   <politics-tuple country="GBG" independence="MISSING" dependent="GB" government="British crown dependency"/>
+   <politics-tuple country="V" independence="1929-02-11" dependent="MISSING" government="monarchical sacerdotal state"/>
+   <politics-tuple country="IS" independence="1944-06-17" dependent="MISSING" government="republic"/>
+   <politics-tuple country="IRL" independence="1921-12-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RSM" independence="0301-01-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GBJ" independence="MISSING" dependent="GB" government="British crown dependency"/>
+   <politics-tuple country="M" independence="1964-09-21" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="GBM" independence="MISSING" dependent="GB" government="British crown dependency"/>
+   <politics-tuple country="MD" independence="1991-08-27" dependent="MISSING" government="republic"/>
+   <politics-tuple country="P" independence="1140-01-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="SVAX" independence="MISSING" dependent="N" government="territory of Norway administered by the Ministry of Industry"/>
+   <politics-tuple country="GB" independence="1801-01-01" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="AFG" independence="1919-08-19" dependent="MISSING" government="transitional government"/>
+   <politics-tuple country="TJ" independence="MISSING" dependent="MISSING" government="Communist state"/>
+   <politics-tuple country="IR" independence="1979-04-01" dependent="MISSING" government="theocratic republic"/>
+   <politics-tuple country="PK" independence="1947-08-14" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TAD" independence="1991-09-09" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TM" independence="1991-10-27" dependent="MISSING" government="republic"/>
+   <politics-tuple country="UZB" independence="1991-08-31" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ARM" independence="1918-05-28" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GE" independence="1991-04-09" dependent="MISSING" government="republic"/>
+   <politics-tuple country="AZ" independence="1991-08-30" dependent="MISSING" government="republic"/>
+   <politics-tuple country="BRN" independence="1971-08-15" dependent="MISSING" government="traditional monarchy"/>
+   <politics-tuple country="BD" independence="1971-12-16" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MYA" independence="1948-01-04" dependent="MISSING" government="military regime"/>
+   <politics-tuple country="IND" independence="1947-08-15" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="BHT" independence="1949-08-08" dependent="MISSING" government="monarchy"/>
+   <politics-tuple country="BRU" independence="1984-01-01" dependent="MISSING" government="constitutional sultanate"/>
+   <politics-tuple country="MAL" independence="1957-08-31" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="LAO" independence="1949-07-19" dependent="MISSING" government="Communist state"/>
+   <politics-tuple country="THA" independence="1238-01-01" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="K" independence="1949-11-09" dependent="MISSING" government="multiparty liberal democracy under a constitutional monarchy established in September 1993"/>
+   <politics-tuple country="VN" independence="1945-09-02" dependent="MISSING" government="Communist state"/>
+   <politics-tuple country="KAZ" independence="1991-12-16" dependent="MISSING" government="republic"/>
+   <politics-tuple country="NOK" independence="MISSING" dependent="MISSING" government="Communist state"/>
+   <politics-tuple country="KGZ" independence="1991-08-31" dependent="MISSING" government="republic"/>
+   <politics-tuple country="HONX" independence="MISSING" dependent="TJ" government="special administrative area in China"/>
+   <politics-tuple country="MACX" independence="MISSING" dependent="TJ" government="special administrative area in China"/>
+   <politics-tuple country="MNG" independence="1921-03-13" dependent="MISSING" government="republic"/>
+   <politics-tuple country="NEP" independence="1768-01-01" dependent="MISSING" government="parliamentary democracy as of 12 May 1991"/>
+   <politics-tuple country="XMAS" independence="MISSING" dependent="AUS" government="territory of Australia"/>
+   <politics-tuple country="COCO" independence="MISSING" dependent="AUS" government="territory of Australia"/>
+   <politics-tuple country="CY" independence="1960-08-16" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GAZA" independence="MISSING" dependent="MISSING" government="MISSING"/>
+   <politics-tuple country="IL" independence="1948-05-14" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ET" independence="1922-02-28" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RI" independence="1945-08-17" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TL" independence="2002-05-20" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="PNG" independence="1975-09-16" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="IRQ" independence="1932-10-03" dependent="MISSING" government="republic"/>
+   <politics-tuple country="JOR" independence="1946-05-25" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="KWT" independence="1961-06-19" dependent="MISSING" government="nominal constitutional monarchy"/>
+   <politics-tuple country="SA" independence="1932-09-23" dependent="MISSING" government="monarchy"/>
+   <politics-tuple country="SYR" independence="1946-04-17" dependent="MISSING" government="republic under military regime since March 1963"/>
+   <politics-tuple country="RL" independence="1943-11-22" dependent="MISSING" government="republic"/>
+   <politics-tuple country="WEST" independence="MISSING" dependent="MISSING" government="MISSING"/>
+   <politics-tuple country="J" independence="MISSING" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="ROK" independence="MISSING" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MV" independence="1965-07-26" dependent="MISSING" government="republic"/>
+   <politics-tuple country="OM" independence="1650-01-01" dependent="MISSING" government="monarchy"/>
+   <politics-tuple country="UAE" independence="1971-12-02" dependent="MISSING" government="federation with specified powers delegated to the UAE central government and other powers reserved to member emirates"/>
+   <politics-tuple country="YE" independence="1990-05-22" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RP" independence="1946-07-04" dependent="MISSING" government="republic"/>
+   <politics-tuple country="Q" independence="1971-09-03" dependent="MISSING" government="traditional monarchy"/>
+   <politics-tuple country="SGP" independence="1965-08-09" dependent="MISSING" government="republic within Commonwealth"/>
+   <politics-tuple country="CL" independence="1948-02-04" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RC" independence="MISSING" dependent="MISSING" government="multiparty democratic regime"/>
+   <politics-tuple country="AXA" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="AG" independence="1981-11-01" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="ARU" independence="MISSING" dependent="NL" government="part of the Dutch realm"/>
+   <politics-tuple country="BS" independence="1973-07-10" dependent="MISSING" government="commonwealth"/>
+   <politics-tuple country="BDS" independence="1966-11-30" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="BZ" independence="1981-09-21" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="GCA" independence="1821-09-15" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MEX" independence="1810-09-16" dependent="MISSING" government="federal republic operating under a centralized government"/>
+   <politics-tuple country="BERM" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="BVIR" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="CDN" independence="1867-07-01" dependent="MISSING" government="confederation with parliamentary democracy"/>
+   <politics-tuple country="USA" independence="1776-07-04" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="CAYM" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="CR" independence="1821-09-15" dependent="MISSING" government="democratic republic"/>
+   <politics-tuple country="NIC" independence="1821-09-15" dependent="MISSING" government="republic"/>
+   <politics-tuple country="PA" independence="1903-11-03" dependent="MISSING" government="constitutional republic"/>
+   <politics-tuple country="C" independence="1902-05-20" dependent="MISSING" government="Communist state"/>
+   <politics-tuple country="WD" independence="1978-11-03" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="DOM" independence="1844-02-27" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RH" independence="1804-01-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ES" independence="1821-09-15" dependent="MISSING" government="republic"/>
+   <politics-tuple country="HCA" independence="1821-09-15" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GROX" independence="MISSING" dependent="DK" government="part of the Danish realm"/>
+   <politics-tuple country="WG" independence="1974-02-07" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="GUAD" independence="MISSING" dependent="F" government="overseas department of France"/>
+   <politics-tuple country="JA" independence="1962-08-06" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="MART" independence="MISSING" dependent="F" government="overseas department of France"/>
+   <politics-tuple country="MNTS" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="NA" independence="MISSING" dependent="NL" government="part of the Dutch realm"/>
+   <politics-tuple country="SMAR" independence="MISSING" dependent="F" government="overseas collectivity of France"/>
+   <politics-tuple country="CO" independence="1810-07-20" dependent="MISSING" government="republic"/>
+   <politics-tuple country="PR" independence="MISSING" dependent="USA" government="commonwealth associated with the US"/>
+   <politics-tuple country="KN" independence="1983-09-19" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="WL" independence="1979-02-22" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="SPMI" independence="MISSING" dependent="F" government="territorial collectivity of France"/>
+   <politics-tuple country="WV" independence="1979-10-27" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="TT" independence="1962-08-31" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="TUCA" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="VIRG" independence="MISSING" dependent="MISSING" government="organized"/>
+   <politics-tuple country="AMSA" independence="MISSING" dependent="USA" government="unincorporated and unorganized territory of the US"/>
+   <politics-tuple country="AUS" independence="1901-01-01" dependent="MISSING" government="federal parliamentary state"/>
+   <politics-tuple country="COOK" independence="MISSING" dependent="NZ" government="self governing parliamentary government in free association with New Zealand"/>
+   <politics-tuple country="FJI" independence="1970-10-10" dependent="MISSING" government="republic"/>
+   <politics-tuple country="FPOL" independence="MISSING" dependent="F" government="overseas territory of France since 1946"/>
+   <politics-tuple country="GUAM" independence="MISSING" dependent="USA" government="organized"/>
+   <politics-tuple country="KIR" independence="1979-07-12" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MH" independence="1986-10-21" dependent="MISSING" government="constitutional government in free association with the US"/>
+   <politics-tuple country="FSM" independence="1986-11-03" dependent="MISSING" government="constitutional government in free association with the US"/>
+   <politics-tuple country="NAU" independence="1968-01-31" dependent="MISSING" government="republic"/>
+   <politics-tuple country="NCA" independence="MISSING" dependent="F" government="overseas territory of France since 1956"/>
+   <politics-tuple country="NZ" independence="1907-09-26" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="NIUE" independence="1974-10-19" dependent="MISSING" government="self governing territory in free association with New Zealand"/>
+   <politics-tuple country="NORF" independence="MISSING" dependent="AUS" government="territory of Australia"/>
+   <politics-tuple country="NMIS" independence="MISSING" dependent="USA" government="commonwealth in political union with the US"/>
+   <politics-tuple country="PAL" independence="1994-10-01" dependent="MISSING" government="constitutional government in free association with the US"/>
+   <politics-tuple country="PITC" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="SLB" independence="1978-07-07" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="TO" independence="1970-06-04" dependent="MISSING" government="hereditary constitutional monarchy"/>
+   <politics-tuple country="TUV" independence="1978-10-01" dependent="MISSING" government="democracy"/>
+   <politics-tuple country="VU" independence="1980-07-30" dependent="MISSING" government="republic"/>
+   <politics-tuple country="WAFU" independence="MISSING" dependent="F" government="overseas territory of France"/>
+   <politics-tuple country="WS" independence="1962-01-01" dependent="MISSING" government="constitutional monarchy under native chief"/>
+   <politics-tuple country="RA" independence="1816-07-09" dependent="MISSING" government="republic"/>
+   <politics-tuple country="BOL" independence="1825-08-06" dependent="MISSING" government="republic"/>
+   <politics-tuple country="BR" independence="1822-09-07" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="RCH" independence="1810-09-18" dependent="MISSING" government="republic"/>
+   <politics-tuple country="PY" independence="1811-05-14" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ROU" independence="1828-08-25" dependent="MISSING" government="republic"/>
+   <politics-tuple country="PE" independence="1821-07-28" dependent="MISSING" government="republic"/>
+   <politics-tuple country="FGU" independence="MISSING" dependent="F" government="overseas department of France"/>
+   <politics-tuple country="GUY" independence="1966-05-26" dependent="MISSING" government="republic"/>
+   <politics-tuple country="SME" independence="1975-11-25" dependent="MISSING" government="republic"/>
+   <politics-tuple country="YV" independence="1811-07-05" dependent="MISSING" government="republic"/>
+   <politics-tuple country="EC" independence="1822-05-24" dependent="MISSING" government="republic"/>
+   <politics-tuple country="FALK" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="DZ" independence="1962-07-05" dependent="MISSING" government="republic"/>
+   <politics-tuple country="LAR" independence="1951-12-24" dependent="MISSING" government="Jamahiriya in theory"/>
+   <politics-tuple country="RMM" independence="1960-09-22" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RIM" independence="1960-11-28" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MA" independence="1956-03-02" dependent="MISSING" government="constitutional monarchy"/>
+   <politics-tuple country="RN" independence="1960-08-03" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TN" independence="1956-03-20" dependent="MISSING" government="republic"/>
+   <politics-tuple country="WSA" independence="MISSING" dependent="MISSING" government="legal status of territory and question of sovereignty unresolved"/>
+   <politics-tuple country="ANG" independence="1975-11-11" dependent="MISSING" government="transitional government nominally a multiparty democracy with a strong presidential system"/>
+   <politics-tuple country="RCB" independence="1960-08-15" dependent="MISSING" government="republic"/>
+   <politics-tuple country="NAM" independence="1990-03-21" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ZRE" independence="1960-06-30" dependent="MISSING" government="republic with a strong presidential system"/>
+   <politics-tuple country="Z" independence="1964-10-24" dependent="MISSING" government="republic"/>
+   <politics-tuple country="BEN" independence="1960-08-01" dependent="MISSING" government="republic under multiparty democratic rule dropped Marxism Leninism December 1989"/>
+   <politics-tuple country="BF" independence="1960-08-05" dependent="MISSING" government="parliamentary"/>
+   <politics-tuple country="WAN" independence="1960-10-01" dependent="MISSING" government="military government"/>
+   <politics-tuple country="RT" independence="1960-04-27" dependent="MISSING" government="republic under transition to multiparty democratic rule"/>
+   <politics-tuple country="RB" independence="1966-09-30" dependent="MISSING" government="parliamentary republic"/>
+   <politics-tuple country="RSA" independence="1910-05-31" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ZW" independence="1980-04-18" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="CI" independence="1960-08-07" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GH" independence="1957-03-06" dependent="MISSING" government="constitutional democracy"/>
+   <politics-tuple country="BI" independence="1962-07-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="RWA" independence="1962-07-01" dependent="MISSING" government="republic"/>
+   <politics-tuple country="EAT" independence="1964-04-26" dependent="MISSING" government="republic"/>
+   <politics-tuple country="CAM" independence="1960-01-01" dependent="MISSING" government="unitary republic"/>
+   <politics-tuple country="RCA" independence="1960-08-13" dependent="MISSING" government="republic"/>
+   <politics-tuple country="TCH" independence="1960-08-11" dependent="MISSING" government="republic"/>
+   <politics-tuple country="GQ" independence="1968-10-12" dependent="MISSING" government="republic in transition to multiparty democracy"/>
+   <politics-tuple country="G" independence="1960-08-17" dependent="MISSING" government="republic"/>
+   <politics-tuple country="CV" independence="1975-07-05" dependent="MISSING" government="republic"/>
+   <politics-tuple country="SUD" independence="1956-01-01" dependent="MISSING" government="transitional previously ruling military junta"/>
+   <politics-tuple country="COM" independence="1975-07-06" dependent="MISSING" government="independent republic"/>
+   <politics-tuple country="RG" independence="1958-10-02" dependent="MISSING" government="republic"/>
+   <politics-tuple country="LB" independence="MISSING" dependent="MISSING" government="republic"/>
+   <politics-tuple country="DJI" independence="1977-06-27" dependent="MISSING" government="republic"/>
+   <politics-tuple country="ER" independence="1993-05-27" dependent="MISSING" government="transitional government"/>
+   <politics-tuple country="ETH" independence="MISSING" dependent="MISSING" government="federal republic"/>
+   <politics-tuple country="SP" independence="1960-07-01" dependent="MISSING" government="none"/>
+   <politics-tuple country="EAK" independence="1963-12-12" dependent="MISSING" government="republic"/>
+   <politics-tuple country="WAG" independence="1965-02-18" dependent="MISSING" government="republic under multiparty democratic rule"/>
+   <politics-tuple country="SN" independence="1960-08-20" dependent="MISSING" government="republic under multiparty democratic rule"/>
+   <politics-tuple country="GNB" independence="1974-09-10" dependent="MISSING" government="republic"/>
+   <politics-tuple country="WAL" independence="1961-04-27" dependent="MISSING" government="constitutional democracy"/>
+   <politics-tuple country="EAU" independence="1962-10-09" dependent="MISSING" government="republic"/>
+   <politics-tuple country="LS" independence="1966-10-04" dependent="MISSING" government="modified constitutional monarchy"/>
+   <politics-tuple country="RM" independence="1960-06-26" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MW" independence="1964-07-06" dependent="MISSING" government="multiparty democracy"/>
+   <politics-tuple country="MOC" independence="1975-06-25" dependent="MISSING" government="republic"/>
+   <politics-tuple country="MS" independence="1968-03-12" dependent="MISSING" government="parliamentary democracy"/>
+   <politics-tuple country="MAYO" independence="MISSING" dependent="F" government="territorial collectivity of France"/>
+   <politics-tuple country="SD" independence="1968-09-06" dependent="MISSING" government="monarchy"/>
+   <politics-tuple country="REUN" independence="MISSING" dependent="F" government="overseas department of France"/>
+   <politics-tuple country="HELX" independence="MISSING" dependent="GB" government="British Overseas Territories"/>
+   <politics-tuple country="STP" independence="1975-07-12" dependent="MISSING" government="republic"/>
+   <politics-tuple country="SY" independence="1976-06-29" dependent="MISSING" government="republic"/>
+</politics>

@@ -1,0 +1,738 @@
+
+<geo_sea>
+   <geo_sea-tuple sea="Skagerrak" country="DK" province="Denmark"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Oslo"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Akershus"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Oestfold"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Buskerud"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Vestfold"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Aust Agder"/>
+   <geo_sea-tuple sea="Skagerrak" country="N" province="Vest Agder"/>
+   <geo_sea-tuple sea="Skagerrak" country="S" province="Goteborg och Bohus"/>
+   <geo_sea-tuple sea="Kattegat" country="DK" province="Denmark"/>
+   <geo_sea-tuple sea="Kattegat" country="S" province="Goteborg och Bohus"/>
+   <geo_sea-tuple sea="Kattegat" country="S" province="Halland"/>
+   <geo_sea-tuple sea="Kattegat" country="S" province="Kristianstad"/>
+   <geo_sea-tuple sea="Kattegat" country="S" province="Malmohus"/>
+   <geo_sea-tuple sea="North Sea" country="F" province="Nord Pas de Calais"/>
+   <geo_sea-tuple sea="North Sea" country="D" province="Bremen"/>
+   <geo_sea-tuple sea="North Sea" country="D" province="Niedersachsen"/>
+   <geo_sea-tuple sea="North Sea" country="D" province="Schleswig Holstein"/>
+   <geo_sea-tuple sea="North Sea" country="B" province="West Flanders"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Groningen"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Friesland"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Flevoland"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Noord Holland"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Zuid Holland"/>
+   <geo_sea-tuple sea="North Sea" country="NL" province="Zeeland"/>
+   <geo_sea-tuple sea="North Sea" country="DK" province="Denmark"/>
+   <geo_sea-tuple sea="North Sea" country="N" province="Telemark"/>
+   <geo_sea-tuple sea="North Sea" country="N" province="Vest Agder"/>
+   <geo_sea-tuple sea="North Sea" country="N" province="Rogaland"/>
+   <geo_sea-tuple sea="North Sea" country="N" province="Hordaland"/>
+   <geo_sea-tuple sea="North Sea" country="N" province="Sogn og Fjordane"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Essex"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Greater London"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Humberside"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Kent"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Norfolk"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Northumberland"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="North Yorkshire"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Suffolk"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Tyne and Wear"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Grampian"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Highland"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Orkneys"/>
+   <geo_sea-tuple sea="North Sea" country="GB" province="Shetland"/>
+   <geo_sea-tuple sea="The Channel" country="F" province="Basse Normandie"/>
+   <geo_sea-tuple sea="The Channel" country="F" province="Haute Normandie"/>
+   <geo_sea-tuple sea="The Channel" country="F" province="Nord Pas de Calais"/>
+   <geo_sea-tuple sea="The Channel" country="F" province="Picardie"/>
+   <geo_sea-tuple sea="The Channel" country="GBG" province="Guernsey"/>
+   <geo_sea-tuple sea="The Channel" country="GBJ" province="Jersey"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="Cornwall"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="Devon"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="Dorset"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="East Sussex"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="Hampshire"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="Kent"/>
+   <geo_sea-tuple sea="The Channel" country="GB" province="West Sussex"/>
+   <geo_sea-tuple sea="Black Sea" country="UA" province="Khersonska"/>
+   <geo_sea-tuple sea="Black Sea" country="UA" province="Mykolayivska"/>
+   <geo_sea-tuple sea="Black Sea" country="UA" province="Odeska"/>
+   <geo_sea-tuple sea="Black Sea" country="UA" province="Krym"/>
+   <geo_sea-tuple sea="Black Sea" country="R" province="Krasnodarsky kray"/>
+   <geo_sea-tuple sea="Black Sea" country="BG" province="Bulgaria"/>
+   <geo_sea-tuple sea="Black Sea" country="RO" province="Constanta"/>
+   <geo_sea-tuple sea="Black Sea" country="RO" province="Tulcea"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Artvin"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Bolu"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Giresun"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Istanbul"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Kastamonu"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Kirklareli"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Kocaeli"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Ordu"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Rize"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Sakarya"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Samsun"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Sinop"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Trabzon"/>
+   <geo_sea-tuple sea="Black Sea" country="TR" province="Zonguldak"/>
+   <geo_sea-tuple sea="Black Sea" country="GE" province="Georgia"/>
+   <geo_sea-tuple sea="Sea of Azov" country="UA" province="Donetska"/>
+   <geo_sea-tuple sea="Sea of Azov" country="UA" province="Khersonska"/>
+   <geo_sea-tuple sea="Sea of Azov" country="UA" province="Zaporizka"/>
+   <geo_sea-tuple sea="Sea of Azov" country="UA" province="Krym"/>
+   <geo_sea-tuple sea="Sea of Azov" country="R" province="Rostovskaya oblast"/>
+   <geo_sea-tuple sea="Sea of Azov" country="R" province="Krasnodarsky kray"/>
+   <geo_sea-tuple sea="Baltic Sea" country="D" province="Mecklenburg Vorpommern"/>
+   <geo_sea-tuple sea="Baltic Sea" country="D" province="Schleswig Holstein"/>
+   <geo_sea-tuple sea="Baltic Sea" country="LV" province="Latvia"/>
+   <geo_sea-tuple sea="Baltic Sea" country="LT" province="Lithuania"/>
+   <geo_sea-tuple sea="Baltic Sea" country="PL" province="Elblaskie"/>
+   <geo_sea-tuple sea="Baltic Sea" country="PL" province="Gdanskie"/>
+   <geo_sea-tuple sea="Baltic Sea" country="PL" province="Koszalinskie"/>
+   <geo_sea-tuple sea="Baltic Sea" country="PL" province="Slupskie"/>
+   <geo_sea-tuple sea="Baltic Sea" country="PL" province="Szczecinskie"/>
+   <geo_sea-tuple sea="Baltic Sea" country="R" province="Kaliningradskaya oblast"/>
+   <geo_sea-tuple sea="Baltic Sea" country="R" province="Sankt Peterburg"/>
+   <geo_sea-tuple sea="Baltic Sea" country="R" province="Leningradskaya oblast"/>
+   <geo_sea-tuple sea="Baltic Sea" country="DK" province="Denmark"/>
+   <geo_sea-tuple sea="Baltic Sea" country="EW" province="Estonia"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Aland"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Kymi"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Lappia"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Oulu"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Turku-Pori"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Uusimaa"/>
+   <geo_sea-tuple sea="Baltic Sea" country="SF" province="Vaasa"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Blekinge"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Gavleborg"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Gotland"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Kalmar"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Kristianstad"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Malmohus"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Norrbotten"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Ostergotland"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Sodermanland"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Stockholm"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Uppsala"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Vasterbotten"/>
+   <geo_sea-tuple sea="Baltic Sea" country="S" province="Vasternorrland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="F" province="Aquitaine"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="F" province="Bretagne"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="F" province="Pays de la Loire"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="F" province="Poitou Charentes"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Andalusia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Asturias"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Basque Country"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Canary Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Cantabria"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="E" province="Galicia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="FARX" province="Faroe Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GBZ" province="Gibraltar"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="IS" province="Iceland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="IRL" province="Ireland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Aveiro"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Beja"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Braga"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Coimbra"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Algarve"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Leiria"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Lisbon"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Porto"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Setubal"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Viana do Castelo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Azores"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="P" province="Madeira"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SVAX" province="Svalbard"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GB" province="Cornwall"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GB" province="Devon"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GB" province="Northern Ireland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GB" province="Outer Hebrides"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="AXA" province="Anguilla"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="AG" province="Antigua and Barbuda"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BS" province="Bahamas"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BDS" province="Barbados"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BERM" province="Bermuda"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BVIR" province="British Virgin Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Manitoba"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="New Brunswick"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Newfoundland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Northwest Territories"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Nova Scotia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Ontario"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Prince Edward Island"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CDN" province="Quebec"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Connecticut"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Delaware"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Florida"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Georgia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Maine"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Maryland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Massachusetts"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="New Hampshire"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="New Jersey"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="New York"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="North Carolina"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Rhode Island"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="South Carolina"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="USA" province="Virginia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Ciego de Avila"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Guantanamo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Holguin"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="La Habana"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Las Tunas"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Matanzas"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Sancti Spiritus"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="C" province="Villa Clara"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WD" province="Dominica"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="DOM" province="Dominican Republic"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RH" province="Haiti"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GROX" province="Greenland"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WG" province="Grenada"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GUAD" province="Guadeloupe"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="MART" province="Martinique"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="MNTS" province="Montserrat"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="NA" province="Netherlands Antilles"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SMAR" province="Saint Martin"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="PR" province="Puerto Rico"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="KN" province="Saint Kitts and Nevis"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WL" province="Saint Lucia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SPMI" province="Saint Pierre and Miquelon"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WV" province="Saint Vincent and the Grenadines"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="TT" province="Trinidad and Tobago"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="TUCA" province="Turks and Caicos Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="VIRG" province="Virgin Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RA" province="Buenos Aires"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RA" province="Chubut"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RA" province="Rio Negro"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RA" province="Santa Cruz"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RA" province="Tierra del Fuego"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Alagoas"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Amapa"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Bahia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Ceara"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Espirito Santo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Maranhao"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Para"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Paraiba"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Parana"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Pernambuco"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Rio de Janeiro"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Rio Grande do Norte"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Rio Grande do Sul"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Santa Catarina"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Sao Paulo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BR" province="Sergipe"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RCH" province="Chile"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ROU" province="Uruguay"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="FGU" province="French Guiana"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GUY" province="Guyana"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SME" province="Suriname"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="YV" province="Delta Amacuro"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="FALK" province="Falkland Islands"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RIM" province="Mauritania"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="MA" province="Morocco"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WSA" province="Western Sahara"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Cabinda"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Zaire"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Luanda"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Cuanza Sul"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Benguela"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Namibe"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ANG" province="Bengo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RCB" province="Congo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="NAM" province="Namibia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="ZRE" province="Bas Zaire"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="BEN" province="Benin"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WAN" province="Nigeria"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RT" province="Togo"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RSA" province="Western Cape"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CI" province="Cote dIvoire"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GH" province="Ghana"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CAM" province="Centre"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CAM" province="Cote/Littoral"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CAM" province="Sudoueste"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GQ" province="Equatorial Guinea"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="G" province="Gabon"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="CV" province="Cape Verde"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="RG" province="Guinea"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="LB" province="Liberia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WAG" province="Gambia"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Dakar"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Fatick"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Louga"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Saint Louis"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Thies"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="SN" province="Ziguinchor"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="GNB" province="Guinea-Bissau"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="WAL" province="Sierra Leone"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="HELX" province="Saint Helena"/>
+   <geo_sea-tuple sea="Atlantic Ocean" country="STP" province="Sao Tome and Principe"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="AL" province="Albania"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Anatoliki Makedhonia kai Thraki"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Attiki"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Dhytiki Ellas"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Ionioi Nisoi"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Ipiros"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Kedriki Makedhonia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Kriti"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Notion Aiyaion"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Peloponnisos"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Sterea Ellas"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Thessalia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GR" province="Voreion Aiyaion"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="MNE" province="Montenegro"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="F" province="Corse"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="F" province="Languedoc Roussillon"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="F" province="Provence Cote dAzur"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="E" province="Andalusia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="E" province="Balearic Islands"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="E" province="Catalonia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="E" province="Murcia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="E" province="Valencia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Veneto"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Friuli Venezia Giulia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Liguria"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Emilia Romagna"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Toscana"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Marche"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Lazio"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Abruzzo"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Campania"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Puglia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Calabria"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Sicilia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="I" province="Sardegna"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="SLO" province="Slovenia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="BIH" province="Bosnia and Herzegovina"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="HR" province="Croatia"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Adana"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Antalya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Aydin"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Balikesir"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Canakkale"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Hatay"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Icel"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Izmir"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TR" province="Mugla"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="MC" province="Monaco"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GBZ" province="Gibraltar"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="M" province="Malta"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="CY" province="Cyprus"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="GAZA" province="Gaza Strip"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="IL" province="Central"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="IL" province="Haifa"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="IL" province="North"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="IL" province="Tel Aviv"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="IL" province="South"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Matruh"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Sina ash Shamaliyah"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="El Buhayra"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="El Daqahliya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Dumyat"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Ismailiya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Kafr el Sheikh"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Sharqiya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="Bur Said (munic.)"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="ET" province="El Iskandariya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="SYR" province="Syria"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="RL" province="Lebanon"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="DZ" province="Algeria"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="LAR" province="Libya"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="MA" province="Morocco"/>
+   <geo_sea-tuple sea="Mediterranean Sea" country="TN" province="Tunisia"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="MEX" province="Campeche"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="MEX" province="Tabasco"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="MEX" province="Tamaulipas"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="MEX" province="Veracruz"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="MEX" province="Yucatan"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="USA" province="Alabama"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="USA" province="Florida"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="USA" province="Louisiana"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="USA" province="Mississippi"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="USA" province="Texas"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="C" province="Ciudad de la Habana"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="C" province="La Habana"/>
+   <geo_sea-tuple sea="Gulf of Mexico" country="C" province="Pinar del Rio"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="FARX" province="Faroe Islands"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Sogn og Fjordane"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Moere og Romsdal"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Soer Trondelag"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Nord Trondelag"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Nordland"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Troms"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="N" province="Finnmark"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="IS" province="Iceland"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="SVAX" province="Svalbard"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="GB" province="Shetland"/>
+   <geo_sea-tuple sea="Norwegian Sea" country="GROX" province="Greenland"/>
+   <geo_sea-tuple sea="Barents Sea" country="R" province="Rep. of Karelia"/>
+   <geo_sea-tuple sea="Barents Sea" country="R" province="Arkhangelskaya oblast"/>
+   <geo_sea-tuple sea="Barents Sea" country="R" province="Murmanskaya oblast"/>
+   <geo_sea-tuple sea="Barents Sea" country="N" province="Finnmark"/>
+   <geo_sea-tuple sea="Sibirian Sea" country="R" province="Arkhangelskaya oblast"/>
+   <geo_sea-tuple sea="Sibirian Sea" country="R" province="Tyumenskaya oblast"/>
+   <geo_sea-tuple sea="Sibirian Sea" country="R" province="Krasnoyarskiy kray"/>
+   <geo_sea-tuple sea="Sibirian Sea" country="R" province="Rep. of Sakha"/>
+   <geo_sea-tuple sea="Sibirian Sea" country="R" province="Magadanskaya oblast"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="R" province="Magadanskaya oblast"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="SVAX" province="Svalbard"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="CDN" province="Northwest Territories"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="CDN" province="Yukon Territory"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="USA" province="Alaska"/>
+   <geo_sea-tuple sea="Arctic Ocean" country="GROX" province="Greenland"/>
+   <geo_sea-tuple sea="Bering Sea" country="R" province="Kamchatskaya oblast"/>
+   <geo_sea-tuple sea="Bering Sea" country="R" province="Magadanskaya oblast"/>
+   <geo_sea-tuple sea="Bering Sea" country="USA" province="Alaska"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="R" province="Khabarovskiy kray"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="R" province="Kamchatskaya oblast"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="R" province="Magadanskaya oblast"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="R" province="Sakhalinskaya oblast"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PNG" province="Papua New Guinea"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Hokkaido"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Aomori"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Iwate"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Miyagi"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Fukushima"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Ibaraki"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Chiba"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Kanagawa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Shizuoka"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Aichi"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Mie"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Wakayama"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Tokushima"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Kochi"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Miyazaki"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Kagoshima"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="J" province="Okinawa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MV" province="Maldives"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="RP" province="Philippines"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="RC" province="Taiwan"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="GCA" province="Guatemala"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Baja California"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Baja California Sur"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Chiapas"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Colima"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Guerrero"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Jalisco"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Michoacan"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Nayarit"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Oaxaca"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Sinaloa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MEX" province="Sonora"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CDN" province="British Columbia"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CDN" province="Yukon Territory"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="USA" province="Alaska"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="USA" province="California"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="USA" province="Hawaii"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="USA" province="Oregon"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="USA" province="Washington"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CR" province="Guanacaste"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CR" province="Puntarenas"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NIC" province="Nicaragua"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Cocle"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Chiriqui"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Darien"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Herrera"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Los Santos"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Panama"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PA" province="Veraguas"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="ES" province="El Salvador"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="HCA" province="Choluteca"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="HCA" province="Valle"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CO" province="Cauca"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CO" province="Choco"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CO" province="Narino"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="CO" province="Valle de Cauca"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="AMSA" province="American Samoa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="AUS" province="New South Wales"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="AUS" province="Queensland"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="AUS" province="Tasmania"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="AUS" province="Victoria"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="COOK" province="Cook Islands"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="FJI" province="Fiji"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="FPOL" province="French Polynesia"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="GUAM" province="Guam"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="KIR" province="Kiribati"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="MH" province="Marshall Islands"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="FSM" province="Micronesia"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NAU" province="Nauru"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NCA" province="New Caledonia"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NZ" province="New Zealand"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NIUE" province="Niue"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NORF" province="Norfolk Island"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="NMIS" province="Northern Mariana Islands"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PAL" province="Palau"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PITC" province="Pitcairn Islands"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="SLB" province="Solomon Islands"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="TO" province="Tonga"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="TUV" province="Tuvalu"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="VU" province="Vanuatu"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="WAFU" province="Wallis and Futuna"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="WS" province="Samoa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="RCH" province="Chile"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Ancash"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Arequipa"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Ica"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="La Libertad"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Lambayeque"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Lima"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Moquegua"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Piura"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Tacna"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="PE" province="Tumbes"/>
+   <geo_sea-tuple sea="Pacific Ocean" country="EC" province="Ecuador"/>
+   <geo_sea-tuple sea="Sea of Okhotsk" country="R" province="Kamchatskaya oblast"/>
+   <geo_sea-tuple sea="Sea of Okhotsk" country="R" province="Magadanskaya oblast"/>
+   <geo_sea-tuple sea="Sea of Okhotsk" country="J" province="Hokkaido"/>
+   <geo_sea-tuple sea="Sea of Japan" country="R" province="Primorsky kray"/>
+   <geo_sea-tuple sea="Sea of Japan" country="R" province="Khabarovskiy kray"/>
+   <geo_sea-tuple sea="Sea of Japan" country="R" province="Sakhalinskaya oblast"/>
+   <geo_sea-tuple sea="Sea of Japan" country="NOK" province="North Korea"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Hokkaido"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Aomori"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Akita"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Yamagata"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Niigata"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Toyama"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Ishikawa"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Fukui"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Kyoto"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Hyogo"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Tottori"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Shimane"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Yamaguchi"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Fukuoka"/>
+   <geo_sea-tuple sea="Sea of Japan" country="J" province="Saga"/>
+   <geo_sea-tuple sea="Sea of Japan" country="ROK" province="South Korea"/>
+   <geo_sea-tuple sea="Yellow Sea" country="TJ" province="Hebei"/>
+   <geo_sea-tuple sea="Yellow Sea" country="TJ" province="Jiangsu"/>
+   <geo_sea-tuple sea="Yellow Sea" country="TJ" province="Liaoning"/>
+   <geo_sea-tuple sea="Yellow Sea" country="TJ" province="Shandong"/>
+   <geo_sea-tuple sea="Yellow Sea" country="NOK" province="North Korea"/>
+   <geo_sea-tuple sea="Yellow Sea" country="ROK" province="South Korea"/>
+   <geo_sea-tuple sea="East China Sea" country="TJ" province="Fujian"/>
+   <geo_sea-tuple sea="East China Sea" country="TJ" province="Jiangsu"/>
+   <geo_sea-tuple sea="East China Sea" country="TJ" province="Zhejiang"/>
+   <geo_sea-tuple sea="East China Sea" country="J" province="Saga"/>
+   <geo_sea-tuple sea="East China Sea" country="J" province="Nagasaki"/>
+   <geo_sea-tuple sea="East China Sea" country="J" province="Kumamoto"/>
+   <geo_sea-tuple sea="East China Sea" country="J" province="Kagoshima"/>
+   <geo_sea-tuple sea="East China Sea" country="J" province="Okinawa"/>
+   <geo_sea-tuple sea="East China Sea" country="ROK" province="South Korea"/>
+   <geo_sea-tuple sea="East China Sea" country="RC" province="Taiwan"/>
+   <geo_sea-tuple sea="South China Sea" country="TJ" province="Fujian"/>
+   <geo_sea-tuple sea="South China Sea" country="TJ" province="Guangdong"/>
+   <geo_sea-tuple sea="South China Sea" country="TJ" province="Guangxi Zhuangzu"/>
+   <geo_sea-tuple sea="South China Sea" country="BRU" province="Brunei"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Johor"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Kelantan"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Pahang"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Sabah"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Sarawak"/>
+   <geo_sea-tuple sea="South China Sea" country="MAL" province="Terengganu"/>
+   <geo_sea-tuple sea="South China Sea" country="THA" province="Thailand"/>
+   <geo_sea-tuple sea="South China Sea" country="K" province="Cambodia"/>
+   <geo_sea-tuple sea="South China Sea" country="VN" province="Vietnam"/>
+   <geo_sea-tuple sea="South China Sea" country="HONX" province="Hong Kong"/>
+   <geo_sea-tuple sea="South China Sea" country="MACX" province="Macau"/>
+   <geo_sea-tuple sea="South China Sea" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="South China Sea" country="RP" province="Philippines"/>
+   <geo_sea-tuple sea="South China Sea" country="SGP" province="Singapore"/>
+   <geo_sea-tuple sea="South China Sea" country="RC" province="Taiwan"/>
+   <geo_sea-tuple sea="Persian Gulf" country="IR" province="Bushehr"/>
+   <geo_sea-tuple sea="Persian Gulf" country="IR" province="Hormozgan"/>
+   <geo_sea-tuple sea="Persian Gulf" country="IR" province="Khuzestan"/>
+   <geo_sea-tuple sea="Persian Gulf" country="BRN" province="Bahrain"/>
+   <geo_sea-tuple sea="Persian Gulf" country="IRQ" province="Al Basrah"/>
+   <geo_sea-tuple sea="Persian Gulf" country="KWT" province="Kuwait"/>
+   <geo_sea-tuple sea="Persian Gulf" country="SA" province="Saudi Arabia"/>
+   <geo_sea-tuple sea="Persian Gulf" country="OM" province="Oman"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Abu Dhabi"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Ajman"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Dubayy"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Ras al Khaymah"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Ash Shariqah"/>
+   <geo_sea-tuple sea="Persian Gulf" country="UAE" province="Umm al Qaywayn"/>
+   <geo_sea-tuple sea="Persian Gulf" country="Q" province="Qatar"/>
+   <geo_sea-tuple sea="Irish Sea" country="IRL" province="Ireland"/>
+   <geo_sea-tuple sea="Irish Sea" country="GBM" province="Man"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Lancashire"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Merseyside"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Anglesey"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Cardiff"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Swansea"/>
+   <geo_sea-tuple sea="Irish Sea" country="GB" province="Northern Ireland"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="AXA" province="Anguilla"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="AG" province="Antigua and Barbuda"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="ARU" province="Aruba"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="BZ" province="Belize"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="GCA" province="Guatemala"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="MEX" province="Quintana Roo"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="MEX" province="Yucatan"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="BVIR" province="British Virgin Islands"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CAYM" province="Cayman Islands"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CR" province="Limon"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="NIC" province="Nicaragua"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="PA" province="Bocas del Toro"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="PA" province="Colon"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="PA" province="Comarca de San Blas"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Ciego de Avila"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Cienfuegos"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Granma"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Guantanamo"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="La Habana"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Las Tunas"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Matanzas"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Pinar del Rio"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Sancti Spiritus"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Santiago de Cuba"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="C" province="Isla de la Juventud"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="WD" province="Dominica"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="DOM" province="Dominican Republic"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="RH" province="Haiti"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="HCA" province="Atlantida"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="HCA" province="Colon"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="HCA" province="Cortes"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="HCA" province="Gracias a Dios"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="WG" province="Grenada"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="GUAD" province="Guadeloupe"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="JA" province="Jamaica"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="MART" province="Martinique"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="MNTS" province="Montserrat"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="NA" province="Netherlands Antilles"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="SMAR" province="Saint Martin"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Antioquia"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Atlantico"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Choco"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Cordoba"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Guajira, La"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Magdalena"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="CO" province="Sucre"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="PR" province="Puerto Rico"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="KN" province="Saint Kitts and Nevis"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="WL" province="Saint Lucia"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="WV" province="Saint Vincent and the Grenadines"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="TT" province="Trinidad and Tobago"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="VIRG" province="Virgin Islands"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Anzoategui"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Aragua"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Carabobo"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Delta Amacuro"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Falcon"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Miranda"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Monagas"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Nueva Esparta"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Sucre"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Zulia"/>
+   <geo_sea-tuple sea="Caribbean Sea" country="YV" province="Distrito Federal"/>
+   <geo_sea-tuple sea="Indian Ocean" country="PK" province="Pakistan"/>
+   <geo_sea-tuple sea="Indian Ocean" country="IND" province="Kerala"/>
+   <geo_sea-tuple sea="Indian Ocean" country="IND" province="Tamil Nadu"/>
+   <geo_sea-tuple sea="Indian Ocean" country="XMAS" province="Christmas Island"/>
+   <geo_sea-tuple sea="Indian Ocean" country="COCO" province="Cocos Islands"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Indian Ocean" country="TL" province="Timor-Leste"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MV" province="Maldives"/>
+   <geo_sea-tuple sea="Indian Ocean" country="YE" province="Yemen"/>
+   <geo_sea-tuple sea="Indian Ocean" country="SGP" province="Singapore"/>
+   <geo_sea-tuple sea="Indian Ocean" country="CL" province="Sri Lanka"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="New South Wales"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="Northern Territory"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="South Australia"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="Tasmania"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="Victoria"/>
+   <geo_sea-tuple sea="Indian Ocean" country="AUS" province="Western Australia"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RSA" province="Eastern Cape"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RSA" province="Kwazulu Natal"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RSA" province="Western Cape"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAT" province="Tanga"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAT" province="Pwani"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAT" province="Daressalam"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAT" province="Lindi"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAT" province="Mtwara"/>
+   <geo_sea-tuple sea="Indian Ocean" country="COM" province="Comoros"/>
+   <geo_sea-tuple sea="Indian Ocean" country="SP" province="Somalia"/>
+   <geo_sea-tuple sea="Indian Ocean" country="EAK" province="Coast"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Antsiranana"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Antananarivo"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Fianarantsoa"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Mahajanga"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Toamasina"/>
+   <geo_sea-tuple sea="Indian Ocean" country="RM" province="Toliara"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Cabo Delgado"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Gaza"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Inhambane"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Maputo"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Nampula"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Sofala"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Zambezia"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MOC" province="Maputo (munic.)"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MS" province="Mauritius"/>
+   <geo_sea-tuple sea="Indian Ocean" country="MAYO" province="Mayotte"/>
+   <geo_sea-tuple sea="Indian Ocean" country="REUN" province="Reunion"/>
+   <geo_sea-tuple sea="Indian Ocean" country="SY" province="Seychelles"/>
+   <geo_sea-tuple sea="Arabian Sea" country="PK" province="Pakistan"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Goa"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Gujarat"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Karnataka"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Kerala"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Maharashtra"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Tamil Nadu"/>
+   <geo_sea-tuple sea="Arabian Sea" country="IND" province="Lakshadweep Is."/>
+   <geo_sea-tuple sea="Arabian Sea" country="OM" province="Oman"/>
+   <geo_sea-tuple sea="Gulf of Oman" country="IR" province="Hormozgan"/>
+   <geo_sea-tuple sea="Gulf of Oman" country="IR" province="Sistan e Baluchestan"/>
+   <geo_sea-tuple sea="Gulf of Oman" country="PK" province="Pakistan"/>
+   <geo_sea-tuple sea="Gulf of Oman" country="OM" province="Oman"/>
+   <geo_sea-tuple sea="Gulf of Oman" country="UAE" province="Al Fujayrah"/>
+   <geo_sea-tuple sea="Red Sea" country="IL" province="South"/>
+   <geo_sea-tuple sea="Red Sea" country="ET" province="El Bahr el Ahmar"/>
+   <geo_sea-tuple sea="Red Sea" country="ET" province="Sina al Janubiyah"/>
+   <geo_sea-tuple sea="Red Sea" country="ET" province="El Suweiz"/>
+   <geo_sea-tuple sea="Red Sea" country="JOR" province="Jordan"/>
+   <geo_sea-tuple sea="Red Sea" country="SA" province="Saudi Arabia"/>
+   <geo_sea-tuple sea="Red Sea" country="YE" province="Yemen"/>
+   <geo_sea-tuple sea="Red Sea" country="SUD" province="ash Sharqiyah"/>
+   <geo_sea-tuple sea="Red Sea" country="DJI" province="Djibouti"/>
+   <geo_sea-tuple sea="Red Sea" country="ER" province="Eritrea"/>
+   <geo_sea-tuple sea="Gulf of Aden" country="YE" province="Yemen"/>
+   <geo_sea-tuple sea="Gulf of Aden" country="DJI" province="Djibouti"/>
+   <geo_sea-tuple sea="Gulf of Aden" country="SP" province="Somalia"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="BD" province="Bangladesh"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="MYA" province="Ayeyarwady"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="MYA" province="Rakhine"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="IND" province="Andhra Pradesh"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="IND" province="Orissa"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="IND" province="West Bengal"/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="IND" province="Andaman and Nicobar Is."/>
+   <geo_sea-tuple sea="Gulf of Bengal" country="CL" province="Sri Lanka"/>
+   <geo_sea-tuple sea="Andaman Sea" country="MYA" province="Ayeyarwady"/>
+   <geo_sea-tuple sea="Andaman Sea" country="MYA" province="Bago"/>
+   <geo_sea-tuple sea="Andaman Sea" country="MYA" province="Yangon"/>
+   <geo_sea-tuple sea="Andaman Sea" country="MYA" province="Mon"/>
+   <geo_sea-tuple sea="Andaman Sea" country="IND" province="Andaman and Nicobar Is."/>
+   <geo_sea-tuple sea="Andaman Sea" country="THA" province="Thailand"/>
+   <geo_sea-tuple sea="Andaman Sea" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Johor"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Kedah"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Melaka"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Negeri Sembilan"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Perak"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Perlis"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Pulau Pinang"/>
+   <geo_sea-tuple sea="Malakka Strait" country="MAL" province="Selangor"/>
+   <geo_sea-tuple sea="Malakka Strait" country="THA" province="Thailand"/>
+   <geo_sea-tuple sea="Malakka Strait" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Malakka Strait" country="SGP" province="Singapore"/>
+   <geo_sea-tuple sea="Sunda Sea" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Sunda Sea" country="TL" province="Timor-Leste"/>
+   <geo_sea-tuple sea="Sulawesi Sea" country="MAL" province="Sarawak"/>
+   <geo_sea-tuple sea="Sulawesi Sea" country="RI" province="Indonesia"/>
+   <geo_sea-tuple sea="Sulawesi Sea" country="RP" province="Philippines"/>
+</geo_sea>

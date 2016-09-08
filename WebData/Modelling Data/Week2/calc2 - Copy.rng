@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <ref name="expression-description"/>
+  </start>
+  <define name="expression-description">
+    <element name="expression">
+      <ref name="expr-description"/>
+    </element>
+  </define>
+  <define name="expr-description">
+    <choice>
+      <ref name="plus-description"/>
+      <ref name="times-description"/>
+      <ref name="minus-description"/>
+      <ref name="int-description"/>
+      <ref name="dec-description"/>
+      <ref name="div-description"/>
+      <ref name="unaryPlus-description"/>
+      <ref name="unaryMinus-description"/>
+      <ref name="comment-description"/>
+    </choice>
+  </define>
+  <!--plus and times are n-ary, where n is greater than 2.-->
+  <define name="plus-description">
+    <element name="plus">
+      <ref name="expr-description"/>
+      <oneOrMore>
+        <ref name="expr-description"/>
+      </oneOrMore>
+    </element>
+    <zeroOrMore>
+      <ref name="comment-description"/>
+    </zeroOrMore>
+  </define>
+  <define name="times-description">
+    <element name="times">
+      <ref name="expr-description"/>
+      <oneOrMore>
+        <ref name="expr-description"/>
+      </oneOrMore>
+    </element>
+    <zeroOrMore>
+      <ref name="comment-description"/>
+    </zeroOrMore>
+  </define>
+  <!-- Note that minus is a *binary* operation -->
+  <define name="minus-description">
+    <element name="minus">
+      <ref name="expr-description"/>
+      <ref name="expr-description"/>
+    </element>
+    <zeroOrMore>
+      <ref name="comment-description"/>
+    </zeroOrMore>
+  </define>
+  <define name="int-description">
+    <element name="int">
+      <attribute name="value">
+        <!-- datatype integer constraint the value of int element -->
+        <data type="integer">
+          <!-- maxInclusive and minInclusive param constraint the range of value -->
+          <param name="maxInclusive">1000</param>
+          <param name="minInclusive">-1000</param>
+        </data>
+      </attribute>
+      <empty/>
+    </element>
+    <zeroOrMore>
+      <ref name="comment-description"/>
+    </zeroOrMore>
+  </define>
+  <!-- decimals range from -1000 to 1000 -->
+  <define name="dec-description">
+    <element name="dec">
+      <attribute name="value">
+        <!-- datatype integer constraint the value of int element -->
+        <data type="decimal">
+          <!-- maxInclusive and minInclusive param constraint the range of value -->
+          <param name="maxInclusive">1000</param>
+          <param name="minInclusive">-1000</param>
+        </data>
+      </attribute>
+      <empty/>
+    </element>
+    <zeroOrMore>
+      <ref name="comment-description"/>
+    </zeroOrMore>
+  </define>
+  <!-- *binary* division must contain two elements-->
+  <define name="div-description">
+    <element name="div">
+      <ref name="expr-description"/>
+      <ref name="expr-description"/>
+      <zeroOrMore>
+        <ref name="comment-description"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <!-- unary plus and minus contains exactly one element  -->
+  <define name="unaryPlus-description">
+    <element name="unaryPlus">
+      <ref name="expr-description"/>
+      <zeroOrMore>
+        <ref name="comment-description"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="unaryMinus-description">
+    <element name="unaryMinus">
+      <ref name="expr-description"/>
+      <zeroOrMore>
+        <ref name="comment-description"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="comment-description">
+    <element name="comment">
+      <interleave>
+        <element name="i">
+          <text/>
+        </element>
+        <element name="b">
+          <text/>
+        </element>
+      </interleave>
+    </element>
+  </define>
+</grammar>

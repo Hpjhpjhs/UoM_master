@@ -1,0 +1,68 @@
+#! /bin/bash
+# For run querys
+
+echo "------------Q1---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q1.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q2---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q2.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q3---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q3.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q4---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q4.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q5---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q5.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q6---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q6.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q7---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q7.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+echo "------------Q8---------------" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_100.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_1000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+sqlite3 bbd_10000.db ".read /home/mbaxqll4/Documents/QueryingData/Week3/DB/Q8.sql" >> /home/mbaxqll4/Documents/QueryingData/Week3/DB/time.txt
+
+

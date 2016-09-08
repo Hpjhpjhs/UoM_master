@@ -1,0 +1,48 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+grammar {
+
+start =
+   element conference {
+   
+       element articles {
+          element article {
+            attribute id { xsd:integer },
+            element title { xsd:string },
+            element abstract { xsd:string }?,
+            element status { "submitted" | " under review" | "accepted" | " published" }
+          }+
+        },
+        
+        element authors {
+          element author {
+            attribute username { xsd:string },
+            element fullname { 
+                element firstname { xsd:string }, 
+                element midname { xsd:string }*,
+                element lastname{ xsd:string }
+                }
+          }+
+        },
+   
+       element institutions {
+          element institution {
+            attribute id { xsd:integer },
+            element name { xsd:string },
+            element country { xsd:string },
+            element address { xsd:string }
+          }+
+        },
+     
+      element article_author{
+         attribute id { xsd:integer },
+         attribute username { xsd:string }
+        }+,
+       
+      element author_institution {
+         attribute username { xsd:string },
+         attribute id { xsd:integer }
+        }+
+  
+  }
+}

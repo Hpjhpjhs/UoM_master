@@ -1,0 +1,15 @@
+
+<expression>
+    <!-- This expression evaluates to 0-->
+    <plus>
+        <times>
+            <int value="7"/>
+            <minus>
+                <int value="4"/>
+                <int value="24"/>
+            </minus>
+        </times>
+        <int value="7"/>
+	<int value="133"/> 
+    </plus>
+</expression>

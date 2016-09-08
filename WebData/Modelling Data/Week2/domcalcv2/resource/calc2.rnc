@@ -1,0 +1,48 @@
+# RelaxNG supports only very simple datatype: text. If you want more complex ones, 
+# you can 'import' them from XML Schema (another XML schema language) by including the following line: 
+# 
+  datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+# 
+# with this line, we could have written 
+# 
+#  int-description = element int { attribute value { xsd:integer }, empty }
+# 
+# and suitable validating parsers would have understood this, i.e., rejected elements like <int value="a"/> 
+
+grammar  
+
+{start = expression-description 
+
+# An expression can contain comments
+expression-description = element expression {expr-description & comment-description*}
+
+# An expression is either a plus, times, minus, or division, or a number, i.e., an int or a dec. 
+expr-description  = plus-description | times-description | minus-description |  division-description |int-description | dec-description 
+
+# Division is a *binary* operation (takes exactly 2 expressions) 
+division-description = element division { expr-description, expr-description}
+
+# Note that times takes at least 1 expression 
+plus-description = element plus { (expr-description+) }
+
+# Note that times takes at least 2 expressions 
+times-description = element times { expr-description, expr-description+ }
+
+# Note that minus is a *unary* or *binary* operation (takes 1 or 2 expression) 
+minus-description = element minus { expr-description, expr-description? }
+
+# Comments are text interleaved with <i>- and <b>-elements
+comment-description = element comment {text & (i-description|b-description)* }
+
+i-description = element i {text} 
+
+b-description = element b {text}
+
+#  Ints and decs are empty elements. I use an attribute
+# for their value and xsd  with facets to restrict their values. 
+
+int-description = element int { attribute value { xsd:integer { minInclusive="-1000" maxInclusive="1000" }}, empty }
+
+dec-description = element dec { attribute value { xsd:decimal { minInclusive="-1000" maxInclusive="1000" }}, empty }
+
+}

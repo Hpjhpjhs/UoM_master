@@ -1,0 +1,243 @@
+
+<mountain>
+   <mountain-tuple name="Hvannadalshnukur" mountains="MISSING" height="2110.0" type="volcanic" longitude="-16.7" latitude="64.1"/>
+   <mountain-tuple name="Snaefell" mountains="MISSING" height="1833.0" type="volcanic" longitude="-15.2" latitude="64.5"/>
+   <mountain-tuple name="Hekla" mountains="MISSING" height="1491.0" type="volcano" longitude="-19.7" latitude="64.0"/>
+   <mountain-tuple name="Katla" mountains="MISSING" height="1450.0" type="volcano" longitude="-19.0" latitude="63.6"/>
+   <mountain-tuple name="Haltiatunturi" mountains="MISSING" height="1328.0" type="MISSING" longitude="21.4" latitude="67.0"/>
+   <mountain-tuple name="Kebnekaise" mountains="MISSING" height="2114.0" type="MISSING" longitude="18.3" latitude="67.5"/>
+   <mountain-tuple name="Sarektjokko" mountains="MISSING" height="2090.0" type="MISSING" longitude="17.4" latitude="67.3"/>
+   <mountain-tuple name="Portefjaellen" mountains="MISSING" height="2021.0" type="MISSING" longitude="17.4" latitude="67.1"/>
+   <mountain-tuple name="Tarrekaise" mountains="MISSING" height="1850.0" type="MISSING" longitude="17.3" latitude="67.0"/>
+   <mountain-tuple name="Sulitjelma" mountains="MISSING" height="1914.0" type="MISSING" longitude="16.2" latitude="67.1"/>
+   <mountain-tuple name="Galdhoeppig" mountains="MISSING" height="2469.0" type="MISSING" longitude="8.0" latitude="61.4"/>
+   <mountain-tuple name="Jostedalsbre" mountains="MISSING" height="2083.0" type="MISSING" longitude="5.5" latitude="61.4"/>
+   <mountain-tuple name="Glittertind" mountains="MISSING" height="2452.0" type="MISSING" longitude="8.1" latitude="61.4"/>
+   <mountain-tuple name="Joekul" mountains="MISSING" height="1876.0" type="MISSING" longitude="7.2" latitude="60.3"/>
+   <mountain-tuple name="Snoehetta" mountains="MISSING" height="2286.0" type="MISSING" longitude="9.0" latitude="62.1"/>
+   <mountain-tuple name="Ben Nevis" mountains="Grampians" height="1344.0" type="MISSING" longitude="-5.0" latitude="56.8"/>
+   <mountain-tuple name="Feldberg" mountains="Schwarzwald" height="1493.0" type="MISSING" longitude="7.5" latitude="47.5"/>
+   <mountain-tuple name="Brocken" mountains="Harz" height="1141.0" type="MISSING" longitude="10.6" latitude="51.8"/>
+   <mountain-tuple name="Grosser Arber" mountains="Bayrischer Wald" height="1456.0" type="MISSING" longitude="13.0" latitude="49.1"/>
+   <mountain-tuple name="Zugspitze" mountains="Alps" height="2963.0" type="MISSING" longitude="11.1" latitude="47.3"/>
+   <mountain-tuple name="Mont Blanc" mountains="Alps" height="4808.0" type="MISSING" longitude="6.8" latitude="45.8"/>
+   <mountain-tuple name="Barre des Ecrins" mountains="Alps" height="4101.0" type="MISSING" longitude="6.3" latitude="44.9"/>
+   <mountain-tuple name="GrandCombin" mountains="Alps" height="4314.0" type="MISSING" longitude="7.3" latitude="45.9"/>
+   <mountain-tuple name="Matterhorn" mountains="Alps" height="4478.0" type="MISSING" longitude="7.56" latitude="46.0"/>
+   <mountain-tuple name="Monte Rosa" mountains="Alps" height="4634.0" type="MISSING" longitude="7.9" latitude="45.9"/>
+   <mountain-tuple name="Finsteraarhorn" mountains="Alps" height="4274.0" type="MISSING" longitude="8.1" latitude="46.5"/>
+   <mountain-tuple name="GranParadiso" mountains="Alps" height="4061.0" type="MISSING" longitude="7.25" latitude="45.5"/>
+   <mountain-tuple name="Piz Bernina" mountains="Alps" height="4048.0" type="MISSING" longitude="9.9" latitude="46.4"/>
+   <mountain-tuple name="Crap_Sogn_Gion" mountains="Alps" height="2228.0" type="MISSING" longitude="9.2" latitude="46.85"/>
+   <mountain-tuple name="Marmolata" mountains="Alps" height="3343.0" type="MISSING" longitude="11.85" latitude="46.4"/>
+   <mountain-tuple name="Grossglockner" mountains="Alps" height="3797.0" type="MISSING" longitude="12.5" latitude="47.0"/>
+   <mountain-tuple name="Hochgolling" mountains="Alps" height="2862.0" type="MISSING" longitude="13.75" latitude="47.3"/>
+   <mountain-tuple name="Grand Ballon" mountains="Vosges" height="1424.0" type="MISSING" longitude="7.1" latitude="47.9"/>
+   <mountain-tuple name="Puy De Dome" mountains="Cevennes" height="1465.0" type="volcanic" longitude="3.0" latitude="45.8"/>
+   <mountain-tuple name="Puy de Sancy" mountains="Cevennes" height="1885.0" type="volcanic" longitude="2.8" latitude="45.5"/>
+   <mountain-tuple name="Vignemale" mountains="Pyrenees" height="3298.0" type="MISSING" longitude="0.15" latitude="42.8"/>
+   <mountain-tuple name="Pico de Aneto" mountains="Pyrenees" height="3404.0" type="MISSING" longitude="0.65" latitude="42.6"/>
+   <mountain-tuple name="Torre de Cerredo" mountains="Cordillera Cantabrica" height="2648.0" type="MISSING" longitude="4.85" latitude="43.2"/>
+   <mountain-tuple name="Pico de Almanzor" mountains="Cordillera Central" height="2648.0" type="MISSING" longitude="-5.3" latitude="40.25"/>
+   <mountain-tuple name="Moncayo" mountains="Cordillera Iberica" height="2313.0" type="MISSING" longitude="1.85" latitude="41.8"/>
+   <mountain-tuple name="Mulhacen" mountains="Cordillera Betica" height="3482.0" type="MISSING" longitude="3.3" latitude="37.0"/>
+   <mountain-tuple name="Torre de Estrela" mountains="Cordillera Central" height="1993.0" type="MISSING" longitude="-7.6" latitude="40.3"/>
+   <mountain-tuple name="Monte Cinto" mountains="Corse" height="2706.0" type="MISSING" longitude="8.9" latitude="42.4"/>
+   <mountain-tuple name="Gran Sasso" mountains="Apennin" height="2912.0" type="MISSING" longitude="13.55" latitude="42.5"/>
+   <mountain-tuple name="Monte Falterona" mountains="Apennin" height="1654.0" type="MISSING" longitude="11.7" latitude="43.9"/>
+   <mountain-tuple name="Vesuv" mountains="MISSING" height="1281.0" type="volcano" longitude="14.4" latitude="40.8"/>
+   <mountain-tuple name="Etna" mountains="MISSING" height="3323.0" type="volcano" longitude="15.0" latitude="37.7"/>
+   <mountain-tuple name="Schneekoppe" mountains="Sudety Mountains" height="1602.0" type="MISSING" longitude="15.7" latitude="50.7"/>
+   <mountain-tuple name="GerlachovskyStit" mountains="Beskides" height="2655.0" type="MISSING" longitude="20.1" latitude="49.2"/>
+   <mountain-tuple name="Moldoveanu" mountains="Karpaten" height="2544.0" type="MISSING" longitude="24.7" latitude="45.6"/>
+   <mountain-tuple name="Musala" mountains="Balkan" height="2925.0" type="MISSING" longitude="23.6" latitude="42.2"/>
+   <mountain-tuple name="Jezerce" mountains="Balkan" height="2694.0" type="MISSING" longitude="19.4" latitude="42.3"/>
+   <mountain-tuple name="Korab" mountains="Balkan" height="2751.0" type="MISSING" longitude="20.3" latitude="41.4"/>
+   <mountain-tuple name="Olymp" mountains="MISSING" height="2917.0" type="MISSING" longitude="22.35" latitude="40.1"/>
+   <mountain-tuple name="Psiloritis" mountains="Crete" height="2456.0" type="MISSING" longitude="24.7" latitude="35.2"/>
+   <mountain-tuple name="Olympos" mountains="Troodos" height="1952.0" type="MISSING" longitude="32.85" latitude="34.9"/>
+   <mountain-tuple name="Pico de Teide" mountains="Canary Islands" height="3718.0" type="volcano" longitude="-16.6" latitude="28.3"/>
+   <mountain-tuple name="Pico de los Nieves" mountains="Canary Islands" height="1949.0" type="volcano" longitude="-15.6" latitude="25.95"/>
+   <mountain-tuple name="Roque de los Muchachos" mountains="Canary Islands" height="2426.0" type="volcano" longitude="-17.9" latitude="28.75"/>
+   <mountain-tuple name="Pico Ruivo" mountains="Madeira" height="1861.0" type="volcanic" longitude="-16.0" latitude="31.0"/>
+   <mountain-tuple name="Pico" mountains="Azores" height="2351.0" type="volcano" longitude="-28.4" latitude="38.5"/>
+   <mountain-tuple name="Fogo" mountains="Cape Verdes" height="2829.0" type="volcano" longitude="-24.4" latitude="14.95"/>
+   <mountain-tuple name="Tubkhal" mountains="Atlas" height="4165.0" type="MISSING" longitude="-8.0" latitude="31.0"/>
+   <mountain-tuple name="Djebel Aures" mountains="Rif" height="2456.0" type="MISSING" longitude="-6.5" latitude="35.5"/>
+   <mountain-tuple name="Tahat" mountains="Ahaggar" height="3003.0" type="volcanic" longitude="5.5" latitude="23.3"/>
+   <mountain-tuple name="Tamgak" mountains="Azbine" height="1800.0" type="volcanic" longitude="9.0" latitude="19.0"/>
+   <mountain-tuple name="Mont Greboun" mountains="Azbine" height="1944.0" type="MISSING" longitude="9.0" latitude="20.0"/>
+   <mountain-tuple name="Emi Kussi" mountains="Tibesti" height="3415.0" type="volcano" longitude="18.5" latitude="20.0"/>
+   <mountain-tuple name="Jabal Marra" mountains="Darfur" height="3088.0" type="volcanic" longitude="24.6" latitude="13.0"/>
+   <mountain-tuple name="Jabal Katrina" mountains="Sinai" height="2637.0" type="MISSING" longitude="33.95" latitude="28.5"/>
+   <mountain-tuple name="Fako" mountains="MISSING" height="4095.0" type="volcano" longitude="9.2" latitude="4.2"/>
+   <mountain-tuple name="Pico Basile" mountains="MISSING" height="3011.0" type="volcano" longitude="8.7" latitude="3.5"/>
+   <mountain-tuple name="Pico de Sao Tome" mountains="MISSING" height="2024.0" type="volcanic" longitude="6.6" latitude="0.2"/>
+   <mountain-tuple name="Queen Marys Peak" mountains="MISSING" height="2060.0" type="volcano" longitude="-12.3" latitude="-37.1"/>
+   <mountain-tuple name="Ras Daschan Terara" mountains="Amhara" height="4533.0" type="volcanic" longitude="38.4" latitude="13.2"/>
+   <mountain-tuple name="Ruwenzori" mountains="East African Rift" height="5109.0" type="MISSING" longitude="29.9" latitude="0.4"/>
+   <mountain-tuple name="Elgon" mountains="East African Rift" height="4321.0" type="volcanic" longitude="34.55" latitude="1.1"/>
+   <mountain-tuple name="Kenia" mountains="East African Rift" height="5199.0" type="volcanic" longitude="37.3" latitude="0.15"/>
+   <mountain-tuple name="Kilimanjaro" mountains="East African Rift" height="5895.0" type="volcano" longitude="37.35" latitude="-3.05"/>
+   <mountain-tuple name="Mawenzi" mountains="East African Rift" height="5148.0" type="volcano" longitude="37.45" latitude="-3.1"/>
+   <mountain-tuple name="Meru" mountains="East African Rift" height="4567.0" type="volcano" longitude="36.8" latitude="-3.2"/>
+   <mountain-tuple name="Karisimbi" mountains="East African Rift" height="4507.0" type="volcano" longitude="29.45" latitude="-1.5"/>
+   <mountain-tuple name="Thabana Ntlenyana" mountains="Drakensberge" height="3482.0" type="MISSING" longitude="29.3" latitude="-29.5"/>
+   <mountain-tuple name="Cathkin Peak" mountains="Drakensberge" height="3181.0" type="MISSING" longitude="29.35" latitude="-29.1"/>
+   <mountain-tuple name="Tsaratanana" mountains="MISSING" height="2876.0" type="volcanic" longitude="48.5" latitude="-14.0"/>
+   <mountain-tuple name="Tsiafajavona" mountains="MISSING" height="2642.0" type="volcanic" longitude="47.2" latitude="-19.3"/>
+   <mountain-tuple name="Andringitra" mountains="MISSING" height="2658.0" type="volcanic" longitude="47.0" latitude="-22.5"/>
+   <mountain-tuple name="Piton des Neiges" mountains="MISSING" height="3069.0" type="volcanic" longitude="55.5" latitude="-21.1"/>
+   <mountain-tuple name="Piton de la Fournaise" mountains="MISSING" height="2631.0" type="volcano" longitude="55.7" latitude="-21.2"/>
+   <mountain-tuple name="Narodnaja" mountains="Ural" height="1895.0" type="MISSING" longitude="60.1" latitude="65.0"/>
+   <mountain-tuple name="Demirkazik" mountains="Taurus" height="3756.0" type="MISSING" longitude="35.2" latitude="37.8"/>
+   <mountain-tuple name="Ararat" mountains="Kurdistan" height="5165.0" type="volcanic" longitude="44.3" latitude="39.7"/>
+   <mountain-tuple name="Jabal Lubnan" mountains="Lebanon" height="3088.0" type="MISSING" longitude="36.1" latitude="34.3"/>
+   <mountain-tuple name="Elbrus" mountains="Kaukasus" height="5642.0" type="volcanic" longitude="42.26" latitude="43.21"/>
+   <mountain-tuple name="Kasbek" mountains="Kaukasus" height="5033.0" type="volcanic" longitude="44.31" latitude="42.42"/>
+   <mountain-tuple name="Damavand" mountains="Elburs" height="5610.0" type="volcano" longitude="52.1" latitude="35.95"/>
+   <mountain-tuple name="Sabalan" mountains="Kurdistan" height="4811.0" type="volcanic" longitude="47.8" latitude="38.3"/>
+   <mountain-tuple name="Zard Kuh" mountains="Zagros" height="4550.0" type="MISSING" longitude="50.1" latitude="32.35"/>
+   <mountain-tuple name="Jabal Shuayb" mountains="MISSING" height="3760.0" type="MISSING" longitude="44.0" latitude="15.5"/>
+   <mountain-tuple name="Dodabetta" mountains="West Ghats" height="2636.0" type="MISSING" longitude="76.7" latitude="11.4"/>
+   <mountain-tuple name="Pidurutalagala" mountains="MISSING" height="2524.0" type="MISSING" longitude="80.8" latitude="7.0"/>
+   <mountain-tuple name="Zhima" mountains="MISSING" height="1276.0" type="MISSING" longitude="107.4" latitude="53.15"/>
+   <mountain-tuple name="Bjelucha" mountains="Altai" height="4506.0" type="MISSING" longitude="86.4" latitude="49.48"/>
+   <mountain-tuple name="Pik Chan-Tengri" mountains="Tien Shan" height="6995.0" type="MISSING" longitude="80.0" latitude="43.0"/>
+   <mountain-tuple name="Pik Pobeda" mountains="Tien Shan" height="7439.0" type="MISSING" longitude="80.1" latitude="42.0"/>
+   <mountain-tuple name="Pik Kommunizma" mountains="Pamir" height="7494.0" type="MISSING" longitude="72.0" latitude="39.0"/>
+   <mountain-tuple name="Pik Lenina" mountains="Pamir" height="7134.0" type="MISSING" longitude="72.55" latitude="39.2"/>
+   <mountain-tuple name="Pik Revoluzija" mountains="Pamir" height="6974.0" type="MISSING" longitude="72.2" latitude="38.3"/>
+   <mountain-tuple name="Pik Moskva" mountains="Pamir" height="6785.0" type="MISSING" longitude="71.5" latitude="39.0"/>
+   <mountain-tuple name="Pik Karl-Marx" mountains="Pamir" height="6726.0" type="MISSING" longitude="71.3" latitude="38.0"/>
+   <mountain-tuple name="Tirich Mir" mountains="Hindukusch" height="7690.0" type="MISSING" longitude="71.8" latitude="36.25"/>
+   <mountain-tuple name="K2" mountains="Karakorum" height="8611.0" type="MISSING" longitude="76.5" latitude="35.9"/>
+   <mountain-tuple name="Gasherbrum II" mountains="Karakorum" height="8034.0" type="MISSING" longitude="76.65" latitude="35.75"/>
+   <mountain-tuple name="Gasherbrum I" mountains="Karakorum" height="8080.0" type="MISSING" longitude="76.7" latitude="35.6"/>
+   <mountain-tuple name="Broad Peak" mountains="Karakorum" height="8051.0" type="MISSING" longitude="76.6" latitude="35.8"/>
+   <mountain-tuple name="Nanga Parbat" mountains="Karakorum" height="8125.0" type="MISSING" longitude="74.6" latitude="35.2"/>
+   <mountain-tuple name="Nanda Devi" mountains="Himalaya" height="7816.0" type="MISSING" longitude="80.0" latitude="30.4"/>
+   <mountain-tuple name="Dhaulagiri" mountains="Himalaya" height="8167.0" type="MISSING" longitude="83.5" latitude="28.7"/>
+   <mountain-tuple name="Annapurna" mountains="Himalaya" height="8091.0" type="MISSING" longitude="83.8" latitude="28.6"/>
+   <mountain-tuple name="Manaslu" mountains="Himalaya" height="8163.0" type="MISSING" longitude="84.6" latitude="28.55"/>
+   <mountain-tuple name="Shishapangma" mountains="Himalaya" height="8027.0" type="MISSING" longitude="85.8" latitude="28.55"/>
+   <mountain-tuple name="Kailash" mountains="Transhimalaya" height="6714.0" type="MISSING" longitude="81.3" latitude="31.05"/>
+   <mountain-tuple name="Cho Oyu" mountains="Himalaya" height="8188.0" type="MISSING" longitude="86.65" latitude="28.35"/>
+   <mountain-tuple name="Mount Everest" mountains="Himalaya" height="8848.0" type="MISSING" longitude="86.9" latitude="28.0"/>
+   <mountain-tuple name="Lhotse" mountains="Himalaya" height="8516.0" type="MISSING" longitude="86.9" latitude="28.0"/>
+   <mountain-tuple name="Makalu" mountains="Himalaya" height="8485.0" type="MISSING" longitude="87.1" latitude="27.9"/>
+   <mountain-tuple name="Kangchendzonga" mountains="Himalaya" height="8586.0" type="MISSING" longitude="88.1" latitude="27.7"/>
+   <mountain-tuple name="Kljutschewskaja Sopka" mountains="Kamchatka" height="4750.0" type="volcano" longitude="160.6" latitude="56.1"/>
+   <mountain-tuple name="Changbai Shan" mountains="Changbai" height="2744.0" type="MISSING" longitude="128.1" latitude="42.0"/>
+   <mountain-tuple name="Asahi-Dake" mountains="MISSING" height="2290.0" type="volcanic" longitude="142.85" latitude="43.65"/>
+   <mountain-tuple name="Fujisan" mountains="MISSING" height="3776.0" type="volcano" longitude="139.0" latitude="35.0"/>
+   <mountain-tuple name="Hotaka-Dake" mountains="MISSING" height="3190.0" type="volcano" longitude="138.0" latitude="36.0"/>
+   <mountain-tuple name="Yu Shan" mountains="MISSING" height="3950.0" type="MISSING" longitude="121.0" latitude="23.5"/>
+   <mountain-tuple name="Pulog" mountains="MISSING" height="2928.0" type="volcanic" longitude="121.0" latitude="17.0"/>
+   <mountain-tuple name="Pinatubo" mountains="MISSING" height="1486.0" type="volcano" longitude="120.3" latitude="15.1"/>
+   <mountain-tuple name="Mount Apo" mountains="MISSING" height="2954.0" type="volcanic" longitude="125.45" latitude="7.0"/>
+   <mountain-tuple name="Kanlaon" mountains="MISSING" height="2435.0" type="volcano" longitude="123.1" latitude="10.4"/>
+   <mountain-tuple name="Mantalingajan" mountains="MISSING" height="2085.0" type="volcanic" longitude="118.4" latitude="9.7"/>
+   <mountain-tuple name="Kinabalu" mountains="MISSING" height="4101.0" type="granite" longitude="116.5" latitude="6.1"/>
+   <mountain-tuple name="Tahan" mountains="MISSING" height="2190.0" type="MISSING" longitude="108.0" latitude="4.0"/>
+   <mountain-tuple name="Leuser" mountains="MISSING" height="3466.0" type="volcanic" longitude="98.0" latitude="3.0"/>
+   <mountain-tuple name="Kerinci" mountains="MISSING" height="3805.0" type="volcano" longitude="101.45" latitude="-1.7"/>
+   <mountain-tuple name="Krakatau" mountains="MISSING" height="813.0" type="volcano" longitude="105.4" latitude="-6.1"/>
+   <mountain-tuple name="Merapi" mountains="MISSING" height="2914.0" type="volcano" longitude="110.4" latitude="-7.5"/>
+   <mountain-tuple name="Semeru" mountains="MISSING" height="3676.0" type="volcano" longitude="112.9" latitude="-8.1"/>
+   <mountain-tuple name="Gunung Agung" mountains="MISSING" height="3142.0" type="volcano" longitude="115.5" latitude="-8.3"/>
+   <mountain-tuple name="Rinjani" mountains="MISSING" height="3726.0" type="volcano" longitude="116.5" latitude="-8.4"/>
+   <mountain-tuple name="Tambora" mountains="MISSING" height="2850.0" type="volcano" longitude="118.0" latitude="-8.2"/>
+   <mountain-tuple name="Rantekombola" mountains="MISSING" height="3455.0" type="volcanic" longitude="120.0" latitude="-3.6"/>
+   <mountain-tuple name="Tatamailau" mountains="MISSING" height="2963.0" type="MISSING" longitude="125.5" latitude="-8.9"/>
+   <mountain-tuple name="Gunung Binaiya" mountains="MISSING" height="3027.0" type="MISSING" longitude="129.3" latitude="-3.1"/>
+   <mountain-tuple name="Puncak Jaya" mountains="Sudirman Range" height="4884.0" type="MISSING" longitude="137.11" latitude="-4.1"/>
+   <mountain-tuple name="Mt. Wilhelm" mountains="MISSING" height="4509.0" type="MISSING" longitude="145.0" latitude="-5.8"/>
+   <mountain-tuple name="Mt. Giluwe" mountains="MISSING" height="4368.0" type="volcano" longitude="143.9" latitude="-6.05"/>
+   <mountain-tuple name="Mt. Balbi" mountains="MISSING" height="2715.0" type="volcanic" longitude="155.0" latitude="-5.9"/>
+   <mountain-tuple name="Mt.Victoria" mountains="MISSING" height="1323.0" type="volcanic" longitude="178.0" latitude="-17.8"/>
+   <mountain-tuple name="Silisili" mountains="MISSING" height="1858.0" type="volcanic" longitude="-172.4" latitude="-13.6"/>
+   <mountain-tuple name="Mont Orohena" mountains="MISSING" height="2241.0" type="volcanic" longitude="-149.5" latitude="-17.6"/>
+   <mountain-tuple name="Popomanaseu" mountains="MISSING" height="2335.0" type="volcanic" longitude="160.1" latitude="-9.7"/>
+   <mountain-tuple name="Mauna Kea" mountains="Hawaii" height="4214.0" type="volcano" longitude="-155.45" latitude="19.6"/>
+   <mountain-tuple name="Mauna Loa" mountains="Hawaii" height="4170.0" type="volcano" longitude="-155.6" latitude="19.5"/>
+   <mountain-tuple name="Haleakala" mountains="Hawaii" height="3055.0" type="volcano" longitude="-156.25" latitude="20.7"/>
+   <mountain-tuple name="Mt. Kosciuszko" mountains="Snowy Mountains" height="2228.0" type="MISSING" longitude="148.0" latitude="-36.5"/>
+   <mountain-tuple name="Mt. Bogong" mountains="Snowy Mountains" height="1986.0" type="MISSING" longitude="147.5" latitude="-37.0"/>
+   <mountain-tuple name="Uluru" mountains="MISSING" height="869.0" type="monolith" longitude="131.0" latitude="-25.3"/>
+   <mountain-tuple name="Mt. Cook" mountains="New Zealand Alps" height="3754.0" type="MISSING" longitude="170.2" latitude="-43.6"/>
+   <mountain-tuple name="Ruapehu" mountains="MISSING" height="2797.0" type="volcano" longitude="175.6" latitude="-39.3"/>
+   <mountain-tuple name="Mt Redoubt" mountains="Aleutian Range" height="3108.0" type="volcano" longitude="-152.75" latitude="60.5"/>
+   <mountain-tuple name="Mt McKinley" mountains="Alaska Range" height="6193.0" type="MISSING" longitude="-151.0" latitude="63.1"/>
+   <mountain-tuple name="Mt Blackburn" mountains="Wrangell Mountains" height="4996.0" type="volcano" longitude="-143.4" latitude="61.7"/>
+   <mountain-tuple name="Mt Bona" mountains="Elias Range" height="5005.0" type="MISSING" longitude="-141.75" latitude="61.4"/>
+   <mountain-tuple name="Mt St.Elias" mountains="Elias Range" height="5489.0" type="MISSING" longitude="-140.9" latitude="60.3"/>
+   <mountain-tuple name="Mt Logan" mountains="Elias Range" height="5959.0" type="MISSING" longitude="-140.4" latitude="60.6"/>
+   <mountain-tuple name="Mt Fairweather" mountains="Elias Range" height="4663.0" type="MISSING" longitude="-137.5" latitude="58.9"/>
+   <mountain-tuple name="Mt Waddington" mountains="Coast Mountains" height="4019.0" type="MISSING" longitude="-125.26" latitude="51.4"/>
+   <mountain-tuple name="Mt Robson" mountains="Rocky Mountains" height="3954.0" type="MISSING" longitude="-119.1" latitude="52.3"/>
+   <mountain-tuple name="Mt Columbia" mountains="Rocky Mountains" height="3747.0" type="MISSING" longitude="-117.44" latitude="52.15"/>
+   <mountain-tuple name="Barbeau Peak" mountains="British Empire Range" height="2616.0" type="MISSING" longitude="-75.0" latitude="81.9"/>
+   <mountain-tuple name="Mt. Odin" mountains="Penny Highlands" height="2147.0" type="MISSING" longitude="-65.6" latitude="66.55"/>
+   <mountain-tuple name="Mt. Babel" mountains="MISSING" height="952.0" type="MISSING" longitude="-68.7" latitude="51.45"/>
+   <mountain-tuple name="Granite Peak" mountains="Rocky Mountains" height="3901.0" type="MISSING" longitude="-109.5" latitude="45.0"/>
+   <mountain-tuple name="Borah Peak" mountains="Rocky Mountains" height="3859.0" type="MISSING" longitude="-113.8" latitude="44.1"/>
+   <mountain-tuple name="Harney Peak" mountains="Rocky Mountains" height="2207.0" type="MISSING" longitude="-103.4" latitude="44.0"/>
+   <mountain-tuple name="Gannett Peak" mountains="Rocky Mountains" height="4207.0" type="MISSING" longitude="-110.0" latitude="43.2"/>
+   <mountain-tuple name="Kings Peak" mountains="Rocky Mountains" height="4123.0" type="MISSING" longitude="-110.4" latitude="40.5"/>
+   <mountain-tuple name="Mt Elbert" mountains="Rocky Mountains" height="4401.0" type="MISSING" longitude="-106.4" latitude="39.1"/>
+   <mountain-tuple name="Pikes Peak" mountains="Rocky Mountains" height="4302.0" type="MISSING" longitude="-105.0" latitude="38.8"/>
+   <mountain-tuple name="Wheeler Peak" mountains="Rocky Mountains" height="4011.0" type="MISSING" longitude="-105.4" latitude="36.55"/>
+   <mountain-tuple name="Humphreys Peak" mountains="Rocky Mountains" height="3850.0" type="volcanic" longitude="-111.65" latitude="35.3"/>
+   <mountain-tuple name="Guadalupe Peak" mountains="Rocky Mountains" height="2667.0" type="MISSING" longitude="-105.0" latitude="32.0"/>
+   <mountain-tuple name="Mt Rainier" mountains="Cascade Range" height="4392.0" type="volcano" longitude="-121.75" latitude="46.5"/>
+   <mountain-tuple name="Mt Adams" mountains="Cascade Range" height="3743.0" type="volcano" longitude="-121.5" latitude="46.2"/>
+   <mountain-tuple name="Mt Hood" mountains="Cascade Range" height="3424.0" type="volcano" longitude="-121.5" latitude="45.2"/>
+   <mountain-tuple name="Mt Whitney" mountains="Sierra Nevada California" height="4418.0" type="MISSING" longitude="-118.2" latitude="36.6"/>
+   <mountain-tuple name="Boundary Peak" mountains="Sierra Nevada California" height="4006.0" type="MISSING" longitude="-118.3" latitude="37.9"/>
+   <mountain-tuple name="Mt Washington" mountains="Appalachen" height="1917.0" type="MISSING" longitude="-71.3" latitude="44.3"/>
+   <mountain-tuple name="Mt Marcy" mountains="Adirondacks" height="1629.0" type="MISSING" longitude="-73.9" latitude="44.1"/>
+   <mountain-tuple name="Mt Mitchell" mountains="Appalachen" height="2037.0" type="MISSING" longitude="-82.1" latitude="35.4"/>
+   <mountain-tuple name="Clingmans Dome" mountains="Appalachen" height="2025.0" type="MISSING" longitude="-83.2" latitude="35.3"/>
+   <mountain-tuple name="Citlaltepetl (Pico de Orizaba)" mountains="Cordillera Volcanica" height="5700.0" type="volcano" longitude="-97.0" latitude="19.0"/>
+   <mountain-tuple name="Popocatepetl" mountains="Cordillera Volcanica" height="5450.0" type="volcano" longitude="-98.0" latitude="19.0"/>
+   <mountain-tuple name="Iztaccihuatl" mountains="Cordillera Volcanica" height="5286.0" type="volcanic" longitude="-98.6" latitude="19.2"/>
+   <mountain-tuple name="Nevado de Toluca" mountains="Cordillera Volcanica" height="4558.0" type="volcano" longitude="-99.0" latitude="19.0"/>
+   <mountain-tuple name="Nevado de Colima" mountains="Cordillera Volcanica" height="4330.0" type="volcano" longitude="-104.0" latitude="20.0"/>
+   <mountain-tuple name="Tajumulco" mountains="Sierra Madre" height="4220.0" type="volcanic" longitude="-91.9" latitude="15.0"/>
+   <mountain-tuple name="Concepcion" mountains="MISSING" height="1700.0" type="volcano" longitude="-85.6" latitude="11.5"/>
+   <mountain-tuple name="Irazu" mountains="Cordillera de Talamanca" height="3432.0" type="volcano" longitude="-83.9" latitude="10.0"/>
+   <mountain-tuple name="Cerro Chirripo" mountains="Cordillera de Talamanca" height="3819.0" type="volcanic" longitude="-83.5" latitude="9.5"/>
+   <mountain-tuple name="Pico Turquino" mountains="Sierra Maestra" height="1974.0" type="MISSING" longitude="-76.8" latitude="20.0"/>
+   <mountain-tuple name="Blue Mountain Peak" mountains="MISSING" height="2256.0" type="MISSING" longitude="-76.4" latitude="18.1"/>
+   <mountain-tuple name="Pico Duarte" mountains="MISSING" height="3098.0" type="MISSING" longitude="-71.3" latitude="18.3"/>
+   <mountain-tuple name="Cerro de Punta" mountains="MISSING" height="1338.0" type="MISSING" longitude="-66.6" latitude="18.2"/>
+   <mountain-tuple name="La Soufriere" mountains="MISSING" height="1467.0" type="volcano" longitude="-61.65" latitude="16.05"/>
+   <mountain-tuple name="Soufriere Hills" mountains="MISSING" height="1050.0" type="volcano" longitude="-62.2" latitude="16.7"/>
+   <mountain-tuple name="Soufriere" mountains="MISSING" height="1220.0" type="volcano" longitude="-61.2" latitude="13.35"/>
+   <mountain-tuple name="Morne Diablotins" mountains="MISSING" height="1447.0" type="volcano" longitude="-61.4" latitude="15.5"/>
+   <mountain-tuple name="Pelee" mountains="MISSING" height="1397.0" type="volcano" longitude="-61.15" latitude="14.8"/>
+   <mountain-tuple name="Pico Cristobal Colon" mountains="Sierra Nevada de Santa Marta" height="5775.0" type="MISSING" longitude="-73.7" latitude="10.85"/>
+   <mountain-tuple name="Pico Bolivar" mountains="Andes" height="4981.0" type="MISSING" longitude="-71.0" latitude="8.6"/>
+   <mountain-tuple name="Nevado del Ruiz" mountains="Andes" height="5389.0" type="volcano" longitude="-75.3" latitude="4.9"/>
+   <mountain-tuple name="Nevado del Huila" mountains="Andes" height="5750.0" type="volcano" longitude="-76.0" latitude="2.9"/>
+   <mountain-tuple name="Cayambe" mountains="Andes" height="5796.0" type="volcano" longitude="-78.0" latitude="0.1"/>
+   <mountain-tuple name="Cotopaxi" mountains="Andes" height="5897.0" type="volcano" longitude="-78.4" latitude="-0.7"/>
+   <mountain-tuple name="Chimborazo" mountains="Andes" height="6287.0" type="volcano" longitude="-78.5" latitude="-1.2"/>
+   <mountain-tuple name="Huascaran" mountains="Cordillera Blanca" height="6768.0" type="MISSING" longitude="-77.3" latitude="-9.0"/>
+   <mountain-tuple name="Alpamayo" mountains="Cordillera Blanca" height="5947.0" type="MISSING" longitude="-77.7" latitude="-8.9"/>
+   <mountain-tuple name="Pico Rocarre" mountains="Cordillera Negra" height="5187.0" type="MISSING" longitude="-78.0" latitude="-8.8"/>
+   <mountain-tuple name="Ausangate" mountains="Cordillera Vilcanota" height="6336.0" type="MISSING" longitude="-71.2" latitude="-13.8"/>
+   <mountain-tuple name="Coropuna" mountains="Cordillera Volcanica" height="6425.0" type="volcano" longitude="-72.65" latitude="-15.5"/>
+   <mountain-tuple name="Ampato" mountains="Andes" height="6288.0" type="volcano" longitude="-71.9" latitude="-15.8"/>
+   <mountain-tuple name="Illampu" mountains="Cordillera Real" height="6368.0" type="granite" longitude="-68.5" latitude="-15.8"/>
+   <mountain-tuple name="Illimani" mountains="Cordillera Real" height="6439.0" type="granite" longitude="-67.8" latitude="-16.65"/>
+   <mountain-tuple name="Sajama" mountains="Andes" height="6542.0" type="volcano" longitude="-68.9" latitude="-18.1"/>
+   <mountain-tuple name="Licancabur" mountains="Andes" height="5920.0" type="volcano" longitude="-67.9" latitude="-22.8"/>
+   <mountain-tuple name="Llullaillaco" mountains="Andes" height="6739.0" type="volcano" longitude="-68.5" latitude="-24.7"/>
+   <mountain-tuple name="Ojos del Salado" mountains="Andes" height="6893.0" type="volcano" longitude="-68.5" latitude="-27.1"/>
+   <mountain-tuple name="Monte Pissis" mountains="Andes" height="6795.0" type="volcanic" longitude="-68.85" latitude="-27.8"/>
+   <mountain-tuple name="Aconcagua" mountains="Andes" height="6962.0" type="MISSING" longitude="-70.0" latitude="-32.65"/>
+   <mountain-tuple name="Tupungato" mountains="Andes" height="6550.0" type="volcano" longitude="-69.87" latitude="-33.35"/>
+   <mountain-tuple name="Pico de Agulhas Negras" mountains="Brazilian Highlands" height="2791.0" type="MISSING" longitude="-44.65" latitude="-22.4"/>
+</mountain>

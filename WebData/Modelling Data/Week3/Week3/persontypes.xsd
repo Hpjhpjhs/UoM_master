@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="PersonList">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="person" type="PersonType" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="PersonType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="DoB" type="xs:date"/>
+        </xs:sequence>
+        <xs:attribute name="friend" type="xs:boolean" default="true"/>
+        <xs:attribute name="phone" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <xs:complexType name="LongPersonType">
+        <xs:complexContent>
+            <xs:extension base="PersonType">
+                <xs:sequence>
+                    <xs:element name="address" type="xs:string"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+</xs:schema> 

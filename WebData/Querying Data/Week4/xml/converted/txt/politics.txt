@@ -1,0 +1,238 @@
+AL|1912-11-28||emerging democracy
+GR|1829-01-01||parliamentary republic
+MK|1991-09-17||emerging democracy
+SRB|2006-06-05||parliamentary democracy
+MNE|2006-06-03||parliamentary democracy
+KOS|2008-02-17||republic
+AND|||parliamentary democracy that retains as its heads of state a coprincipality
+F|||republic
+E|1492-01-01||parliamentary monarchy
+A|1918-11-12||federal republic
+CZ|1993-01-01||parliamentary democracy
+D|1871-01-18||federal republic
+H|1001-01-01||republic
+I|1861-03-17||republic
+FL|1719-01-23||hereditary constitutional monarchy
+SK|1993-01-01||parliamentary democracy
+SLO|1991-06-25||emerging democracy
+CH|||federal republic
+BY|1991-08-25||republic
+LV|1991-09-06||republic
+LT|1991-09-06||republic
+PL|1918-11-11||democratic state
+UA|1991-12-01||republic
+R|1991-08-24||federation
+B|1830-10-04||constitutional monarchy
+L|||constitutional monarchy
+NL|1579-01-01||constitutional monarchy
+BIH|1992-04-01||emerging democracy
+HR|1991-06-25||parliamentary democracy
+BG|1908-09-22||emerging democracy
+RO|1881-01-01||republic
+TR|1923-10-29||republican parliamentary democracy
+DK|||constitutional monarchy
+EW|1991-09-06||republic
+FARX||DK|part of the Danish realm
+SF|1917-12-06||republic
+N|1905-10-26||constitutional monarchy
+S|||constitutional monarchy
+MC|1419-01-01||constitutional monarchy
+GBZ||GB|dependent territory of the UK
+GBG||GB|British crown dependency
+V|1929-02-11||monarchical sacerdotal state
+IS|1944-06-17||republic
+IRL|1921-12-06||republic
+RSM|0301-01-01||republic
+GBJ||GB|British crown dependency
+M|1964-09-21||parliamentary democracy
+GBM||GB|British crown dependency
+MD|1991-08-27||republic
+P|1140-01-01||republic
+SVAX||N|territory of Norway administered by the Ministry of Industry
+GB|1801-01-01||constitutional monarchy
+AFG|1919-08-19||transitional government
+TJ|||Communist state
+IR|1979-04-01||theocratic republic
+PK|1947-08-14||republic
+TAD|1991-09-09||republic
+TM|1991-10-27||republic
+UZB|1991-08-31||republic
+ARM|1918-05-28||republic
+GE|1991-04-09||republic
+AZ|1991-08-30||republic
+BRN|1971-08-15||traditional monarchy
+BD|1971-12-16||republic
+MYA|1948-01-04||military regime
+IND|1947-08-15||federal republic
+BHT|1949-08-08||monarchy
+BRU|1984-01-01||constitutional sultanate
+MAL|1957-08-31||constitutional monarchy
+LAO|1949-07-19||Communist state
+THA|1238-01-01||constitutional monarchy
+K|1949-11-09||multiparty liberal democracy under a constitutional monarchy established in September 1993
+VN|1945-09-02||Communist state
+KAZ|1991-12-16||republic
+NOK|||Communist state
+KGZ|1991-08-31||republic
+HONX||TJ|special administrative area in China
+MACX||TJ|special administrative area in China
+MNG|1921-03-13||republic
+NEP|1768-01-01||parliamentary democracy as of 12 May 1991
+XMAS||AUS|territory of Australia
+COCO||AUS|territory of Australia
+CY|1960-08-16||republic
+GAZA|||
+IL|1948-05-14||republic
+ET|1922-02-28||republic
+RI|1945-08-17||republic
+TL|2002-05-20||parliamentary democracy
+PNG|1975-09-16||parliamentary democracy
+IRQ|1932-10-03||republic
+JOR|1946-05-25||constitutional monarchy
+KWT|1961-06-19||nominal constitutional monarchy
+SA|1932-09-23||monarchy
+SYR|1946-04-17||republic under military regime since March 1963
+RL|1943-11-22||republic
+WEST|||
+J|||constitutional monarchy
+ROK|||republic
+MV|1965-07-26||republic
+OM|1650-01-01||monarchy
+UAE|1971-12-02||federation with specified powers delegated to the UAE central government and other powers reserved to member emirates
+YE|1990-05-22||republic
+RP|1946-07-04||republic
+Q|1971-09-03||traditional monarchy
+SGP|1965-08-09||republic within Commonwealth
+CL|1948-02-04||republic
+RC|||multiparty democratic regime
+AXA||GB|British Overseas Territories
+AG|1981-11-01||parliamentary democracy
+ARU||NL|part of the Dutch realm
+BS|1973-07-10||commonwealth
+BDS|1966-11-30||parliamentary democracy
+BZ|1981-09-21||parliamentary democracy
+GCA|1821-09-15||republic
+MEX|1810-09-16||federal republic operating under a centralized government
+BERM||GB|British Overseas Territories
+BVIR||GB|British Overseas Territories
+CDN|1867-07-01||confederation with parliamentary democracy
+USA|1776-07-04||federal republic
+CAYM||GB|British Overseas Territories
+CR|1821-09-15||democratic republic
+NIC|1821-09-15||republic
+PA|1903-11-03||constitutional republic
+C|1902-05-20||Communist state
+WD|1978-11-03||parliamentary democracy
+DOM|1844-02-27||republic
+RH|1804-01-01||republic
+ES|1821-09-15||republic
+HCA|1821-09-15||republic
+GROX||DK|part of the Danish realm
+WG|1974-02-07||parliamentary democracy
+GUAD||F|overseas department of France
+JA|1962-08-06||parliamentary democracy
+MART||F|overseas department of France
+MNTS||GB|British Overseas Territories
+NA||NL|part of the Dutch realm
+SMAR||F|overseas collectivity of France
+CO|1810-07-20||republic
+PR||USA|commonwealth associated with the US
+KN|1983-09-19||constitutional monarchy
+WL|1979-02-22||parliamentary democracy
+SPMI||F|territorial collectivity of France
+WV|1979-10-27||constitutional monarchy
+TT|1962-08-31||parliamentary democracy
+TUCA||GB|British Overseas Territories
+VIRG|||organized
+AMSA||USA|unincorporated and unorganized territory of the US
+AUS|1901-01-01||federal parliamentary state
+COOK||NZ|self governing parliamentary government in free association with New Zealand
+FJI|1970-10-10||republic
+FPOL||F|overseas territory of France since 1946
+GUAM||USA|organized
+KIR|1979-07-12||republic
+MH|1986-10-21||constitutional government in free association with the US
+FSM|1986-11-03||constitutional government in free association with the US
+NAU|1968-01-31||republic
+NCA||F|overseas territory of France since 1956
+NZ|1907-09-26||parliamentary democracy
+NIUE|1974-10-19||self governing territory in free association with New Zealand
+NORF||AUS|territory of Australia
+NMIS||USA|commonwealth in political union with the US
+PAL|1994-10-01||constitutional government in free association with the US
+PITC||GB|British Overseas Territories
+SLB|1978-07-07||parliamentary democracy
+TO|1970-06-04||hereditary constitutional monarchy
+TUV|1978-10-01||democracy
+VU|1980-07-30||republic
+WAFU||F|overseas territory of France
+WS|1962-01-01||constitutional monarchy under native chief
+RA|1816-07-09||republic
+BOL|1825-08-06||republic
+BR|1822-09-07||federal republic
+RCH|1810-09-18||republic
+PY|1811-05-14||republic
+ROU|1828-08-25||republic
+PE|1821-07-28||republic
+FGU||F|overseas department of France
+GUY|1966-05-26||republic
+SME|1975-11-25||republic
+YV|1811-07-05||republic
+EC|1822-05-24||republic
+FALK||GB|British Overseas Territories
+DZ|1962-07-05||republic
+LAR|1951-12-24||Jamahiriya in theory
+RMM|1960-09-22||republic
+RIM|1960-11-28||republic
+MA|1956-03-02||constitutional monarchy
+RN|1960-08-03||republic
+TN|1956-03-20||republic
+WSA|||legal status of territory and question of sovereignty unresolved
+ANG|1975-11-11||transitional government nominally a multiparty democracy with a strong presidential system
+RCB|1960-08-15||republic
+NAM|1990-03-21||republic
+ZRE|1960-06-30||republic with a strong presidential system
+Z|1964-10-24||republic
+BEN|1960-08-01||republic under multiparty democratic rule dropped Marxism Leninism December 1989
+BF|1960-08-05||parliamentary
+WAN|1960-10-01||military government
+RT|1960-04-27||republic under transition to multiparty democratic rule
+RB|1966-09-30||parliamentary republic
+RSA|1910-05-31||republic
+ZW|1980-04-18||parliamentary democracy
+CI|1960-08-07||republic
+GH|1957-03-06||constitutional democracy
+BI|1962-07-01||republic
+RWA|1962-07-01||republic
+EAT|1964-04-26||republic
+CAM|1960-01-01||unitary republic
+RCA|1960-08-13||republic
+TCH|1960-08-11||republic
+GQ|1968-10-12||republic in transition to multiparty democracy
+G|1960-08-17||republic
+CV|1975-07-05||republic
+SUD|1956-01-01||transitional previously ruling military junta
+COM|1975-07-06||independent republic
+RG|1958-10-02||republic
+LB|||republic
+DJI|1977-06-27||republic
+ER|1993-05-27||transitional government
+ETH|||federal republic
+SP|1960-07-01||none
+EAK|1963-12-12||republic
+WAG|1965-02-18||republic under multiparty democratic rule
+SN|1960-08-20||republic under multiparty democratic rule
+GNB|1974-09-10||republic
+WAL|1961-04-27||constitutional democracy
+EAU|1962-10-09||republic
+LS|1966-10-04||modified constitutional monarchy
+RM|1960-06-26||republic
+MW|1964-07-06||multiparty democracy
+MOC|1975-06-25||republic
+MS|1968-03-12||parliamentary democracy
+MAYO||F|territorial collectivity of France
+SD|1968-09-06||monarchy
+REUN||F|overseas department of France
+HELX||GB|British Overseas Territories
+STP|1975-07-12||republic
+SY|1976-06-29||republic

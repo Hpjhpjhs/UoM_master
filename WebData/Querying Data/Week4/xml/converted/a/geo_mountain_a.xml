@@ -1,0 +1,298 @@
+
+<geo_mountain>
+   <geo_mountain-tuple mountain="Oeraefajoekull" country="IS" province="Iceland"/>
+   <geo_mountain-tuple mountain="Snoefell" country="IS" province="Iceland"/>
+   <geo_mountain-tuple mountain="Haltiatunturi" country="SF" province="Lappia"/>
+   <geo_mountain-tuple mountain="Kebnekaise" country="S" province="Norrbotten"/>
+   <geo_mountain-tuple mountain="Sarektjokko" country="S" province="Norrbotten"/>
+   <geo_mountain-tuple mountain="Portefjaellen" country="S" province="Norrbotten"/>
+   <geo_mountain-tuple mountain="Tarrekaise" country="S" province="Norrbotten"/>
+   <geo_mountain-tuple mountain="Sulitjelma" country="N" province="Nordland"/>
+   <geo_mountain-tuple mountain="Sulitjelma" country="S" province="Norrbotten"/>
+   <geo_mountain-tuple mountain="Galdhoeppig" country="N" province="Oppland"/>
+   <geo_mountain-tuple mountain="Jostedalsbre" country="N" province="Sogn og Fjordane"/>
+   <geo_mountain-tuple mountain="Glittertind" country="N" province="Oppland"/>
+   <geo_mountain-tuple mountain="Joekul" country="N" province="Hordaland"/>
+   <geo_mountain-tuple mountain="Snoehetta" country="N" province="Oppland"/>
+   <geo_mountain-tuple mountain="Ben Nevis" country="GB" province="Highland"/>
+   <geo_mountain-tuple mountain="Feldberg" country="D" province="Baden Wurttemberg"/>
+   <geo_mountain-tuple mountain="Brocken" country="D" province="Sachsen Anhalt"/>
+   <geo_mountain-tuple mountain="Grosser Arber" country="D" province="Bayern"/>
+   <geo_mountain-tuple mountain="Zugspitze" country="D" province="Bayern"/>
+   <geo_mountain-tuple mountain="Zugspitze" country="A" province="Tyrol"/>
+   <geo_mountain-tuple mountain="Mont Blanc" country="F" province="Rhone Alpes"/>
+   <geo_mountain-tuple mountain="Mont Blanc" country="I" province="Valle dAosta"/>
+   <geo_mountain-tuple mountain="Barre des Ecrins" country="F" province="Rhone Alpes"/>
+   <geo_mountain-tuple mountain="GrandCombin" country="CH" province="VS"/>
+   <geo_mountain-tuple mountain="Matterhorn" country="I" province="Valle dAosta"/>
+   <geo_mountain-tuple mountain="Matterhorn" country="CH" province="VS"/>
+   <geo_mountain-tuple mountain="Monte Rosa" country="I" province="Valle dAosta"/>
+   <geo_mountain-tuple mountain="Monte Rosa" country="I" province="Lombardia"/>
+   <geo_mountain-tuple mountain="Monte Rosa" country="CH" province="VS"/>
+   <geo_mountain-tuple mountain="Finsteraarhorn" country="CH" province="BE"/>
+   <geo_mountain-tuple mountain="Finsteraarhorn" country="CH" province="VS"/>
+   <geo_mountain-tuple mountain="GranParadiso" country="I" province="Piemonte"/>
+   <geo_mountain-tuple mountain="GranParadiso" country="I" province="Valle dAosta"/>
+   <geo_mountain-tuple mountain="Piz Bernina" country="I" province="Lombardia"/>
+   <geo_mountain-tuple mountain="Piz Bernina" country="CH" province="GR"/>
+   <geo_mountain-tuple mountain="Crap_Sogn_Gion" country="CH" province="GR"/>
+   <geo_mountain-tuple mountain="Marmolata" country="I" province="Trentino Alto Adige"/>
+   <geo_mountain-tuple mountain="Marmolata" country="I" province="Veneto"/>
+   <geo_mountain-tuple mountain="Grossglockner" country="A" province="Carinthia"/>
+   <geo_mountain-tuple mountain="Hochgolling" country="A" province="Styria"/>
+   <geo_mountain-tuple mountain="Hochgolling" country="A" province="Salzburg"/>
+   <geo_mountain-tuple mountain="Grand Ballon" country="F" province="Alsace"/>
+   <geo_mountain-tuple mountain="Grand Ballon" country="F" province="Lorraine"/>
+   <geo_mountain-tuple mountain="Puy De Dome" country="F" province="Auvergne"/>
+   <geo_mountain-tuple mountain="Puy de Sancy" country="F" province="Auvergne"/>
+   <geo_mountain-tuple mountain="Vignemale" country="F" province="Midi Pyrenees"/>
+   <geo_mountain-tuple mountain="Vignemale" country="E" province="Aragon"/>
+   <geo_mountain-tuple mountain="Pico de Aneto" country="E" province="Aragon"/>
+   <geo_mountain-tuple mountain="Torre de Cerredo" country="E" province="Asturias"/>
+   <geo_mountain-tuple mountain="Torre de Cerredo" country="E" province="Castile and Leon"/>
+   <geo_mountain-tuple mountain="Pico de Almanzor" country="E" province="Castile and Leon"/>
+   <geo_mountain-tuple mountain="Moncayo" country="E" province="Aragon"/>
+   <geo_mountain-tuple mountain="Moncayo" country="E" province="Castile and Leon"/>
+   <geo_mountain-tuple mountain="Mulhacen" country="E" province="Andalusia"/>
+   <geo_mountain-tuple mountain="Torre de Estrela" country="P" province="Guarda"/>
+   <geo_mountain-tuple mountain="Monte Cinto" country="F" province="Corse"/>
+   <geo_mountain-tuple mountain="Gran Sasso" country="I" province="Abruzzo"/>
+   <geo_mountain-tuple mountain="Monte Falterona" country="I" province="Emilia Romagna"/>
+   <geo_mountain-tuple mountain="Monte Falterona" country="I" province="Toscana"/>
+   <geo_mountain-tuple mountain="Vesuv" country="I" province="Campania"/>
+   <geo_mountain-tuple mountain="Etna" country="I" province="Sicilia"/>
+   <geo_mountain-tuple mountain="Schneekoppe" country="CZ" province="Vychodocesky"/>
+   <geo_mountain-tuple mountain="Schneekoppe" country="PL" province="Walbrzyskie"/>
+   <geo_mountain-tuple mountain="GerlachovskyStit" country="SK" province="Slovakia"/>
+   <geo_mountain-tuple mountain="Moldoveanu" country="RO" province="Arges"/>
+   <geo_mountain-tuple mountain="Moldoveanu" country="RO" province="Brasov"/>
+   <geo_mountain-tuple mountain="Moldoveanu" country="RO" province="Sibiu"/>
+   <geo_mountain-tuple mountain="Musala" country="BG" province="Bulgaria"/>
+   <geo_mountain-tuple mountain="Jezerce" country="AL" province="Albania"/>
+   <geo_mountain-tuple mountain="Korab" country="AL" province="Albania"/>
+   <geo_mountain-tuple mountain="Korab" country="MK" province="Macedonia"/>
+   <geo_mountain-tuple mountain="Olymp" country="GR" province="Kedriki Makedhonia"/>
+   <geo_mountain-tuple mountain="Olymp" country="GR" province="Thessalia"/>
+   <geo_mountain-tuple mountain="Psiloritis" country="GR" province="Kriti"/>
+   <geo_mountain-tuple mountain="Olympos" country="CY" province="Cyprus"/>
+   <geo_mountain-tuple mountain="Pico de Teide" country="E" province="Canary Islands"/>
+   <geo_mountain-tuple mountain="Pico de los Nieves" country="E" province="Canary Islands"/>
+   <geo_mountain-tuple mountain="Roque de los Muchachos" country="E" province="Canary Islands"/>
+   <geo_mountain-tuple mountain="Pico Ruivo" country="P" province="Madeira"/>
+   <geo_mountain-tuple mountain="Pico" country="P" province="Azores"/>
+   <geo_mountain-tuple mountain="Fogo" country="CV" province="Cape Verde"/>
+   <geo_mountain-tuple mountain="Tubkhal" country="MA" province="Morocco"/>
+   <geo_mountain-tuple mountain="Djebel Aures" country="MA" province="Morocco"/>
+   <geo_mountain-tuple mountain="Tahat" country="DZ" province="Algeria"/>
+   <geo_mountain-tuple mountain="Tamgak" country="RN" province="Niger"/>
+   <geo_mountain-tuple mountain="Mont Greboun" country="RN" province="Niger"/>
+   <geo_mountain-tuple mountain="Emi Kussi" country="TCH" province="Chad"/>
+   <geo_mountain-tuple mountain="Jabal Marra" country="SUD" province="Darfur"/>
+   <geo_mountain-tuple mountain="Jabal Katrina" country="ET" province="Sina al Janubiyah"/>
+   <geo_mountain-tuple mountain="Fako" country="CAM" province="Sudoueste"/>
+   <geo_mountain-tuple mountain="Pico Basile" country="GQ" province="Equatorial Guinea"/>
+   <geo_mountain-tuple mountain="Pico de Sao Tome" country="STP" province="Sao Tome and Principe"/>
+   <geo_mountain-tuple mountain="Queen Marys Peak" country="HELX" province="Saint Helena"/>
+   <geo_mountain-tuple mountain="Ras Daschan Terara" country="ETH" province="Ethiopia"/>
+   <geo_mountain-tuple mountain="Ruwenzori" country="ZRE" province="Kivu"/>
+   <geo_mountain-tuple mountain="Ruwenzori" country="EAU" province="Uganda"/>
+   <geo_mountain-tuple mountain="Elgon" country="EAK" province="Western"/>
+   <geo_mountain-tuple mountain="Elgon" country="EAU" province="Uganda"/>
+   <geo_mountain-tuple mountain="Kenia" country="EAK" province="Eastern"/>
+   <geo_mountain-tuple mountain="Kilimanjaro" country="EAT" province="Kilimanjaro"/>
+   <geo_mountain-tuple mountain="Mawenzi" country="EAT" province="Kilimanjaro"/>
+   <geo_mountain-tuple mountain="Meru" country="EAT" province="Arusha"/>
+   <geo_mountain-tuple mountain="Karisimbi" country="ZRE" province="Kivu"/>
+   <geo_mountain-tuple mountain="Karisimbi" country="RWA" province="Rwanda"/>
+   <geo_mountain-tuple mountain="Thabana Ntlenyana" country="LS" province="Lesotho"/>
+   <geo_mountain-tuple mountain="Cathkin Peak" country="RSA" province="Kwazulu Natal"/>
+   <geo_mountain-tuple mountain="Tsaratanana" country="RM" province="Antsiranana"/>
+   <geo_mountain-tuple mountain="Tsiafajavona" country="RM" province="Antananarivo"/>
+   <geo_mountain-tuple mountain="Andringitra" country="RM" province="Fianarantsoa"/>
+   <geo_mountain-tuple mountain="Piton des Neiges" country="REUN" province="Reunion"/>
+   <geo_mountain-tuple mountain="Piton de la Fournaise" country="REUN" province="Reunion"/>
+   <geo_mountain-tuple mountain="Narodnaja" country="R" province="Rep. of Komi"/>
+   <geo_mountain-tuple mountain="Demirkazik" country="TR" province="Nigde"/>
+   <geo_mountain-tuple mountain="Ararat" country="TR" province="Agri"/>
+   <geo_mountain-tuple mountain="Jabal Lubnan" country="RL" province="Lebanon"/>
+   <geo_mountain-tuple mountain="Elbrus" country="R" province="Kabardino Balkar Rep."/>
+   <geo_mountain-tuple mountain="Kasbek" country="R" province="Rep. of North Ossetiya"/>
+   <geo_mountain-tuple mountain="Kasbek" country="GE" province="Georgia"/>
+   <geo_mountain-tuple mountain="Damavand" country="IR" province="Mazandaran"/>
+   <geo_mountain-tuple mountain="Sabalan" country="IR" province="Azarbayian e Sharqi"/>
+   <geo_mountain-tuple mountain="Zard Kuh" country="IR" province="Chahar Mahal e Bakhtiari"/>
+   <geo_mountain-tuple mountain="Jabal Shuayb" country="YE" province="Yemen"/>
+   <geo_mountain-tuple mountain="Dodabetta" country="IND" province="Tamil Nadu"/>
+   <geo_mountain-tuple mountain="Pidurutalagala" country="CL" province="Sri Lanka"/>
+   <geo_mountain-tuple mountain="Zhima" country="R" province="Rep. of Buryatiya"/>
+   <geo_mountain-tuple mountain="Bjelucha" country="R" province="Rep. of Altay"/>
+   <geo_mountain-tuple mountain="Bjelucha" country="KAZ" province="Shyghys Qazaqstan"/>
+   <geo_mountain-tuple mountain="Pik Chan-Tengri" country="KGZ" province="Kyrgyzstan"/>
+   <geo_mountain-tuple mountain="Pik Pobeda" country="TJ" province="Xinjiang Uygur"/>
+   <geo_mountain-tuple mountain="Pik Pobeda" country="KGZ" province="Kyrgyzstan"/>
+   <geo_mountain-tuple mountain="Pik Kommunizma" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_mountain-tuple mountain="Pik Lenina" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_mountain-tuple mountain="Pik Lenina" country="KGZ" province="Kyrgyzstan"/>
+   <geo_mountain-tuple mountain="Pik Revoluzija" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_mountain-tuple mountain="Pik Moskva" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_mountain-tuple mountain="Pik Karl-Marx" country="TAD" province="Badakhshoni Kuni"/>
+   <geo_mountain-tuple mountain="Tirich Mir" country="AFG" province="Afghanistan"/>
+   <geo_mountain-tuple mountain="K2" country="TJ" province="Xinjiang Uygur"/>
+   <geo_mountain-tuple mountain="K2" country="PK" province="Pakistan"/>
+   <geo_mountain-tuple mountain="Gasherbrum II" country="TJ" province="Xinjiang Uygur"/>
+   <geo_mountain-tuple mountain="Gasherbrum II" country="PK" province="Pakistan"/>
+   <geo_mountain-tuple mountain="Gasherbrum I" country="TJ" province="Xinjiang Uygur"/>
+   <geo_mountain-tuple mountain="Gasherbrum I" country="PK" province="Pakistan"/>
+   <geo_mountain-tuple mountain="Broad Peak" country="TJ" province="Xinjiang Uygur"/>
+   <geo_mountain-tuple mountain="Broad Peak" country="PK" province="Pakistan"/>
+   <geo_mountain-tuple mountain="Nanga Parbat" country="PK" province="Pakistan"/>
+   <geo_mountain-tuple mountain="Nanda Devi" country="IND" province="Uttar Pradesh"/>
+   <geo_mountain-tuple mountain="Dhaulagiri" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Annapurna" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Manaslu" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Shishapangma" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Kailash" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Cho Oyu" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Cho Oyu" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Mount Everest" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Mount Everest" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Lhotse" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Lhotse" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Makalu" country="TJ" province="Tibet"/>
+   <geo_mountain-tuple mountain="Makalu" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Kangchendzonga" country="IND" province="Sikkim"/>
+   <geo_mountain-tuple mountain="Kangchendzonga" country="NEP" province="Nepal"/>
+   <geo_mountain-tuple mountain="Kljutschewskaja Sopka" country="R" province="Kamchatskaya oblast"/>
+   <geo_mountain-tuple mountain="Changbai Shan" country="TJ" province="Jilin"/>
+   <geo_mountain-tuple mountain="Changbai Shan" country="NOK" province="North Korea"/>
+   <geo_mountain-tuple mountain="Asahi-Dake" country="J" province="Hokkaido"/>
+   <geo_mountain-tuple mountain="Fujisan" country="J" province="Yamanashi"/>
+   <geo_mountain-tuple mountain="Fujisan" country="J" province="Shizuoka"/>
+   <geo_mountain-tuple mountain="Hotaka-Dake" country="J" province="Nagano"/>
+   <geo_mountain-tuple mountain="Hotaka-Dake" country="J" province="Gifu"/>
+   <geo_mountain-tuple mountain="Yu Shan" country="RC" province="Taiwan"/>
+   <geo_mountain-tuple mountain="Pulog" country="RP" province="Philippines"/>
+   <geo_mountain-tuple mountain="Pinatubo" country="RP" province="Philippines"/>
+   <geo_mountain-tuple mountain="Mount Apo" country="RP" province="Philippines"/>
+   <geo_mountain-tuple mountain="Kanlaon" country="RP" province="Philippines"/>
+   <geo_mountain-tuple mountain="Mantalingajan" country="RP" province="Philippines"/>
+   <geo_mountain-tuple mountain="Kinabalu" country="MAL" province="Sabah"/>
+   <geo_mountain-tuple mountain="Tahan" country="MAL" province="Kelantan"/>
+   <geo_mountain-tuple mountain="Tahan" country="MAL" province="Pahang"/>
+   <geo_mountain-tuple mountain="Leuser" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Kerinci" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Krakatau" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Merapi" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Semeru" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Gunung Agung" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Rinjani" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Tambora" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Rantekombola" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Tatamailau" country="TL" province="Timor-Leste"/>
+   <geo_mountain-tuple mountain="Gunung Binaiya" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Puncak Jaya" country="RI" province="Indonesia"/>
+   <geo_mountain-tuple mountain="Mt. Wilhelm" country="PNG" province="Papua New Guinea"/>
+   <geo_mountain-tuple mountain="Mt. Giluwe" country="PNG" province="Papua New Guinea"/>
+   <geo_mountain-tuple mountain="Mt. Balbi" country="PNG" province="Papua New Guinea"/>
+   <geo_mountain-tuple mountain="Mt.Victoria" country="FJI" province="Fiji"/>
+   <geo_mountain-tuple mountain="Silisili" country="WS" province="Samoa"/>
+   <geo_mountain-tuple mountain="Mont Orohena" country="FPOL" province="French Polynesia"/>
+   <geo_mountain-tuple mountain="Popomanaseu" country="SLB" province="Solomon Islands"/>
+   <geo_mountain-tuple mountain="Mauna Kea" country="USA" province="Hawaii"/>
+   <geo_mountain-tuple mountain="Mauna Loa" country="USA" province="Hawaii"/>
+   <geo_mountain-tuple mountain="Haleakala" country="USA" province="Hawaii"/>
+   <geo_mountain-tuple mountain="Mt. Kosciuszko" country="AUS" province="New South Wales"/>
+   <geo_mountain-tuple mountain="Mt. Bogong" country="AUS" province="Victoria"/>
+   <geo_mountain-tuple mountain="Uluru" country="AUS" province="Northern Territory"/>
+   <geo_mountain-tuple mountain="Mt. Cook" country="NZ" province="New Zealand"/>
+   <geo_mountain-tuple mountain="Ruapehu" country="NZ" province="New Zealand"/>
+   <geo_mountain-tuple mountain="Mt Redoubt" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt McKinley" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt Blackburn" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt Bona" country="CDN" province="Saskatchewan"/>
+   <geo_mountain-tuple mountain="Mt Bona" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt St.Elias" country="CDN" province="Yukon Territory"/>
+   <geo_mountain-tuple mountain="Mt St.Elias" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt Logan" country="CDN" province="Yukon Territory"/>
+   <geo_mountain-tuple mountain="Mt Fairweather" country="CDN" province="British Columbia"/>
+   <geo_mountain-tuple mountain="Mt Fairweather" country="USA" province="Alaska"/>
+   <geo_mountain-tuple mountain="Mt Waddington" country="CDN" province="British Columbia"/>
+   <geo_mountain-tuple mountain="Mt Robson" country="CDN" province="British Columbia"/>
+   <geo_mountain-tuple mountain="Mt Columbia" country="CDN" province="Alberta"/>
+   <geo_mountain-tuple mountain="Mt Columbia" country="CDN" province="British Columbia"/>
+   <geo_mountain-tuple mountain="Barbeau Peak" country="CDN" province="Northwest Territories"/>
+   <geo_mountain-tuple mountain="Mt. Odin" country="CDN" province="Northwest Territories"/>
+   <geo_mountain-tuple mountain="Mt. Babel" country="CDN" province="Quebec"/>
+   <geo_mountain-tuple mountain="Granite Peak" country="USA" province="Montana"/>
+   <geo_mountain-tuple mountain="Borah Peak" country="USA" province="Idaho"/>
+   <geo_mountain-tuple mountain="Harney Peak" country="USA" province="South Dakota"/>
+   <geo_mountain-tuple mountain="Gannett Peak" country="USA" province="Wyoming"/>
+   <geo_mountain-tuple mountain="Kings Peak" country="USA" province="Utah"/>
+   <geo_mountain-tuple mountain="Mt Elbert" country="USA" province="Colorado"/>
+   <geo_mountain-tuple mountain="Pikes Peak" country="USA" province="Colorado"/>
+   <geo_mountain-tuple mountain="Wheeler Peak" country="USA" province="New Mexico"/>
+   <geo_mountain-tuple mountain="Humphreys Peak" country="USA" province="Arizona"/>
+   <geo_mountain-tuple mountain="Guadalupe Peak" country="USA" province="Texas"/>
+   <geo_mountain-tuple mountain="Mt Rainier" country="USA" province="Washington"/>
+   <geo_mountain-tuple mountain="Mt Adams" country="USA" province="Washington"/>
+   <geo_mountain-tuple mountain="Mt Hood" country="USA" province="Oregon"/>
+   <geo_mountain-tuple mountain="Mt Whitney" country="USA" province="California"/>
+   <geo_mountain-tuple mountain="Boundary Peak" country="USA" province="California"/>
+   <geo_mountain-tuple mountain="Boundary Peak" country="USA" province="Nevada"/>
+   <geo_mountain-tuple mountain="Mt Washington" country="USA" province="New Hampshire"/>
+   <geo_mountain-tuple mountain="Mt Marcy" country="USA" province="New York"/>
+   <geo_mountain-tuple mountain="Mt Mitchell" country="USA" province="North Carolina"/>
+   <geo_mountain-tuple mountain="Clingmans Dome" country="USA" province="Tennessee"/>
+   <geo_mountain-tuple mountain="Citlaltepetl (Pico de Orizaba)" country="MEX" province="Puebla"/>
+   <geo_mountain-tuple mountain="Citlaltepetl (Pico de Orizaba)" country="MEX" province="Veracruz"/>
+   <geo_mountain-tuple mountain="Popocatepetl" country="MEX" province="Mexico, Estado de"/>
+   <geo_mountain-tuple mountain="Popocatepetl" country="MEX" province="Morelos"/>
+   <geo_mountain-tuple mountain="Popocatepetl" country="MEX" province="Puebla"/>
+   <geo_mountain-tuple mountain="Iztaccihuatl" country="MEX" province="Puebla"/>
+   <geo_mountain-tuple mountain="Nevado de Toluca" country="MEX" province="Mexico, Estado de"/>
+   <geo_mountain-tuple mountain="Nevado de Colima" country="MEX" province="Jalisco"/>
+   <geo_mountain-tuple mountain="Tajumulco" country="GCA" province="Guatemala"/>
+   <geo_mountain-tuple mountain="Concepcion" country="NIC" province="Nicaragua"/>
+   <geo_mountain-tuple mountain="Irazu" country="CR" province="Cartago"/>
+   <geo_mountain-tuple mountain="Cerro Chirripo" country="CR" province="Cartago"/>
+   <geo_mountain-tuple mountain="Cerro Chirripo" country="CR" province="Limon"/>
+   <geo_mountain-tuple mountain="Pico Turquino" country="C" province="Granma"/>
+   <geo_mountain-tuple mountain="Pico Turquino" country="C" province="Santiago de Cuba"/>
+   <geo_mountain-tuple mountain="Blue Mountain Peak" country="JA" province="Jamaica"/>
+   <geo_mountain-tuple mountain="Pico Duarte" country="DOM" province="Dominican Republic"/>
+   <geo_mountain-tuple mountain="Cerro de Punta" country="PR" province="Puerto Rico"/>
+   <geo_mountain-tuple mountain="La Soufriere" country="GUAD" province="Guadeloupe"/>
+   <geo_mountain-tuple mountain="Soufriere Hills" country="MNTS" province="Montserrat"/>
+   <geo_mountain-tuple mountain="Soufriere" country="WV" province="Saint Vincent and the Grenadines"/>
+   <geo_mountain-tuple mountain="Morne Diablotins" country="WD" province="Dominica"/>
+   <geo_mountain-tuple mountain="Pelee" country="MART" province="Martinique"/>
+   <geo_mountain-tuple mountain="Pico Cristobal Colon" country="CO" province="Magdalena"/>
+   <geo_mountain-tuple mountain="Pico Bolivar" country="YV" province="Merida"/>
+   <geo_mountain-tuple mountain="Nevado del Ruiz" country="CO" province="Choco"/>
+   <geo_mountain-tuple mountain="Nevado del Ruiz" country="CO" province="Risaralda"/>
+   <geo_mountain-tuple mountain="Nevado del Huila" country="CO" province="Huila"/>
+   <geo_mountain-tuple mountain="Cayambe" country="EC" province="Ecuador"/>
+   <geo_mountain-tuple mountain="Cotopaxi" country="EC" province="Ecuador"/>
+   <geo_mountain-tuple mountain="Chimborazo" country="EC" province="Ecuador"/>
+   <geo_mountain-tuple mountain="Huascaran" country="PE" province="Ancash"/>
+   <geo_mountain-tuple mountain="Alpamayo" country="PE" province="Ancash"/>
+   <geo_mountain-tuple mountain="Pico Rocarre" country="PE" province="Ancash"/>
+   <geo_mountain-tuple mountain="Ausangate" country="PE" province="Cuzco"/>
+   <geo_mountain-tuple mountain="Coropuna" country="PE" province="Arequipa"/>
+   <geo_mountain-tuple mountain="Ampato" country="PE" province="Arequipa"/>
+   <geo_mountain-tuple mountain="Illampu" country="BOL" province="Bolivia"/>
+   <geo_mountain-tuple mountain="Illimani" country="BOL" province="Bolivia"/>
+   <geo_mountain-tuple mountain="Sajama" country="BOL" province="Bolivia"/>
+   <geo_mountain-tuple mountain="Licancabur" country="BOL" province="Bolivia"/>
+   <geo_mountain-tuple mountain="Licancabur" country="RCH" province="Chile"/>
+   <geo_mountain-tuple mountain="Llullaillaco" country="RA" province="Tucuman"/>
+   <geo_mountain-tuple mountain="Llullaillaco" country="RCH" province="Chile"/>
+   <geo_mountain-tuple mountain="Ojos del Salado" country="RA" province="Tucuman"/>
+   <geo_mountain-tuple mountain="Ojos del Salado" country="RCH" province="Chile"/>
+   <geo_mountain-tuple mountain="Monte Pissis" country="RA" province="La Rioja"/>
+   <geo_mountain-tuple mountain="Monte Pissis" country="RA" province="Tucuman"/>
+   <geo_mountain-tuple mountain="Aconcagua" country="RA" province="Mendoza"/>
+   <geo_mountain-tuple mountain="Tupungato" country="RA" province="Mendoza"/>
+   <geo_mountain-tuple mountain="Pico de Agulhas Negras" country="BR" province="Minas Gerais"/>
+   <geo_mountain-tuple mountain="Pico de Agulhas Negras" country="BR" province="Rio de Janeiro"/>
+</geo_mountain>

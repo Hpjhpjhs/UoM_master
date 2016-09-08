@@ -1,0 +1,25 @@
+pair2 Or
+select * from airport where city='Beijing' or city='Shanghai' or city='Guangzhou';
+IATACode    Name          Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+PEK         Capital Intl  CN          Beijing     Beijing     NULL        40.080111   116.584556  35          8         
+PVG         Pudong        CN          Shanghai    Shanghai    NULL        31.143378   121.805214  4           8         
+CAN         Baiyun Intl   CN          Guangzhou   Guangdong   NULL        23.392436   113.298786  15          8         
+SHA         Hongqiao Int  CN          Shanghai    Shanghai    NULL        31.197875   121.336319  3           8         
+pair2 in ;
+select * from airport where city in('Beijing', 'Shanghai', 'Guangzhou');
+IATACode    Name          Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+PEK         Capital Intl  CN          Beijing     Beijing     NULL        40.080111   116.584556  35          8         
+PVG         Pudong        CN          Shanghai    Shanghai    NULL        31.143378   121.805214  4           8         
+CAN         Baiyun Intl   CN          Guangzhou   Guangdong   NULL        23.392436   113.298786  15          8         
+SHA         Hongqiao Int  CN          Shanghai    Shanghai    NULL        31.197875   121.336319  3           8         
+explain query plan select * from airport where city='Beijing' or city='Shanghai' or city='Guangzhou';
+selectid    order       from        detail                         
+----------  ----------  ----------  -------------------------------
+0           0           0           SCAN TABLE airport (~1320 rows)
+explain query plan select * from airport where city in('Beijing', 'Shanghai', 'Guangzhou');
+selectid    order       from        detail                        
+----------  ----------  ----------  ------------------------------
+0           0           0           SCAN TABLE airport (~132 rows)
+0           0           0           EXECUTE LIST SUBQUERY 1      

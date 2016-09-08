@@ -1,0 +1,157 @@
+
+<geo_desert>
+   <geo_desert-tuple desert="Kalahari" country="ANG" province="Moxico"/>
+   <geo_desert-tuple desert="Kalahari" country="ANG" province="Cuando Cubango"/>
+   <geo_desert-tuple desert="Kalahari" country="NAM" province="Namibia"/>
+   <geo_desert-tuple desert="Kalahari" country="Z" province="Southern"/>
+   <geo_desert-tuple desert="Kalahari" country="Z" province="Western"/>
+   <geo_desert-tuple desert="Kalahari" country="RB" province="Botswana"/>
+   <geo_desert-tuple desert="Kalahari" country="RSA" province="North West"/>
+   <geo_desert-tuple desert="Namib" country="NAM" province="Namibia"/>
+   <geo_desert-tuple desert="Ferlo" country="SN" province="Louga"/>
+   <geo_desert-tuple desert="Ferlo" country="SN" province="Saint Louis"/>
+   <geo_desert-tuple desert="Ferlo" country="SN" province="Tambacounda"/>
+   <geo_desert-tuple desert="Trarza" country="RIM" province="Mauritania"/>
+   <geo_desert-tuple desert="Erg Ouarane" country="RIM" province="Mauritania"/>
+   <geo_desert-tuple desert="Erg Maqteir" country="RIM" province="Mauritania"/>
+   <geo_desert-tuple desert="Saguia el-Hamra" country="WSA" province="Western Sahara"/>
+   <geo_desert-tuple desert="Erg Igidi" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Erg Igidi" country="RMM" province="Mali"/>
+   <geo_desert-tuple desert="Erg Igidi" country="RIM" province="Mauritania"/>
+   <geo_desert-tuple desert="Hamada du Draa" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Hamada du Draa" country="MA" province="Morocco"/>
+   <geo_desert-tuple desert="Erg Chech" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Erg Chech" country="RMM" province="Mali"/>
+   <geo_desert-tuple desert="Tanezrouft" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Tanezrouft" country="RMM" province="Mali"/>
+   <geo_desert-tuple desert="Azaouad" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Azaouad" country="RMM" province="Mali"/>
+   <geo_desert-tuple desert="Azaouad" country="RN" province="Niger"/>
+   <geo_desert-tuple desert="Grand Erg Ouest" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Grand Erg Est" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Grand Erg Est" country="TN" province="Tunisia"/>
+   <geo_desert-tuple desert="Erg Isaouane" country="DZ" province="Algeria"/>
+   <geo_desert-tuple desert="Hamada al-Hamra" country="LAR" province="Libya"/>
+   <geo_desert-tuple desert="Fesan" country="LAR" province="Libya"/>
+   <geo_desert-tuple desert="Erg Rebiana" country="LAR" province="Libya"/>
+   <geo_desert-tuple desert="Talak" country="RN" province="Niger"/>
+   <geo_desert-tuple desert="Tenere" country="RN" province="Niger"/>
+   <geo_desert-tuple desert="Tenere" country="TCH" province="Chad"/>
+   <geo_desert-tuple desert="Djourab" country="TCH" province="Chad"/>
+   <geo_desert-tuple desert="Erdi Ennedi" country="TCH" province="Chad"/>
+   <geo_desert-tuple desert="Libyan Desert" country="ET" province="Matruh"/>
+   <geo_desert-tuple desert="Libyan Desert" country="ET" province="El Wadi el Jadid"/>
+   <geo_desert-tuple desert="Libyan Desert" country="ET" province="Beni Suef"/>
+   <geo_desert-tuple desert="Libyan Desert" country="ET" province="El Giza"/>
+   <geo_desert-tuple desert="Libyan Desert" country="ET" province="El Minya"/>
+   <geo_desert-tuple desert="Libyan Desert" country="LAR" province="Libya"/>
+   <geo_desert-tuple desert="Libyan Desert" country="SUD" province="Darfur"/>
+   <geo_desert-tuple desert="Libyan Desert" country="SUD" province="ash Shamaliyah"/>
+   <geo_desert-tuple desert="Darfur" country="SUD" province="Darfur"/>
+   <geo_desert-tuple desert="Arabian Desert" country="ET" province="El Bahr el Ahmar"/>
+   <geo_desert-tuple desert="Nubian Desert" country="SUD" province="ash Sharqiyah"/>
+   <geo_desert-tuple desert="Negev" country="IL" province="South"/>
+   <geo_desert-tuple desert="Syrian Desert" country="IRQ" province="Al Anbar"/>
+   <geo_desert-tuple desert="Syrian Desert" country="JOR" province="Jordan"/>
+   <geo_desert-tuple desert="Syrian Desert" country="SA" province="Saudi Arabia"/>
+   <geo_desert-tuple desert="Syrian Desert" country="SYR" province="Syria"/>
+   <geo_desert-tuple desert="Nefud" country="SA" province="Saudi Arabia"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="SA" province="Saudi Arabia"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="OM" province="Oman"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Abu Dhabi"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Dubayy"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Al Fujayrah"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Ras al Khaymah"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Ash Shariqah"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="UAE" province="Umm al Qaywayn"/>
+   <geo_desert-tuple desert="Rub Al Chali" country="YE" province="Yemen"/>
+   <geo_desert-tuple desert="Dascht-e-Kavir" country="IR" province="Esfahan"/>
+   <geo_desert-tuple desert="Dascht-e-Kavir" country="IR" province="Khorasan"/>
+   <geo_desert-tuple desert="Dascht-e-Kavir" country="IR" province="Semnan"/>
+   <geo_desert-tuple desert="Dascht-e-Kavir" country="IR" province="Tehran"/>
+   <geo_desert-tuple desert="Dascht-e-Kavir" country="IR" province="Yazd"/>
+   <geo_desert-tuple desert="Dascht-e-Lut" country="IR" province="Esfahan"/>
+   <geo_desert-tuple desert="Dascht-e-Lut" country="IR" province="Kerman"/>
+   <geo_desert-tuple desert="Dascht-e-Lut" country="IR" province="Khorasan"/>
+   <geo_desert-tuple desert="Dascht-e-Lut" country="IR" province="Sistan e Baluchestan"/>
+   <geo_desert-tuple desert="Dascht-e-Lut" country="IR" province="Yazd"/>
+   <geo_desert-tuple desert="Dascht-e-Margoh" country="AFG" province="Afghanistan"/>
+   <geo_desert-tuple desert="Rigestan" country="AFG" province="Afghanistan"/>
+   <geo_desert-tuple desert="Rigestan" country="PK" province="Pakistan"/>
+   <geo_desert-tuple desert="Thar" country="PK" province="Pakistan"/>
+   <geo_desert-tuple desert="Thar" country="IND" province="Gujarat"/>
+   <geo_desert-tuple desert="Thar" country="IND" province="Haryana"/>
+   <geo_desert-tuple desert="Thar" country="IND" province="Punjab"/>
+   <geo_desert-tuple desert="Thar" country="IND" province="Rajasthan"/>
+   <geo_desert-tuple desert="Ryn" country="R" province="Rep. of Kalmykiya"/>
+   <geo_desert-tuple desert="Ryn" country="R" province="Astrakhanskaya oblast"/>
+   <geo_desert-tuple desert="Ryn" country="KAZ" province="Atyrau"/>
+   <geo_desert-tuple desert="Ryn" country="KAZ" province="Batys Qazaqstan"/>
+   <geo_desert-tuple desert="Ust Urt" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_desert-tuple desert="Ust Urt" country="KAZ" province="Aqtobe"/>
+   <geo_desert-tuple desert="Ust Urt" country="KAZ" province="Mangghystau"/>
+   <geo_desert-tuple desert="Karakum" country="TM" province="Ahal"/>
+   <geo_desert-tuple desert="Karakum" country="TM" province="Balkan"/>
+   <geo_desert-tuple desert="Karakum" country="TM" province="Dashhowuz"/>
+   <geo_desert-tuple desert="Karakum" country="TM" province="Leban"/>
+   <geo_desert-tuple desert="Karakum" country="TM" province="Mary"/>
+   <geo_desert-tuple desert="Karakum" country="UZB" province="Samarqand"/>
+   <geo_desert-tuple desert="Karakum" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_desert-tuple desert="Kysylkum" country="UZB" province="Jizzakh"/>
+   <geo_desert-tuple desert="Kysylkum" country="UZB" province="Samarqand"/>
+   <geo_desert-tuple desert="Kysylkum" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_desert-tuple desert="Kysylkum" country="KAZ" province="Qyzylorda"/>
+   <geo_desert-tuple desert="Mujunkum" country="KAZ" province="Qyzylorda"/>
+   <geo_desert-tuple desert="Mujunkum" country="KAZ" province="Zhambyl"/>
+   <geo_desert-tuple desert="TaklaMakan" country="TJ" province="Xinjiang Uygur"/>
+   <geo_desert-tuple desert="Gurbantunggut" country="TJ" province="Xinjiang Uygur"/>
+   <geo_desert-tuple desert="Kum Tagh" country="TJ" province="Xinjiang Uygur"/>
+   <geo_desert-tuple desert="Qaidam" country="TJ" province="Qinghai"/>
+   <geo_desert-tuple desert="Gobi" country="TJ" province="Gansu"/>
+   <geo_desert-tuple desert="Gobi" country="TJ" province="Nei Monggol"/>
+   <geo_desert-tuple desert="Gobi" country="TJ" province="Ningxia Huizu"/>
+   <geo_desert-tuple desert="Gobi" country="MNG" province="Mongolia"/>
+   <geo_desert-tuple desert="Ordos" country="TJ" province="Shaanxi"/>
+   <geo_desert-tuple desert="Ordos" country="TJ" province="Nei Monggol"/>
+   <geo_desert-tuple desert="Ordos" country="TJ" province="Ningxia Huizu"/>
+   <geo_desert-tuple desert="Great Sandy Desert" country="AUS" province="Western Australia"/>
+   <geo_desert-tuple desert="Gibson Desert" country="AUS" province="Western Australia"/>
+   <geo_desert-tuple desert="Great Victoria Desert" country="AUS" province="South Australia"/>
+   <geo_desert-tuple desert="Great Victoria Desert" country="AUS" province="Western Australia"/>
+   <geo_desert-tuple desert="Nullarbor Plain" country="AUS" province="South Australia"/>
+   <geo_desert-tuple desert="Nullarbor Plain" country="AUS" province="Western Australia"/>
+   <geo_desert-tuple desert="Simpson Desert" country="AUS" province="Northern Territory"/>
+   <geo_desert-tuple desert="Simpson Desert" country="AUS" province="Queensland"/>
+   <geo_desert-tuple desert="Simpson Desert" country="AUS" province="South Australia"/>
+   <geo_desert-tuple desert="Red Centre" country="AUS" province="Northern Territory"/>
+   <geo_desert-tuple desert="Red Centre" country="AUS" province="South Australia"/>
+   <geo_desert-tuple desert="Red Centre" country="AUS" province="Western Australia"/>
+   <geo_desert-tuple desert="Tanami" country="AUS" province="Northern Territory"/>
+   <geo_desert-tuple desert="Sturt Desert" country="AUS" province="New South Wales"/>
+   <geo_desert-tuple desert="Sturt Desert" country="AUS" province="Northern Territory"/>
+   <geo_desert-tuple desert="Sturt Desert" country="AUS" province="Queensland"/>
+   <geo_desert-tuple desert="Owyhee" country="USA" province="Idaho"/>
+   <geo_desert-tuple desert="Owyhee" country="USA" province="Nevada"/>
+   <geo_desert-tuple desert="Owyhee" country="USA" province="Oregon"/>
+   <geo_desert-tuple desert="Great Salt Lake Desert" country="USA" province="Utah"/>
+   <geo_desert-tuple desert="Colorado Plateau" country="USA" province="Arizona"/>
+   <geo_desert-tuple desert="Colorado Plateau" country="USA" province="Colorado"/>
+   <geo_desert-tuple desert="Colorado Plateau" country="USA" province="New Mexico"/>
+   <geo_desert-tuple desert="Colorado Plateau" country="USA" province="Utah"/>
+   <geo_desert-tuple desert="Great Basin" country="USA" province="California"/>
+   <geo_desert-tuple desert="Great Basin" country="USA" province="Nevada"/>
+   <geo_desert-tuple desert="Great Basin" country="USA" province="Utah"/>
+   <geo_desert-tuple desert="Mojave" country="USA" province="Arizona"/>
+   <geo_desert-tuple desert="Mojave" country="USA" province="California"/>
+   <geo_desert-tuple desert="Mojave" country="USA" province="Nevada"/>
+   <geo_desert-tuple desert="Mojave" country="USA" province="Utah"/>
+   <geo_desert-tuple desert="Sonora" country="MEX" province="Chihuahua"/>
+   <geo_desert-tuple desert="Sonora" country="MEX" province="Sonora"/>
+   <geo_desert-tuple desert="Sonora" country="USA" province="Arizona"/>
+   <geo_desert-tuple desert="Sonora" country="USA" province="California"/>
+   <geo_desert-tuple desert="Chihuahua" country="USA" province="Arizona"/>
+   <geo_desert-tuple desert="Chihuahua" country="USA" province="New Mexico"/>
+   <geo_desert-tuple desert="Chihuahua" country="USA" province="Texas"/>
+   <geo_desert-tuple desert="Baja California Desert" country="MEX" province="Baja California"/>
+   <geo_desert-tuple desert="Atacama" country="RCH" province="Chile"/>
+</geo_desert>

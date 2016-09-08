@@ -1,0 +1,1453 @@
+
+<province>
+   <province-tuple name="Albania" country="AL" population="3249136" area="MISSING" capital="Tirane" capprov="Albania"/>
+   <province-tuple name="Anatoliki Makedhonia kai Thraki" country="GR" population="574308" area="14157.0" capital="Komotini" capprov="Anatoliki Makedhonia kai Thraki"/>
+   <province-tuple name="Attiki" country="GR" population="3522769" area="3808.0" capital="Athens" capprov="Attiki"/>
+   <province-tuple name="Dhytiki Ellas" country="GR" population="702027" area="11350.0" capital="Patrai" capprov="Dhytiki Ellas"/>
+   <province-tuple name="Dhytiki Makedhonia" country="GR" population="292751" area="9451.0" capital="Kozani" capprov="Dhytiki Makedhonia"/>
+   <province-tuple name="Ionioi Nisoi" country="GR" population="191003" area="2307.0" capital="Korfu" capprov="Ionioi Nisoi"/>
+   <province-tuple name="Ipiros" country="GR" population="339210" area="9203.0" capital="Ioannina" capprov="Ipiros"/>
+   <province-tuple name="Kedriki Makedhonia" country="GR" population="1729581" area="19147.0" capital="Thessaloniki" capprov="Kedriki Makedhonia"/>
+   <province-tuple name="Kriti" country="GR" population="537183" area="8336.0" capital="Iraklion" capprov="Kriti"/>
+   <province-tuple name="Notion Aiyaion" country="GR" population="262522" area="5286.0" capital="Ermoupoli" capprov="Notion Aiyaion"/>
+   <province-tuple name="Peloponnisos" country="GR" population="605663" area="15490.0" capital="Tripoli" capprov="Peloponnisos"/>
+   <province-tuple name="Sterea Ellas" country="GR" population="578876" area="15549.0" capital="Lamia" capprov="Sterea Ellas"/>
+   <province-tuple name="Thessalia" country="GR" population="731030" area="14037.0" capital="Larisa" capprov="Thessalia"/>
+   <province-tuple name="Voreion Aiyaion" country="GR" population="189541" area="3836.0" capital="Mytilini" capprov="Voreion Aiyaion"/>
+   <province-tuple name="Macedonia" country="MK" population="2104035" area="MISSING" capital="Skopje" capprov="Macedonia"/>
+   <province-tuple name="Serbia" country="SRB" population="7379339" area="MISSING" capital="Belgrade" capprov="Serbia"/>
+   <province-tuple name="Montenegro" country="MNE" population="672180" area="MISSING" capital="Podgorica" capprov="Montenegro"/>
+   <province-tuple name="Kosovo" country="KOS" population="1804838" area="MISSING" capital="Pristina" capprov="Kosovo"/>
+   <province-tuple name="Andorra" country="AND" population="72766" area="MISSING" capital="Andorra la Vella" capprov="Andorra"/>
+   <province-tuple name="Alsace" country="F" population="1624000" area="8280.0" capital="Strasbourg" capprov="Alsace"/>
+   <province-tuple name="Aquitaine" country="F" population="2796000" area="41309.0" capital="Bordeaux" capprov="Aquitaine"/>
+   <province-tuple name="Auvergne" country="F" population="1321000" area="26013.0" capital="Clermont Ferrand" capprov="Auvergne"/>
+   <province-tuple name="Basse Normandie" country="F" population="1391000" area="17589.0" capital="Caen" capprov="Basse Normandie"/>
+   <province-tuple name="Bretagne" country="F" population="2796000" area="27209.0" capital="Rennes" capprov="Bretagne"/>
+   <province-tuple name="Bourgogne" country="F" population="1609000" area="31582.0" capital="Dijon" capprov="Bourgogne"/>
+   <province-tuple name="Centre" country="F" population="2371000" area="39151.0" capital="Orleans" capprov="Centre"/>
+   <province-tuple name="Champagne Ardenne" country="F" population="1348000" area="25606.0" capital="Chalons en Champagne" capprov="Champagne Ardenne"/>
+   <province-tuple name="Corse" country="F" population="250000" area="8680.0" capital="Ajaccio" capprov="Corse"/>
+   <province-tuple name="Franche Comte" country="F" population="1097000" area="16202.0" capital="Besancon" capprov="Franche Comte"/>
+   <province-tuple name="Haute Normandie" country="F" population="1737000" area="12318.0" capital="Rouen" capprov="Haute Normandie"/>
+   <province-tuple name="Ile de France" country="F" population="10660000" area="12011.0" capital="Paris" capprov="Ile de France"/>
+   <province-tuple name="Languedoc Roussillon" country="F" population="2115000" area="27376.0" capital="Montpellier" capprov="Languedoc Roussillon"/>
+   <province-tuple name="Limousin" country="F" population="723000" area="16942.0" capital="Limoges" capprov="Limousin"/>
+   <province-tuple name="Lorraine" country="F" population="2306000" area="23547.0" capital="Metz" capprov="Lorraine"/>
+   <province-tuple name="Midi Pyrenees" country="F" population="2431000" area="45349.0" capital="Toulouse" capprov="Midi Pyrenees"/>
+   <province-tuple name="Nord Pas de Calais" country="F" population="3965000" area="12413.0" capital="Lille" capprov="Nord Pas de Calais"/>
+   <province-tuple name="Pays de la Loire" country="F" population="3059000" area="32082.0" capital="Nantes" capprov="Pays de la Loire"/>
+   <province-tuple name="Picardie" country="F" population="1811000" area="19399.0" capital="Amiens" capprov="Picardie"/>
+   <province-tuple name="Poitou Charentes" country="F" population="1595000" area="25809.0" capital="Poitiers" capprov="Poitou Charentes"/>
+   <province-tuple name="Provence Cote dAzur" country="F" population="4258000" area="31400.0" capital="Marseille" capprov="Provence Cote dAzur"/>
+   <province-tuple name="Rhone Alpes" country="F" population="5351000" area="43698.0" capital="Lyon" capprov="Rhone Alpes"/>
+   <province-tuple name="Andalusia" country="E" population="7053043" area="87600.0" capital="Sevilla" capprov="Andalusia"/>
+   <province-tuple name="Aragon" country="E" population="1183576" area="47720.0" capital="Zaragoza" capprov="Aragon"/>
+   <province-tuple name="Asturias" country="E" population="1083388" area="10604.0" capital="Oviedo" capprov="Asturias"/>
+   <province-tuple name="Balearic Islands" country="E" population="736865" area="4992.0" capital="Palma de Mallorca" capprov="Balearic Islands"/>
+   <province-tuple name="Basque Country" country="E" population="2075561" area="7235.0" capital="Vitoria Gasteiz" capprov="Basque Country"/>
+   <province-tuple name="Canary Islands" country="E" population="1534897" area="7447.0" capital="Santa Cruz de Tenerife" capprov="Canary Islands"/>
+   <province-tuple name="Cantabria" country="E" population="526090" area="5321.0" capital="Santander" capprov="Cantabria"/>
+   <province-tuple name="Castile and Leon" country="E" population="2504371" area="94224.0" capital="Valladolid" capprov="Castile and Leon"/>
+   <province-tuple name="Castile La Mancha" country="E" population="1656179" area="79462.0" capital="Toledo" capprov="Castile La Mancha"/>
+   <province-tuple name="Catalonia" country="E" population="6090107" area="32113.0" capital="Barcelona" capprov="Catalonia"/>
+   <province-tuple name="Estremadura" country="E" population="1050590" area="41635.0" capital="Merida" capprov="Estremadura"/>
+   <province-tuple name="Galicia" country="E" population="2720761" area="29574.0" capital="Santiago de Compostella" capprov="Galicia"/>
+   <province-tuple name="Madrid" country="E" population="5034548" area="8028.0" capital="Madrid" capprov="Madrid"/>
+   <province-tuple name="Murcia" country="E" population="1070401" area="11314.0" capital="Murcia" capprov="Murcia"/>
+   <province-tuple name="Navarre" country="E" population="523614" area="10391.0" capital="Pamplona" capprov="Navarre"/>
+   <province-tuple name="Rioja" country="E" population="263437" area="5045.0" capital="Logrono" capprov="Rioja"/>
+   <province-tuple name="Valencia" country="E" population="3909047" area="23255.0" capital="Valencia" capprov="Valencia"/>
+   <province-tuple name="Burgenland" country="A" population="273000" area="3965.0" capital="Eisenstadt" capprov="Burgenland"/>
+   <province-tuple name="Carinthia" country="A" population="559000" area="9533.0" capital="Klagenfurt" capprov="Carinthia"/>
+   <province-tuple name="Vorarlberg" country="A" population="341000" area="2601.0" capital="Bregenz" capprov="Vorarlberg"/>
+   <province-tuple name="Vienna" country="A" population="1583000" area="415.0" capital="Vienna" capprov="Vienna"/>
+   <province-tuple name="Upper Austria" country="A" population="1373000" area="11979.0" capital="Linz" capprov="Upper Austria"/>
+   <province-tuple name="Tyrol" country="A" population="649000" area="12647.0" capital="Innsbruck" capprov="Tyrol"/>
+   <province-tuple name="Styria" country="A" population="1203000" area="16386.0" capital="Graz" capprov="Styria"/>
+   <province-tuple name="Salzburg" country="A" population="501000" area="7154.0" capital="Salzburg" capprov="Salzburg"/>
+   <province-tuple name="Lower Austria" country="A" population="1507000" area="19170.0" capital="St. Polten" capprov="Lower Austria"/>
+   <province-tuple name="Jihocesky" country="CZ" population="702000" area="11345.0" capital="Ceske Budejovice" capprov="Jihocesky"/>
+   <province-tuple name="Jihomoravsky" country="CZ" population="2059000" area="15028.0" capital="Brno" capprov="Jihomoravsky"/>
+   <province-tuple name="Severocesky" country="CZ" population="1190000" area="7819.0" capital="Usti nad Labem" capprov="Severocesky"/>
+   <province-tuple name="Severomoravsky" country="CZ" population="1976000" area="11067.0" capital="Ostrava" capprov="Severomoravsky"/>
+   <province-tuple name="Praha" country="CZ" population="2329000" area="11490.0" capital="Prague" capprov="Praha"/>
+   <province-tuple name="Vychodocesky" country="CZ" population="1240000" area="11240.0" capital="Hradec Kralove" capprov="Vychodocesky"/>
+   <province-tuple name="Zapadocesky" country="CZ" population="869000" area="10875.0" capital="Plzen" capprov="Zapadocesky"/>
+   <province-tuple name="Baden Wurttemberg" country="D" population="10272069" area="35742.0" capital="Stuttgart" capprov="Baden Wurttemberg"/>
+   <province-tuple name="Bayern" country="D" population="11921944" area="70546.0" capital="Munich" capprov="Bayern"/>
+   <province-tuple name="Berlin" country="D" population="3472009" area="889.0" capital="Berlin" capprov="Berlin"/>
+   <province-tuple name="Brandenburg" country="D" population="2536747" area="29480.0" capital="Potsdam" capprov="Brandenburg"/>
+   <province-tuple name="Bremen" country="D" population="680000" area="404.0" capital="Bremen" capprov="Bremen"/>
+   <province-tuple name="Hamburg" country="D" population="1705872" area="755.0" capital="Hamburg" capprov="Hamburg"/>
+   <province-tuple name="Hessen" country="D" population="5980693" area="21115.0" capital="Wiesbaden" capprov="Hessen"/>
+   <province-tuple name="Mecklenburg Vorpommern" country="D" population="1832298" area="23170.0" capital="Schwerin" capprov="Mecklenburg Vorpommern"/>
+   <province-tuple name="Niedersachsen" country="D" population="7715363" area="47609.0" capital="Hannover" capprov="Niedersachsen"/>
+   <province-tuple name="Nordrhein Westfalen" country="D" population="17816079" area="34077.0" capital="Dusseldorf" capprov="Nordrhein Westfalen"/>
+   <province-tuple name="Rheinland Pfalz" country="D" population="3951573" area="19851.0" capital="Mainz" capprov="Rheinland Pfalz"/>
+   <province-tuple name="Saarland" country="D" population="1084201" area="2570.0" capital="Saarbrucken" capprov="Saarland"/>
+   <province-tuple name="Sachsen" country="D" population="4584345" area="18412.0" capital="Dresden" capprov="Sachsen"/>
+   <province-tuple name="Sachsen Anhalt" country="D" population="2759213" area="20446.0" capital="Magdeburg" capprov="Sachsen Anhalt"/>
+   <province-tuple name="Schleswig Holstein" country="D" population="2708392" area="15738.0" capital="Kiel" capprov="Schleswig Holstein"/>
+   <province-tuple name="Thuringen" country="D" population="2517776" area="16171.0" capital="Erfurt" capprov="Thuringen"/>
+   <province-tuple name="Baranya" country="H" population="417100" area="4487.0" capital="Pecs" capprov="Pecs (munic.)"/>
+   <province-tuple name="Bacs Kiskun" country="H" population="540800" area="8363.0" capital="Kecskemet" capprov="Bacs Kiskun"/>
+   <province-tuple name="Bekes" country="H" population="404000" area="5632.0" capital="Bekescaba" capprov="Bekes"/>
+   <province-tuple name="Borsod Abauj Zemplen" country="H" population="749100" area="7248.0" capital="Miskolc" capprov="Miskolc (munic.)"/>
+   <province-tuple name="Csongrad" country="H" population="437600" area="4263.0" capital="Hodmezovasarhely" capprov="Csongrad"/>
+   <province-tuple name="Fejer" country="H" population="422500" area="4374.0" capital="Szekesfehervar" capprov="Fejer"/>
+   <province-tuple name="Gyor Sopron" country="H" population="426800" area="4012.0" capital="Gyor" capprov="Gyor (munic.)"/>
+   <province-tuple name="Hajdu Bihar" country="H" population="549700" area="6212.0" capital="Debrecen" capprov="Debrecen (munic.)"/>
+   <province-tuple name="Heves" country="H" population="330200" area="3637.0" capital="Eger" capprov="Heves"/>
+   <province-tuple name="Komarom Esztergom" country="H" population="312900" area="2250.0" capital="Tatabanya" capprov="Komarom Esztergom"/>
+   <province-tuple name="Nograd" country="H" population="222700" area="2544.0" capital="Salgotarjan" capprov="Nograd"/>
+   <province-tuple name="Pest" country="H" population="957900" area="6394.0" capital="Budapest" capprov="Budapest (munic.)"/>
+   <province-tuple name="Somogy" country="H" population="340000" area="6035.0" capital="Kaposvar" capprov="Somogy"/>
+   <province-tuple name="Szabolcs Szatmar" country="H" population="563500" area="5938.0" capital="Nyiregyhaza" capprov="Szabolcs Szatmar"/>
+   <province-tuple name="Szolnok" country="H" population="420900" area="5608.0" capital="Szolnok" capprov="Szolnok"/>
+   <province-tuple name="Tolna" country="H" population="251000" area="3702.0" capital="Szekszard" capprov="Tolna"/>
+   <province-tuple name="Vas" country="H" population="273900" area="3337.0" capital="Szombathely" capprov="Vas"/>
+   <province-tuple name="Veszprem" country="H" population="378300" area="4689.0" capital="Veszprem" capprov="Veszprem"/>
+   <province-tuple name="Zala" country="H" population="302600" area="3786.0" capital="Zalaegerszeg" capprov="Zala"/>
+   <province-tuple name="Budapest (munic.)" country="H" population="2008500" area="525.0" capital="Budapest" capprov="Budapest (munic.)"/>
+   <province-tuple name="Debrecen (munic.)" country="H" population="217300" area="446.0" capital="Debrecen" capprov="Debrecen (munic.)"/>
+   <province-tuple name="Gyor (munic.)" country="H" population="130600" area="175.0" capital="Gyor" capprov="Gyor (munic.)"/>
+   <province-tuple name="Miskolc (munic.)" country="H" population="191000" area="224.0" capital="Miskolc" capprov="Miskolc (munic.)"/>
+   <province-tuple name="Pecs (munic.)" country="H" population="171600" area="113.0" capital="Pecs" capprov="Pecs (munic.)"/>
+   <province-tuple name="Szeged (munic.)" country="H" population="178500" area="145.0" capital="Szeged" capprov="Szeged (munic.)"/>
+   <province-tuple name="Piemonte" country="I" population="4307000" area="25399.0" capital="Turin" capprov="Piemonte"/>
+   <province-tuple name="Valle dAosta" country="I" population="118000" area="3262.0" capital="Aosta" capprov="Valle dAosta"/>
+   <province-tuple name="Lombardia" country="I" population="8901000" area="23857.0" capital="Milan" capprov="Lombardia"/>
+   <province-tuple name="Trentino Alto Adige" country="I" population="904000" area="13618.0" capital="Bolzano" capprov="Trentino Alto Adige"/>
+   <province-tuple name="Veneto" country="I" population="4415000" area="18364.0" capital="Venice" capprov="Veneto"/>
+   <province-tuple name="Friuli Venezia Giulia" country="I" population="1193000" area="7845.0" capital="Trieste" capprov="Friuli Venezia Giulia"/>
+   <province-tuple name="Liguria" country="I" population="1663000" area="5418.0" capital="Genua" capprov="Liguria"/>
+   <province-tuple name="Emilia Romagna" country="I" population="3924000" area="22123.0" capital="Bologna" capprov="Emilia Romagna"/>
+   <province-tuple name="Toscana" country="I" population="3528000" area="22992.0" capital="Firenze" capprov="Toscana"/>
+   <province-tuple name="Umbria" country="I" population="819000" area="8456.0" capital="Perugia" capprov="Umbria"/>
+   <province-tuple name="Marche" country="I" population="1438000" area="9693.0" capital="Ancona" capprov="Marche"/>
+   <province-tuple name="Lazio" country="I" population="5185000" area="17203.0" capital="Rome" capprov="Lazio"/>
+   <province-tuple name="Abruzzo" country="I" population="1263000" area="10794.0" capital="LAquila" capprov="Abruzzo"/>
+   <province-tuple name="Molise" country="I" population="332000" area="4438.0" capital="Campobasso" capprov="Molise"/>
+   <province-tuple name="Campania" country="I" population="5709000" area="13595.0" capital="Napoli" capprov="Campania"/>
+   <province-tuple name="Puglia" country="I" population="4066000" area="19348.0" capital="Bari" capprov="Puglia"/>
+   <province-tuple name="Basilicata" country="I" population="611000" area="9992.0" capital="Potenza" capprov="Basilicata"/>
+   <province-tuple name="Calabria" country="I" population="2080000" area="15080.0" capital="Catanzaro" capprov="Calabria"/>
+   <province-tuple name="Sicilia" country="I" population="5025000" area="25709.0" capital="Palermo" capprov="Sicilia"/>
+   <province-tuple name="Sardegna" country="I" population="1657000" area="24090.0" capital="Cagliari" capprov="Sardegna"/>
+   <province-tuple name="Liechtenstein" country="FL" population="31122" area="MISSING" capital="Vaduz" capprov="Liechtenstein"/>
+   <province-tuple name="Slovakia" country="SK" population="5374362" area="MISSING" capital="Bratislava" capprov="Slovakia"/>
+   <province-tuple name="Slovenia" country="SLO" population="1951443" area="MISSING" capital="Ljubljana" capprov="Slovenia"/>
+   <province-tuple name="AG" country="CH" population="528887" area="1403.0" capital="Aarau" capprov="AG"/>
+   <province-tuple name="AR" country="CH" population="54104" area="242.0" capital="Herisau" capprov="AR"/>
+   <province-tuple name="AI" country="CH" population="14750" area="172.0" capital="Appenzell" capprov="AI"/>
+   <province-tuple name="BL" country="CH" population="252331" area="517.0" capital="Liestal" capprov="BL"/>
+   <province-tuple name="BS" country="CH" population="195759" area="37.0" capital="Basel" capprov="BS"/>
+   <province-tuple name="BE" country="CH" population="941952" area="5960.0" capital="Bern" capprov="BE"/>
+   <province-tuple name="FR" country="CH" population="224552" area="1670.0" capital="Fribourg" capprov="FR"/>
+   <province-tuple name="GE" country="CH" population="395466" area="282.0" capital="Geneva" capprov="GE"/>
+   <province-tuple name="GL" country="CH" population="39410" area="685.0" capital="Glarus" capprov="GL"/>
+   <province-tuple name="GR" country="CH" population="185063" area="7105.0" capital="Chur" capprov="GR"/>
+   <province-tuple name="JU" country="CH" population="69188" area="836.0" capital="Delemont" capprov="JU"/>
+   <province-tuple name="LU" country="CH" population="340536" area="1493.0" capital="Luzern" capprov="LU"/>
+   <province-tuple name="NE" country="CH" population="165258" area="803.0" capital="Neuchatel" capprov="NE"/>
+   <province-tuple name="NW" country="CH" population="36466" area="276.0" capital="Stans" capprov="NW"/>
+   <province-tuple name="OW" country="CH" population="31310" area="490.0" capital="Sarnen" capprov="OW"/>
+   <province-tuple name="SG" country="CH" population="442350" area="2025.0" capital="Sankt Gallen" capprov="SG"/>
+   <province-tuple name="SH" country="CH" population="74035" area="298.0" capital="Schaffhausen" capprov="SH"/>
+   <province-tuple name="SZ" country="CH" population="122409" area="908.0" capital="Schwyz" capprov="SZ"/>
+   <province-tuple name="SO" country="CH" population="239264" area="790.0" capital="Solothurn" capprov="SO"/>
+   <province-tuple name="TG" country="CH" population="223372" area="990.0" capital="Frauenfeld" capprov="TG"/>
+   <province-tuple name="TI" country="CH" population="305199" area="2812.0" capital="Bellinzona" capprov="TI"/>
+   <province-tuple name="UR" country="CH" population="35876" area="1076.0" capital="Altdorf" capprov="UR"/>
+   <province-tuple name="VS" country="CH" population="271291" area="5224.0" capital="Sion" capprov="VS"/>
+   <province-tuple name="VD" country="CH" population="605677" area="3211.0" capital="Lausanne" capprov="VD"/>
+   <province-tuple name="ZG" country="CH" population="92392" area="238.0" capital="Zug" capprov="ZG"/>
+   <province-tuple name="ZH" country="CH" population="1175457" area="1728.0" capital="Zurich" capprov="ZH"/>
+   <province-tuple name="Belarus" country="BY" population="10415973" area="MISSING" capital="Minsk" capprov="Belarus"/>
+   <province-tuple name="Latvia" country="LV" population="2468982" area="MISSING" capital="Riga" capprov="Latvia"/>
+   <province-tuple name="Lithuania" country="LT" population="3646041" area="MISSING" capital="Vilnius" capprov="Lithuania"/>
+   <province-tuple name="Warszwaskie" country="PL" population="2421000" area="3788.0" capital="Warsaw" capprov="Warszwaskie"/>
+   <province-tuple name="Bialskopodlaskie" country="PL" population="306700" area="5348.0" capital="Biala Podlaska" capprov="Bialskopodlaskie"/>
+   <province-tuple name="Bialostockie" country="PL" population="697000" area="10055.0" capital="Bialystok" capprov="Bialostockie"/>
+   <province-tuple name="Bielskie" country="PL" population="911500" area="3704.0" capital="Bielsko Biala" capprov="Bielskie"/>
+   <province-tuple name="Bydgoskie" country="PL" population="1120300" area="10349.0" capital="Bydgoszcz" capprov="Bydgoskie"/>
+   <province-tuple name="Chelmskie" country="PL" population="248500" area="3866.0" capital="Chelm" capprov="Chelmskie"/>
+   <province-tuple name="Ciechanowskie" country="PL" population="431400" area="6362.0" capital="Ciechanow" capprov="Ciechanowskie"/>
+   <province-tuple name="Czestochowskie" country="PL" population="748000" area="6182.0" capital="Czestochowa" capprov="Czestochowskie"/>
+   <province-tuple name="Elblaskie" country="PL" population="483200" area="6103.0" capital="Elblag" capprov="Elblaskie"/>
+   <province-tuple name="Gdanskie" country="PL" population="1445000" area="7394.0" capital="Gdansk" capprov="Gdanskie"/>
+   <province-tuple name="Gorzowskie" country="PL" population="505600" area="8484.0" capital="Gorzow Wielkopolskie" capprov="Gorzowskie"/>
+   <province-tuple name="Jeleniogorskie" country="PL" population="519200" area="4379.0" capital="Jelenia Gora" capprov="Jeleniogorskie"/>
+   <province-tuple name="Kaliskie" country="PL" population="715600" area="6512.0" capital="Kalisz" capprov="Kaliskie"/>
+   <province-tuple name="Katowickie" country="PL" population="4013200" area="6650.0" capital="Katowice" capprov="Katowickie"/>
+   <province-tuple name="Kieleckie" country="PL" population="1127700" area="9211.0" capital="Kielce" capprov="Kieleckie"/>
+   <province-tuple name="Koninskie" country="PL" population="472400" area="5139.0" capital="Konin" capprov="Koninskie"/>
+   <province-tuple name="Koszalinskie" country="PL" population="513700" area="8470.0" capital="Koszalin" capprov="Koszalinskie"/>
+   <province-tuple name="Krakowskie" country="PL" population="1238100" area="3254.0" capital="Krakow" capprov="Krakowskie"/>
+   <province-tuple name="Krosnienskie" country="PL" population="500700" area="5702.0" capital="Krosno" capprov="Krosnienskie"/>
+   <province-tuple name="Legnickie" country="PL" population="521500" area="4037.0" capital="Legnica" capprov="Legnickie"/>
+   <province-tuple name="Leszczynskie" country="PL" population="391500" area="4154.0" capital="Leszno" capprov="Leszczynskie"/>
+   <province-tuple name="Lubelskie" country="PL" population="1022600" area="6792.0" capital="Lublin" capprov="Lubelskie"/>
+   <province-tuple name="Lomzynskie" country="PL" population="349000" area="6684.0" capital="Lomza" capprov="Lomzynskie"/>
+   <province-tuple name="Lodzkie" country="PL" population="1132400" area="1523.0" capital="Lodz" capprov="Lodzkie"/>
+   <province-tuple name="Nowosadeckie" country="PL" population="709500" area="5576.0" capital="Nowy Sacz" capprov="Nowosadeckie"/>
+   <province-tuple name="Olsztynskie" country="PL" population="761300" area="12327.0" capital="Olsztyn" capprov="Olsztynskie"/>
+   <province-tuple name="Opolskie" country="PL" population="1023800" area="8535.0" capital="Opole" capprov="Opolskie"/>
+   <province-tuple name="Ostroleckie" country="PL" population="400500" area="6498.0" capital="Ostroleka" capprov="Ostroleckie"/>
+   <province-tuple name="Pilskie" country="PL" population="485700" area="8205.0" capital="Pila" capprov="Pilskie"/>
+   <province-tuple name="Piotrkowskie" country="PL" population="644200" area="6266.0" capital="Piotrkow Trybunalski" capprov="Piotrkowskie"/>
+   <province-tuple name="Plockie" country="PL" population="518600" area="5117.0" capital="Plock" capprov="Plockie"/>
+   <province-tuple name="Poznanskie" country="PL" population="1344200" area="8151.0" capital="Poznan" capprov="Poznanskie"/>
+   <province-tuple name="Przemyskie" country="PL" population="409600" area="4437.0" capital="Przemysl" capprov="Przemyskie"/>
+   <province-tuple name="Radomskie" country="PL" population="755500" area="7294.0" capital="Radom" capprov="Radomskie"/>
+   <province-tuple name="Rzeszowskie" country="PL" population="734100" area="4397.0" capital="Rzeszow" capprov="Rzeszowskie"/>
+   <province-tuple name="Siedleckie" country="PL" population="655300" area="8499.0" capital="Siedlce" capprov="Siedleckie"/>
+   <province-tuple name="Sieradzkie" country="PL" population="408700" area="4869.0" capital="Sieradz" capprov="Sieradzkie"/>
+   <province-tuple name="Skierniewickie" country="PL" population="421700" area="3960.0" capital="Skierniewice" capprov="Skierniewickie"/>
+   <province-tuple name="Slupskie" country="PL" population="419300" area="7453.0" capital="Slupsk" capprov="Slupskie"/>
+   <province-tuple name="Suwalskie" country="PL" population="477100" area="10490.0" capital="Suwalki" capprov="Suwalskie"/>
+   <province-tuple name="Szczecinskie" country="PL" population="979500" area="9982.0" capital="Szczecin" capprov="Szczecinskie"/>
+   <province-tuple name="Tarnobrzeskie" country="PL" population="604300" area="6283.0" capital="Tarnobrzeg" capprov="Tarnobrzeskie"/>
+   <province-tuple name="Tarnowskie" country="PL" population="678400" area="4151.0" capital="Tarnow" capprov="Tarnowskie"/>
+   <province-tuple name="Torunskie" country="PL" population="662600" area="5348.0" capital="Torun" capprov="Torunskie"/>
+   <province-tuple name="Walbrzyskie" country="PL" population="740000" area="4168.0" capital="Walbrzych" capprov="Walbrzyskie"/>
+   <province-tuple name="Wloclawskie" country="PL" population="430800" area="4402.0" capital="Wloclawek" capprov="Wloclawskie"/>
+   <province-tuple name="Wroclawskie" country="PL" population="1132800" area="6287.0" capital="Wroclaw" capprov="Wroclawskie"/>
+   <province-tuple name="Zamojskie" country="PL" population="490800" area="6980.0" capital="Zamosc" capprov="Zamojskie"/>
+   <province-tuple name="Zielonogorskie" country="PL" population="664700" area="8868.0" capital="Zielona Gora" capprov="Zielonogorskie"/>
+   <province-tuple name="Cherkaska" country="UA" population="1530900" area="20900.0" capital="Cherkasy" capprov="Cherkaska"/>
+   <province-tuple name="Chernihivska" country="UA" population="938600" area="31900.0" capital="Chernihiv" capprov="Chernihivska"/>
+   <province-tuple name="Chernivetska" country="UA" population="1405800" area="8100.0" capital="Chernivtsi" capprov="Chernivetska"/>
+   <province-tuple name="Dnipropetrovska" country="UA" population="3908700" area="31900.0" capital="Dnipropetrovsk" capprov="Dnipropetrovska"/>
+   <province-tuple name="Donetska" country="UA" population="5346700" area="26500.0" capital="Donetsk" capprov="Donetska"/>
+   <province-tuple name="Ivano Frankivska" country="UA" population="1442900" area="13900.0" capital="Ivano Frankivsk" capprov="Ivano Frankivska"/>
+   <province-tuple name="Kharkivska" country="UA" population="3194800" area="31400.0" capital="Kharkiv" capprov="Kharkivska"/>
+   <province-tuple name="Khersonska" country="UA" population="1258700" area="28500.0" capital="Kherson" capprov="Khersonska"/>
+   <province-tuple name="Khmelnytska" country="UA" population="1520600" area="20600.0" capital="Khmelnytskyy" capprov="Khmelnytska"/>
+   <province-tuple name="Kyyivska" country="UA" population="4589800" area="28900.0" capital="Kiev" capprov="Kyyivska"/>
+   <province-tuple name="Kirovohradska" country="UA" population="1245300" area="24600.0" capital="Kirovohrad" capprov="Kirovohradska"/>
+   <province-tuple name="Luhanska" country="UA" population="2871100" area="26700.0" capital="Luhansk" capprov="Luhanska"/>
+   <province-tuple name="Lvivska" country="UA" population="2764400" area="21800.0" capital="Lviv" capprov="Lvivska"/>
+   <province-tuple name="Mykolayivska" country="UA" population="1342400" area="24600.0" capital="Mykolayiv" capprov="Mykolayivska"/>
+   <province-tuple name="Odeska" country="UA" population="2635300" area="33300.0" capital="Odesa" capprov="Odeska"/>
+   <province-tuple name="Poltavska" country="UA" population="1756900" area="28800.0" capital="Poltava" capprov="Poltavska"/>
+   <province-tuple name="Rivnenska" country="UA" population="1176800" area="20100.0" capital="Rivne" capprov="Rivnenska"/>
+   <province-tuple name="Sumska" country="UA" population="1430200" area="23800.0" capital="Sumy" capprov="Sumska"/>
+   <province-tuple name="Ternopilska" country="UA" population="1175100" area="13800.0" capital="Ternopil" capprov="Ternopilska"/>
+   <province-tuple name="Vinnytska" country="UA" population="1914400" area="26500.0" capital="Vinnytsya" capprov="Vinnytska"/>
+   <province-tuple name="Volynska" country="UA" population="1069000" area="20200.0" capital="Lutsk" capprov="Volynska"/>
+   <province-tuple name="Zakarpatska" country="UA" population="1265900" area="12800.0" capital="Uzhhorod" capprov="Zakarpatska"/>
+   <province-tuple name="Zaporizka" country="UA" population="2099600" area="27200.0" capital="Zaporizhzhya" capprov="Zaporizka"/>
+   <province-tuple name="Zhytomyrska" country="UA" population="1510700" area="29900.0" capital="Zhytomyr" capprov="Zhytomyrska"/>
+   <province-tuple name="Krym" country="UA" population="2549800" area="27000.0" capital="Simferopol" capprov="Krym"/>
+   <province-tuple name="Rep. of Karelia" country="R" population="785000" area="172400.0" capital="Petrozavodsk" capprov="Rep. of Karelia"/>
+   <province-tuple name="Rep. of Komi" country="R" population="1185500" area="415900.0" capital="Syktyvkar" capprov="Rep. of Komi"/>
+   <province-tuple name="Arkhangelskaya oblast" country="R" population="1520800" area="587400.0" capital="Arkhangelsk" capprov="Arkhangelskaya oblast"/>
+   <province-tuple name="Vologodskaya oblast" country="R" population="1349800" area="145700.0" capital="Vologda" capprov="Vologodskaya oblast"/>
+   <province-tuple name="Murmanskaya oblast" country="R" population="1048000" area="144900.0" capital="Murmansk" capprov="Murmanskaya oblast"/>
+   <province-tuple name="Kaliningradskaya oblast" country="R" population="932200" area="15100.0" capital="Kaliningrad" capprov="Kaliningradskaya oblast"/>
+   <province-tuple name="Sankt Peterburg" country="R" population="4801500" area="0.0" capital="Sankt Peterburg" capprov="Sankt Peterburg"/>
+   <province-tuple name="Leningradskaya oblast" country="R" population="1675900" area="85900.0" capital="Sankt Peterburg" capprov="Sankt Peterburg"/>
+   <province-tuple name="Novgorodskaya oblast" country="R" population="742600" area="55300.0" capital="Novgorod" capprov="Novgorodskaya oblast"/>
+   <province-tuple name="Pskovskaya oblast" country="R" population="832300" area="55300.0" capital="Pskov" capprov="Pskovskaya oblast"/>
+   <province-tuple name="Bryanskaya oblast" country="R" population="1479700" area="34900.0" capital="Bryansk" capprov="Bryanskaya oblast"/>
+   <province-tuple name="Vladimirskaya oblast" country="R" population="1644700" area="29000.0" capital="Vladimir" capprov="Vladimirskaya oblast"/>
+   <province-tuple name="Ivanovskaya oblast" country="R" population="1266400" area="23900.0" capital="Ivanovo" capprov="Ivanovskaya oblast"/>
+   <province-tuple name="Kaluzhskaya oblast" country="R" population="1097300" area="29900.0" capital="Kaluga" capprov="Kaluzhskaya oblast"/>
+   <province-tuple name="Kostromskaya oblast" country="R" population="805700" area="60100.0" capital="Kostroma" capprov="Kostromskaya oblast"/>
+   <province-tuple name="Moskva" country="R" population="8664400" area="0.0" capital="Moscow" capprov="Moskva"/>
+   <province-tuple name="Moskovskaya oblast" country="R" population="6596600" area="47000.0" capital="Moscow" capprov="Moskva"/>
+   <province-tuple name="Orjolskaya oblast" country="R" population="914000" area="24700.0" capital="Orel" capprov="Orjolskaya oblast"/>
+   <province-tuple name="Ryazanskaya oblast" country="R" population="1325300" area="39600.0" capital="Ryazan" capprov="Ryazanskaya oblast"/>
+   <province-tuple name="Smolenskaya oblast" country="R" population="1172400" area="49800.0" capital="Smolensk" capprov="Smolenskaya oblast"/>
+   <province-tuple name="Tverskaya oblast" country="R" population="1650600" area="84100.0" capital="Tver" capprov="Tverskaya oblast"/>
+   <province-tuple name="Tulskaya oblast" country="R" population="1814500" area="25700.0" capital="Tula" capprov="Tulskaya oblast"/>
+   <province-tuple name="Yaroslavskaya oblast" country="R" population="1451400" area="36400.0" capital="Yaroslavl" capprov="Yaroslavskaya oblast"/>
+   <province-tuple name="Rep. of Mariy El" country="R" population="766300" area="23200.0" capital="Yoshkar Ola" capprov="Rep. of Mariy El"/>
+   <province-tuple name="Rep. of Mordovia" country="R" population="955800" area="26200.0" capital="Saransk" capprov="Rep. of Mordovia"/>
+   <province-tuple name="Chuvash Republic" country="R" population="1360800" area="18300.0" capital="Cheboksary" capprov="Chuvash Republic"/>
+   <province-tuple name="Kirovskaya oblast" country="R" population="1634500" area="120800.0" capital="Kirov" capprov="Kirovskaya oblast"/>
+   <province-tuple name="Nizhegorodskaya oblast" country="R" population="3726400" area="74800.0" capital="Nizhniy Novgorod" capprov="Nizhegorodskaya oblast"/>
+   <province-tuple name="Belgorodskaya oblast" country="R" population="1469100" area="27100.0" capital="Belgorod" capprov="Belgorodskaya oblast"/>
+   <province-tuple name="Voronezhskaya oblast" country="R" population="2503800" area="52400.0" capital="Voronezh" capprov="Voronezhskaya oblast"/>
+   <province-tuple name="Kurskaya oblast" country="R" population="1346900" area="29800.0" capital="Kursk" capprov="Kurskaya oblast"/>
+   <province-tuple name="Lipetskaya oblast" country="R" population="1250200" area="24100.0" capital="Lipetsk" capprov="Lipetskaya oblast"/>
+   <province-tuple name="Tambovskaya oblast" country="R" population="1310600" area="34300.0" capital="Tambov" capprov="Tambovskaya oblast"/>
+   <province-tuple name="Rep. of Kalmykiya" country="R" population="318500" area="76100.0" capital="Elista" capprov="Rep. of Kalmykiya"/>
+   <province-tuple name="Rep. of Tatarstan" country="R" population="3760500" area="68000.0" capital="Kazan" capprov="Rep. of Tatarstan"/>
+   <province-tuple name="Astrakhanskaya oblast" country="R" population="1028900" area="44100.0" capital="Astrakhan" capprov="Astrakhanskaya oblast"/>
+   <province-tuple name="Volgogradskaya oblast" country="R" population="2703700" area="113900.0" capital="Volgograd" capprov="Volgogradskaya oblast"/>
+   <province-tuple name="Penzenskaya oblast" country="R" population="1562300" area="43200.0" capital="Penza" capprov="Penzenskaya oblast"/>
+   <province-tuple name="Samarskaya oblast" country="R" population="3311500" area="53600.0" capital="Samara" capprov="Samarskaya oblast"/>
+   <province-tuple name="Saratovskaya oblast" country="R" population="2739500" area="100200.0" capital="Saratov" capprov="Saratovskaya oblast"/>
+   <province-tuple name="Ulyanovskaya oblast" country="R" population="1495200" area="37300.0" capital="Simbirsk" capprov="Ulyanovskaya oblast"/>
+   <province-tuple name="Rostovskaya oblast" country="R" population="4426400" area="100800.0" capital="Rostov no Donu" capprov="Rostovskaya oblast"/>
+   <province-tuple name="Rep. of Bashkortostan" country="R" population="4096600" area="143600.0" capital="Ufa" capprov="Rep. of Bashkortostan"/>
+   <province-tuple name="Udmurt Republic" country="R" population="1639100" area="42100.0" capital="Izhevsk" capprov="Udmurt Republic"/>
+   <province-tuple name="Orenburgskaya oblast" country="R" population="2228600" area="124000.0" capital="Orenburg" capprov="Orenburgskaya oblast"/>
+   <province-tuple name="Permskaya oblast" country="R" population="3009400" area="160600.0" capital="Perm" capprov="Permskaya oblast"/>
+   <province-tuple name="Rep. of Adygeya" country="R" population="450500" area="7600.0" capital="Maykop" capprov="Rep. of Adygeya"/>
+   <province-tuple name="Rep. of Dagestan" country="R" population="2097500" area="50300.0" capital="Makhachkala" capprov="Rep. of Dagestan"/>
+   <province-tuple name="Rep. of Ingushetiya" country="R" population="299700" area="3750.0" capital="Nazran" capprov="Rep. of Ingushetiya"/>
+   <province-tuple name="Kabardino Balkar Rep." country="R" population="789900" area="12500.0" capital="Nalchik" capprov="Kabardino Balkar Rep."/>
+   <province-tuple name="Karachayevo Cherkessk Rep." country="R" population="436300" area="14100.0" capital="Cherkessk" capprov="Karachayevo Cherkessk Rep."/>
+   <province-tuple name="Rep. of North Ossetiya" country="R" population="662600" area="8000.0" capital="Vladikavkaz" capprov="Rep. of North Ossetiya"/>
+   <province-tuple name="Chechen Rep." country="R" population="865100" area="12300.0" capital="Grozny" capprov="Chechen Rep."/>
+   <province-tuple name="Krasnodarsky kray" country="R" population="5043900" area="76000.0" capital="Krasnodar" capprov="Krasnodarsky kray"/>
+   <province-tuple name="Stavropolsky kray" country="R" population="2667000" area="66500.0" capital="Stavropol" capprov="Stavropolsky kray"/>
+   <province-tuple name="Kurganskaya oblast" country="R" population="1112200" area="71000.0" capital="Kurgan" capprov="Kurganskaya oblast"/>
+   <province-tuple name="Sverdlovskaya oblast" country="R" population="4686300" area="194300.0" capital="Yekaterinburg" capprov="Sverdlovskaya oblast"/>
+   <province-tuple name="Chelyabinskaya oblast" country="R" population="3688700" area="87900.0" capital="Chelyabinsk" capprov="Chelyabinskaya oblast"/>
+   <province-tuple name="Rep. of Altay" country="R" population="201600" area="92600.0" capital="Gorno Altaysk" capprov="Rep. of Altay"/>
+   <province-tuple name="Altayskiy kray" country="R" population="2690100" area="169100.0" capital="Barnaul" capprov="Altayskiy kray"/>
+   <province-tuple name="Kemerovskaya oblast" country="R" population="3063500" area="95500.0" capital="Kemerovo" capprov="Kemerovskaya oblast"/>
+   <province-tuple name="Novosibirskaya oblast" country="R" population="2748600" area="178200.0" capital="Novosibirsk" capprov="Novosibirskaya oblast"/>
+   <province-tuple name="Omskaya oblast" country="R" population="2176400" area="139700.0" capital="Omsk" capprov="Omskaya oblast"/>
+   <province-tuple name="Tomskaya oblast" country="R" population="1077600" area="316900.0" capital="Tomsk" capprov="Tomskaya oblast"/>
+   <province-tuple name="Tyumenskaya oblast" country="R" population="3169900" area="1435200.0" capital="Tyumen" capprov="Tyumenskaya oblast"/>
+   <province-tuple name="Rep. of Buryatiya" country="R" population="1052500" area="351300.0" capital="Ulan Ude" capprov="Rep. of Buryatiya"/>
+   <province-tuple name="Rep. of Tyva" country="R" population="309700" area="170500.0" capital="Kyzyl" capprov="Rep. of Tyva"/>
+   <province-tuple name="Rep. of Khakassiya" country="R" population="585800" area="61900.0" capital="Abakan" capprov="Rep. of Khakassiya"/>
+   <province-tuple name="Krasnoyarskiy kray" country="R" population="3105900" area="2339700.0" capital="Krasnoyarsk" capprov="Krasnoyarskiy kray"/>
+   <province-tuple name="Irkutskaya oblast" country="R" population="2795200" area="767900.0" capital="Irkutsk" capprov="Irkutskaya oblast"/>
+   <province-tuple name="Chitinskaya oblast" country="R" population="1295000" area="431500.0" capital="Chita" capprov="Chitinskaya oblast"/>
+   <province-tuple name="Rep. of Sakha" country="R" population="1022800" area="3103200.0" capital="Yakutsk" capprov="Rep. of Sakha"/>
+   <province-tuple name="Yevreyskaya avt. oblast" country="R" population="209900" area="36000.0" capital="Birobidzhan" capprov="Yevreyskaya avt. oblast"/>
+   <province-tuple name="Chukotsky ao" country="R" population="90500" area="737700.0" capital="Anadyr" capprov="Chukotsky ao"/>
+   <province-tuple name="Primorsky kray" country="R" population="2255400" area="165900.0" capital="Vladivostok" capprov="Primorsky kray"/>
+   <province-tuple name="Khabarovskiy kray" country="R" population="1571200" area="752600.0" capital="Khabarovsk" capprov="Khabarovskiy kray"/>
+   <province-tuple name="Amurskaya oblast" country="R" population="1037800" area="363700.0" capital="Blagoveshchensk" capprov="Amurskaya oblast"/>
+   <province-tuple name="Kamchatskaya oblast" country="R" population="411100" area="472300.0" capital="Petropavlovsk Kamchatsky" capprov="Kamchatskaya oblast"/>
+   <province-tuple name="Magadanskaya oblast" country="R" population="258200" area="461400.0" capital="Magadan" capprov="Magadanskaya oblast"/>
+   <province-tuple name="Sakhalinskaya oblast" country="R" population="647800" area="87100.0" capital="Yuzhno Sakhalinsk" capprov="Sakhalinskaya oblast"/>
+   <province-tuple name="Antwerp" country="B" population="1610695" area="2867.0" capital="Antwerp" capprov="Antwerp"/>
+   <province-tuple name="Brabant" country="B" population="2253794" area="3358.0" capital="Brussels" capprov="Brabant"/>
+   <province-tuple name="East Flanders" country="B" population="1340056" area="2982.0" capital="Ghent" capprov="East Flanders"/>
+   <province-tuple name="Hainaut" country="B" population="1283252" area="3787.0" capital="Mons" capprov="Hainaut"/>
+   <province-tuple name="Liege" country="B" population="1006081" area="3862.0" capital="Liege" capprov="Liege"/>
+   <province-tuple name="Limburg" country="B" population="755593" area="2422.0" capital="Hasselt" capprov="Limburg"/>
+   <province-tuple name="Luxembourg" country="B" population="234664" area="4441.0" capital="Arlon" capprov="Luxembourg"/>
+   <province-tuple name="Namur" country="B" population="426305" area="3665.0" capital="Namur" capprov="Namur"/>
+   <province-tuple name="West Flanders" country="B" population="1111557" area="3134.0" capital="Brugge" capprov="West Flanders"/>
+   <province-tuple name="Luxembourg" country="L" population="415870" area="MISSING" capital="Luxembourg" capprov="Luxembourg"/>
+   <province-tuple name="Groningen" country="NL" population="557995" area="2344.0" capital="Groningen" capprov="Groningen"/>
+   <province-tuple name="Friesland" country="NL" population="609579" area="3361.0" capital="Leeuwarden" capprov="Friesland"/>
+   <province-tuple name="Drenthe" country="NL" population="454864" area="2652.0" capital="Assen" capprov="Drenthe"/>
+   <province-tuple name="Overijssel" country="NL" population="1050389" area="3337.0" capital="Zwolle" capprov="Overijssel"/>
+   <province-tuple name="Flevoland" country="NL" population="262325" area="1425.0" capital="Lelystad" capprov="Flevoland"/>
+   <province-tuple name="Gelderland" country="NL" population="1864732" area="4995.0" capital="Arnhem" capprov="Gelderland"/>
+   <province-tuple name="Utrecht" country="NL" population="1063460" area="1356.0" capital="Utrecht" capprov="Utrecht"/>
+   <province-tuple name="Noord Holland" country="NL" population="2463611" area="265978.0" capital="Haarlem" capprov="Noord Holland"/>
+   <province-tuple name="Zuid Holland" country="NL" population="3325064" area="2859.0" capital="s Gravenhage" capprov="Zuid Holland"/>
+   <province-tuple name="Zeeland" country="NL" population="365846" area="1791.0" capital="Middelburg" capprov="Zeeland"/>
+   <province-tuple name="Noord Brabant" country="NL" population="2276207" area="4938.0" capital="s Hertogenbosch" capprov="Noord Brabant"/>
+   <province-tuple name="Limburg" country="NL" population="1130050" area="2167.0" capital="Maastricht" capprov="Limburg"/>
+   <province-tuple name="Bosnia and Herzegovina" country="BIH" population="2656240" area="MISSING" capital="Sarajevo" capprov="Bosnia and Herzegovina"/>
+   <province-tuple name="Croatia" country="HR" population="5004112" area="MISSING" capital="Zagreb" capprov="Croatia"/>
+   <province-tuple name="Bulgaria" country="BG" population="8612757" area="MISSING" capital="Sofia" capprov="Bulgaria"/>
+   <province-tuple name="Alba" country="RO" population="428000" area="6231.0" capital="Alba Iulia" capprov="Alba"/>
+   <province-tuple name="Arad" country="RO" population="507000" area="7652.0" capital="Arad" capprov="Arad"/>
+   <province-tuple name="Arges" country="RO" population="678000" area="6801.0" capital="Pitesti" capprov="Arges"/>
+   <province-tuple name="Bacau" country="RO" population="731000" area="6606.0" capital="Bacau" capprov="Bacau"/>
+   <province-tuple name="Bihor" country="RO" population="660000" area="7535.0" capital="Oradea" capprov="Bihor"/>
+   <province-tuple name="Bistrita Nasaud" country="RO" population="328000" area="5305.0" capital="Bistrita" capprov="Bistrita Nasaud"/>
+   <province-tuple name="Botosani" country="RO" population="468000" area="4965.0" capital="Botosani" capprov="Botosani"/>
+   <province-tuple name="Braila" country="RO" population="404000" area="4724.0" capital="Braila" capprov="Braila"/>
+   <province-tuple name="Brasov" country="RO" population="695000" area="5351.0" capital="Brasov" capprov="Brasov"/>
+   <province-tuple name="Bucuresti" country="RO" population="2319000" area="1521.0" capital="Bucharest" capprov="Bucuresti"/>
+   <province-tuple name="Buzau" country="RO" population="524000" area="6072.0" capital="Buzau" capprov="Buzau"/>
+   <province-tuple name="Calarasi" country="RO" population="351000" area="5075.0" capital="Calarasi" capprov="Calarasi"/>
+   <province-tuple name="Caras Severin" country="RO" population="408000" area="8503.0" capital="Resita" capprov="Caras Severin"/>
+   <province-tuple name="Cluj" country="RO" population="743000" area="6650.0" capital="Cluj Napoca" capprov="Cluj"/>
+   <province-tuple name="Constanta" country="RO" population="737000" area="7055.0" capital="Constanta" capprov="Constanta"/>
+   <province-tuple name="Covasna" country="RO" population="238000" area="3705.0" capital="Sfintu Gheorghe" capprov="Covasna"/>
+   <province-tuple name="Dimbovita" country="RO" population="570000" area="4035.0" capital="Tirgoviste" capprov="Dimbovita"/>
+   <province-tuple name="Dolj" country="RO" population="772000" area="7413.0" capital="Craiova" capprov="Dolj"/>
+   <province-tuple name="Galati" country="RO" population="642000" area="4425.0" capital="Galati" capprov="Galati"/>
+   <province-tuple name="Giurgiu" country="RO" population="325000" area="3810.0" capital="Giurgiu" capprov="Giurgiu"/>
+   <province-tuple name="Gorj" country="RO" population="388000" area="5641.0" capital="Tirgu Jiu" capprov="Gorj"/>
+   <province-tuple name="Harghita" country="RO" population="363000" area="6610.0" capital="Miercurea Ciuc" capprov="Harghita"/>
+   <province-tuple name="Hunedoara" country="RO" population="567000" area="7016.0" capital="Deva" capprov="Hunedoara"/>
+   <province-tuple name="Ialomita" country="RO" population="309000" area="4449.0" capital="Slobozia" capprov="Ialomita"/>
+   <province-tuple name="Iasi" country="RO" population="810000" area="5469.0" capital="Iasi" capprov="Iasi"/>
+   <province-tuple name="Maramures" country="RO" population="556000" area="6215.0" capital="Baia Mare" capprov="Maramures"/>
+   <province-tuple name="Mehedinti" country="RO" population="329000" area="4900.0" capital="Drobeta Turnu Severin" capprov="Mehedinti"/>
+   <province-tuple name="Mures" country="RO" population="621000" area="6696.0" capital="Tirgu Mures" capprov="Mures"/>
+   <province-tuple name="Neamt" country="RO" population="580000" area="5890.0" capital="Piatra Neamt" capprov="Neamt"/>
+   <province-tuple name="Olt" country="RO" population="535000" area="5507.0" capital="Slatina" capprov="Olt"/>
+   <province-tuple name="Prahova" country="RO" population="877000" area="4694.0" capital="Ploiesti" capprov="Prahova"/>
+   <province-tuple name="Salaj" country="RO" population="269000" area="3850.0" capital="Zalau" capprov="Salaj"/>
+   <province-tuple name="Satu Mare" country="RO" population="417000" area="4405.0" capital="Satu Mare" capprov="Satu Mare"/>
+   <province-tuple name="Sibiu" country="RO" population="509000" area="5422.0" capital="Sibiu" capprov="Sibiu"/>
+   <province-tuple name="Suceava" country="RO" population="699000" area="8555.0" capital="Suceava" capprov="Suceava"/>
+   <province-tuple name="Teleorman" country="RO" population="504000" area="5760.0" capital="Alexandria" capprov="Teleorman"/>
+   <province-tuple name="Timis" country="RO" population="726000" area="8692.0" capital="Timisoara" capprov="Timis"/>
+   <province-tuple name="Tulcea" country="RO" population="275000" area="8430.0" capital="Tulcea" capprov="Tulcea"/>
+   <province-tuple name="Vaslui" country="RO" population="468000" area="5297.0" capital="Vaslui" capprov="Vaslui"/>
+   <province-tuple name="Vilcea" country="RO" population="430000" area="5705.0" capital="Rimnicu Vilcea" capprov="Vilcea"/>
+   <province-tuple name="Vrancea" country="RO" population="394000" area="4863.0" capital="Focsani" capprov="Vrancea"/>
+   <province-tuple name="Adana" country="TR" population="1934907" area="17253.0" capital="Adana" capprov="Adana"/>
+   <province-tuple name="Adiyaman" country="TR" population="513131" area="7614.0" capital="Adiyaman" capprov="Adiyaman"/>
+   <province-tuple name="Afyon" country="TR" population="739223" area="14230.0" capital="Afyon" capprov="Afyon"/>
+   <province-tuple name="Agri" country="TR" population="437093" area="11376.0" capital="Agri" capprov="Agri"/>
+   <province-tuple name="Aksaray" country="TR" population="326399" area="7626.0" capital="Aksaray" capprov="Aksaray"/>
+   <province-tuple name="Amasya" country="TR" population="357191" area="5520.0" capital="Amasya" capprov="Amasya"/>
+   <province-tuple name="Ankara" country="TR" population="3236626" area="25706.0" capital="Ankara" capprov="Ankara"/>
+   <province-tuple name="Antalya" country="TR" population="1132211" area="20591.0" capital="Antalya" capprov="Antalya"/>
+   <province-tuple name="Artvin" country="TR" population="212833" area="7436.0" capital="Artvin" capprov="Artvin"/>
+   <province-tuple name="Aydin" country="TR" population="824816" area="8007.0" capital="Aydin" capprov="Aydin"/>
+   <province-tuple name="Balikesir" country="TR" population="973314" area="14292.0" capital="Balikesir" capprov="Balikesir"/>
+   <province-tuple name="Batman" country="TR" population="344669" area="4694.0" capital="Batman" capprov="Batman"/>
+   <province-tuple name="Bayburt" country="TR" population="107330" area="3652.0" capital="Bayburt" capprov="Bayburt"/>
+   <province-tuple name="Bilecik" country="TR" population="175526" area="4307.0" capital="Bilecik" capprov="Bilecik"/>
+   <province-tuple name="Bingol" country="TR" population="250966" area="8125.0" capital="Bingol" capprov="Bingol"/>
+   <province-tuple name="Bitlis" country="TR" population="330115" area="6707.0" capital="Bitlis" capprov="Bitlis"/>
+   <province-tuple name="Bolu" country="TR" population="536869" area="11051.0" capital="Bolu" capprov="Bolu"/>
+   <province-tuple name="Burdur" country="TR" population="254899" area="6887.0" capital="Burdur" capprov="Burdur"/>
+   <province-tuple name="Bursa" country="TR" population="1603137" area="11043.0" capital="Bursa" capprov="Bursa"/>
+   <province-tuple name="Canakkale" country="TR" population="432263" area="9737.0" capital="Canakkale" capprov="Canakkale"/>
+   <province-tuple name="Cankiri" country="TR" population="279129" area="8454.0" capital="Cankiri" capprov="Cankiri"/>
+   <province-tuple name="Corum" country="TR" population="609863" area="12820.0" capital="Corum" capprov="Corum"/>
+   <province-tuple name="Denizli" country="TR" population="750882" area="11868.0" capital="Denizli" capprov="Denizli"/>
+   <province-tuple name="Diyarbakir" country="TR" population="1094996" area="15355.0" capital="Diyarbakir" capprov="Diyarbakir"/>
+   <province-tuple name="Edirne" country="TR" population="404599" area="6276.0" capital="Edirne" capprov="Edirne"/>
+   <province-tuple name="Elazig" country="TR" population="498225" area="9153.0" capital="Elazig" capprov="Elazig"/>
+   <province-tuple name="Erzincan" country="TR" population="299251" area="11903.0" capital="Erzincan" capprov="Erzincan"/>
+   <province-tuple name="Erzurum" country="TR" population="848201" area="25066.0" capital="Erzurum" capprov="Erzurum"/>
+   <province-tuple name="Eskisehir" country="TR" population="641057" area="13652.0" capital="Eskisehir" capprov="Eskisehir"/>
+   <province-tuple name="Gaziantep" country="TR" population="1140594" area="7642.0" capital="Gaziantep" capprov="Gaziantep"/>
+   <province-tuple name="Giresun" country="TR" population="499087" area="6934.0" capital="Giresun" capprov="Giresun"/>
+   <province-tuple name="Gumushane" country="TR" population="169375" area="6575.0" capital="Gumushane" capprov="Gumushane"/>
+   <province-tuple name="Hakkari" country="TR" population="172479" area="7121.0" capital="Hakkari" capprov="Hakkari"/>
+   <province-tuple name="Hatay" country="TR" population="1109754" area="5403.0" capital="Antakya" capprov="Hatay"/>
+   <province-tuple name="Icel" country="TR" population="1266995" area="15853.0" capital="Mersin" capprov="Icel"/>
+   <province-tuple name="Isparta" country="TR" population="434771" area="8933.0" capital="Isparta" capprov="Isparta"/>
+   <province-tuple name="Istanbul" country="TR" population="7309190" area="5712.0" capital="Istanbul" capprov="Istanbul"/>
+   <province-tuple name="Izmir" country="TR" population="2694770" area="11973.0" capital="Izmir" capprov="Izmir"/>
+   <province-tuple name="Karaman" country="TR" population="217536" area="9163.0" capital="Karaman" capprov="Karaman"/>
+   <province-tuple name="Karamanmaras" country="TR" population="892952" area="14327.0" capital="Karaman Maras" capprov="Karamanmaras"/>
+   <province-tuple name="Kars" country="TR" population="662155" area="18557.0" capital="Kars" capprov="Kars"/>
+   <province-tuple name="Kastamonu" country="TR" population="423611" area="13108.0" capital="Kastamonu" capprov="Kastamonu"/>
+   <province-tuple name="Kayseri" country="TR" population="943484" area="16917.0" capital="Kayseri" capprov="Kayseri"/>
+   <province-tuple name="Kirikkale" country="TR" population="349396" area="4365.0" capital="Kirikkale" capprov="Kirikkale"/>
+   <province-tuple name="Kirklareli" country="TR" population="309512" area="6550.0" capital="Kirklareli" capprov="Kirklareli"/>
+   <province-tuple name="Kirsehir" country="TR" population="256862" area="6570.0" capital="Kirsehir" capprov="Kirsehir"/>
+   <province-tuple name="Kocaeli" country="TR" population="936163" area="3626.0" capital="Izmit" capprov="Kocaeli"/>
+   <province-tuple name="Konya" country="TR" population="1750303" area="38257.0" capital="Konya" capprov="Konya"/>
+   <province-tuple name="Kutahya" country="TR" population="578020" area="11875.0" capital="Kutahya" capprov="Kutahya"/>
+   <province-tuple name="Malatya" country="TR" population="702055" area="12313.0" capital="Malatya" capprov="Malatya"/>
+   <province-tuple name="Manisa" country="TR" population="1154418" area="13810.0" capital="Manisa" capprov="Manisa"/>
+   <province-tuple name="Mardin" country="TR" population="557727" area="8891.0" capital="Mardin" capprov="Mardin"/>
+   <province-tuple name="Mugla" country="TR" population="562809" area="13338.0" capital="Mugla" capprov="Mugla"/>
+   <province-tuple name="Mus" country="TR" population="376543" area="8196.0" capital="Mus" capprov="Mus"/>
+   <province-tuple name="Nevsehir" country="TR" population="289509" area="5467.0" capital="Nevsehir" capprov="Nevsehir"/>
+   <province-tuple name="Nigde" country="TR" population="305861" area="7312.0" capital="Nigde" capprov="Nigde"/>
+   <province-tuple name="Ordu" country="TR" population="830105" area="6001.0" capital="Ordu" capprov="Ordu"/>
+   <province-tuple name="Rize" country="TR" population="348776" area="3920.0" capital="Rize" capprov="Rize"/>
+   <province-tuple name="Sakarya" country="TR" population="683061" area="4817.0" capital="Sakarya" capprov="Sakarya"/>
+   <province-tuple name="Samsun" country="TR" population="1158400" area="9579.0" capital="Samsun" capprov="Samsun"/>
+   <province-tuple name="Sanliurfa" country="TR" population="1001455" area="18584.0" capital="Urfa" capprov="Sanliurfa"/>
+   <province-tuple name="Siirt" country="TR" population="243435" area="5406.0" capital="Siirt" capprov="Siirt"/>
+   <province-tuple name="Sinop" country="TR" population="265153" area="5862.0" capital="Sinop" capprov="Sinop"/>
+   <province-tuple name="Sirnak" country="TR" population="262006" area="7172.0" capital="Sirnak" capprov="Sirnak"/>
+   <province-tuple name="Sivas" country="TR" population="767481" area="28488.0" capital="Sivas" capprov="Sivas"/>
+   <province-tuple name="Tekirdag" country="TR" population="468842" area="6218.0" capital="Tekirdag" capprov="Tekirdag"/>
+   <province-tuple name="Tokat" country="TR" population="719251" area="9958.0" capital="Tokat" capprov="Tokat"/>
+   <province-tuple name="Trabzon" country="TR" population="795849" area="4685.0" capital="Trabzon" capprov="Trabzon"/>
+   <province-tuple name="Tunceli" country="TR" population="133143" area="7774.0" capital="Tunceli" capprov="Tunceli"/>
+   <province-tuple name="Usak" country="TR" population="290283" area="5341.0" capital="Usak" capprov="Usak"/>
+   <province-tuple name="Van" country="TR" population="637433" area="19069.0" capital="Van" capprov="Van"/>
+   <province-tuple name="Yozgat" country="TR" population="579150" area="14123.0" capital="Yozgat" capprov="Yozgat"/>
+   <province-tuple name="Zonguldak" country="TR" population="1073560" area="8629.0" capital="Zonguldak" capprov="Zonguldak"/>
+   <province-tuple name="Denmark" country="DK" population="5249632" area="MISSING" capital="Copenhagen" capprov="Denmark"/>
+   <province-tuple name="Estonia" country="EW" population="1459428" area="MISSING" capital="Tallinn" capprov="Estonia"/>
+   <province-tuple name="Faroe Islands" country="FARX" population="43857" area="MISSING" capital="Torshavn" capprov="Faroe Islands"/>
+   <province-tuple name="Aland" country="SF" population="23000" area="MISSING" capital="Mariehamn" capprov="Aland"/>
+   <province-tuple name="Haeme" country="SF" population="662000" area="MISSING" capital="Haemeenlinna" capprov="Haeme"/>
+   <province-tuple name="Kuopio" country="SF" population="252000" area="MISSING" capital="Kuopio" capprov="Kuopio"/>
+   <province-tuple name="Kymi" country="SF" population="345000" area="MISSING" capital="Kotka" capprov="Kymi"/>
+   <province-tuple name="Lappia" country="SF" population="195000" area="MISSING" capital="Rovaniemi" capprov="Lappia"/>
+   <province-tuple name="Mikkeli" country="SF" population="209000" area="MISSING" capital="Mikkeli" capprov="Mikkeli"/>
+   <province-tuple name="Suomi" country="SF" population="242000" area="MISSING" capital="Jyvaeskylae" capprov="Suomi"/>
+   <province-tuple name="Pohjols-Karjala" country="SF" population="177000" area="MISSING" capital="Joensuu" capprov="Pohjols-Karjala"/>
+   <province-tuple name="Oulu" country="SF" population="415000" area="MISSING" capital="Oulu" capprov="Oulu"/>
+   <province-tuple name="Turku-Pori" country="SF" population="702000" area="MISSING" capital="Turku" capprov="Turku-Pori"/>
+   <province-tuple name="Uusimaa" country="SF" population="1119000" area="MISSING" capital="Helsinki" capprov="Uusimaa"/>
+   <province-tuple name="Vaasa" country="SF" population="430000" area="MISSING" capital="Vaasa" capprov="Vaasa"/>
+   <province-tuple name="Oslo" country="N" population="449337" area="MISSING" capital="Oslo" capprov="Oslo"/>
+   <province-tuple name="Akershus" country="N" population="393217" area="MISSING" capital="Oslo" capprov="Oslo"/>
+   <province-tuple name="Oestfold" country="N" population="234941" area="MISSING" capital="Moss" capprov="Oestfold"/>
+   <province-tuple name="Hedmark" country="N" population="186355" area="MISSING" capital="Hamar" capprov="Hedmark"/>
+   <province-tuple name="Oppland" country="N" population="181791" area="MISSING" capital="Lillehammer" capprov="Oppland"/>
+   <province-tuple name="Buskerud" country="N" population="219967" area="MISSING" capital="Drammen" capprov="Buskerud"/>
+   <province-tuple name="Vestfold" country="N" population="191600" area="MISSING" capital="Toensberg" capprov="Vestfold"/>
+   <province-tuple name="Telemark" country="N" population="162547" area="MISSING" capital="Skien" capprov="Telemark"/>
+   <province-tuple name="Aust Agder" country="N" population="94688" area="MISSING" capital="Arendal" capprov="Aust Agder"/>
+   <province-tuple name="Vest Agder" country="N" population="140232" area="MISSING" capital="Kristiansand" capprov="Vest Agder"/>
+   <province-tuple name="Rogaland" country="N" population="323365" area="MISSING" capital="Stavanger" capprov="Rogaland"/>
+   <province-tuple name="Hordaland" country="N" population="399702" area="MISSING" capital="Bergen" capprov="Hordaland"/>
+   <province-tuple name="Sogn og Fjordane" country="N" population="106116" area="MISSING" capital="Hermannsverk" capprov="Sogn og Fjordane"/>
+   <province-tuple name="Moere og Romsdal" country="N" population="237290" area="MISSING" capital="Molde" capprov="Moere og Romsdal"/>
+   <province-tuple name="Soer Trondelag" country="N" population="246824" area="MISSING" capital="Trondheim" capprov="Soer Trondelag"/>
+   <province-tuple name="Nord Trondelag" country="N" population="126692" area="MISSING" capital="Steinkjer" capprov="Nord Trondelag"/>
+   <province-tuple name="Nordland" country="N" population="242268" area="MISSING" capital="Bodoe" capprov="Nordland"/>
+   <province-tuple name="Troms" country="N" population="146736" area="MISSING" capital="Tromsoe" capprov="Troms"/>
+   <province-tuple name="Finnmark" country="N" population="75667" area="MISSING" capital="Vadsoe" capprov="Finnmark"/>
+   <province-tuple name="Alvsborg" country="S" population="444259" area="11395.0" capital="Vanersborg" capprov="Alvsborg"/>
+   <province-tuple name="Blekinge" country="S" population="151168" area="2941.0" capital="Karlskrona" capprov="Blekinge"/>
+   <province-tuple name="Gavleborg" country="S" population="289339" area="18191.0" capital="Gavle" capprov="Gavleborg"/>
+   <province-tuple name="Goteborg och Bohus" country="S" population="742550" area="5141.0" capital="Goteborg" capprov="Goteborg och Bohus"/>
+   <province-tuple name="Gotland" country="S" population="57383" area="3140.0" capital="Visby" capprov="Gotland"/>
+   <province-tuple name="Halland" country="S" population="257874" area="5454.0" capital="Halmstad" capprov="Halland"/>
+   <province-tuple name="Jamtland" country="S" population="136009" area="49443.0" capital="Ostersund" capprov="Jamtland"/>
+   <province-tuple name="Jonkoping" country="S" population="309738" area="9944.0" capital="Jonkoping" capprov="Jonkoping"/>
+   <province-tuple name="Kalmar" country="S" population="241883" area="11170.0" capital="Kalmar" capprov="Kalmar"/>
+   <province-tuple name="Dalarna" country="S" population="290388" area="28194.0" capital="Falun" capprov="Dalarna"/>
+   <province-tuple name="Kristianstad" country="S" population="291468" area="6087.0" capital="Kristianstad" capprov="Kristianstad"/>
+   <province-tuple name="Kronoberg" country="S" population="178612" area="8458.0" capital="Vaxjo" capprov="Kronoberg"/>
+   <province-tuple name="Malmohus" country="S" population="786757" area="4938.0" capital="Malmo" capprov="Malmohus"/>
+   <province-tuple name="Norrbotten" country="S" population="264834" area="98913.0" capital="Lulea" capprov="Norrbotten"/>
+   <province-tuple name="Orebro" country="S" population="273608" area="8519.0" capital="Orebro" capprov="Orebro"/>
+   <province-tuple name="Ostergotland" country="S" population="406100" area="10562.0" capital="Linkoping" capprov="Ostergotland"/>
+   <province-tuple name="Skaraborg" country="S" population="278162" area="7937.0" capital="Mariestad" capprov="Skaraborg"/>
+   <province-tuple name="Sodermanland" country="S" population="256818" area="6060.0" capital="Nykoping" capprov="Sodermanland"/>
+   <province-tuple name="Stockholm" country="S" population="1654511" area="6488.0" capital="Stockholm" capprov="Stockholm"/>
+   <province-tuple name="Uppsala" country="S" population="273918" area="6989.0" capital="Uppsala" capprov="Uppsala"/>
+   <province-tuple name="Varmland" country="S" population="284187" area="17584.0" capital="Karlstad" capprov="Varmland"/>
+   <province-tuple name="Vasterbotten" country="S" population="253835" area="55401.0" capital="Umea" capprov="Vasterbotten"/>
+   <province-tuple name="Vasternorrland" country="S" population="261280" area="21678.0" capital="Harnosand" capprov="Vasternorrland"/>
+   <province-tuple name="Vastmanland" country="S" population="259438" area="6302.0" capital="Vasteras" capprov="Vastmanland"/>
+   <province-tuple name="Monaco" country="MC" population="31719" area="MISSING" capital="Monaco" capprov="Monaco"/>
+   <province-tuple name="Gibraltar" country="GBZ" population="28765" area="MISSING" capital="Gibraltar" capprov="Gibraltar"/>
+   <province-tuple name="Guernsey" country="GBG" population="62920" area="MISSING" capital="Saint Peter Port" capprov="Guernsey"/>
+   <province-tuple name="Holy See" country="V" population="840" area="MISSING" capital="Vatican City" capprov="Holy See"/>
+   <province-tuple name="Iceland" country="IS" population="270292" area="MISSING" capital="Reykjavik" capprov="Iceland"/>
+   <province-tuple name="Ireland" country="IRL" population="3566833" area="MISSING" capital="Dublin" capprov="Ireland"/>
+   <province-tuple name="San Marino" country="RSM" population="24521" area="MISSING" capital="San Marino" capprov="San Marino"/>
+   <province-tuple name="Jersey" country="GBJ" population="87848" area="MISSING" capital="Saint Helier" capprov="Jersey"/>
+   <province-tuple name="Malta" country="M" population="375576" area="MISSING" capital="Valletta" capprov="Malta"/>
+   <province-tuple name="Man" country="GBM" population="73837" area="MISSING" capital="Douglas" capprov="Man"/>
+   <province-tuple name="Moldova" country="MD" population="4463847" area="MISSING" capital="Chisinau" capprov="Moldova"/>
+   <province-tuple name="Aveiro" country="P" population="656000" area="2808.0" capital="Aveiro" capprov="Aveiro"/>
+   <province-tuple name="Beja" country="P" population="167900" area="10225.0" capital="Beja" capprov="Beja"/>
+   <province-tuple name="Braga" country="P" population="746100" area="2673.0" capital="Braga" capprov="Braga"/>
+   <province-tuple name="Braganca" country="P" population="158300" area="6608.0" capital="Braganca" capprov="Braganca"/>
+   <province-tuple name="Castelo Branco" country="P" population="214700" area="6675.0" capital="Castelo Branco" capprov="Castelo Branco"/>
+   <province-tuple name="Coimbra" country="P" population="427600" area="3947.0" capital="Coimbra" capprov="Coimbra"/>
+   <province-tuple name="Evora" country="P" population="173500" area="7393.0" capital="Evora" capprov="Evora"/>
+   <province-tuple name="Algarve" country="P" population="340100" area="4960.0" capital="Faro" capprov="Algarve"/>
+   <province-tuple name="Guarda" country="P" population="187800" area="5518.0" capital="Guarda" capprov="Guarda"/>
+   <province-tuple name="Leiria" country="P" population="427800" area="3515.0" capital="Leiria" capprov="Leiria"/>
+   <province-tuple name="Lisbon" country="P" population="2063800" area="2761.0" capital="Lisbon" capprov="Lisbon"/>
+   <province-tuple name="Portalegre" country="P" population="134300" area="6065.0" capital="Portalegre" capprov="Portalegre"/>
+   <province-tuple name="Porto" country="P" population="1622300" area="2395.0" capital="Porto" capprov="Porto"/>
+   <province-tuple name="Santarem" country="P" population="442700" area="6747.0" capital="Santarem" capprov="Santarem"/>
+   <province-tuple name="Setubal" country="P" population="713700" area="5064.0" capital="Setubal" capprov="Setubal"/>
+   <province-tuple name="Viana do Castelo" country="P" population="248700" area="2255.0" capital="Viana do Castelo" capprov="Viana do Castelo"/>
+   <province-tuple name="Vila Real" country="P" population="237100" area="4328.0" capital="Vila Real" capprov="Vila Real"/>
+   <province-tuple name="Viseu" country="P" population="401000" area="5007.0" capital="Viseu" capprov="Viseu"/>
+   <province-tuple name="Azores" country="P" population="236700" area="2247.0" capital="Ponta Delgada" capprov="Azores"/>
+   <province-tuple name="Madeira" country="P" population="253000" area="794.0" capital="Funchal" capprov="Madeira"/>
+   <province-tuple name="Svalbard" country="SVAX" population="2116" area="MISSING" capital="Longyearbyen" capprov="Svalbard"/>
+   <province-tuple name="Avon" country="GB" population="962000" area="1346.0" capital="Bristol" capprov="Avon"/>
+   <province-tuple name="Bedfordshire" country="GB" population="534300" area="1235.0" capital="Bedford" capprov="Bedfordshire"/>
+   <province-tuple name="Berkshire" country="GB" population="752500" area="1259.0" capital="Reading" capprov="Berkshire"/>
+   <province-tuple name="Buckinghamshire" country="GB" population="640200" area="1883.0" capital="Aylesbury" capprov="Buckinghamshire"/>
+   <province-tuple name="Cambridgeshire" country="GB" population="669900" area="3409.0" capital="Cambridge" capprov="Cambridgeshire"/>
+   <province-tuple name="Cheshire" country="GB" population="966500" area="2329.0" capital="Chester" capprov="Cheshire"/>
+   <province-tuple name="Cleveland" country="GB" population="557500" area="583.0" capital="Middlesbrough" capprov="Cleveland"/>
+   <province-tuple name="Cornwall" country="GB" population="475200" area="3564.0" capital="Truro" capprov="Cornwall"/>
+   <province-tuple name="Cumbria" country="GB" population="489700" area="6810.0" capital="Carlisle" capprov="Cumbria"/>
+   <province-tuple name="Derbyshire" country="GB" population="938800" area="2631.0" capital="Matlock" capprov="Derbyshire"/>
+   <province-tuple name="Devon" country="GB" population="1040000" area="6711.0" capital="Exeter" capprov="Devon"/>
+   <province-tuple name="Dorset" country="GB" population="662900" area="2654.0" capital="Dorchester" capprov="Dorset"/>
+   <province-tuple name="Durham" country="GB" population="604300" area="2436.0" capital="Durham" capprov="Durham"/>
+   <province-tuple name="East Sussex" country="GB" population="716500" area="1795.0" capital="Lewes" capprov="East Sussex"/>
+   <province-tuple name="Essex" country="GB" population="1548800" area="3672.0" capital="Chelmsford" capprov="Essex"/>
+   <province-tuple name="Gloucestershire" country="GB" population="538800" area="2643.0" capital="Gloucester" capprov="Gloucestershire"/>
+   <province-tuple name="Greater London" country="GB" population="6803100" area="1579.0" capital="London" capprov="Greater London"/>
+   <province-tuple name="Greater Manchester" country="GB" population="2561600" area="1287.0" capital="Manchester" capprov="Greater Manchester"/>
+   <province-tuple name="Hampshire" country="GB" population="1578700" area="3777.0" capital="Winchester" capprov="Hampshire"/>
+   <province-tuple name="Hereford and Worcester" country="GB" population="696000" area="3927.0" capital="Worcester" capprov="Hereford and Worcester"/>
+   <province-tuple name="Hertfordshire" country="GB" population="989500" area="1634.0" capital="Hertford" capprov="Hertfordshire"/>
+   <province-tuple name="Humberside" country="GB" population="874400" area="3512.0" capital="Hull" capprov="Humberside"/>
+   <province-tuple name="Isle of Wight" country="GB" population="126600" area="381.0" capital="Newport" capprov="Newport"/>
+   <province-tuple name="Kent" country="GB" population="1538800" area="3731.0" capital="Maidstone" capprov="Kent"/>
+   <province-tuple name="Lancashire" country="GB" population="1408300" area="3064.0" capital="Preston" capprov="Lancashire"/>
+   <province-tuple name="Leicestershire" country="GB" population="890800" area="2553.0" capital="Leichester" capprov="Leicestershire"/>
+   <province-tuple name="Lincolnshire" country="GB" population="592600" area="5915.0" capital="Lincoln" capprov="Lincolnshire"/>
+   <province-tuple name="Merseyside" country="GB" population="1441100" area="652.0" capital="Liverpool" capprov="Merseyside"/>
+   <province-tuple name="Norfolk" country="GB" population="759400" area="5368.0" capital="Norwich" capprov="Norfolk"/>
+   <province-tuple name="Northamptonshire" country="GB" population="587100" area="2367.0" capital="Northampton" capprov="Northamptonshire"/>
+   <province-tuple name="Northumberland" country="GB" population="307100" area="5032.0" capital="Newcastle upon Tyne" capprov="Tyne and Wear"/>
+   <province-tuple name="North Yorkshire" country="GB" population="720900" area="8309.0" capital="Northallerton" capprov="North Yorkshire"/>
+   <province-tuple name="Nottinghamshire" country="GB" population="1015500" area="2164.0" capital="Nottingham" capprov="Nottinghamshire"/>
+   <province-tuple name="Oxfordshire" country="GB" population="597700" area="2608.0" capital="Oxford" capprov="Oxfordshire"/>
+   <province-tuple name="Shropshire" country="GB" population="412500" area="3490.0" capital="Shrewsbury" capprov="Shropshire"/>
+   <province-tuple name="Somerset" country="GB" population="469400" area="3451.0" capital="Taunton" capprov="Somerset"/>
+   <province-tuple name="South Yorkshire" country="GB" population="1292700" area="1560.0" capital="Barnsley" capprov="South Yorkshire"/>
+   <province-tuple name="Staffordshire" country="GB" population="1047400" area="2716.0" capital="Stafford" capprov="Staffordshire"/>
+   <province-tuple name="Suffolk" country="GB" population="661900" area="3797.0" capital="Ipswich" capprov="Suffolk"/>
+   <province-tuple name="Surrey" country="GB" population="1035500" area="1679.0" capital="Kingston" capprov="Surrey"/>
+   <province-tuple name="Tyne and Wear" country="GB" population="1125600" area="540.0" capital="Newcastle upon Tyne" capprov="Tyne and Wear"/>
+   <province-tuple name="Warwickshire" country="GB" population="489900" area="1981.0" capital="Warwick" capprov="Warwickshire"/>
+   <province-tuple name="West Midlands" country="GB" population="2619000" area="899.0" capital="Birmingham" capprov="West Midlands"/>
+   <province-tuple name="West Sussex" country="GB" population="713600" area="1989.0" capital="Chichester" capprov="West Sussex"/>
+   <province-tuple name="West Yorkshire" country="GB" population="2066200" area="2039.0" capital="Wakefield" capprov="West Yorkshire"/>
+   <province-tuple name="Wiltshire" country="GB" population="575100" area="3480.0" capital="Trowbridge" capprov="Wiltshire"/>
+   <province-tuple name="Borders" country="GB" population="105700" area="4698.0" capital="Newtown St. Boswells" capprov="Borders"/>
+   <province-tuple name="Central" country="GB" population="273400" area="2700.0" capital="Stirling" capprov="Central"/>
+   <province-tuple name="Dumfries and Galloway" country="GB" population="147800" area="6425.0" capital="Dumfries" capprov="Dumfries and Galloway"/>
+   <province-tuple name="Fife" country="GB" population="352100" area="1319.0" capital="Glenrothes" capprov="Fife"/>
+   <province-tuple name="Grampian" country="GB" population="532500" area="8752.0" capital="Aberdeen" capprov="Grampian"/>
+   <province-tuple name="Highland" country="GB" population="207500" area="26137.0" capital="Inverness" capprov="Highland"/>
+   <province-tuple name="Lothian" country="GB" population="758600" area="1770.0" capital="Edinburgh" capprov="Lothian"/>
+   <province-tuple name="Strathclyde" country="GB" population="2287800" area="13773.0" capital="Glasgow" capprov="Strathclyde"/>
+   <province-tuple name="Tayside" country="GB" population="395000" area="7643.0" capital="Dundee" capprov="Tayside"/>
+   <province-tuple name="Aberconwy and Colwyn" country="GB" population="110700" area="1130.0" capital="Colwyn Bay" capprov="Aberconwy and Colwyn"/>
+   <province-tuple name="Anglesey" country="GB" population="68500" area="719.0" capital="Llangefni" capprov="Anglesey"/>
+   <province-tuple name="Blaenau Gwent" country="GB" population="73300" area="109.0" capital="Ebbw Vale" capprov="Blaenau Gwent"/>
+   <province-tuple name="Bridgend" country="GB" population="130900" area="246.0" capital="Bridgend" capprov="Bridgend"/>
+   <province-tuple name="Caerphilly" country="GB" population="171000" area="279.0" capital="Ystrad Fawr" capprov="Caerphilly"/>
+   <province-tuple name="Cardiff" country="GB" population="306600" area="139.0" capital="Cardiff" capprov="Cardiff"/>
+   <province-tuple name="Carmarthenshire" country="GB" population="169000" area="2398.0" capital="Carmarthen" capprov="Carmarthenshire"/>
+   <province-tuple name="Ceredigion" country="GB" population="69700" area="1797.0" capital="Aberystwyth" capprov="Ceredigion"/>
+   <province-tuple name="Denbighshire" country="GB" population="91300" area="844.0" capital="Ruthin" capprov="Denbighshire"/>
+   <province-tuple name="Flintshire" country="GB" population="145300" area="437.0" capital="Mold" capprov="Flintshire"/>
+   <province-tuple name="Gwynedd" country="GB" population="117000" area="2548.0" capital="Caernarfon" capprov="Gwynedd"/>
+   <province-tuple name="Merthyr Tydfil" country="GB" population="59500" area="111.0" capital="Merthyr Tydfil" capprov="Merthyr Tydfil"/>
+   <province-tuple name="Monmouthshire" country="GB" population="84200" area="851.0" capital="Cwmbran" capprov="Monmouthshire"/>
+   <province-tuple name="Neath and Port Talbot" country="GB" population="140100" area="441.0" capital="Port Talbot" capprov="Neath and Port Talbot"/>
+   <province-tuple name="Newport" country="GB" population="137400" area="191.0" capital="Newport" capprov="Newport"/>
+   <province-tuple name="Pembrokeshire" country="GB" population="113600" area="1590.0" capital="Haverfordwest" capprov="Pembrokeshire"/>
+   <province-tuple name="Powys" country="GB" population="121800" area="5204.0" capital="Llandrindod Wells" capprov="Powys"/>
+   <province-tuple name="Rhondda Cynon Taff" country="GB" population="239000" area="424.0" capital="Rhondda" capprov="Rhondda Cynon Taff"/>
+   <province-tuple name="Swansea" country="GB" population="230900" area="378.0" capital="Swansea" capprov="Swansea"/>
+   <province-tuple name="Torfaen" country="GB" population="90600" area="126.0" capital="Pontypool" capprov="Torfaen"/>
+   <province-tuple name="Vale of Glamorgan" country="GB" population="119200" area="337.0" capital="Barry" capprov="Vale of Glamorgan"/>
+   <province-tuple name="Wrexham" country="GB" population="123500" area="499.0" capital="Wrexham" capprov="Wrexham"/>
+   <province-tuple name="Northern Ireland" country="GB" population="1594400" area="14120.0" capital="Belfast" capprov="Northern Ireland"/>
+   <province-tuple name="Orkneys" country="GB" population="19590" area="992.0" capital="Kirkwall" capprov="Orkneys"/>
+   <province-tuple name="Outer Hebrides" country="GB" population="26370" area="3071.0" capital="Stornoway" capprov="Outer Hebrides"/>
+   <province-tuple name="Shetland" country="GB" population="22000" area="1466.0" capital="Lerwick" capprov="Shetland"/>
+   <province-tuple name="Afghanistan" country="AFG" population="22664136" area="MISSING" capital="Kabul" capprov="Afghanistan"/>
+   <province-tuple name="Anhui" country="TJ" population="59550000" area="139000.0" capital="Hefei" capprov="Anhui"/>
+   <province-tuple name="Fujian" country="TJ" population="31830000" area="120000.0" capital="Fuzhou" capprov="Fujian"/>
+   <province-tuple name="Gansu" country="TJ" population="23780000" area="450000.0" capital="Lanzhou" capprov="Gansu"/>
+   <province-tuple name="Guangdong" country="TJ" population="66890000" area="186000.0" capital="Guangzhou" capprov="Guangdong"/>
+   <province-tuple name="Guizhou" country="TJ" population="34580000" area="170000.0" capital="Guiyang" capprov="Guizhou"/>
+   <province-tuple name="Hainan" country="TJ" population="7110000" area="34000.0" capital="Haikou" capprov="Hainan"/>
+   <province-tuple name="Hebei" country="TJ" population="63880000" area="190000.0" capital="Shijiazhuang" capprov="Hebei"/>
+   <province-tuple name="Heilongjiang" country="TJ" population="36720000" area="469000.0" capital="Harbin" capprov="Heilongjiang"/>
+   <province-tuple name="Henan" country="TJ" population="90270000" area="167000.0" capital="Zhengzhou" capprov="Henan"/>
+   <province-tuple name="Hubei" country="TJ" population="57190000" area="187400.0" capital="Wuhan" capprov="Hubei"/>
+   <province-tuple name="Hunan" country="TJ" population="63550000" area="210000.0" capital="Changsha" capprov="Hunan"/>
+   <province-tuple name="Jiangsu" country="TJ" population="70210000" area="102600.0" capital="Nanjing" capprov="Jiangsu"/>
+   <province-tuple name="Jiangxi" country="TJ" population="40150000" area="166600.0" capital="Nanchang" capprov="Jiangxi"/>
+   <province-tuple name="Jilin" country="TJ" population="25740000" area="187000.0" capital="Changchun" capprov="Jilin"/>
+   <province-tuple name="Liaoning" country="TJ" population="40670000" area="145700.0" capital="Shenyang" capprov="Liaoning"/>
+   <province-tuple name="Qinghai" country="TJ" population="4740000" area="720000.0" capital="Xining" capprov="Qinghai"/>
+   <province-tuple name="Shaanxi" country="TJ" population="34810000" area="205000.0" capital="Xian" capprov="Shaanxi"/>
+   <province-tuple name="Shandong" country="TJ" population="86710000" area="153000.0" capital="Jinan" capprov="Shandong"/>
+   <province-tuple name="Shanxi" country="TJ" population="30450000" area="156000.0" capital="Taiyuan" capprov="Shanxi"/>
+   <province-tuple name="Sichuan" country="TJ" population="112140000" area="570000.0" capital="Chengdu" capprov="Sichuan"/>
+   <province-tuple name="Yunnan" country="TJ" population="39390000" area="394000.0" capital="Kunming" capprov="Yunnan"/>
+   <province-tuple name="Zhejiang" country="TJ" population="42940000" area="101800.0" capital="Hangzhou" capprov="Zhejiang"/>
+   <province-tuple name="Guangxi Zhuangzu" country="TJ" population="44930000" area="236300.0" capital="Nanning" capprov="Guangxi Zhuangzu"/>
+   <province-tuple name="Nei Monggol" country="TJ" population="22600000" area="1183000.0" capital="Hohhot" capprov="Nei Monggol"/>
+   <province-tuple name="Ningxia Huizu" country="TJ" population="5040000" area="66400.0" capital="Yinchuan" capprov="Ningxia Huizu"/>
+   <province-tuple name="Xinjiang Uygur" country="TJ" population="16320000" area="1600000.0" capital="Urumqi" capprov="Xinjiang Uygur"/>
+   <province-tuple name="Tibet" country="TJ" population="2360000" area="1220000.0" capital="Lhasa" capprov="Tibet"/>
+   <province-tuple name="Beijing (munic.)" country="TJ" population="11250000" area="16800.0" capital="Beijing" capprov="Beijing (munic.)"/>
+   <province-tuple name="Shanghai (munic.)" country="TJ" population="13560000" area="6200.0" capital="Shanghai" capprov="Shanghai (munic.)"/>
+   <province-tuple name="Tianjin (munic.)" country="TJ" population="9350000" area="11300.0" capital="Tianjin" capprov="Tianjin (munic.)"/>
+   <province-tuple name="Azarbayian e Gharbt" country="IR" population="2284208" area="38850.0" capital="Orumiyeh" capprov="Azarbayian e Gharbt"/>
+   <province-tuple name="Azarbayian e Sharqi" country="IR" population="4420343" area="67102.0" capital="Tabriz" capprov="Azarbayian e Sharqi"/>
+   <province-tuple name="Bakhtaran" country="IR" population="1622159" area="23667.0" capital="Bakhtaran" capprov="Bakhtaran"/>
+   <province-tuple name="Boyer Ahmad e Kohkiluyeh" country="IR" population="496739" area="14261.0" capital="Yasuj" capprov="Boyer Ahmad e Kohkiluyeh"/>
+   <province-tuple name="Bushehr" country="IR" population="694252" area="27653.0" capital="Bushehr" capprov="Bushehr"/>
+   <province-tuple name="Chahar Mahal e Bakhtiari" country="IR" population="747297" area="14870.0" capital="Shahr e Kord" capprov="Chahar Mahal e Bakhtiari"/>
+   <province-tuple name="Esfahan" country="IR" population="3682444" area="104650.0" capital="Esfahan" capprov="Esfahan"/>
+   <province-tuple name="Fars" country="IR" population="3543828" area="133298.0" capital="Shiraz" capprov="Fars"/>
+   <province-tuple name="Gilan" country="IR" population="2204047" area="14709.0" capital="Rasht" capprov="Gilan"/>
+   <province-tuple name="Hamadan" country="IR" population="1651320" area="19784.0" capital="Hamadan" capprov="Hamadan"/>
+   <province-tuple name="Hormozgan" country="IR" population="924433" area="66780.0" capital="Bandar Abbas" capprov="Hormozgan"/>
+   <province-tuple name="Ilam" country="IR" population="440693" area="19044.0" capital="Ilam" capprov="Ilam"/>
+   <province-tuple name="Kerman" country="IR" population="1862542" area="179916.0" capital="Kerman" capprov="Kerman"/>
+   <province-tuple name="Khorasan" country="IR" population="6013200" area="313337.0" capital="Mashhad" capprov="Khorasan"/>
+   <province-tuple name="Khuzestan" country="IR" population="3175852" area="67282.0" capital="Ahvaz" capprov="Khuzestan"/>
+   <province-tuple name="Kordestan" country="IR" population="1233480" area="24998.0" capital="Sanandaj" capprov="Kordestan"/>
+   <province-tuple name="Lorestan" country="IR" population="1501778" area="28803.0" capital="Khorramabad" capprov="Lorestan"/>
+   <province-tuple name="Markazi" country="IR" population="1182611" area="29080.0" capital="Arak" capprov="Markazi"/>
+   <province-tuple name="Mazandaran" country="IR" population="3793149" area="46456.0" capital="Sari" capprov="Mazandaran"/>
+   <province-tuple name="Semnan" country="IR" population="458125" area="90905.0" capital="Semnan" capprov="Semnan"/>
+   <province-tuple name="Sistan e Baluchestan" country="IR" population="1455102" area="181578.0" capital="Zahedan" capprov="Sistan e Baluchestan"/>
+   <province-tuple name="Tehran" country="IR" population="9982309" area="29993.0" capital="Tehran" capprov="Tehran"/>
+   <province-tuple name="Yazd" country="IR" population="691119" area="70011.0" capital="Yazd" capprov="Yazd"/>
+   <province-tuple name="Zanjan" country="IR" population="1776133" area="36398.0" capital="Zanjan" capprov="Zanjan"/>
+   <province-tuple name="Pakistan" country="PK" population="129275660" area="MISSING" capital="Islamabad" capprov="Pakistan"/>
+   <province-tuple name="Khujand" country="TAD" population="1635900" area="26100.0" capital="Khujand" capprov="Khujand"/>
+   <province-tuple name="Kulob" country="TAD" population="668100" area="12000.0" capital="Kulob" capprov="Kulob"/>
+   <province-tuple name="Khatlon" country="TAD" population="1113500" area="12600.0" capital="Qurghonteppa" capprov="Khatlon"/>
+   <province-tuple name="Badakhshoni Kuni" country="TAD" population="167100" area="63700.0" capital="Khorugh" capprov="Badakhshoni Kuni"/>
+   <province-tuple name="Dushanbe (munic.)" country="TAD" population="591900" area="300.0" capital="Dushanbe" capprov="Dushanbe (munic.)"/>
+   <province-tuple name="Ahal" country="TM" population="416400" area="0.0" capital="Ashgabat" capprov="Ahal"/>
+   <province-tuple name="Balkan" country="TM" population="925500" area="233900.0" capital="Nebitdag" capprov="Balkan"/>
+   <province-tuple name="Dashhowuz" country="TM" population="738000" area="73600.0" capital="Tashauz" capprov="Dashhowuz"/>
+   <province-tuple name="Leban" country="TM" population="774700" area="93800.0" capital="Charjew" capprov="Leban"/>
+   <province-tuple name="Mary" country="TM" population="859500" area="86800.0" capital="Mary" capprov="Mary"/>
+   <province-tuple name="Andijon" country="UZB" population="1899000" area="4200.0" capital="Andijon" capprov="Andijon"/>
+   <province-tuple name="Bukhoro" country="UZB" population="1262000" area="39400.0" capital="Bukhoro" capprov="Bukhoro"/>
+   <province-tuple name="Farghona" country="UZB" population="2338000" area="7100.0" capital="Farghona" capprov="Farghona"/>
+   <province-tuple name="Jizzakh" country="UZB" population="831000" area="20500.0" capital="Jizzakh" capprov="Jizzakh"/>
+   <province-tuple name="Khorazm" country="UZB" population="1135000" area="6300.0" capital="Urganch" capprov="Khorazm"/>
+   <province-tuple name="Namangan" country="UZB" population="1652000" area="7900.0" capital="Namangan" capprov="Namangan"/>
+   <province-tuple name="Nawoiy" country="UZB" population="715000" area="110800.0" capital="Nawoiy" capprov="Nawoiy"/>
+   <province-tuple name="Qasqadare" country="UZB" population="1812000" area="28400.0" capital="Qarshi" capprov="Qasqadare"/>
+   <province-tuple name="Samarqand" country="UZB" population="2322000" area="16400.0" capital="Samarqand" capprov="Samarqand"/>
+   <province-tuple name="Sirdare" country="UZB" population="600000" area="5100.0" capital="Guliston" capprov="Sirdare"/>
+   <province-tuple name="Surkhondare" country="UZB" population="1437000" area="20800.0" capital="Termiz" capprov="Surkhondare"/>
+   <province-tuple name="Toshkent" country="UZB" population="4450000" area="15600.0" capital="Tashkent" capprov="Toshkent"/>
+   <province-tuple name="Qaraqalpoghiston" country="UZB" population="1343000" area="164900.0" capital="Nukus" capprov="Qaraqalpoghiston"/>
+   <province-tuple name="Armenia" country="ARM" population="3463574" area="MISSING" capital="Yerevan" capprov="Armenia"/>
+   <province-tuple name="Georgia" country="GE" population="5219810" area="MISSING" capital="Tbilisi" capprov="Georgia"/>
+   <province-tuple name="Azerbaijan" country="AZ" population="7676953" area="MISSING" capital="Baku" capprov="Azerbaijan"/>
+   <province-tuple name="Bahrain" country="BRN" population="590042" area="MISSING" capital="Manama" capprov="Bahrain"/>
+   <province-tuple name="Bangladesh" country="BD" population="123062800" area="MISSING" capital="Dhaka" capprov="Bangladesh"/>
+   <province-tuple name="Ayeyarwady" country="MYA" population="4994100" area="35138.0" capital="Pathein" capprov="Ayeyarwady"/>
+   <province-tuple name="Magway" country="MYA" population="3243200" area="44820.0" capital="Magway" capprov="Magway"/>
+   <province-tuple name="Mandalay" country="MYA" population="4577800" area="37024.0" capital="Mandalay" capprov="Mandalay"/>
+   <province-tuple name="Bago" country="MYA" population="3799800" area="39404.0" capital="Bago" capprov="Bago"/>
+   <province-tuple name="Yangon" country="MYA" population="3965900" area="10171.0" capital="Rangoon" capprov="Yangon"/>
+   <province-tuple name="Sagaing" country="MYA" population="3862200" area="94625.0" capital="Sagaing" capprov="Sagaing"/>
+   <province-tuple name="Tanintharyi" country="MYA" population="917200" area="43343.0" capital="Tavoy" capprov="Tanintharyi"/>
+   <province-tuple name="Chin" country="MYA" population="368900" area="36019.0" capital="Hakha" capprov="Chin"/>
+   <province-tuple name="Kachin" country="MYA" population="904800" area="89041.0" capital="Myitkyina" capprov="Kachin"/>
+   <province-tuple name="Kayin" country="MYA" population="1055400" area="30383.0" capital="Hpa an" capprov="Kayin"/>
+   <province-tuple name="Kayah" country="MYA" population="168400" area="11733.0" capital="Loikaw" capprov="Kayah"/>
+   <province-tuple name="Mon" country="MYA" population="1680200" area="12297.0" capital="Moulmein" capprov="Mon"/>
+   <province-tuple name="Rakhine" country="MYA" population="2045600" area="36778.0" capital="Akyab" capprov="Rakhine"/>
+   <province-tuple name="Shan" country="MYA" population="3716800" area="155801.0" capital="Taunggyi" capprov="Shan"/>
+   <province-tuple name="Andhra Pradesh" country="IND" population="66508008" area="275045.0" capital="Hyderabad" capprov="Andhra Pradesh"/>
+   <province-tuple name="Arunachal Pradesh" country="IND" population="864558" area="83743.0" capital="Itanagar" capprov="Arunachal Pradesh"/>
+   <province-tuple name="Assam" country="IND" population="22414322" area="78438.0" capital="Dispur" capprov="Assam"/>
+   <province-tuple name="Bihar" country="IND" population="86374465" area="173877.0" capital="Patna" capprov="Bihar"/>
+   <province-tuple name="Goa" country="IND" population="1169793" area="3702.0" capital="Panaji" capprov="Goa"/>
+   <province-tuple name="Gujarat" country="IND" population="41309582" area="196024.0" capital="Gandhinagar" capprov="Gujarat"/>
+   <province-tuple name="Haryana" country="IND" population="16463648" area="44212.0" capital="Chandigarh" capprov="Chandigarh"/>
+   <province-tuple name="Himachal Pradesh" country="IND" population="5170877" area="55673.0" capital="Simla" capprov="Himachal Pradesh"/>
+   <province-tuple name="Jammu and Kashmir" country="IND" population="7718700" area="101387.0" capital="Srinagar" capprov="Jammu and Kashmir"/>
+   <province-tuple name="Karnataka" country="IND" population="44977201" area="191791.0" capital="Bangalore" capprov="Karnataka"/>
+   <province-tuple name="Kerala" country="IND" population="29098518" area="38863.0" capital="Trivandrum" capprov="Kerala"/>
+   <province-tuple name="Madhya Pradesh" country="IND" population="66181170" area="443446.0" capital="Bhopal" capprov="Madhya Pradesh"/>
+   <province-tuple name="Maharashtra" country="IND" population="78937187" area="307713.0" capital="Bombay" capprov="Maharashtra"/>
+   <province-tuple name="Manipur" country="IND" population="1837149" area="22327.0" capital="Imphal" capprov="Manipur"/>
+   <province-tuple name="Meghalaya" country="IND" population="1774778" area="22429.0" capital="Shillong" capprov="Meghalaya"/>
+   <province-tuple name="Mizoram" country="IND" population="689756" area="21081.0" capital="Aijal" capprov="Mizoram"/>
+   <province-tuple name="Nagaland" country="IND" population="1209546" area="16579.0" capital="Kohima" capprov="Nagaland"/>
+   <province-tuple name="Orissa" country="IND" population="31659736" area="155707.0" capital="Bhubaneswar" capprov="Orissa"/>
+   <province-tuple name="Punjab" country="IND" population="20281969" area="50362.0" capital="Chandigarh" capprov="Chandigarh"/>
+   <province-tuple name="Rajasthan" country="IND" population="44005990" area="342239.0" capital="Jaipur" capprov="Rajasthan"/>
+   <province-tuple name="Sikkim" country="IND" population="406457" area="7096.0" capital="Gangtok" capprov="Sikkim"/>
+   <province-tuple name="Tamil Nadu" country="IND" population="55858946" area="130058.0" capital="Madras" capprov="Tamil Nadu"/>
+   <province-tuple name="Tripura" country="IND" population="2757205" area="10486.0" capital="Agartala" capprov="Tripura"/>
+   <province-tuple name="Uttar Pradesh" country="IND" population="139112287" area="294411.0" capital="Lucknow" capprov="Uttar Pradesh"/>
+   <province-tuple name="West Bengal" country="IND" population="68077965" area="88752.0" capital="Calcutta" capprov="West Bengal"/>
+   <province-tuple name="Andaman and Nicobar Is." country="IND" population="280661" area="8249.0" capital="Port Blair" capprov="Andaman and Nicobar Is."/>
+   <province-tuple name="Chandigarh" country="IND" population="642015" area="114.0" capital="Chandigarh" capprov="Chandigarh"/>
+   <province-tuple name="Dadra and Nagar Haveli" country="IND" population="138477" area="491.0" capital="Silvassa" capprov="Dadra and Nagar Haveli"/>
+   <province-tuple name="Daman and Diu" country="IND" population="101586" area="112.0" capital="Daman" capprov="Daman and Diu"/>
+   <province-tuple name="Delhi" country="IND" population="9420644" area="1483.0" capital="New Delhi" capprov="Delhi"/>
+   <province-tuple name="Lakshadweep Is." country="IND" population="51707" area="32.0" capital="Kavaratti" capprov="Lakshadweep Is."/>
+   <province-tuple name="Pondicherry" country="IND" population="807785" area="492.0" capital="Pondicherry" capprov="Pondicherry"/>
+   <province-tuple name="Bhutan" country="BHT" population="1822625" area="MISSING" capital="Thimphu" capprov="Bhutan"/>
+   <province-tuple name="Brunei" country="BRU" population="299939" area="MISSING" capital="Bandar Seri Begawan" capprov="Brunei"/>
+   <province-tuple name="Johor" country="MAL" population="2074297" area="18986.0" capital="Johor Baharu" capprov="Johor"/>
+   <province-tuple name="Kedah" country="MAL" population="1304800" area="9426.0" capital="Alor Setar" capprov="Kedah"/>
+   <province-tuple name="Kelantan" country="MAL" population="1181680" area="14943.0" capital="Kota Baharu" capprov="Kelantan"/>
+   <province-tuple name="Melaka" country="MAL" population="504502" area="1650.0" capital="Melaka" capprov="Melaka"/>
+   <province-tuple name="Negeri Sembilan" country="MAL" population="691150" area="6643.0" capital="Seremban" capprov="Negeri Sembilan"/>
+   <province-tuple name="Pahang" country="MAL" population="1036724" area="35965.0" capital="Kuantan" capprov="Pahang"/>
+   <province-tuple name="Perak" country="MAL" population="1880016" area="21005.0" capital="Ipoh" capprov="Perak"/>
+   <province-tuple name="Perlis" country="MAL" population="184070" area="795.0" capital="Kangar" capprov="Perlis"/>
+   <province-tuple name="Pulau Pinang" country="MAL" population="1065075" area="1031.0" capital="Penang" capprov="Pulau Pinang"/>
+   <province-tuple name="Sabah" country="MAL" population="1736902" area="73620.0" capital="Kota Kinabalu" capprov="Sabah"/>
+   <province-tuple name="Sarawak" country="MAL" population="1648217" area="124449.0" capital="Kuching" capprov="Sarawak"/>
+   <province-tuple name="Selangor" country="MAL" population="2289236" area="7956.0" capital="Shah Alam" capprov="Selangor"/>
+   <province-tuple name="Terengganu" country="MAL" population="770931" area="12955.0" capital="Kuala Terengganu" capprov="Terengganu"/>
+   <province-tuple name="Fed. Terr. of Kuala Lumpur" country="MAL" population="1145075" area="243.0" capital="Kuala Lumpur" capprov="Fed. Terr. of Kuala Lumpur"/>
+   <province-tuple name="Fed. Terr. of Labuan" country="MAL" population="54307" area="91.0" capital="Labuan" capprov="Fed. Terr. of Labuan"/>
+   <province-tuple name="Laos" country="LAO" population="4975772" area="MISSING" capital="Vientiane" capprov="Laos"/>
+   <province-tuple name="Thailand" country="THA" population="58851357" area="MISSING" capital="Bangkok" capprov="Thailand"/>
+   <province-tuple name="Cambodia" country="K" population="10861218" area="MISSING" capital="Phnom Penh" capprov="Cambodia"/>
+   <province-tuple name="Vietnam" country="VN" population="73976973" area="MISSING" capital="Hanoi" capprov="Vietnam"/>
+   <province-tuple name="Almaty" country="KAZ" population="963100" area="105700.0" capital="Almaty" capprov="Almaty (munic.)"/>
+   <province-tuple name="Aqmola" country="KAZ" population="845700" area="92000.0" capital="Aqmola" capprov="Aqmola"/>
+   <province-tuple name="Aqtobe" country="KAZ" population="752800" area="300600.0" capital="Aqtobe" capprov="Aqtobe"/>
+   <province-tuple name="Atyrau" country="KAZ" population="459600" area="118600.0" capital="Atyrau" capprov="Atyrau"/>
+   <province-tuple name="Batys Qazaqstan" country="KAZ" population="669800" area="151300.0" capital="Oral" capprov="Batys Qazaqstan"/>
+   <province-tuple name="Kokchetau" country="KAZ" population="657000" area="78200.0" capital="Kokchetau" capprov="Kokchetau"/>
+   <province-tuple name="Mangghystau" country="KAZ" population="324400" area="165600.0" capital="Aqtau" capprov="Mangghystau"/>
+   <province-tuple name="Ongtustik Qazaqstan" country="KAZ" population="1987800" area="117300.0" capital="Shymkent" capprov="Ongtustik Qazaqstan"/>
+   <province-tuple name="Pavlodar" country="KAZ" population="943600" area="124800.0" capital="Pavlodar" capprov="Pavlodar"/>
+   <province-tuple name="Qaraghandy" country="KAZ" population="1270100" area="115400.0" capital="Karaganda" capprov="Qaraghandy"/>
+   <province-tuple name="Qostanay" country="KAZ" population="1055300" area="113900.0" capital="Qostanay" capprov="Qostanay"/>
+   <province-tuple name="Qyzylorda" country="KAZ" population="606100" area="226000.0" capital="Qyzylorda" capprov="Qyzylorda"/>
+   <province-tuple name="Semey" country="KAZ" population="811000" area="185800.0" capital="Semey" capprov="Semey"/>
+   <province-tuple name="Shyghys Qazaqstan" country="KAZ" population="939500" area="97500.0" capital="Oskemen" capprov="Shyghys Qazaqstan"/>
+   <province-tuple name="Soltustik Qazaqstan" country="KAZ" population="600900" area="45000.0" capital="Petropavl" capprov="Soltustik Qazaqstan"/>
+   <province-tuple name="Taldyqorghan" country="KAZ" population="721500" area="118500.0" capital="Taldyqorghan" capprov="Taldyqorghan"/>
+   <province-tuple name="Torghay" country="KAZ" population="305900" area="111800.0" capital="Arqalyq" capprov="Torghay"/>
+   <province-tuple name="Zhambyl" country="KAZ" population="1039600" area="144300.0" capital="Zhambyl" capprov="Zhambyl"/>
+   <province-tuple name="Zhezkazghan" country="KAZ" population="484400" area="312600.0" capital="Zhezkazghan" capprov="Zhezkazghan"/>
+   <province-tuple name="Almaty (munic.)" country="KAZ" population="1172400" area="0.0" capital="Almaty" capprov="Almaty (munic.)"/>
+   <province-tuple name="Leninsk (munic.)" country="KAZ" population="68600" area="0.0" capital="Leninsk" capprov="Leninsk (munic.)"/>
+   <province-tuple name="North Korea" country="NOK" population="23904124" area="MISSING" capital="Pyongyang" capprov="North Korea"/>
+   <province-tuple name="Kyrgyzstan" country="KGZ" population="4529648" area="MISSING" capital="Bishkek" capprov="Kyrgyzstan"/>
+   <province-tuple name="Hong Kong" country="HONX" population="7055071" area="MISSING" capital="Hong Kong" capprov="Hong Kong"/>
+   <province-tuple name="Macau" country="MACX" population="496837" area="MISSING" capital="Macau" capprov="Macau"/>
+   <province-tuple name="Mongolia" country="MNG" population="2496617" area="MISSING" capital="Ulaanbaatar" capprov="Mongolia"/>
+   <province-tuple name="Nepal" country="NEP" population="22094033" area="MISSING" capital="Kathmandu" capprov="Nepal"/>
+   <province-tuple name="Christmas Island" country="XMAS" population="1402" area="MISSING" capital="Flying Fish Cove" capprov="Christmas Island"/>
+   <province-tuple name="Cocos Islands" country="COCO" population="596" area="MISSING" capital="West Island" capprov="Cocos Islands"/>
+   <province-tuple name="Cyprus" country="CY" population="744609" area="MISSING" capital="Nicosia" capprov="Cyprus"/>
+   <province-tuple name="Gaza Strip" country="GAZA" population="813332" area="MISSING" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Central" country="IL" population="938000" area="1242.0" capital="Ramla" capprov="Central"/>
+   <province-tuple name="Haifa" country="IL" population="602800" area="854.0" capital="Haifa" capprov="Haifa"/>
+   <province-tuple name="North" country="IL" population="739500" area="4501.0" capital="Nazareth" capprov="North"/>
+   <province-tuple name="Tel Aviv" country="IL" population="1029700" area="170.0" capital="Tel Aviv" capprov="Tel Aviv"/>
+   <province-tuple name="South" country="IL" population="529300" area="14107.0" capital="Beer Sheva" capprov="South"/>
+   <province-tuple name="El Bahr el Ahmar" country="ET" population="108000" area="203685.0" capital="Hurghada" capprov="El Bahr el Ahmar"/>
+   <province-tuple name="Matruh" country="ET" population="182000" area="212112.0" capital="Marsa Matruh" capprov="Matruh"/>
+   <province-tuple name="Sina al Janubiyah" country="ET" population="33000" area="33140.0" capital="El Tur" capprov="Sina al Janubiyah"/>
+   <province-tuple name="Sina ash Shamaliyah" country="ET" population="196000" area="27574.0" capital="El Arish" capprov="Sina ash Shamaliyah"/>
+   <province-tuple name="El Wadi el Jadid" country="ET" population="126000" area="376505.0" capital="El Kharga" capprov="El Wadi el Jadid"/>
+   <province-tuple name="El Buhayra" country="ET" population="3602000" area="10130.0" capital="Damanhur" capprov="El Buhayra"/>
+   <province-tuple name="El Daqahliya" country="ET" population="3828000" area="3471.0" capital="El Mansura" capprov="El Daqahliya"/>
+   <province-tuple name="Dumyat" country="ET" population="808000" area="589.0" capital="Dumyat" capprov="Dumyat"/>
+   <province-tuple name="El Gharbiya" country="ET" population="3113000" area="1942.0" capital="Tanta" capprov="El Gharbiya"/>
+   <province-tuple name="Ismailiya" country="ET" population="623000" area="1442.0" capital="Ismailiya" capprov="Ismailiya"/>
+   <province-tuple name="Kafr el Sheikh" country="ET" population="1968000" area="3437.0" capital="Kafr el Sheikh" capprov="Kafr el Sheikh"/>
+   <province-tuple name="El Minufiya" country="ET" population="2449000" area="1532.0" capital="Shibin el Kom" capprov="El Minufiya"/>
+   <province-tuple name="El Qalubiya" country="ET" population="2868000" area="1001.0" capital="Benha" capprov="El Qalubiya"/>
+   <province-tuple name="Sharqiya" country="ET" population="3766000" area="4180.0" capital="Zagazig" capprov="Sharqiya"/>
+   <province-tuple name="Aswan" country="ET" population="883000" area="679.0" capital="Aswan" capprov="Aswan"/>
+   <province-tuple name="Asyut" country="ET" population="2456000" area="1553.0" capital="Asyut" capprov="Asyut"/>
+   <province-tuple name="Beni Suef" country="ET" population="1586000" area="1322.0" capital="Beni Suef" capprov="Beni Suef"/>
+   <province-tuple name="El Faiyum" country="ET" population="1720000" area="1827.0" capital="El Faiyum" capprov="El Faiyum"/>
+   <province-tuple name="El Giza" country="ET" population="4265000" area="85153.0" capital="El Giza" capprov="El Giza"/>
+   <province-tuple name="El Minya" country="ET" population="2916000" area="2262.0" capital="El Minya" capprov="El Minya"/>
+   <province-tuple name="Qena" country="ET" population="2493000" area="1851.0" capital="Qena" capprov="Qena"/>
+   <province-tuple name="Sohag" country="ET" population="2689000" area="1547.0" capital="Sohag" capprov="Sohag"/>
+   <province-tuple name="Bur Said (munic.)" country="ET" population="461000" area="72.0" capital="Bur Said" capprov="Bur Said (munic.)"/>
+   <province-tuple name="El Iskandariya" country="ET" population="3170000" area="2679.0" capital="Alexandria" capprov="El Iskandariya"/>
+   <province-tuple name="El Qahira" country="ET" population="6452000" area="214.0" capital="Cairo" capprov="El Qahira"/>
+   <province-tuple name="El Suweiz" country="ET" population="392000" area="17840.0" capital="El Suweiz" capprov="El Suweiz"/>
+   <province-tuple name="Indonesia" country="RI" population="206611600" area="MISSING" capital="Jakarta" capprov="Indonesia"/>
+   <province-tuple name="Timor-Leste" country="TL" population="1131612" area="MISSING" capital="Dili" capprov="Timor-Leste"/>
+   <province-tuple name="Papua New Guinea" country="PNG" population="4394537" area="MISSING" capital="Port Moresby" capprov="Papua New Guinea"/>
+   <province-tuple name="Al Anbar" country="IRQ" population="817868" area="138501.0" capital="Ar Ramadi" capprov="Al Anbar"/>
+   <province-tuple name="Babil" country="IRQ" population="1108773" area="6468.0" capital="Al Hillah" capprov="Babil"/>
+   <province-tuple name="Baghdad" country="IRQ" population="4648609" area="734.0" capital="Baghdad" capprov="Baghdad"/>
+   <province-tuple name="Al Basrah" country="IRQ" population="872211" area="19070.0" capital="Al Basrah" capprov="Al Basrah"/>
+   <province-tuple name="Dhi Qar" country="IRQ" population="917880" area="12900.0" capital="An Nasiriyah" capprov="Dhi Qar"/>
+   <province-tuple name="Diyala" country="IRQ" population="955112" area="19076.0" capital="Baqubah" capprov="Diyala"/>
+   <province-tuple name="Karbala" country="IRQ" population="455868" area="5034.0" capital="Karbala" capprov="Karbala"/>
+   <province-tuple name="Maysan" country="IRQ" population="499842" area="16072.0" capital="Al Amarah" capprov="Maysan"/>
+   <province-tuple name="Al Muthanna" country="IRQ" population="312911" area="51740.0" capital="As Samawah" capprov="Al Muthanna"/>
+   <province-tuple name="An Najaf" country="IRQ" population="583493" area="28824.0" capital="An Najaf" capprov="An Najaf"/>
+   <province-tuple name="Ninawa" country="IRQ" population="1507926" area="35899.0" capital="Mosul" capprov="Ninawa"/>
+   <province-tuple name="Al Qadisiyah" country="IRQ" population="560797" area="8153.0" capital="Diwaniyah" capprov="Al Qadisiyah"/>
+   <province-tuple name="Salah ad Din" country="IRQ" population="723500" area="26175.0" capital="Samarra" capprov="Salah ad Din"/>
+   <province-tuple name="Ad Tamim" country="IRQ" population="592869" area="10282.0" capital="Kirkuk" capprov="Ad Tamim"/>
+   <province-tuple name="Wasit" country="IRQ" population="546676" area="17153.0" capital="Al Kut" capprov="Wasit"/>
+   <province-tuple name="Dahuk" country="IRQ" population="292931" area="6553.0" capital="Dahuk" capprov="Dahuk"/>
+   <province-tuple name="Arbil" country="IRQ" population="742538" area="14471.0" capital="Arbil" capprov="Arbil"/>
+   <province-tuple name="As Sulaymaniyah" country="IRQ" population="942513" area="17023.0" capital="As Sulaymaniyah" capprov="As Sulaymaniyah"/>
+   <province-tuple name="Jordan" country="JOR" population="4212152" area="MISSING" capital="Amman" capprov="Jordan"/>
+   <province-tuple name="Kuwait" country="KWT" population="1950047" area="MISSING" capital="Kuwait" capprov="Kuwait"/>
+   <province-tuple name="Saudi Arabia" country="SA" population="19409058" area="MISSING" capital="Riyadh" capprov="Saudi Arabia"/>
+   <province-tuple name="Syria" country="SYR" population="15608648" area="MISSING" capital="Damascus" capprov="Syria"/>
+   <province-tuple name="Lebanon" country="RL" population="3776317" area="MISSING" capital="Beirut" capprov="Lebanon"/>
+   <province-tuple name="West Bank" country="WEST" population="1427741" area="MISSING" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Hokkaido" country="J" population="5692321" area="83519.0" capital="Sapporo" capprov="Hokkaido"/>
+   <province-tuple name="Aomori" country="J" population="1481663" area="9619.0" capital="Aomori" capprov="Aomori"/>
+   <province-tuple name="Iwate" country="J" population="1419505" area="15277.0" capital="Morioka" capprov="Iwate"/>
+   <province-tuple name="Miyagi" country="J" population="2328739" area="7292.0" capital="Sendai" capprov="Miyagi"/>
+   <province-tuple name="Akita" country="J" population="1213667" area="11612.0" capital="Akita" capprov="Akita"/>
+   <province-tuple name="Yamagata" country="J" population="1256958" area="9327.0" capital="Yamagata" capprov="Yamagata"/>
+   <province-tuple name="Fukushima" country="J" population="2133592" area="13784.0" capital="Fukushima" capprov="Fukushima"/>
+   <province-tuple name="Ibaraki" country="J" population="2955530" area="6094.0" capital="Mito" capprov="Ibaraki"/>
+   <province-tuple name="Tochigi" country="J" population="1984390" area="6414.0" capital="Utsonomiya" capprov="Tochigi"/>
+   <province-tuple name="Gumma" country="J" population="2003540" area="6356.0" capital="Maebashi" capprov="Gumma"/>
+   <province-tuple name="Saitama" country="J" population="6759311" area="3799.0" capital="Urawa" capprov="Saitama"/>
+   <province-tuple name="Chiba" country="J" population="5797782" area="5150.0" capital="Chiba" capprov="Chiba"/>
+   <province-tuple name="Tokyo" country="J" population="11773605" area="2164.0" capital="Tokyo" capprov="Tokyo"/>
+   <province-tuple name="Kanagawa" country="J" population="8245900" area="2402.0" capital="Yokohama" capprov="Kanagawa"/>
+   <province-tuple name="Niigata" country="J" population="2488364" area="12579.0" capital="Niigata" capprov="Niigata"/>
+   <province-tuple name="Toyama" country="J" population="1123125" area="4252.0" capital="Toyama" capprov="Toyama"/>
+   <province-tuple name="Ishikawa" country="J" population="1180068" area="4197.0" capital="Kanazawa" capprov="Ishikawa"/>
+   <province-tuple name="Fukui" country="J" population="826996" area="4192.0" capital="Fukui" capprov="Fukui"/>
+   <province-tuple name="Yamanashi" country="J" population="881996" area="4463.0" capital="Kofu" capprov="Yamanashi"/>
+   <province-tuple name="Nagano" country="J" population="2193984" area="13585.0" capital="Nagano" capprov="Nagano"/>
+   <province-tuple name="Gifu" country="J" population="2100315" area="10596.0" capital="Gifu" capprov="Gifu"/>
+   <province-tuple name="Shizuoka" country="J" population="3737689" area="7773.0" capital="Shizuoka" capprov="Shizuoka"/>
+   <province-tuple name="Aichi" country="J" population="6868336" area="5138.0" capital="Nagoya" capprov="Aichi"/>
+   <province-tuple name="Mie" country="J" population="1841358" area="5778.0" capital="Tsu" capprov="Mie"/>
+   <province-tuple name="Shiga" country="J" population="1287005" area="4016.0" capital="Otsu" capprov="Shiga"/>
+   <province-tuple name="Kyoto" country="J" population="2629592" area="4613.0" capital="Kyoto" capprov="Kyoto"/>
+   <province-tuple name="Osaka" country="J" population="8797268" area="1868.0" capital="Osaka" capprov="Osaka"/>
+   <province-tuple name="Hyogo" country="J" population="5401877" area="8381.0" capital="Kobe" capprov="Hyogo"/>
+   <province-tuple name="Nara" country="J" population="1430862" area="3692.0" capital="Nara" capprov="Nara"/>
+   <province-tuple name="Wakayama" country="J" population="1080435" area="4725.0" capital="Wakayama" capprov="Wakayama"/>
+   <province-tuple name="Tottori" country="J" population="614929" area="3494.0" capital="Tottori" capprov="Tottori"/>
+   <province-tuple name="Shimane" country="J" population="771441" area="6628.0" capital="Matsue" capprov="Shimane"/>
+   <province-tuple name="Okayama" country="J" population="1950750" area="7090.0" capital="Okayama" capprov="Okayama"/>
+   <province-tuple name="Hiroshima" country="J" population="2881748" area="8467.0" capital="Hiroshima" capprov="Hiroshima"/>
+   <province-tuple name="Yamaguchi" country="J" population="1555543" area="6106.0" capital="Yamaguchi" capprov="Yamaguchi"/>
+   <province-tuple name="Tokushima" country="J" population="832427" area="4145.0" capital="Tokushima" capprov="Tokushima"/>
+   <province-tuple name="Kagawa" country="J" population="1027006" area="1882.0" capital="Takamatsu" capprov="Kagawa"/>
+   <province-tuple name="Ehime" country="J" population="1506700" area="5672.0" capital="Matsuyama" capprov="Ehime"/>
+   <province-tuple name="Kochi" country="J" population="816704" area="7107.0" capital="Kochi" capprov="Kochi"/>
+   <province-tuple name="Fukuoka" country="J" population="4933393" area="4961.0" capital="Fukuoka" capprov="Fukuoka"/>
+   <province-tuple name="Saga" country="J" population="884316" area="2433.0" capital="Saga" capprov="Saga"/>
+   <province-tuple name="Nagasaki" country="J" population="1544934" area="4112.0" capital="Nagasaki" capprov="Nagasaki"/>
+   <province-tuple name="Kumamoto" country="J" population="1859793" area="7408.0" capital="Kumamoto" capprov="Kumamoto"/>
+   <province-tuple name="Oita" country="J" population="1231306" area="6338.0" capital="Oita" capprov="Oita"/>
+   <province-tuple name="Miyazaki" country="J" population="1175819" area="7735.0" capital="Miyazaki" capprov="Miyazaki"/>
+   <province-tuple name="Kagoshima" country="J" population="1794224" area="9166.0" capital="Kagoshima" capprov="Kagoshima"/>
+   <province-tuple name="Okinawa" country="J" population="1273440" area="2255.0" capital="Naha" capprov="Okinawa"/>
+   <province-tuple name="South Korea" country="ROK" population="45482291" area="MISSING" capital="Seoul" capprov="South Korea"/>
+   <province-tuple name="Maldives" country="MV" population="270758" area="MISSING" capital="Male" capprov="Maldives"/>
+   <province-tuple name="Oman" country="OM" population="2186548" area="MISSING" capital="Muscat" capprov="Oman"/>
+   <province-tuple name="Abu Dhabi" country="UAE" population="670000" area="67350.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Ajman" country="UAE" population="64000" area="64.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Dubayy" country="UAE" population="419000" area="419.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Al Fujayrah" country="UAE" population="54000" area="1150.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Ras al Khaymah" country="UAE" population="116000" area="1700.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Ash Shariqah" country="UAE" population="269000" area="2600.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Umm al Qaywayn" country="UAE" population="29000" area="750.0" capital="MISSING" capprov="MISSING"/>
+   <province-tuple name="Yemen" country="YE" population="13483178" area="MISSING" capital="Sanaa" capprov="Yemen"/>
+   <province-tuple name="Philippines" country="RP" population="74480848" area="MISSING" capital="Manila" capprov="Philippines"/>
+   <province-tuple name="Qatar" country="Q" population="547761" area="MISSING" capital="Doha" capprov="Qatar"/>
+   <province-tuple name="Singapore" country="SGP" population="3396924" area="MISSING" capital="Singapore" capprov="Singapore"/>
+   <province-tuple name="Sri Lanka" country="CL" population="18553074" area="MISSING" capital="Colombo" capprov="Sri Lanka"/>
+   <province-tuple name="Taiwan" country="RC" population="21465881" area="MISSING" capital="Taipei" capprov="Taiwan"/>
+   <province-tuple name="Anguilla" country="AXA" population="14436" area="MISSING" capital="The Valley" capprov="Anguilla"/>
+   <province-tuple name="Antigua and Barbuda" country="AG" population="65647" area="MISSING" capital="Saint Johns" capprov="Antigua and Barbuda"/>
+   <province-tuple name="Aruba" country="ARU" population="103065" area="MISSING" capital="Oranjestad" capprov="Aruba"/>
+   <province-tuple name="Bahamas" country="BS" population="259367" area="MISSING" capital="Nassau" capprov="Bahamas"/>
+   <province-tuple name="Barbados" country="BDS" population="257030" area="MISSING" capital="Bridgetown" capprov="Barbados"/>
+   <province-tuple name="Belize" country="BZ" population="219296" area="MISSING" capital="Belmopan" capprov="Belize"/>
+   <province-tuple name="Guatemala" country="GCA" population="11277614" area="MISSING" capital="Guatemala City" capprov="Guatemala"/>
+   <province-tuple name="Aguascalientes" country="MEX" population="862720" area="5589.0" capital="Aguascalientes" capprov="Aguascalientes"/>
+   <province-tuple name="Baja California" country="MEX" population="2112140" area="70113.0" capital="Mexicali" capprov="Baja California"/>
+   <province-tuple name="Baja California Sur" country="MEX" population="375494" area="73677.0" capital="La Paz" capprov="Baja California Sur"/>
+   <province-tuple name="Campeche" country="MEX" population="642516" area="51833.0" capital="Campeche" capprov="Campeche"/>
+   <province-tuple name="Chiapas" country="MEX" population="3584786" area="73887.0" capital="Tuxtla Gutierrez" capprov="Chiapas"/>
+   <province-tuple name="Chihuahua" country="MEX" population="2793537" area="247087.0" capital="Chihuahua" capprov="Chihuahua"/>
+   <province-tuple name="Coahuila" country="MEX" population="2173775" area="151571.0" capital="Saltillo" capprov="Coahuila"/>
+   <province-tuple name="Colima" country="MEX" population="488028" area="5455.0" capital="Colima" capprov="Colima"/>
+   <province-tuple name="Durango" country="MEX" population="1431748" area="119648.0" capital="Durango" capprov="Durango"/>
+   <province-tuple name="Guanajuato" country="MEX" population="4406568" area="30589.0" capital="Guanajuato" capprov="Guanajuato"/>
+   <province-tuple name="Guerrero" country="MEX" population="2916567" area="63749.0" capital="Chilpancingo" capprov="Guerrero"/>
+   <province-tuple name="Hidalgo" country="MEX" population="2112473" area="20987.0" capital="Pachuca de Soto" capprov="Hidalgo"/>
+   <province-tuple name="Jalisco" country="MEX" population="5991176" area="80137.0" capital="Guadalajara" capprov="Jalisco"/>
+   <province-tuple name="Mexico, Estado de" country="MEX" population="11707964" area="21461.0" capital="Toluca de Lerdo" capprov="Mexico, Estado de"/>
+   <province-tuple name="Michoacan" country="MEX" population="3870604" area="59864.0" capital="Morelia" capprov="Michoacan"/>
+   <province-tuple name="Morelos" country="MEX" population="1442662" area="4941.0" capital="Cuernavaca" capprov="Morelos"/>
+   <province-tuple name="Nayarit" country="MEX" population="896702" area="27621.0" capital="Tepic" capprov="Nayarit"/>
+   <province-tuple name="Nuevo Leon" country="MEX" population="3550114" area="64555.0" capital="Monterrey" capprov="Nuevo Leon"/>
+   <province-tuple name="Oaxaca" country="MEX" population="3228895" area="95364.0" capital="Oaxaca" capprov="Oaxaca"/>
+   <province-tuple name="Puebla" country="MEX" population="4624365" area="33919.0" capital="Puebla" capprov="Puebla"/>
+   <province-tuple name="Queretaro" country="MEX" population="1250476" area="11769.0" capital="Queretaro" capprov="Queretaro"/>
+   <province-tuple name="Quintana Roo" country="MEX" population="703536" area="50350.0" capital="Chetumal" capprov="Quintana Roo"/>
+   <province-tuple name="San Luis Potosi" country="MEX" population="2200763" area="62848.0" capital="San Luis Potosi" capprov="San Luis Potosi"/>
+   <province-tuple name="Sinaloa" country="MEX" population="2425675" area="58092.0" capital="Culiacan" capprov="Sinaloa"/>
+   <province-tuple name="Sonora" country="MEX" population="2085536" area="184934.0" capital="Hermosillo" capprov="Sonora"/>
+   <province-tuple name="Tabasco" country="MEX" population="1748769" area="24661.0" capital="Villahermosa" capprov="Tabasco"/>
+   <province-tuple name="Tamaulipas" country="MEX" population="2527328" area="79829.0" capital="Ciudad Victoria" capprov="Tamaulipas"/>
+   <province-tuple name="Tlaxcala" country="MEX" population="883924" area="3914.0" capital="Tlaxcala" capprov="Tlaxcala"/>
+   <province-tuple name="Veracruz" country="MEX" population="6737324" area="72815.0" capital="Jalapa" capprov="Veracruz"/>
+   <province-tuple name="Yucatan" country="MEX" population="1556622" area="39340.0" capital="Merida" capprov="Yucatan"/>
+   <province-tuple name="Zacatecas" country="MEX" population="1336496" area="75040.0" capital="Zacatecas" capprov="Zacatecas"/>
+   <province-tuple name="Distrito Federal" country="MEX" population="8489007" area="1499.0" capital="Mexico City" capprov="Distrito Federal"/>
+   <province-tuple name="Bermuda" country="BERM" population="67837" area="MISSING" capital="Hamilton" capprov="Bermuda"/>
+   <province-tuple name="British Virgin Islands" country="BVIR" population="24491" area="MISSING" capital="Road Town" capprov="British Virgin Islands"/>
+   <province-tuple name="Alberta" country="CDN" population="2696826" area="661185.0" capital="Edmonton" capprov="Alberta"/>
+   <province-tuple name="British Columbia" country="CDN" population="3724500" area="948596.0" capital="Victoria" capprov="British Columbia"/>
+   <province-tuple name="Manitoba" country="CDN" population="1113898" area="650086.0" capital="Winnipeg" capprov="Manitoba"/>
+   <province-tuple name="New Brunswick" country="CDN" population="738133" area="73437.0" capital="Fredericton" capprov="New Brunswick"/>
+   <province-tuple name="Newfoundland" country="CDN" population="551792" area="404517.0" capital="Saint Johns" capprov="Newfoundland"/>
+   <province-tuple name="Northwest Territories" country="CDN" population="64402" area="3379683.0" capital="Yellowknife" capprov="Northwest Territories"/>
+   <province-tuple name="Nova Scotia" country="CDN" population="909282" area="55490.0" capital="Halifax" capprov="Nova Scotia"/>
+   <province-tuple name="Ontario" country="CDN" population="10753573" area="1068582.0" capital="Toronto" capprov="Ontario"/>
+   <province-tuple name="Prince Edward Island" country="CDN" population="134557" area="5657.0" capital="Charlottetown" capprov="Prince Edward Island"/>
+   <province-tuple name="Quebec" country="CDN" population="7138795" area="1540680.0" capital="Quebec" capprov="Quebec"/>
+   <province-tuple name="Saskatchewan" country="CDN" population="990237" area="651900.0" capital="Regina" capprov="Saskatchewan"/>
+   <province-tuple name="Yukon Territory" country="CDN" population="30766" area="536324.0" capital="Whitehorse" capprov="Yukon Territory"/>
+   <province-tuple name="Alabama" country="USA" population="4319154" area="133915.0" capital="Montgomery" capprov="Alabama"/>
+   <province-tuple name="Alaska" country="USA" population="609311" area="1530694.0" capital="Juneau" capprov="Alaska"/>
+   <province-tuple name="Arizona" country="USA" population="4554966" area="295259.0" capital="Phoenix" capprov="Arizona"/>
+   <province-tuple name="Arkansas" country="USA" population="2522819" area="137754.0" capital="Little Rock" capprov="Arkansas"/>
+   <province-tuple name="California" country="USA" population="32268301" area="411047.0" capital="Sacramento" capprov="California"/>
+   <province-tuple name="Colorado" country="USA" population="3892644" area="269595.0" capital="Denver" capprov="Colorado"/>
+   <province-tuple name="Connecticut" country="USA" population="3269858" area="12997.0" capital="Hartford" capprov="Connecticut"/>
+   <province-tuple name="Delaware" country="USA" population="731581" area="5297.0" capital="Dover" capprov="Delaware"/>
+   <province-tuple name="Florida" country="USA" population="14653945" area="151939.0" capital="Tallahassee" capprov="Florida"/>
+   <province-tuple name="Georgia" country="USA" population="7486242" area="152576.0" capital="Atlanta" capprov="Georgia"/>
+   <province-tuple name="Hawaii" country="USA" population="1183723" area="16760.0" capital="Honolulu" capprov="Hawaii"/>
+   <province-tuple name="Idaho" country="USA" population="1186602" area="216430.0" capital="Boise" capprov="Idaho"/>
+   <province-tuple name="Illinois" country="USA" population="11895849" area="145933.0" capital="Springfield" capprov="Illinois"/>
+   <province-tuple name="Indiana" country="USA" population="5864108" area="93719.0" capital="Indianapolis" capprov="Indiana"/>
+   <province-tuple name="Iowa" country="USA" population="2852423" area="145752.0" capital="Des Moines" capprov="Iowa"/>
+   <province-tuple name="Kansas" country="USA" population="2594840" area="213097.0" capital="Topeka" capprov="Kansas"/>
+   <province-tuple name="Kentucky" country="USA" population="3908124" area="104661.0" capital="Frankfort" capprov="Kentucky"/>
+   <province-tuple name="Louisiana" country="USA" population="4351769" area="123677.0" capital="Baton Rouge" capprov="Louisiana"/>
+   <province-tuple name="Maine" country="USA" population="1242051" area="86156.0" capital="Augusta" capprov="Maine"/>
+   <province-tuple name="Maryland" country="USA" population="5094289" area="27091.0" capital="Annapolis" capprov="Maryland"/>
+   <province-tuple name="Massachusetts" country="USA" population="6117520" area="21455.0" capital="Boston" capprov="Massachusetts"/>
+   <province-tuple name="Michigan" country="USA" population="9773892" area="151584.0" capital="Lansing" capprov="Michigan"/>
+   <province-tuple name="Minnesota" country="USA" population="4685549" area="218600.0" capital="St. Paul" capprov="Minnesota"/>
+   <province-tuple name="Mississippi" country="USA" population="2730501" area="123514.0" capital="Jackson" capprov="Mississippi"/>
+   <province-tuple name="Missouri" country="USA" population="5402058" area="180514.0" capital="Jefferson City" capprov="Missouri"/>
+   <province-tuple name="Montana" country="USA" population="878810" area="380848.0" capital="Helena" capprov="Montana"/>
+   <province-tuple name="Nebraska" country="USA" population="1656870" area="200349.0" capital="Lincoln" capprov="Nebraska"/>
+   <province-tuple name="Nevada" country="USA" population="1676809" area="286352.0" capital="Carson City" capprov="Nevada"/>
+   <province-tuple name="New Hampshire" country="USA" population="1172709" area="24033.0" capital="Concord" capprov="New Hampshire"/>
+   <province-tuple name="New Jersey" country="USA" population="8052849" area="20168.0" capital="Trenton" capprov="New Jersey"/>
+   <province-tuple name="New Mexico" country="USA" population="1729751" area="314925.0" capital="Santa Fe" capprov="New Mexico"/>
+   <province-tuple name="New York" country="USA" population="18137226" area="127189.0" capital="Albany" capprov="New York"/>
+   <province-tuple name="North Carolina" country="USA" population="7425183" area="136412.0" capital="Raleigh" capprov="North Carolina"/>
+   <province-tuple name="North Dakota" country="USA" population="640883" area="183117.0" capital="Bismarck" capprov="North Dakota"/>
+   <province-tuple name="Ohio" country="USA" population="11186331" area="107044.0" capital="Columbus" capprov="Ohio"/>
+   <province-tuple name="Oklahoma" country="USA" population="3317091" area="181185.0" capital="Oklahoma City" capprov="Oklahoma"/>
+   <province-tuple name="Oregon" country="USA" population="3243487" area="251418.0" capital="Salem" capprov="Oregon"/>
+   <province-tuple name="Pennsylvania" country="USA" population="12019661" area="117347.0" capital="Harrisburg" capprov="Pennsylvania"/>
+   <province-tuple name="Rhode Island" country="USA" population="987429" area="3139.0" capital="Providence" capprov="Rhode Island"/>
+   <province-tuple name="South Carolina" country="USA" population="3760181" area="80582.0" capital="Columbia" capprov="South Carolina"/>
+   <province-tuple name="South Dakota" country="USA" population="737973" area="199730.0" capital="Pierre" capprov="South Dakota"/>
+   <province-tuple name="Tennessee" country="USA" population="5368198" area="109153.0" capital="Nashville" capprov="Tennessee"/>
+   <province-tuple name="Texas" country="USA" population="19439337" area="691027.0" capital="Austin" capprov="Texas"/>
+   <province-tuple name="Utah" country="USA" population="2059148" area="219888.0" capital="Salt Lake City" capprov="Utah"/>
+   <province-tuple name="Vermont" country="USA" population="588978" area="24900.0" capital="Montpelier" capprov="Vermont"/>
+   <province-tuple name="Virginia" country="USA" population="6733996" area="105586.0" capital="Richmond" capprov="Virginia"/>
+   <province-tuple name="Washington" country="USA" population="5610362" area="176479.0" capital="Olympia" capprov="Washington"/>
+   <province-tuple name="West Virginia" country="USA" population="1815787" area="62761.0" capital="Charleston" capprov="West Virginia"/>
+   <province-tuple name="Wisconsin" country="USA" population="5169677" area="145436.0" capital="Madison" capprov="Wisconsin"/>
+   <province-tuple name="Wyoming" country="USA" population="479743" area="253324.0" capital="Cheyenne" capprov="Wyoming"/>
+   <province-tuple name="Distr. Columbia" country="USA" population="528964" area="179.0" capital="Washington" capprov="Distr. Columbia"/>
+   <province-tuple name="Cayman Islands" country="CAYM" population="49035" area="MISSING" capital="George Town" capprov="Cayman Islands"/>
+   <province-tuple name="San Jose" country="CR" population="1163943" area="4960.0" capital="San Jose" capprov="San Jose"/>
+   <province-tuple name="Alajuela" country="CR" population="569984" area="9753.0" capital="Alajuela" capprov="Alajuela"/>
+   <province-tuple name="Cartago" country="CR" population="359765" area="3125.0" capital="Cartago" capprov="Cartago"/>
+   <province-tuple name="Heredia" country="CR" population="256726" area="2656.0" capital="Heredia" capprov="Heredia"/>
+   <province-tuple name="Guanacaste" country="CR" population="254530" area="10141.0" capital="Liberia" capprov="Guanacaste"/>
+   <province-tuple name="Puntarenas" country="CR" population="357103" area="11277.0" capital="Puntarenas" capprov="Puntarenas"/>
+   <province-tuple name="Limon" country="CR" population="237183" area="9189.0" capital="Limon" capprov="Limon"/>
+   <province-tuple name="Nicaragua" country="NIC" population="4272352" area="MISSING" capital="Managua" capprov="Nicaragua"/>
+   <province-tuple name="Bocas del Toro" country="PA" population="88400" area="8745.0" capital="Bocas del Toro" capprov="Bocas del Toro"/>
+   <province-tuple name="Cocle" country="PA" population="177100" area="4927.0" capital="Penonome" capprov="Cocle"/>
+   <province-tuple name="Colon" country="PA" population="222600" area="7247.0" capital="Colon" capprov="Colon"/>
+   <province-tuple name="Comarca de San Blas" country="PA" population="0" area="2357.0" capital="El Porvenir" capprov="Comarca de San Blas"/>
+   <province-tuple name="Chiriqui" country="PA" population="396800" area="8653.0" capital="David" capprov="Chiriqui"/>
+   <province-tuple name="Darien" country="PA" population="45000" area="16671.0" capital="La Palma" capprov="Darien"/>
+   <province-tuple name="Herrera" country="PA" population="108700" area="2341.0" capital="Chitre" capprov="Herrera"/>
+   <province-tuple name="Los Santos" country="PA" population="82800" area="3806.0" capital="Las Tablas" capprov="Los Santos"/>
+   <province-tuple name="Panama" country="PA" population="1168500" area="11887.0" capital="Panama City" capprov="Panama"/>
+   <province-tuple name="Veraguas" country="PA" population="224700" area="11239.0" capital="Santiago" capprov="Veraguas"/>
+   <province-tuple name="Camaguey" country="C" population="723000" area="15990.0" capital="Camaguey" capprov="Camaguey"/>
+   <province-tuple name="Ciego de Avila" country="C" population="353000" area="6910.0" capital="Ciego de Avila" capprov="Ciego de Avila"/>
+   <province-tuple name="Cienfuegos" country="C" population="354000" area="4178.0" capital="Cienfuegos" capprov="Cienfuegos"/>
+   <province-tuple name="Ciudad de la Habana" country="C" population="2059000" area="727.0" capital="Havana" capprov="Ciudad de la Habana"/>
+   <province-tuple name="Granma" country="C" population="773000" area="8372.0" capital="Bayamo" capprov="Granma"/>
+   <province-tuple name="Guantanamo" country="C" population="484000" area="6186.0" capital="Guantanamo" capprov="Guantanamo"/>
+   <province-tuple name="Holguin" country="C" population="972000" area="9301.0" capital="Holguin" capprov="Holguin"/>
+   <province-tuple name="La Habana" country="C" population="630000" area="5731.0" capital="Havana" capprov="Ciudad de la Habana"/>
+   <province-tuple name="Las Tunas" country="C" population="478000" area="6589.0" capital="Victoria de las Tunas" capprov="Las Tunas"/>
+   <province-tuple name="Matanzas" country="C" population="596000" area="11978.0" capital="Matanzas" capprov="Matanzas"/>
+   <province-tuple name="Pinar del Rio" country="C" population="678000" area="10925.0" capital="Pinar del Rio" capprov="Pinar del Rio"/>
+   <province-tuple name="Sancti Spiritus" country="C" population="420000" area="6744.0" capital="Sancti Spiritus" capprov="Sancti Spiritus"/>
+   <province-tuple name="Santiago de Cuba" country="C" population="968000" area="6170.0" capital="Santiago de Cuba" capprov="Santiago de Cuba"/>
+   <province-tuple name="Villa Clara" country="C" population="796000" area="8662.0" capital="Santa Clara" capprov="Villa Clara"/>
+   <province-tuple name="Isla de la Juventud" country="C" population="71000" area="2396.0" capital="Nueva Gerona" capprov="Isla de la Juventud"/>
+   <province-tuple name="Dominica" country="WD" population="82926" area="MISSING" capital="Roseau" capprov="Dominica"/>
+   <province-tuple name="Dominican Republic" country="DOM" population="8088881" area="MISSING" capital="Santo Domingo" capprov="Dominican Republic"/>
+   <province-tuple name="Haiti" country="RH" population="6731539" area="MISSING" capital="Port-au-Prince" capprov="Haiti"/>
+   <province-tuple name="El Salvador" country="ES" population="5828987" area="MISSING" capital="San Salvador" capprov="El Salvador"/>
+   <province-tuple name="Atlantida" country="HCA" population="263700" area="4251.0" capital="La Ceiba" capprov="Atlantida"/>
+   <province-tuple name="Colon" country="HCA" population="167900" area="8875.0" capital="Trujillo" capprov="Colon"/>
+   <province-tuple name="Comayagua" country="HCA" population="267000" area="5196.0" capital="Comayagua" capprov="Comayagua"/>
+   <province-tuple name="Copan" country="HCA" population="241400" area="3203.0" capital="Santa Rosa de Copan" capprov="Copan"/>
+   <province-tuple name="Cortes" country="HCA" population="732600" area="3954.0" capital="San Pedro Sula" capprov="Cortes"/>
+   <province-tuple name="Choluteca" country="HCA" population="326100" area="4211.0" capital="Choluteca" capprov="Choluteca"/>
+   <province-tuple name="El Paraiso" country="HCA" population="284100" area="7218.0" capital="Yuscaran" capprov="El Paraiso"/>
+   <province-tuple name="Francisco Morazan" country="HCA" population="908300" area="7946.0" capital="Tegucigalpa" capprov="Francisco Morazan"/>
+   <province-tuple name="Gracias a Dios" country="HCA" population="39000" area="16630.0" capital="Puerto Lempira" capprov="Gracias a Dios"/>
+   <province-tuple name="Intibuca" country="HCA" population="137800" area="3072.0" capital="La Esperanza" capprov="Intibuca"/>
+   <province-tuple name="Islas de la Bahia" country="HCA" population="24500" area="261.0" capital="Roatan" capprov="Islas de la Bahia"/>
+   <province-tuple name="La Paz" country="HCA" population="117400" area="2331.0" capital="La Paz" capprov="La Paz"/>
+   <province-tuple name="Lempira" country="HCA" population="194600" area="4290.0" capital="Gracias" capprov="Lempira"/>
+   <province-tuple name="Ocotepeque" country="HCA" population="81800" area="1680.0" capital="Ocotepeque" capprov="Ocotepeque"/>
+   <province-tuple name="Olancho" country="HCA" population="318000" area="24351.0" capital="Jutigalpa" capprov="Olancho"/>
+   <province-tuple name="Santa Barbara" country="HCA" population="307500" area="5113.0" capital="Santa Barbara" capprov="Santa Barbara"/>
+   <province-tuple name="Valle" country="HCA" population="130900" area="1565.0" capital="Nacaome" capprov="Valle"/>
+   <province-tuple name="Yoro" country="HCA" population="370700" area="7939.0" capital="Yoro" capprov="Yoro"/>
+   <province-tuple name="Greenland" country="GROX" population="58203" area="MISSING" capital="Nuuk" capprov="Greenland"/>
+   <province-tuple name="Grenada" country="WG" population="94961" area="MISSING" capital="Saint Georges" capprov="Grenada"/>
+   <province-tuple name="Guadeloupe" country="GUAD" population="407768" area="MISSING" capital="Basse-Terre" capprov="Guadeloupe"/>
+   <province-tuple name="Jamaica" country="JA" population="2595275" area="MISSING" capital="Kingston" capprov="Jamaica"/>
+   <province-tuple name="Martinique" country="MART" population="399151" area="MISSING" capital="Fort-de-France" capprov="Martinique"/>
+   <province-tuple name="Montserrat" country="MNTS" population="5097" area="MISSING" capital="Plymouth" capprov="Montserrat"/>
+   <province-tuple name="Netherlands Antilles" country="NA" population="227049" area="MISSING" capital="Willemstad" capprov="Netherlands Antilles"/>
+   <province-tuple name="Saint Martin" country="SMAR" population="29820" area="MISSING" capital="Marigot" capprov="Saint Martin"/>
+   <province-tuple name="Amazonas" country="CO" population="39937" area="109665.0" capital="Leticia" capprov="Amazonas"/>
+   <province-tuple name="Antioquia" country="CO" population="4067207" area="63612.0" capital="Medellin" capprov="Antioquia"/>
+   <province-tuple name="Arauca" country="CO" population="89972" area="23818.0" capital="Arauca" capprov="Arauca"/>
+   <province-tuple name="Atlantico" country="CO" population="1478213" area="3388.0" capital="Barranquilla" capprov="Atlantico"/>
+   <province-tuple name="Bolivar" country="CO" population="1288985" area="25978.0" capital="Cartagena" capprov="Bolivar"/>
+   <province-tuple name="Boyaca" country="CO" population="1209739" area="23189.0" capital="Tunja" capprov="Boyaca"/>
+   <province-tuple name="Caldas" country="CO" population="883024" area="7888.0" capital="Manizales" capprov="Caldas"/>
+   <province-tuple name="Caqueta" country="CO" population="264507" area="88965.0" capital="Florencia" capprov="Caqueta"/>
+   <province-tuple name="Casanare" country="CO" population="147472" area="44640.0" capital="Yopal" capprov="Casanare"/>
+   <province-tuple name="Cauca" country="CO" population="857751" area="29308.0" capital="Popayan" capprov="Cauca"/>
+   <province-tuple name="Cesar" country="CO" population="699428" area="22905.0" capital="Valledupar" capprov="Cesar"/>
+   <province-tuple name="Choco" country="CO" population="313567" area="46530.0" capital="Quibdo" capprov="Choco"/>
+   <province-tuple name="Cordoba" country="CO" population="1013247" area="25020.0" capital="Monteria" capprov="Cordoba"/>
+   <province-tuple name="Cundinamarca" country="CO" population="1512928" area="22623.0" capital="Bogota" capprov="Santa Fe de Bogota, DC"/>
+   <province-tuple name="Guainia" country="CO" population="12345" area="72238.0" capital="Puerto Inirida" capprov="Guainia"/>
+   <province-tuple name="Guajira, La" country="CO" population="299995" area="20848.0" capital="Riohacha" capprov="Guajira, La"/>
+   <province-tuple name="Guaviare" country="CO" population="47073" area="42327.0" capital="San Jose del Guaviare" capprov="Guaviare"/>
+   <province-tuple name="Huila" country="CO" population="693712" area="19890.0" capital="Neiva" capprov="Huila"/>
+   <province-tuple name="Magdalena" country="CO" population="890934" area="23188.0" capital="Santa Marta" capprov="Magdalena"/>
+   <province-tuple name="Meta" country="CO" population="474046" area="85635.0" capital="Villavicencio" capprov="Meta"/>
+   <province-tuple name="Narino" country="CO" population="1085173" area="33268.0" capital="Pasto" capprov="Narino"/>
+   <province-tuple name="Norte de Santander" country="CO" population="913491" area="21658.0" capital="Cucuta" capprov="Norte de Santander"/>
+   <province-tuple name="Putumayo" country="CO" population="174219" area="24885.0" capital="Mocoa" capprov="Putumayo"/>
+   <province-tuple name="Quindio" country="CO" population="392208" area="1845.0" capital="Armenia" capprov="Quindio"/>
+   <province-tuple name="Risaralda" country="CO" population="652872" area="4140.0" capital="Pereira" capprov="Risaralda"/>
+   <province-tuple name="San Andres y Providencia" country="CO" population="35818" area="44.0" capital="San Andres" capprov="San Andres y Providencia"/>
+   <province-tuple name="Santa Fe de Bogota, DC" country="CO" population="4236490" area="1587.0" capital="Bogota" capprov="Santa Fe de Bogota, DC"/>
+   <province-tuple name="Santander del Sur" country="CO" population="1511392" area="30537.0" capital="Bucaramanga" capprov="Santander del Sur"/>
+   <province-tuple name="Sucre" country="CO" population="561649" area="10917.0" capital="Sincelejo" capprov="Sucre"/>
+   <province-tuple name="Tolima" country="CO" population="1142220" area="23562.0" capital="Ibague" capprov="Tolima"/>
+   <province-tuple name="Valle de Cauca" country="CO" population="3027247" area="22140.0" capital="Cali" capprov="Valle de Cauca"/>
+   <province-tuple name="Vaupes" country="CO" population="26178" area="65268.0" capital="Mitu" capprov="Vaupes"/>
+   <province-tuple name="Vichada" country="CO" population="18702" area="100242.0" capital="Puerto Carreno" capprov="Vichada"/>
+   <province-tuple name="Puerto Rico" country="PR" population="3971020" area="MISSING" capital="San Juan" capprov="Puerto Rico"/>
+   <province-tuple name="Saint Kitts and Nevis" country="KN" population="41369" area="MISSING" capital="Basseterre" capprov="Saint Kitts and Nevis"/>
+   <province-tuple name="Saint Lucia" country="WL" population="157862" area="MISSING" capital="Castries" capprov="Saint Lucia"/>
+   <province-tuple name="Saint Pierre and Miquelon" country="SPMI" population="6809" area="MISSING" capital="Saint-Pierre" capprov="Saint Pierre and Miquelon"/>
+   <province-tuple name="Saint Vincent and the Grenadines" country="WV" population="118344" area="MISSING" capital="Kingstown" capprov="Saint Vincent and the Grenadines"/>
+   <province-tuple name="Trinidad and Tobago" country="TT" population="1272385" area="MISSING" capital="Port-of-Spain" capprov="Trinidad and Tobago"/>
+   <province-tuple name="Turks and Caicos Islands" country="TUCA" population="22942" area="MISSING" capital="Grand Turk" capprov="Turks and Caicos Islands"/>
+   <province-tuple name="Virgin Islands" country="VIRG" population="97120" area="MISSING" capital="Charlotte Amalie" capprov="Virgin Islands"/>
+   <province-tuple name="American Samoa" country="AMSA" population="65628" area="MISSING" capital="Pago Pago" capprov="American Samoa"/>
+   <province-tuple name="New South Wales" country="AUS" population="6115100" area="801428.0" capital="Sydney" capprov="New South Wales"/>
+   <province-tuple name="Northern Territory" country="AUS" population="173878" area="1346200.0" capital="Darwin" capprov="Northern Territory"/>
+   <province-tuple name="Queensland" country="AUS" population="3277000" area="1727000.0" capital="Brisbane" capprov="Queensland"/>
+   <province-tuple name="South Australia" country="AUS" population="1474000" area="984377.0" capital="Adelaide" capprov="South Australia"/>
+   <province-tuple name="Tasmania" country="AUS" population="473022" area="67800.0" capital="Hobart" capprov="Tasmania"/>
+   <province-tuple name="Victoria" country="AUS" population="4502200" area="227600.0" capital="Melbourne" capprov="Victoria"/>
+   <province-tuple name="Western Australia" country="AUS" population="1731700" area="2525500.0" capital="Perth" capprov="Western Australia"/>
+   <province-tuple name="Australia Capital Territory" country="AUS" population="304100" area="2452.0" capital="Canberra" capprov="Australia Capital Territory"/>
+   <province-tuple name="Cook Islands" country="COOK" population="11870" area="MISSING" capital="Avarua" capprov="Cook Islands"/>
+   <province-tuple name="Fiji" country="FJI" population="782381" area="MISSING" capital="Suva" capprov="Fiji"/>
+   <province-tuple name="French Polynesia" country="FPOL" population="287032" area="MISSING" capital="Papeete" capprov="French Polynesia"/>
+   <province-tuple name="Guam" country="GUAM" population="178430" area="MISSING" capital="Agana" capprov="Guam"/>
+   <province-tuple name="Kiribati" country="KIR" population="80919" area="MISSING" capital="Tarawa" capprov="Kiribati"/>
+   <province-tuple name="Marshall Islands" country="MH" population="58363" area="MISSING" capital="Majuro" capprov="Marshall Islands"/>
+   <province-tuple name="Micronesia" country="FSM" population="125377" area="MISSING" capital="Palikir" capprov="Micronesia"/>
+   <province-tuple name="Nauru" country="NAU" population="10273" area="MISSING" capital="Yaren" capprov="Nauru"/>
+   <province-tuple name="New Caledonia" country="NCA" population="227436" area="MISSING" capital="Noumea" capprov="New Caledonia"/>
+   <province-tuple name="New Zealand" country="NZ" population="3547983" area="MISSING" capital="Wellington" capprov="New Zealand"/>
+   <province-tuple name="Niue" country="NIUE" population="1398" area="MISSING" capital="Alofi" capprov="Niue"/>
+   <province-tuple name="Norfolk Island" country="NORF" population="2209" area="MISSING" capital="Kingston" capprov="Norfolk Island"/>
+   <province-tuple name="Northern Mariana Islands" country="NMIS" population="88662" area="MISSING" capital="Saipan" capprov="Northern Mariana Islands"/>
+   <province-tuple name="Palau" country="PAL" population="16952" area="MISSING" capital="Melekeok" capprov="Palau"/>
+   <province-tuple name="Pitcairn Islands" country="PITC" population="48" area="MISSING" capital="Adamstown" capprov="Pitcairn Islands"/>
+   <province-tuple name="Solomon Islands" country="SLB" population="412902" area="MISSING" capital="Honiara" capprov="Solomon Islands"/>
+   <province-tuple name="Tonga" country="TO" population="106466" area="MISSING" capital="Nukualofa" capprov="Tonga"/>
+   <province-tuple name="Tuvalu" country="TUV" population="10146" area="MISSING" capital="Funafuti" capprov="Tuvalu"/>
+   <province-tuple name="Vanuatu" country="VU" population="177504" area="MISSING" capital="Port-Vila" capprov="Vanuatu"/>
+   <province-tuple name="Wallis and Futuna" country="WAFU" population="15289" area="MISSING" capital="Mata-Utu" capprov="Wallis and Futuna"/>
+   <province-tuple name="Samoa" country="WS" population="214384" area="MISSING" capital="Apia" capprov="Samoa"/>
+   <province-tuple name="Buenos Aires" country="RA" population="12594974" area="307571.0" capital="La Plata" capprov="Buenos Aires"/>
+   <province-tuple name="Catamarca" country="RA" population="264324" area="102602.0" capital="San Fernando del Valle de Catamarca" capprov="Catamarca"/>
+   <province-tuple name="Chaco" country="RA" population="839677" area="99633.0" capital="Resistencia" capprov="Chaco"/>
+   <province-tuple name="Chubut" country="RA" population="357189" area="224686.0" capital="Rawson" capprov="Chubut"/>
+   <province-tuple name="Cordoba" country="RA" population="2766683" area="165321.0" capital="Cordoba" capprov="Cordoba"/>
+   <province-tuple name="Corrientes" country="RA" population="795594" area="88199.0" capital="Corrientes" capprov="Corrientes"/>
+   <province-tuple name="Entre Rios" country="RA" population="1020257" area="78781.0" capital="Parana" capprov="Entre Rios"/>
+   <province-tuple name="Formosa" country="RA" population="398413" area="72066.0" capital="Formosa" capprov="Formosa"/>
+   <province-tuple name="Jujuy" country="RA" population="512329" area="53219.0" capital="San Salvador de Jujuy" capprov="Jujuy"/>
+   <province-tuple name="La Pampa" country="RA" population="259996" area="143440.0" capital="Santa Rosa" capprov="La Pampa"/>
+   <province-tuple name="La Rioja" country="RA" population="220729" area="89680.0" capital="La Rioja" capprov="La Rioja"/>
+   <province-tuple name="Mendoza" country="RA" population="1412481" area="148827.0" capital="Mendoza" capprov="Mendoza"/>
+   <province-tuple name="Misiones" country="RA" population="788915" area="29801.0" capital="Posadas" capprov="Misiones"/>
+   <province-tuple name="Neuquen" country="RA" population="388833" area="94078.0" capital="Neuquen" capprov="Neuquen"/>
+   <province-tuple name="Rio Negro" country="RA" population="506772" area="203013.0" capital="Viedma" capprov="Rio Negro"/>
+   <province-tuple name="Salta" country="RA" population="866153" area="155488.0" capital="Salta" capprov="Salta"/>
+   <province-tuple name="San Juan" country="RA" population="528715" area="89651.0" capital="San Juan" capprov="San Juan"/>
+   <province-tuple name="San Luis" country="RA" population="286458" area="76748.0" capital="San Luis" capprov="San Luis"/>
+   <province-tuple name="Santa Cruz" country="RA" population="159839" area="243943.0" capital="Rio Gallegos" capprov="Santa Cruz"/>
+   <province-tuple name="Santa Fe" country="RA" population="2798422" area="133007.0" capital="Santa Fe" capprov="Santa Fe"/>
+   <province-tuple name="Santiago de Estero" country="RA" population="671988" area="136351.0" capital="Santiago del Estero" capprov="Santiago de Estero"/>
+   <province-tuple name="Tierra del Fuego" country="RA" population="69369" area="21571.0" capital="Ushuaia" capprov="Tierra del Fuego"/>
+   <province-tuple name="Tucuman" country="RA" population="1142105" area="22524.0" capital="San Miguel de Tucuman" capprov="Tucuman"/>
+   <province-tuple name="Distrito Federal" country="RA" population="2965403" area="200.0" capital="Buenos Aires" capprov="Distrito Federal"/>
+   <province-tuple name="Bolivia" country="BOL" population="7165257" area="MISSING" capital="La Paz" capprov="Bolivia"/>
+   <province-tuple name="Acre" country="BR" population="483483" area="153149.0" capital="Rio Branco" capprov="Acre"/>
+   <province-tuple name="Alagoas" country="BR" population="2637843" area="27933.0" capital="Maceio" capprov="Alagoas"/>
+   <province-tuple name="Amapa" country="BR" population="373994" area="143453.0" capital="Macapa" capprov="Amapa"/>
+   <province-tuple name="Amazonas" country="BR" population="2390102" area="1577820.0" capital="Manaus" capprov="Amazonas"/>
+   <province-tuple name="Bahia" country="BR" population="12531895" area="567295.0" capital="Salvador" capprov="Bahia"/>
+   <province-tuple name="Ceara" country="BR" population="6803567" area="146348.0" capital="Fortaleza" capprov="Ceara"/>
+   <province-tuple name="Espirito Santo" country="BR" population="2786126" area="46184.0" capital="Vitoria" capprov="Espirito Santo"/>
+   <province-tuple name="Goias" country="BR" population="4501538" area="341289.0" capital="Goiania" capprov="Goias"/>
+   <province-tuple name="Maranhao" country="BR" population="5218442" area="333365.0" capital="Sao Luis" capprov="Maranhao"/>
+   <province-tuple name="Mato Grosso" country="BR" population="2227983" area="906806.0" capital="Cuiaba" capprov="Mato Grosso"/>
+   <province-tuple name="Mato Grosso do Sul" country="BR" population="1922258" area="358158.0" capital="Campo Grande" capprov="Mato Grosso do Sul"/>
+   <province-tuple name="Minas Gerais" country="BR" population="16660691" area="588383.0" capital="Belo Horizonte" capprov="Minas Gerais"/>
+   <province-tuple name="Para" country="BR" population="5522783" area="1253164.0" capital="Belem" capprov="Para"/>
+   <province-tuple name="Paraiba" country="BR" population="3305562" area="56584.0" capital="Joao Pessoa" capprov="Paraiba"/>
+   <province-tuple name="Parana" country="BR" population="8985981" area="199709.0" capital="Curitiba" capprov="Parana"/>
+   <province-tuple name="Pernambuco" country="BR" population="7404559" area="98937.0" capital="Recife" capprov="Pernambuco"/>
+   <province-tuple name="Piaui" country="BR" population="2676098" area="252378.0" capital="Teresina" capprov="Piaui"/>
+   <province-tuple name="Rio de Janeiro" country="BR" population="13316455" area="43909.0" capital="Rio de Janeiro" capprov="Rio de Janeiro"/>
+   <province-tuple name="Rio Grande do Norte" country="BR" population="2556939" area="53306.0" capital="Natal" capprov="Rio Grande do Norte"/>
+   <province-tuple name="Rio Grande do Sul" country="BR" population="9623003" area="282062.0" capital="Porto Alegre" capprov="Rio Grande do Sul"/>
+   <province-tuple name="Rondonia" country="BR" population="1221290" area="238512.0" capital="Porto Velho" capprov="Rondonia"/>
+   <province-tuple name="Roraima" country="BR" population="247724" area="225116.0" capital="Boa Vista" capprov="Roraima"/>
+   <province-tuple name="Santa Catarina" country="BR" population="4865090" area="95442.0" capital="Florianopolis" capprov="Santa Catarina"/>
+   <province-tuple name="Sao Paulo" country="BR" population="34055715" area="248808.0" capital="Sao Paulo" capprov="Sao Paulo"/>
+   <province-tuple name="Sergipe" country="BR" population="1617368" area="22050.0" capital="Aracaju" capprov="Sergipe"/>
+   <province-tuple name="Tocantins" country="BR" population="1049742" area="278420.0" capital="Palmas" capprov="Tocantins"/>
+   <province-tuple name="Distrito Federal" country="BR" population="1817001" area="5822.0" capital="Brasilia" capprov="Distrito Federal"/>
+   <province-tuple name="Chile" country="RCH" population="14333258" area="MISSING" capital="Santiago" capprov="Chile"/>
+   <province-tuple name="Paraguay" country="PY" population="5504146" area="MISSING" capital="Asuncion" capprov="Paraguay"/>
+   <province-tuple name="Uruguay" country="ROU" population="3238952" area="MISSING" capital="Montevideo" capprov="Uruguay"/>
+   <province-tuple name="Amazonas" country="PE" population="374587" area="39249.0" capital="Chachapoyas" capprov="Amazonas"/>
+   <province-tuple name="Ancash" country="PE" population="1024398" area="35825.0" capital="Huaraz" capprov="Ancash"/>
+   <province-tuple name="Apurimac" country="PE" population="409630" area="20895.0" capital="Abancay" capprov="Apurimac"/>
+   <province-tuple name="Arequipa" country="PE" population="999851" area="63345.0" capital="Arequipa" capprov="Arequipa"/>
+   <province-tuple name="Ayacucho" country="PE" population="517397" area="43814.0" capital="Ayacucho" capprov="Ayacucho"/>
+   <province-tuple name="Cajamarca" country="PE" population="1349129" area="33247.0" capital="Cajamarca" capprov="Cajamarca"/>
+   <province-tuple name="Callao" country="PE" population="701022" area="146.0" capital="Callao" capprov="Callao"/>
+   <province-tuple name="Cuzco" country="PE" population="1107473" area="71891.0" capital="Cuzco" capprov="Cuzco"/>
+   <province-tuple name="Huancavelica" country="PE" population="413136" area="22131.0" capital="Huancavelica" capprov="Huancavelica"/>
+   <province-tuple name="Huanuco" country="PE" population="722669" area="36938.0" capital="Huanuco" capprov="Huanuco"/>
+   <province-tuple name="Ica" country="PE" population="608609" area="21327.0" capital="Ica" capprov="Ica"/>
+   <province-tuple name="Junin" country="PE" population="1132448" area="44409.0" capital="Huancayo" capprov="Junin"/>
+   <province-tuple name="La Libertad" country="PE" population="1366125" area="25569.0" capital="Trujillo" capprov="La Libertad"/>
+   <province-tuple name="Lambayeque" country="PE" population="1009655" area="14231.0" capital="Chiclayo" capprov="Lambayeque"/>
+   <province-tuple name="Lima" country="PE" population="6941672" area="34801.0" capital="Lima" capprov="Lima"/>
+   <province-tuple name="Loreto" country="PE" population="789235" area="368851.0" capital="Iquitos" capprov="Loreto"/>
+   <province-tuple name="Madre de Dios" country="PE" population="74306" area="85182.0" capital="Puerto Maldonado" capprov="Madre de Dios"/>
+   <province-tuple name="Moquegua" country="PE" population="137747" area="15733.0" capital="Moquegua" capprov="Moquegua"/>
+   <province-tuple name="Pasco" country="PE" population="243366" area="25319.0" capital="Cerro de Pasco" capprov="Pasco"/>
+   <province-tuple name="Piura" country="PE" population="1468337" area="35892.0" capital="Piura" capprov="Piura"/>
+   <province-tuple name="Puno" country="PE" population="1144151" area="71999.0" capital="Puno" capprov="Puno"/>
+   <province-tuple name="San Martin" country="PE" population="627781" area="51253.0" capital="Moyobamba" capprov="San Martin"/>
+   <province-tuple name="Tacna" country="PE" population="245843" area="16075.0" capital="Tacna" capprov="Tacna"/>
+   <province-tuple name="Tumbes" country="PE" population="173616" area="4669.0" capital="Tumbes" capprov="Tumbes"/>
+   <province-tuple name="Ucayali" country="PE" population="364596" area="102410.0" capital="Pucallpa" capprov="Ucayali"/>
+   <province-tuple name="French Guiana" country="FGU" population="151187" area="MISSING" capital="Cayenne" capprov="French Guiana"/>
+   <province-tuple name="Guyana" country="GUY" population="712091" area="MISSING" capital="Georgetown" capprov="Guyana"/>
+   <province-tuple name="Suriname" country="SME" population="436418" area="MISSING" capital="Paramaribo" capprov="Suriname"/>
+   <province-tuple name="Amazonas" country="YV" population="94590" area="175750.0" capital="Puerto Ayacucho" capprov="Amazonas"/>
+   <province-tuple name="Anzoategui" country="YV" population="1034311" area="43300.0" capital="Barcelona" capprov="Anzoategui"/>
+   <province-tuple name="Apure" country="YV" population="382572" area="76500.0" capital="San Fernando" capprov="Apure"/>
+   <province-tuple name="Aragua" country="YV" population="1344099" area="7014.0" capital="Maracay" capprov="Aragua"/>
+   <province-tuple name="Barinas" country="YV" population="519197" area="35200.0" capital="Barinas" capprov="Barinas"/>
+   <province-tuple name="Bolivar" country="YV" population="1142210" area="238000.0" capital="Ciudad Bolivar" capprov="Bolivar"/>
+   <province-tuple name="Carabobo" country="YV" population="1823767" area="4650.0" capital="Valencia" capprov="Carabobo"/>
+   <province-tuple name="Cojedes" country="YV" population="227741" area="14800.0" capital="San Carlos" capprov="Cojedes"/>
+   <province-tuple name="Delta Amacuro" country="YV" population="114390" area="40200.0" capital="Tucupita" capprov="Delta Amacuro"/>
+   <province-tuple name="Falcon" country="YV" population="699232" area="24800.0" capital="Coro" capprov="Falcon"/>
+   <province-tuple name="Guarico" country="YV" population="583221" area="64986.0" capital="San Juan" capprov="Guarico"/>
+   <province-tuple name="Lara" country="YV" population="1430968" area="19800.0" capital="Barquisimeto" capprov="Lara"/>
+   <province-tuple name="Merida" country="YV" population="680503" area="11300.0" capital="Merida" capprov="Merida"/>
+   <province-tuple name="Miranda" country="YV" population="2303302" area="7950.0" capital="Los Teques" capprov="Miranda"/>
+   <province-tuple name="Monagas" country="YV" population="555705" area="28900.0" capital="Maturin" capprov="Monagas"/>
+   <province-tuple name="Nueva Esparta" country="YV" population="330307" area="1150.0" capital="La Ascuncion" capprov="Nueva Esparta"/>
+   <province-tuple name="Portuguesa" country="YV" population="720865" area="15200.0" capital="Guanare" capprov="Portuguesa"/>
+   <province-tuple name="Sucre" country="YV" population="781756" area="11800.0" capital="Cumana" capprov="Sucre"/>
+   <province-tuple name="Tachira" country="YV" population="946949" area="11100.0" capital="San Cristobal" capprov="Tachira"/>
+   <province-tuple name="Trujillo" country="YV" population="562752" area="7400.0" capital="Trujillo" capprov="Trujillo"/>
+   <province-tuple name="Yaracuy" country="YV" population="466152" area="7100.0" capital="San Felipe" capprov="Yaracuy"/>
+   <province-tuple name="Zulia" country="YV" population="2820250" area="63100.0" capital="Maracaibo" capprov="Zulia"/>
+   <province-tuple name="Distrito Federal" country="YV" population="2279677" area="1930.0" capital="Caracas" capprov="Distrito Federal"/>
+   <province-tuple name="Ecuador" country="EC" population="11466291" area="MISSING" capital="Quito" capprov="Ecuador"/>
+   <province-tuple name="Falkland Islands" country="FALK" population="3140" area="MISSING" capital="Stanley" capprov="Falkland Islands"/>
+   <province-tuple name="Algeria" country="DZ" population="29183032" area="MISSING" capital="Algier" capprov="Algeria"/>
+   <province-tuple name="Libya" country="LAR" population="5445436" area="MISSING" capital="Tripoli" capprov="Libya"/>
+   <province-tuple name="Mali" country="RMM" population="9653261" area="MISSING" capital="Bamako" capprov="Mali"/>
+   <province-tuple name="Mauritania" country="RIM" population="2336048" area="MISSING" capital="Nouakchott" capprov="Mauritania"/>
+   <province-tuple name="Morocco" country="MA" population="29779156" area="MISSING" capital="Rabat" capprov="Morocco"/>
+   <province-tuple name="Niger" country="RN" population="9113001" area="MISSING" capital="Niamey" capprov="Niger"/>
+   <province-tuple name="Tunisia" country="TN" population="9019687" area="MISSING" capital="Tunis" capprov="Tunisia"/>
+   <province-tuple name="Western Sahara" country="WSA" population="222631" area="MISSING" capital="El Aaiun" capprov="Western Sahara"/>
+   <province-tuple name="Cabinda" country="ANG" population="163000" area="7270.0" capital="Cabinda" capprov="Cabinda"/>
+   <province-tuple name="Zaire" country="ANG" population="192000" area="40130.0" capital="Mbanza Congo" capprov="Zaire"/>
+   <province-tuple name="Uige" country="ANG" population="837000" area="58698.0" capital="Uige" capprov="Uige"/>
+   <province-tuple name="Luanda" country="ANG" population="1629000" area="2418.0" capital="Luanda" capprov="Luanda"/>
+   <province-tuple name="Cuanza Norte" country="ANG" population="378000" area="24110.0" capital="Ndalatando" capprov="Cuanza Norte"/>
+   <province-tuple name="Cuanza Sul" country="ANG" population="651000" area="55660.0" capital="Sumbe" capprov="Cuanza Sul"/>
+   <province-tuple name="Malanje" country="ANG" population="892000" area="87246.0" capital="Malanje" capprov="Malanje"/>
+   <province-tuple name="Lunda Norte" country="ANG" population="292000" area="102783.0" capital="Lucapa" capprov="Lunda Norte"/>
+   <province-tuple name="Lunda Sul" country="ANG" population="155000" area="56985.0" capital="Saurimo" capprov="Lunda Sul"/>
+   <province-tuple name="Benguela" country="ANG" population="644000" area="31788.0" capital="Benguela" capprov="Benguela"/>
+   <province-tuple name="Huambo" country="ANG" population="1524000" area="34274.0" capital="Huambo" capprov="Huambo"/>
+   <province-tuple name="Bie" country="ANG" population="1125000" area="70314.0" capital="Bie" capprov="Bie"/>
+   <province-tuple name="Moxico" country="ANG" population="316000" area="223023.0" capital="Luena" capprov="Moxico"/>
+   <province-tuple name="Cuando Cubango" country="ANG" population="130000" area="199049.0" capital="Menongue" capprov="Cuando Cubango"/>
+   <province-tuple name="Namibe" country="ANG" population="115000" area="58137.0" capital="Namibe" capprov="Namibe"/>
+   <province-tuple name="Huila" country="ANG" population="869000" area="75002.0" capital="Lubango" capprov="Huila"/>
+   <province-tuple name="Bengo" country="ANG" population="166000" area="31371.0" capital="Caxito" capprov="Bengo"/>
+   <province-tuple name="Cunene" country="ANG" population="232000" area="88342.0" capital="Ngiva" capprov="Cunene"/>
+   <province-tuple name="Congo" country="RCB" population="2527841" area="MISSING" capital="Brazzaville" capprov="Congo"/>
+   <province-tuple name="Namibia" country="NAM" population="1677243" area="MISSING" capital="Windhoek" capprov="Namibia"/>
+   <province-tuple name="Bandundu" country="ZRE" population="4644758" area="295658.0" capital="Bandundu" capprov="Bandundu"/>
+   <province-tuple name="Bas Zaire" country="ZRE" population="2158595" area="53920.0" capital="Matadi" capprov="Bas Zaire"/>
+   <province-tuple name="Equateur" country="ZRE" population="3960187" area="403293.0" capital="Mbandaka" capprov="Equateur"/>
+   <province-tuple name="Haut Zaire" country="ZRE" population="5119750" area="503239.0" capital="Kisangani" capprov="Haut Zaire"/>
+   <province-tuple name="Kasai Occidental" country="ZRE" population="3465756" area="156967.0" capital="Kananga" capprov="Kasai Occidental"/>
+   <province-tuple name="Kasai Oriental" country="ZRE" population="2859220" area="168216.0" capital="Mbuji Mayi" capprov="Kasai Oriental"/>
+   <province-tuple name="Kivu" country="ZRE" population="5232442" area="256662.0" capital="Bukavu" capprov="Kivu"/>
+   <province-tuple name="Shaba/Katanga" country="ZRE" population="4452618" area="496965.0" capital="Lubumbashi" capprov="Shaba/Katanga"/>
+   <province-tuple name="Kinshasa" country="ZRE" population="2778281" area="9965.0" capital="Kinshasa" capprov="Kinshasa"/>
+   <province-tuple name="Central" country="Z" population="722400" area="94395.0" capital="Kabwe" capprov="Central"/>
+   <province-tuple name="Copperbelt" country="Z" population="1866400" area="31328.0" capital="Ndola" capprov="Copperbelt"/>
+   <province-tuple name="Eastern" country="Z" population="826100" area="69106.0" capital="Chipata" capprov="Eastern"/>
+   <province-tuple name="Luapula" country="Z" population="526300" area="50567.0" capital="Mansa" capprov="Luapula"/>
+   <province-tuple name="Lusaka" country="Z" population="1151300" area="21896.0" capital="Lusaka" capprov="Lusaka"/>
+   <province-tuple name="Northern" country="Z" population="832700" area="147826.0" capital="Kasama" capprov="Northern"/>
+   <province-tuple name="Northwestern" country="Z" population="396100" area="125827.0" capital="Solwezi" capprov="Northwestern"/>
+   <province-tuple name="Southern" country="Z" population="906900" area="85283.0" capital="Livingstone" capprov="Southern"/>
+   <province-tuple name="Western" country="Z" population="575500" area="126386.0" capital="Mongu" capprov="Western"/>
+   <province-tuple name="Benin" country="BEN" population="5709529" area="MISSING" capital="Porto-Novo" capprov="Benin"/>
+   <province-tuple name="Burkina Faso" country="BF" population="10623323" area="MISSING" capital="Ouagadougou" capprov="Burkina Faso"/>
+   <province-tuple name="Nigeria" country="WAN" population="103912489" area="MISSING" capital="Abuja" capprov="Nigeria"/>
+   <province-tuple name="Togo" country="RT" population="4570530" area="MISSING" capital="Lome" capprov="Togo"/>
+   <province-tuple name="Botswana" country="RB" population="1477630" area="MISSING" capital="Gaborone" capprov="Botswana"/>
+   <province-tuple name="Eastern Cape" country="RSA" population="5865000" area="170616.0" capital="Bisho" capprov="Eastern Cape"/>
+   <province-tuple name="Free State" country="RSA" population="2470000" area="129437.0" capital="Bloemfontein" capprov="Free State"/>
+   <province-tuple name="Gauteng" country="RSA" population="7171300" area="18760.0" capital="Johannesburg" capprov="Gauteng"/>
+   <province-tuple name="Kwazulu Natal" country="RSA" population="7672000" area="91481.0" capital="Pietermaritzburg" capprov="Kwazulu Natal"/>
+   <province-tuple name="Mpumalanga" country="RSA" population="2646000" area="81816.0" capital="Nelspruit" capprov="Mpumalanga"/>
+   <province-tuple name="Northern Cape" country="RSA" population="746000" area="363389.0" capital="Kimberley" capprov="Northern Cape"/>
+   <province-tuple name="Limpopo" country="RSA" population="4128000" area="119606.0" capital="Pietersburg" capprov="Limpopo"/>
+   <province-tuple name="North West" country="RSA" population="3043000" area="118710.0" capital="Mmabatho" capprov="North West"/>
+   <province-tuple name="Western Cape" country="RSA" population="4118000" area="129386.0" capital="Cape Town" capprov="Western Cape"/>
+   <province-tuple name="Zimbabwe" country="ZW" population="11271314" area="MISSING" capital="Harare" capprov="Zimbabwe"/>
+   <province-tuple name="Cote dIvoire" country="CI" population="14762445" area="MISSING" capital="Yamoussoukro" capprov="Cote dIvoire"/>
+   <province-tuple name="Ghana" country="GH" population="17698271" area="MISSING" capital="Accra" capprov="Ghana"/>
+   <province-tuple name="Burundi" country="BI" population="5943057" area="MISSING" capital="Bujumbura" capprov="Burundi"/>
+   <province-tuple name="Rwanda" country="RWA" population="6853359" area="MISSING" capital="Kigali" capprov="Rwanda"/>
+   <province-tuple name="Dodoma" country="EAT" population="1237800" area="41311.0" capital="Dodoma" capprov="Dodoma"/>
+   <province-tuple name="Arusha" country="EAT" population="1351700" area="82306.0" capital="Arusha" capprov="Arusha"/>
+   <province-tuple name="Kilimanjaro" country="EAT" population="1108700" area="13309.0" capital="Moshi" capprov="Kilimanjaro"/>
+   <province-tuple name="Tanga" country="EAT" population="1283600" area="26808.0" capital="Tanga" capprov="Tanga"/>
+   <province-tuple name="Morogoro" country="EAT" population="1222700" area="70799.0" capital="Morogoro" capprov="Morogoro"/>
+   <province-tuple name="Pwani" country="EAT" population="638000" area="32407.0" capital="Dar es Salaam" capprov="Daressalam"/>
+   <province-tuple name="Daressalam" country="EAT" population="1360900" area="1393.0" capital="Dar es Salaam" capprov="Daressalam"/>
+   <province-tuple name="Lindi" country="EAT" population="646600" area="66046.0" capital="Lindi" capprov="Lindi"/>
+   <province-tuple name="Mtwara" country="EAT" population="889500" area="16707.0" capital="Mtwara Mikandani" capprov="Mtwara"/>
+   <province-tuple name="Ruvuma" country="EAT" population="783300" area="63498.0" capital="Songea" capprov="Ruvuma"/>
+   <province-tuple name="Iringa" country="EAT" population="1208900" area="58864.0" capital="Iringa" capprov="Iringa"/>
+   <province-tuple name="Mbeya" country="EAT" population="1476200" area="60350.0" capital="Mbeya" capprov="Mbeya"/>
+   <province-tuple name="Singida" country="EAT" population="791800" area="49341.0" capital="Singida" capprov="Singida"/>
+   <province-tuple name="Tabora" country="EAT" population="1036300" area="76151.0" capital="Tabora" capprov="Tabora"/>
+   <province-tuple name="Rukwa" country="EAT" population="684000" area="68635.0" capital="Sumbawanga" capprov="Rukwa"/>
+   <province-tuple name="Kigoma" country="EAT" population="854800" area="37037.0" capital="Kigoma Ujiji" capprov="Kigoma"/>
+   <province-tuple name="Shinyanga" country="EAT" population="1772500" area="50781.0" capital="Shinyanga" capprov="Shinyanga"/>
+   <province-tuple name="Kagera" country="EAT" population="1326200" area="28388.0" capital="Bukoba" capprov="Kagera"/>
+   <province-tuple name="Mwanza" country="EAT" population="1878300" area="19592.0" capital="Mwanza" capprov="Mwanza"/>
+   <province-tuple name="Mara" country="EAT" population="970900" area="19566.0" capital="Musoma" capprov="Mara"/>
+   <province-tuple name="Kaskazini Ujunga" country="EAT" population="97000" area="470.0" capital="Mkokotoni" capprov="Kaskazini Ujunga"/>
+   <province-tuple name="Kusini Ujunga" country="EAT" population="70200" area="854.0" capital="Koani" capprov="Kusini Ujunga"/>
+   <province-tuple name="Mjini Magharibi" country="EAT" population="208300" area="230.0" capital="Zanzibar" capprov="Mjini Magharibi"/>
+   <province-tuple name="Kaskazini Pemba" country="EAT" population="137400" area="574.0" capital="Wete" capprov="Kaskazini Pemba"/>
+   <province-tuple name="Kusini Pemba" country="EAT" population="127600" area="332.0" capital="Chake Cahke" capprov="Kusini Pemba"/>
+   <province-tuple name="Adamaoua" country="CAM" population="495200" area="63691.0" capital="Ngaoundere" capprov="Adamaoua"/>
+   <province-tuple name="Centre" country="CAM" population="1651600" area="68926.0" capital="Yaounde" capprov="Centre"/>
+   <province-tuple name="Est" country="CAM" population="517200" area="109011.0" capital="Bertoua" capprov="Est"/>
+   <province-tuple name="Nord extreme" country="CAM" population="1855700" area="34246.0" capital="Maroua" capprov="Nord extreme"/>
+   <province-tuple name="Cote/Littoral" country="CAM" population="1354800" area="20239.0" capital="Douala" capprov="Cote/Littoral"/>
+   <province-tuple name="Nord" country="CAM" population="832200" area="65576.0" capital="Garoua" capprov="Nord"/>
+   <province-tuple name="Nordoueste" country="CAM" population="1237300" area="17810.0" capital="Bamenda" capprov="Nordoueste"/>
+   <province-tuple name="Ouest" country="CAM" population="1339800" area="13872.0" capital="Bafoussam" capprov="Ouest"/>
+   <province-tuple name="Sud" country="CAM" population="373800" area="47110.0" capital="Ebolowa" capprov="Sud"/>
+   <province-tuple name="Sudoueste" country="CAM" population="838000" area="24471.0" capital="Buea" capprov="Sudoueste"/>
+   <province-tuple name="Central African Republic" country="RCA" population="3274426" area="MISSING" capital="Bangui" capprov="Central African Republic"/>
+   <province-tuple name="Chad" country="TCH" population="6976845" area="MISSING" capital="NDjamena" capprov="Chad"/>
+   <province-tuple name="Equatorial Guinea" country="GQ" population="431282" area="MISSING" capital="Malabo" capprov="Equatorial Guinea"/>
+   <province-tuple name="Gabon" country="G" population="1172798" area="MISSING" capital="Libreville" capprov="Gabon"/>
+   <province-tuple name="Cape Verde" country="CV" population="449066" area="MISSING" capital="Praia" capprov="Cape Verde"/>
+   <province-tuple name="Aali an Nil" country="SUD" population="1599605" area="238792.0" capital="Malakal" capprov="Aali an Nil"/>
+   <province-tuple name="Bahr al Ghazal" country="SUD" population="2265510" area="200894.0" capital="Waw" capprov="Bahr al Ghazal"/>
+   <province-tuple name="Darfur" country="SUD" population="3093699" area="508684.0" capital="al Fasher" capprov="Darfur"/>
+   <province-tuple name="al Istiwaiyah" country="SUD" population="1406181" area="197969.0" capital="Juba" capprov="al Istiwaiyah"/>
+   <province-tuple name="al Khartum" country="SUD" population="1802299" area="28165.0" capital="Khartoum" capprov="al Khartum"/>
+   <province-tuple name="Kurdufan" country="SUD" population="3093294" area="380255.0" capital="al Ubayyid" capprov="Kurdufan"/>
+   <province-tuple name="ash Shamaliyah" country="SUD" population="1083024" area="476040.0" capital="ad Damir" capprov="ash Shamaliyah"/>
+   <province-tuple name="ash Sharqiyah" country="SUD" population="2208209" area="334074.0" capital="Kassala" capprov="ash Sharqiyah"/>
+   <province-tuple name="Nil al Asraq" country="SUD" population="4012543" area="139017.0" capital="Wad Madani" capprov="Nil al Asraq"/>
+   <province-tuple name="Comoros" country="COM" population="569237" area="MISSING" capital="Moroni" capprov="Comoros"/>
+   <province-tuple name="Guinea" country="RG" population="7411981" area="MISSING" capital="Conakry" capprov="Guinea"/>
+   <province-tuple name="Liberia" country="LB" population="2109789" area="MISSING" capital="Monrovia" capprov="Liberia"/>
+   <province-tuple name="Djibouti" country="DJI" population="427642" area="MISSING" capital="Djibouti" capprov="Djibouti"/>
+   <province-tuple name="Eritrea" country="ER" population="3427883" area="MISSING" capital="Asmara" capprov="Eritrea"/>
+   <province-tuple name="Ethiopia" country="ETH" population="57171662" area="MISSING" capital="Addis Ababa" capprov="Ethiopia"/>
+   <province-tuple name="Somalia" country="SP" population="9639151" area="MISSING" capital="Mogadishu" capprov="Somalia"/>
+   <province-tuple name="Central" country="EAK" population="3110000" area="13176.0" capital="Nyeri" capprov="Central"/>
+   <province-tuple name="Coast" country="EAK" population="1880000" area="83603.0" capital="Mombasa" capprov="Coast"/>
+   <province-tuple name="Eastern" country="EAK" population="3724000" area="159891.0" capital="Embu" capprov="Eastern"/>
+   <province-tuple name="Nairobi" country="EAK" population="1346000" area="684.0" capital="Nairobi" capprov="Nairobi"/>
+   <province-tuple name="North Eastern" country="EAK" population="372000" area="126090.0" capital="Garissa" capprov="North Eastern"/>
+   <province-tuple name="Nyanza" country="EAK" population="3558000" area="16162.0" capital="Kisumu" capprov="Nyanza"/>
+   <province-tuple name="Rift Valley" country="EAK" population="4894000" area="173868.0" capital="Nakuru" capprov="Rift Valley"/>
+   <province-tuple name="Western" country="EAK" population="2543000" area="8360.0" capital="Kakamega" capprov="Western"/>
+   <province-tuple name="Gambia" country="WAG" population="1204984" area="MISSING" capital="Banjul" capprov="Gambia"/>
+   <province-tuple name="Dakar" country="SN" population="1490500" area="550.0" capital="Dakar" capprov="Dakar"/>
+   <province-tuple name="Diourbel" country="SN" population="619700" area="4359.0" capital="Diourbel" capprov="Diourbel"/>
+   <province-tuple name="Fatick" country="SN" population="476000" area="7935.0" capital="Fatick" capprov="Fatick"/>
+   <province-tuple name="Kaolack" country="SN" population="816400" area="16010.0" capital="Kaolack" capprov="Kaolack"/>
+   <province-tuple name="Kolda" country="SN" population="606800" area="21011.0" capital="Kolda" capprov="Kolda"/>
+   <province-tuple name="Louga" country="SN" population="490400" area="29188.0" capital="Louga" capprov="Louga"/>
+   <province-tuple name="Saint Louis" country="SN" population="680200" area="44127.0" capital="Saint Louis" capprov="Saint Louis"/>
+   <province-tuple name="Tambacounda" country="SN" population="370000" area="59602.0" capital="Tambacounda" capprov="Tambacounda"/>
+   <province-tuple name="Thies" country="SN" population="948100" area="6601.0" capital="Thies" capprov="Thies"/>
+   <province-tuple name="Ziguinchor" country="SN" population="394700" area="7339.0" capital="Ziguinchor" capprov="Ziguinchor"/>
+   <province-tuple name="Guinea-Bissau" country="GNB" population="1151330" area="MISSING" capital="Bissau" capprov="Guinea-Bissau"/>
+   <province-tuple name="Sierra Leone" country="WAL" population="4793121" area="MISSING" capital="Freetown" capprov="Sierra Leone"/>
+   <province-tuple name="Uganda" country="EAU" population="20158176" area="MISSING" capital="Kampala" capprov="Uganda"/>
+   <province-tuple name="Lesotho" country="LS" population="1970781" area="MISSING" capital="Maseru" capprov="Lesotho"/>
+   <province-tuple name="Antsiranana" country="RM" population="689800" area="43046.0" capital="Antsiranana" capprov="Antsiranana"/>
+   <province-tuple name="Antananarivo" country="RM" population="3195800" area="58283.0" capital="Antananarivo" capprov="Antananarivo"/>
+   <province-tuple name="Fianarantsoa" country="RM" population="2209700" area="102373.0" capital="Fianarantsoa" capprov="Fianarantsoa"/>
+   <province-tuple name="Mahajanga" country="RM" population="1075300" area="150023.0" capital="Majunga" capprov="Mahajanga"/>
+   <province-tuple name="Toamasina" country="RM" population="1444700" area="71911.0" capital="Tamatave" capprov="Toamasina"/>
+   <province-tuple name="Toliara" country="RM" population="1396700" area="161405.0" capital="Toliara" capprov="Toliara"/>
+   <province-tuple name="Malawi" country="MW" population="9452844" area="MISSING" capital="Lilongwe" capprov="Malawi"/>
+   <province-tuple name="Cabo Delgado" country="MOC" population="1202200" area="82625.0" capital="Pemba" capprov="Cabo Delgado"/>
+   <province-tuple name="Gaza" country="MOC" population="1401500" area="75709.0" capital="Xai Xai" capprov="Gaza"/>
+   <province-tuple name="Inhambane" country="MOC" population="1157000" area="68615.0" capital="Inhambane" capprov="Inhambane"/>
+   <province-tuple name="Manica" country="MOC" population="609500" area="61661.0" capital="Chimoio" capprov="Manica"/>
+   <province-tuple name="Maputo" country="MOC" population="840800" area="25756.0" capital="Maputo" capprov="Maputo (munic.)"/>
+   <province-tuple name="Nampula" country="MOC" population="2841400" area="81606.0" capital="Nampula" capprov="Nampula"/>
+   <province-tuple name="Niassa" country="MOC" population="686700" area="129055.0" capital="Lichinga" capprov="Niassa"/>
+   <province-tuple name="Sofala" country="MOC" population="1427500" area="68018.0" capital="Beira" capprov="Sofala"/>
+   <province-tuple name="Tete" country="MOC" population="734600" area="100724.0" capital="Tete" capprov="Tete"/>
+   <province-tuple name="Zambezia" country="MOC" population="2619300" area="105008.0" capital="Quelimane" capprov="Zambezia"/>
+   <province-tuple name="Maputo (munic.)" country="MOC" population="931600" area="602.0" capital="Maputo" capprov="Maputo (munic.)"/>
+   <province-tuple name="Mauritius" country="MS" population="1140256" area="MISSING" capital="Port Louis" capprov="Mauritius"/>
+   <province-tuple name="Mayotte" country="MAYO" population="223765" area="MISSING" capital="Mamoutzou" capprov="Mayotte"/>
+   <province-tuple name="Swaziland" country="SD" population="998730" area="MISSING" capital="Mbabane" capprov="Swaziland"/>
+   <province-tuple name="Reunion" country="REUN" population="679198" area="MISSING" capital="Saint-Denis" capprov="Reunion"/>
+   <province-tuple name="Saint Helena" country="HELX" population="7637" area="MISSING" capital="Jamestown" capprov="Saint Helena"/>
+   <province-tuple name="Sao Tome and Principe" country="STP" population="144128" area="MISSING" capital="Sao Tome" capprov="Sao Tome and Principe"/>
+   <province-tuple name="Seychelles" country="SY" population="77575" area="MISSING" capital="Victoria" capprov="Seychelles"/>
+</province>

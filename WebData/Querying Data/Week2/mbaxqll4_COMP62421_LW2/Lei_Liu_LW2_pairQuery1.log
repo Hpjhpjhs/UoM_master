@@ -1,0 +1,258 @@
+pair1 join
+select o.name as Organization, o.established, c.name as country, c.capital as capital, cit.name as city, cit.population
+   from country as c, organization as o, ismember as m, city as cit
+   where c.code = o.country and o.country = m.country and o.abbreviation = m.organization and cit.name = o.city;
+Organization                    Established  country       capital       city        Population
+------------------------------  -----------  ------------  ------------  ----------  ----------
+African Development Bank Group  1964-09-09   Cote dIvoire  Yamoussoukro  Abidjan     4395243   
+African Union                   1963-05-25   Ethiopia      Addis Ababa   Addis Abab  3040740   
+Agency for the Prohibition of   1967-02-13   Mexico        Ciudad de Me  Ciudad de   8555272   
+Andean Community                1969-05-26   Peru          Lima          Lima        7605742   
+Arab Bank for Economic Develop  1974-02-17   Sudan         Khartoum      Khartoum    947483    
+Arab Maghreb Union              1989-02-16   Morocco       Rabat         Rabat       621480    
+Arab Monetary Fund              1976-04-26   United Arab   Abu Dhabi     Abu Dhabi   552000    
+Asia-Pacific Economic Cooperat  1989-11-06   Singapore     Singapore     Singapore   5076700   
+Asian Development Bank          1966-12-19   Philippines   Manila        Manila      1660714   
+Association of Southeast Asian  1967-08-07   Indonesia     Jakarta       Jakarta     9607787   
+Australia-New Zealand-United S  1951-08-31   Australia     Canberra      Canberra    418292    
+Baltic Assembly                 1990-05-12   Latvia        Riga          Riga        696618    
+Bank for International Settlem  1930-01-19   Switzerland   Bern          Basel       167386    
+Benelux Union                   1958-02-02   Belgium       Bruxelles     Bruxelles   168576    
+Caribbean Community and Common  1973-07-04   Guyana        Georgetown    Georgetown  118363    
+Caribbean Community and Common  1973-07-04   Guyana        Georgetown    Georgetown  180573    
+Central African States Develop  1975-12-03   Congo         Brazzaville   Brazzavill  1408150   
+Central American Bank for Econ  1960-12-13   Honduras      Tegucigalpa   Tegucigalp  850227    
+Central American Common Market  1960-12-13   Guatemala     Ciudad de Gu  Ciudad de   992541    
+Central American Integration S  1991-12-13   El Salvador   San Salvador  San Salvad  354174    
+Central European Initiative     1989-11-10   Hungary       Budapest      Budapest    1729040   
+Collective Security Treaty Org  2002-10-07   Russia        Moskva        Moskva      11979529  
+Colombo Plan                    1951-07-01   Sri Lanka     Sri Jayaward  Colombo     203203    
+Colombo Plan                    1951-07-01   Sri Lanka     Sri Jayaward  Colombo     647100    
+Common Market for Eastern and   1994-12-08   Zambia        Lusaka        Lusaka      1269848   
+Commonwealth                    1931-12-31   United Kingd  London        London      366151    
+Commonwealth                    1931-12-31   United Kingd  London        London      8250205   
+Commonwealth of Independent St  1991-12-08   Belarus       Minsk         Minsk       1836808   
+Conference of Interaction and   1999-09-13   Kazakhstan    Astana        Almaty      1507737   
+Council of Arab Economic Unity  1957-06-02   Jordan        Amman         Amman       1812941   
+Convention of the Southeast Eu  2011-10-07   Romania       Bucuresti     Bucuresti   1883425   
+Council of Europe               1949-05-05   France        Paris         Strasbourg  272222    
+Council of the Entente          1959-05-29   Cote dIvoire  Yamoussoukro  Abidjan     4395243   
+East African Development Bank   1967-06-05   Uganda        Kampala       Kampala     1516210   
+Economic and Monetary Communit  1964-12-08   Central Afri  Bangui        Bangui      622771    
+Economic and Monetary Union     1992-02-06   Belgium       Bruxelles     Bruxelles   168576    
+Economic Community of West Afr  1975-05-28   Nigeria       Abuja         Lagos       5195247   
+Economic Cooperation Organizat  1985-01-28   Iran          Tehran        Tehran      8154051   
+Euro-Atlantic Partnership Coun  1991-11-07   Belgium       Bruxelles     Bruxelles   168576    
+European Bank for Reconstructi  1990-01-08   United Kingd  London        London      366151    
+European Bank for Reconstructi  1990-01-08   United Kingd  London        London      8250205   
+European Central Bank           1998-05-31   Germany       Berlin        Frankfurt   667925    
+European Free Trade Associatio  1960-01-03   Switzerland   Bern          Geneve      191557    
+European Investment Bank        1957-03-25   Luxembourg    Luxembourg    Luxembourg  99852     
+European Organization for Nucl  1953-07-01   Switzerland   Bern          Geneve      191557    
+European Space Agency           1975-05-31   France        Paris         Paris       2249975   
+European Union                  1992-02-06   Belgium       Bruxelles     Bruxelles   168576    
+Financial Action Task Force     1989-07-15   France        Paris         Paris       2249975   
+Food and Agriculture Organizat  1945-10-16   Italy         Roma          Roma        2617175   
+Franc Zone                      1945-12-20   France        Paris         Paris       2249975   
+General Confederation of Trade  1992-04-15   Russia        Moskva        Moskva      11979529  
+Group of 10                     1962-10-01   France        Paris         Paris       2249975   
+Gulf Cooperation Council        1981-05-25   Saudi Arabia  Riyadh        Riyadh      4087152   
+Indian Ocean Commission         1982-12-21   Mauritius     Port Louis    Port Louis  NULL      
+Inter-American Development Ban  1959-04-07   United State  Washington    Washington  646449    
+International Atomic Energy Ag  1956-10-26   Austria       Wien          Wien        1761738   
+International Bank for Reconst  1944-07-22   United State  Washington    Washington  646449    
+International Chamber of Comme  1919-01-01   France        Paris         Paris       2249975   
+International Civil Aviation O  1944-12-07   Canada        Ottawa        Montreal    1649519   
+International Court of Justice  1945-06-25   Netherlands   Amsterdam     Den Haag    509623    
+International Criminal Court    2002-07-01   Netherlands   Amsterdam     Den Haag    509623    
+International Criminal Police   1956-06-13   France        Paris         Lyon        491268    
+International Development Asso  1960-01-25   United State  Washington    Washington  646449    
+International Energy Agency     1974-11-14   France        Paris         Paris       2249975   
+International Federation of Re  1919-05-05   Switzerland   Bern          Geneve      191557    
+International Finance Corporat  1955-05-25   United State  Washington    Washington  646449    
+International Fund for Agricul  1974-11-01   Italy         Roma          Roma        2617175   
+International Labor Organizati  1919-06-27   Switzerland   Bern          Geneve      191557    
+International Maritime Organiz  1948-03-06   United Kingd  London        London      366151    
+International Maritime Organiz  1948-03-06   United Kingd  London        London      8250205   
+International Mobile Satellite  1999-04-14   United Kingd  London        London      366151    
+International Mobile Satellite  1999-04-14   United Kingd  London        London      8250205   
+International Monetary Fund     1944-07-22   United State  Washington    Washington  646449    
+International Olympic Committe  1894-06-22   Switzerland   Bern          Lausanne    132788    
+International Organization for  1951-12-05   Switzerland   Bern          Geneve      191557    
+International Organization of   1970-03-20   France        Paris         Paris       2249975   
+International Telecommunicatio  1865-05-17   Switzerland   Bern          Geneve      191557    
+International Trade Union Conf  2006-11-02   Belgium       Bruxelles     Bruxelles   168576    
+Islamic Development Bank        1973-12-15   Saudi Arabia  Riyadh        Jeddah      2801481   
+Latin American and Caribbean E  1975-10-17   Venezuela     Caracas       Caracas     1975786   
+Latin American Integration Ass  1980-08-11   Uruguay       Montevideo    Montevideo  1318755   
+League of Arab States           1945-03-22   Egypt         Al Qahirah    Al Qahirah  8471859   
+Multilateral Investment Guaran  1988-04-11   United State  Washington    Washington  646449    
+Nonaligned Movement             1961-09-05   Indonesia     Jakarta       Jakarta     9607787   
+Nordic Council                  1952-03-16   Sweden        Stockholm     Stockholm   881235    
+Nordic Investment Bank          1975-12-04   Finland       Helsinki      Helsinki    614535    
+North Atlantic Treaty Organiza  1949-04-03   Belgium       Bruxelles     Bruxelles   168576    
+Nuclear Suppliers Group         NULL         Austria       Wien          Wien        1761738   
+Organization for Democracy and  2001-06-06   Ukraine       Kyiv          Kyiv        2814258   
+Organization for Economic Coop  1960-12-14   France        Paris         Paris       2249975   
+Organization for Security and   1994-12-31   Austria       Wien          Wien        1761738   
+Organization for the Prohibiti  1997-04-28   Netherlands   Amsterdam     Den Haag    509623    
+Organization of American State  1890-04-13   United State  Washington    Washington  646449    
+Organization of Eastern Caribb  1981-06-17   Saint Lucia   Castries      Castries    3661      
+Organization of Islamic Cooper  1969-09-24   Saudi Arabia  Riyadh        Jeddah      2801481   
+Pacific Islands Forum           1971-08-04   Fiji          Suva          Suva        75225     
+Secretariat of the Pacific Com  1947-02-05   New Caledoni  Noumea        Noumea      NULL      
+Shanghai Cooperation Organizat  2001-06-14   China         Beijing       Beijing     11716620  
+South Asian Association for Re  1985-12-08   Nepal         Kathmandu     Kathmandu   1003285   
+Southern African Customs Union  1969-12-11   South Africa  Tshwane       Tshwane     2921488   
+Southern African Development C  1992-08-16   Botswana      Gaborone      Gaborone    227333    
+Southern Cone Common Market     1991-03-26   Argentina     Buenos Aires  Buenos Air  2768772   
+Union of South American Nation  2008-05-23   Ecuador       Quito         Quito       1619146   
+United Nations                  1945-06-25   United State  Washington    New York    8405837   
+United Nations Educational, Sc  1945-11-15   France        Paris         Paris       2249975   
+United Nations High Commission  1949-12-03   Switzerland   Bern          Geneve      191557    
+United Nations Industrial Deve  1966-11-16   Austria       Wien          Wien        1761738   
+Universal Postal Union          1874-10-09   Switzerland   Bern          Bern        128848    
+World Customs Organization      1950-12-15   Belgium       Bruxelles     Bruxelles   168576    
+World Federation of Trade Unio  1945-10-03   Czech Republ  Praha         Praha       1289556   
+World Health Organization       1946-07-22   Switzerland   Bern          Geneve      191557    
+World Intellectual Property Or  1967-07-14   Switzerland   Bern          Geneve      191557    
+World Meteorological Organizat  1947-10-11   Switzerland   Bern          Geneve      191557    
+World Tourism Organization      1975-01-01   Spain         Madrid        Madrid      3198645   
+pair1 cross join
+select o.name as Organization, o.established, c.name as country, c.capital as capital, cit.name as city, cit.population
+   from ismember as m cross join country as c cross join organization as o cross join city as cit
+   where c.code = o.country and o.country = m.country and o.abbreviation = m.organization and cit.name = o.city;
+Organization                        Established  country     capital     city        Population
+----------------------------------  -----------  ----------  ----------  ----------  ----------
+International Atomic Energy Agency  1956-10-26   Austria     Wien        Wien        1761738   
+Nuclear Suppliers Group             NULL         Austria     Wien        Wien        1761738   
+Organization for Security and Coop  1994-12-31   Austria     Wien        Wien        1761738   
+United Nations Industrial Developm  1966-11-16   Austria     Wien        Wien        1761738   
+Australia-New Zealand-United State  1951-08-31   Australia   Canberra    Canberra    418292    
+Benelux Union                       1958-02-02   Belgium     Bruxelles   Bruxelles   168576    
+Euro-Atlantic Partnership Council   1991-11-07   Belgium     Bruxelles   Bruxelles   168576    
+Economic and Monetary Union         1992-02-06   Belgium     Bruxelles   Bruxelles   168576    
+European Union                      1992-02-06   Belgium     Bruxelles   Bruxelles   168576    
+International Trade Union Confeder  2006-11-02   Belgium     Bruxelles   Bruxelles   168576    
+North Atlantic Treaty Organization  1949-04-03   Belgium     Bruxelles   Bruxelles   168576    
+World Customs Organization          1950-12-15   Belgium     Bruxelles   Bruxelles   168576    
+Commonwealth of Independent States  1991-12-08   Belarus     Minsk       Minsk       1836808   
+International Civil Aviation Organ  1944-12-07   Canada      Ottawa      Montreal    1649519   
+Bank for International Settlements  1930-01-19   Switzerlan  Bern        Basel       167386    
+European Organization for Nuclear   1953-07-01   Switzerlan  Bern        Geneve      191557    
+European Free Trade Association     1960-01-03   Switzerlan  Bern        Geneve      191557    
+International Federation of Red Cr  1919-05-05   Switzerlan  Bern        Geneve      191557    
+International Labor Organization    1919-06-27   Switzerlan  Bern        Geneve      191557    
+International Olympic Committee     1894-06-22   Switzerlan  Bern        Lausanne    132788    
+International Organization for Mig  1951-12-05   Switzerlan  Bern        Geneve      191557    
+International Telecommunication Un  1865-05-17   Switzerlan  Bern        Geneve      191557    
+United Nations High Commissioner f  1949-12-03   Switzerlan  Bern        Geneve      191557    
+Universal Postal Union              1874-10-09   Switzerlan  Bern        Bern        128848    
+World Health Organization           1946-07-22   Switzerlan  Bern        Geneve      191557    
+World Intellectual Property Organi  1967-07-14   Switzerlan  Bern        Geneve      191557    
+World Meteorological Organization   1947-10-11   Switzerlan  Bern        Geneve      191557    
+African Development Bank Group      1964-09-09   Cote dIvoi  Yamoussouk  Abidjan     4395243   
+Council of the Entente              1959-05-29   Cote dIvoi  Yamoussouk  Abidjan     4395243   
+Colombo Plan                        1951-07-01   Sri Lanka   Sri Jayawa  Colombo     203203    
+Colombo Plan                        1951-07-01   Sri Lanka   Sri Jayawa  Colombo     647100    
+Shanghai Cooperation Organization   2001-06-14   China       Beijing     Beijing     11716620  
+World Federation of Trade Unions    1945-10-03   Czech Repu  Praha       Praha       1289556   
+European Central Bank               1998-05-31   Germany     Berlin      Frankfurt   667925    
+World Tourism Organization          1975-01-01   Spain       Madrid      Madrid      3198645   
+East African Development Bank       1967-06-05   Uganda      Kampala     Kampala     1516210   
+Union of South American Nations     2008-05-23   Ecuador     Quito       Quito       1619146   
+Central American Integration Syste  1991-12-13   El Salvado  San Salvad  San Salvad  354174    
+League of Arab States               1945-03-22   Egypt       Al Qahirah  Al Qahirah  8471859   
+African Union                       1963-05-25   Ethiopia    Addis Abab  Addis Abab  3040740   
+Council of Europe                   1949-05-05   France      Paris       Strasbourg  272222    
+European Space Agency               1975-05-31   France      Paris       Paris       2249975   
+Financial Action Task Force         1989-07-15   France      Paris       Paris       2249975   
+Franc Zone                          1945-12-20   France      Paris       Paris       2249975   
+Group of 10                         1962-10-01   France      Paris       Paris       2249975   
+International Chamber of Commerce   1919-01-01   France      Paris       Paris       2249975   
+International Energy Agency         1974-11-14   France      Paris       Paris       2249975   
+International Criminal Police Orga  1956-06-13   France      Paris       Lyon        491268    
+Organization for Economic Cooperat  1960-12-14   France      Paris       Paris       2249975   
+International Organization of the   1970-03-20   France      Paris       Paris       2249975   
+United Nations Educational, Scient  1945-11-15   France      Paris       Paris       2249975   
+Pacific Islands Forum               1971-08-04   Fiji        Suva        Suva        75225     
+Commonwealth                        1931-12-31   United Kin  London      London      366151    
+Commonwealth                        1931-12-31   United Kin  London      London      8250205   
+European Bank for Reconstruction a  1990-01-08   United Kin  London      London      366151    
+European Bank for Reconstruction a  1990-01-08   United Kin  London      London      8250205   
+International Maritime Organizatio  1948-03-06   United Kin  London      London      366151    
+International Maritime Organizatio  1948-03-06   United Kin  London      London      8250205   
+International Mobile Satellite Org  1999-04-14   United Kin  London      London      366151    
+International Mobile Satellite Org  1999-04-14   United Kin  London      London      8250205   
+Central American Common Market      1960-12-13   Guatemala   Ciudad de   Ciudad de   992541    
+Caribbean Community and Common Mar  1973-07-04   Guyana      Georgetown  Georgetown  118363    
+Caribbean Community and Common Mar  1973-07-04   Guyana      Georgetown  Georgetown  180573    
+Central European Initiative         1989-11-10   Hungary     Budapest    Budapest    1729040   
+Central American Bank for Economic  1960-12-13   Honduras    Tegucigalp  Tegucigalp  850227    
+Food and Agriculture Organization   1945-10-16   Italy       Roma        Roma        2617175   
+International Fund for Agricultura  1974-11-01   Italy       Roma        Roma        2617175   
+Economic Cooperation Organization   1985-01-28   Iran        Tehran      Tehran      8154051   
+Council of Arab Economic Unity      1957-06-02   Jordan      Amman       Amman       1812941   
+Conference of Interaction and Conf  1999-09-13   Kazakhstan  Astana      Almaty      1507737   
+European Investment Bank            1957-03-25   Luxembourg  Luxembourg  Luxembourg  99852     
+Baltic Assembly                     1990-05-12   Latvia      Riga        Riga        696618    
+Arab Maghreb Union                  1989-02-16   Morocco     Rabat       Rabat       621480    
+Agency for the Prohibition of Nucl  1967-02-13   Mexico      Ciudad de   Ciudad de   8555272   
+Indian Ocean Commission             1982-12-21   Mauritius   Port Louis  Port Louis  NULL      
+Secretariat of the Pacific Communi  1947-02-05   New Caledo  Noumea      Noumea      NULL      
+South Asian Association for Region  1985-12-08   Nepal       Kathmandu   Kathmandu   1003285   
+International Criminal Court        2002-07-01   Netherland  Amsterdam   Den Haag    509623    
+International Court of Justice      1945-06-25   Netherland  Amsterdam   Den Haag    509623    
+Organization for the Prohibition o  1997-04-28   Netherland  Amsterdam   Den Haag    509623    
+Andean Community                    1969-05-26   Peru        Lima        Lima        7605742   
+Collective Security Treaty Organiz  2002-10-07   Russia      Moskva      Moskva      11979529  
+General Confederation of Trade Uni  1992-04-15   Russia      Moskva      Moskva      11979529  
+Southern Cone Common Market         1991-03-26   Argentina   Buenos Air  Buenos Air  2768772   
+Southern African Development Commu  1992-08-16   Botswana    Gaborone    Gaborone    227333    
+Economic and Monetary Community of  1964-12-08   Central Af  Bangui      Bangui      622771    
+Central African States Development  1975-12-03   Congo       Brazzavill  Brazzavill  1408150   
+Association of Southeast Asian Nat  1967-08-07   Indonesia   Jakarta     Jakarta     9607787   
+Nonaligned Movement                 1961-09-05   Indonesia   Jakarta     Jakarta     9607787   
+Convention of the Southeast Europe  2011-10-07   Romania     Bucuresti   Bucuresti   1883425   
+Latin American Integration Associa  1980-08-11   Uruguay     Montevideo  Montevideo  1318755   
+Asian Development Bank              1966-12-19   Philippine  Manila      Manila      1660714   
+Southern African Customs Union      1969-12-11   South Afri  Tshwane     Tshwane     2921488   
+Nordic Council                      1952-03-16   Sweden      Stockholm   Stockholm   881235    
+Gulf Cooperation Council            1981-05-25   Saudi Arab  Riyadh      Riyadh      4087152   
+Islamic Development Bank            1973-12-15   Saudi Arab  Riyadh      Jeddah      2801481   
+Organization of Islamic Cooperatio  1969-09-24   Saudi Arab  Riyadh      Jeddah      2801481   
+Nordic Investment Bank              1975-12-04   Finland     Helsinki    Helsinki    614535    
+Asia-Pacific Economic Cooperation   1989-11-06   Singapore   Singapore   Singapore   5076700   
+Arab Bank for Economic Development  1974-02-17   Sudan       Khartoum    Khartoum    947483    
+Organization for Democracy and Eco  2001-06-06   Ukraine     Kyiv        Kyiv        2814258   
+Arab Monetary Fund                  1976-04-26   United Ara  Abu Dhabi   Abu Dhabi   552000    
+Inter-American Development Bank     1959-04-07   United Sta  Washington  Washington  646449    
+International Bank for Reconstruct  1944-07-22   United Sta  Washington  Washington  646449    
+International Development Associat  1960-01-25   United Sta  Washington  Washington  646449    
+International Finance Corporation   1955-05-25   United Sta  Washington  Washington  646449    
+International Monetary Fund         1944-07-22   United Sta  Washington  Washington  646449    
+Multilateral Investment Guarantee   1988-04-11   United Sta  Washington  Washington  646449    
+Organization of American States     1890-04-13   United Sta  Washington  Washington  646449    
+United Nations                      1945-06-25   United Sta  Washington  New York    8405837   
+Economic Community of West African  1975-05-28   Nigeria     Abuja       Lagos       5195247   
+Organization of Eastern Caribbean   1981-06-17   Saint Luci  Castries    Castries    3661      
+Latin American and Caribbean Econo  1975-10-17   Venezuela   Caracas     Caracas     1975786   
+Common Market for Eastern and Sout  1994-12-08   Zambia      Lusaka      Lusaka      1269848   
+explain query plan select o.name as Organization, o.established, c.name as country, c.capital as capital, cit.name as city, cit.population
+   from country as c, organization as o, ismember as m, city as cit
+   where c.code = o.country and o.country = m.country and o.abbreviation = m.organization and cit.name = o.city;
+selectid    order       from        detail                                  
+----------  ----------  ----------  ----------------------------------------
+0           0           1           SCAN TABLE organization AS o (~168 rows)
+0           1           2           SEARCH TABLE ismember AS m USING COVERIN
+0           2           0           SEARCH TABLE country AS c USING INDEX sq
+0           3           3           SEARCH TABLE city AS cit USING INDEX sql
+explain query plan select o.name as Organization, o.established, c.name as country, c.capital as capital, cit.name as city, cit.population
+   from ismember as m cross join country as c cross join organization as o cross join city as cit
+   where c.code = o.country and o.country = m.country and o.abbreviation = m.organization and cit.name = o.city;
+selectid    order       from        detail                                                                                
+----------  ----------  ----------  --------------------------------------------------------------------------------------
+0           0           0           SCAN TABLE ismember AS m USING COVERING INDEX sqlite_autoindex_isMember_1 (~9968 rows)
+0           1           1           SEARCH TABLE country AS c USING INDEX sqlite_autoindex_Country_2 (Code=?) (~1 rows)   
+0           2           2           SEARCH TABLE organization AS o USING INDEX sqlite_autoindex_Organization_1 (Abbreviati
+0           3           3           SEARCH TABLE city AS cit USING INDEX sqlite_autoindex_City_1 (Name=?) (~2 rows)       

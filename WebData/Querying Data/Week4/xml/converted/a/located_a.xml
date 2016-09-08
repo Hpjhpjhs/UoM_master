@@ -1,0 +1,860 @@
+
+<located>
+   <located-tuple city="Shkoder" province="Albania" country="AL" river="MISSING" lake="Lake Skutari" sea="MISSING"/>
+   <located-tuple city="Durres" province="Albania" country="AL" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Vlore" province="Albania" country="AL" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Kavalla" province="Anatoliki Makedhonia kai Thraki" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Athens" province="Attiki" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Piraeus" province="Attiki" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Patrai" province="Dhytiki Ellas" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Korfu" province="Ionioi Nisoi" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Thessaloniki" province="Kedriki Makedhonia" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Iraklion" province="Kriti" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Ermoupoli" province="Notion Aiyaion" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Volos" province="Thessalia" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Mytilini" province="Voreion Aiyaion" country="GR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Belgrade" province="Serbia" country="SRB" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Belgrade" province="Serbia" country="SRB" river="Save" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Strasbourg" province="Alsace" country="F" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bordeaux" province="Aquitaine" country="F" river="Garonne" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Brest" province="Bretagne" country="F" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Orleans" province="Centre" country="F" river="Loire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tours" province="Centre" country="F" river="Loire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Chalons en Champagne" province="Champagne Ardenne" country="F" river="Marne" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ajaccio" province="Corse" country="F" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Besancon" province="Franche Comte" country="F" river="Doubs" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rouen" province="Haute Normandie" country="F" river="Seine" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Le Havre" province="Haute Normandie" country="F" river="Seine" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Paris" province="Ile de France" country="F" river="Seine" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Boulogne Billancourt" province="Ile de France" country="F" river="Seine" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Perpignan" province="Languedoc Roussillon" country="F" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Metz" province="Lorraine" country="F" river="Mosel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nancy" province="Lorraine" country="F" river="Mosel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Toulouse" province="Midi Pyrenees" country="F" river="Garonne" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nantes" province="Pays de la Loire" country="F" river="Loire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Marseille" province="Provence Cote dAzur" country="F" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Nice" province="Provence Cote dAzur" country="F" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Toulon" province="Provence Cote dAzur" country="F" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Lyon" province="Rhone Alpes" country="F" river="Saone" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Lyon" province="Rhone Alpes" country="F" river="Saone" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Grenoble" province="Rhone Alpes" country="F" river="Isere" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Villeurbanne" province="Rhone Alpes" country="F" river="Rhone" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Sevilla" province="Andalusia" country="E" river="Guadalquivir" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Almeria" province="Andalusia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Cadiz" province="Andalusia" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Cordoba" province="Andalusia" country="E" river="Guadalquivir" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Huelva" province="Andalusia" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Malaga" province="Andalusia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Algeciras" province="Andalusia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Zaragoza" province="Aragon" country="E" river="Ebro" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Gijon" province="Asturias" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Palma de Mallorca" province="Balearic Islands" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bilbao" province="Basque Country" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Baracaldo" province="Basque Country" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Donostia" province="Basque Country" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Santa Cruz de Tenerife" province="Canary Islands" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Las Palmas de Gran Canaria" province="Canary Islands" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="La Laguna" province="Canary Islands" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Santander" province="Cantabria" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Valladolid" province="Castile and Leon" country="E" river="Douro" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Barcelona" province="Catalonia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Badalona" province="Catalonia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Badajoz" province="Estremadura" country="E" river="Guadiana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="La Coruna" province="Galicia" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Vigo" province="Galicia" country="E" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Cartagena" province="Murcia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Logrono" province="Rioja" country="E" river="Ebro" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Valencia" province="Valencia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Alicante" province="Valencia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Castellon de la Plana" province="Valencia" country="E" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bregenz" province="Vorarlberg" country="A" river="MISSING" lake="Bodensee" sea="MISSING"/>
+   <located-tuple city="Vienna" province="Vienna" country="A" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Linz" province="Upper Austria" country="A" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Innsbruck" province="Tyrol" country="A" river="Inn" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Graz" province="Styria" country="A" river="Mur" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Salzburg" province="Salzburg" country="A" river="Salzach" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ostrava" province="Severomoravsky" country="CZ" river="Oder" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Olomouc" province="Severomoravsky" country="CZ" river="March" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Stuttgart" province="Baden Wurttemberg" country="D" river="Neckar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mannheim" province="Baden Wurttemberg" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mannheim" province="Baden Wurttemberg" country="D" river="Neckar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Karlsruhe" province="Baden Wurttemberg" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Heidelberg" province="Baden Wurttemberg" country="D" river="Neckar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Heilbronn" province="Baden Wurttemberg" country="D" river="Neckar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ulm" province="Baden Wurttemberg" country="D" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ulm" province="Baden Wurttemberg" country="D" river="Iller" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Munich" province="Bayern" country="D" river="Isar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Augsburg" province="Bayern" country="D" river="Lech" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wurzburg" province="Bayern" country="D" river="Main" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Regensburg" province="Bayern" country="D" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ingolstadt" province="Bayern" country="D" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bremen" province="Bremen" country="D" river="Weser" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bremerhaven" province="Bremen" country="D" river="Weser" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Hamburg" province="Hamburg" country="D" river="Elbe" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wiesbaden" province="Hessen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wiesbaden" province="Hessen" country="D" river="Main" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Frankfurt am Main" province="Hessen" country="D" river="Main" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kassel" province="Hessen" country="D" river="Fulda" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Offenbach am Main" province="Hessen" country="D" river="Main" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rostock" province="Mecklenburg Vorpommern" country="D" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Hannover" province="Niedersachsen" country="D" river="Leine" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Gottingen" province="Niedersachsen" country="D" river="Leine" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wolfsburg" province="Niedersachsen" country="D" river="Aller" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dusseldorf" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Koln" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Duisburg" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bonn" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Krefeld" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Leverkusen" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Neuss" province="Nordrhein Westfalen" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mainz" province="Rheinland Pfalz" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ludwigshafen" province="Rheinland Pfalz" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Koblenz" province="Rheinland Pfalz" country="D" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Koblenz" province="Rheinland Pfalz" country="D" river="Mosel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Saarbrucken" province="Saarland" country="D" river="Saar" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dresden" province="Sachsen" country="D" river="Elbe" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Magdeburg" province="Sachsen Anhalt" country="D" river="Elbe" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kiel" province="Schleswig Holstein" country="D" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Lubeck" province="Schleswig Holstein" country="D" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Szolnok" province="Szolnok" country="H" river="Theiss" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Budapest" province="Budapest (munic.)" country="H" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Gyor" province="Gyor (munic.)" country="H" river="Raab" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Szeged" province="Szeged (munic.)" country="H" river="Theiss" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Turin" province="Piemonte" country="I" river="Po" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bolzano" province="Trentino Alto Adige" country="I" river="Etsch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Trento" province="Trentino Alto Adige" country="I" river="Etsch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Verona" province="Veneto" country="I" river="Etsch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Venice" province="Veneto" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Trieste" province="Friuli Venezia Giulia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="La Spezia" province="Liguria" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Genua" province="Liguria" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Piacenza" province="Emilia Romagna" country="I" river="Po" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rimini" province="Emilia Romagna" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Livorno" province="Toscana" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Pisa" province="Toscana" country="I" river="Arno" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Firenze" province="Toscana" country="I" river="Arno" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ancona" province="Marche" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Rome" province="Lazio" country="I" river="Tiber" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Pescara" province="Abruzzo" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Salerno" province="Campania" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Napoli" province="Campania" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Torre del Greco" province="Campania" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bari" province="Puglia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Taranto" province="Puglia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Reggio di Calabria" province="Calabria" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Palermo" province="Sicilia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Messina" province="Sicilia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Catania" province="Sicilia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Siracusa" province="Sicilia" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Cagliari" province="Sardegna" country="I" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bratislava" province="Slovakia" country="SK" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bratislava" province="Slovakia" country="SK" river="March" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ljubljana" province="Slovenia" country="SLO" river="Save" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Aarau" province="AG" country="CH" river="Aare" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Basel" province="BS" country="CH" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bern" province="BE" country="CH" river="Aare" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Geneva" province="GE" country="CH" river="Rhone" lake="Lac Leman" sea="MISSING"/>
+   <located-tuple city="Chur" province="GR" country="CH" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Luzern" province="LU" country="CH" river="Reuss" lake="Vierwaldstattersee" sea="MISSING"/>
+   <located-tuple city="Schaffhausen" province="SH" country="CH" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Solothurn" province="SO" country="CH" river="Aare" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bellinzona" province="TI" country="CH" river="Ticino" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Altdorf" province="UR" country="CH" river="Reuss" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Sion" province="VS" country="CH" river="Rhone" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Lausanne" province="VD" country="CH" river="MISSING" lake="Lac Leman" sea="MISSING"/>
+   <located-tuple city="Zurich" province="ZH" country="CH" river="Limmat" lake="Zurichsee" sea="MISSING"/>
+   <located-tuple city="Riga" province="Latvia" country="LV" river="Western Dwina" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Warsaw" province="Warszwaskie" country="PL" river="Weichsel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bydgoszcz" province="Bydgoskie" country="PL" river="Weichsel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Gdansk" province="Gdanskie" country="PL" river="Weichsel" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Gdynia" province="Gdanskie" country="PL" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Krakow" province="Krakowskie" country="PL" river="Weichsel" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Opole" province="Opolskie" country="PL" river="Oder" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Szczecin" province="Szczecinskie" country="PL" river="Oder" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wroclaw" province="Wroclawskie" country="PL" river="Oder" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Cherkasy" province="Cherkaska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Chernivtsi" province="Chernivetska" country="UA" river="Pruth" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dnipropetrovsk" province="Dnipropetrovska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dniprodzerzhynsk" province="Dnipropetrovska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kherson" province="Khersonska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kiev" province="Kyyivska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kremenchuk" province="Poltavska" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Zaporizhzhya" province="Zaporizka" country="UA" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Arkhangelsk" province="Arkhangelskaya oblast" country="R" river="Northern Dwina" lake="MISSING" sea="Barents Sea"/>
+   <located-tuple city="Severodvinsk" province="Arkhangelskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Barents Sea"/>
+   <located-tuple city="Murmansk" province="Murmanskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Barents Sea"/>
+   <located-tuple city="Kaliningrad" province="Kaliningradskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Sankt Peterburg" province="Sankt Peterburg" country="R" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Kaluga" province="Kaluzhskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kostroma" province="Kostromskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kolomna" province="Moskovskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Serpukhov" province="Moskovskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ryazan" province="Ryazanskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Smolensk" province="Smolenskaya oblast" country="R" river="Dnepr" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tver" province="Tverskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yaroslavl" province="Yaroslavskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rybinsk" province="Yaroslavskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nizhniy Novgorod" province="Nizhegorodskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nizhniy Novgorod" province="Nizhegorodskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dzerzhinsk" province="Nizhegorodskaya oblast" country="R" river="Oka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kazan" province="Rep. of Tatarstan" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Astrakhan" province="Astrakhanskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Volgograd" province="Volgogradskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Samara" province="Samarskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tolyatti" province="Samarskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Saratov" province="Saratovskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Balakovo" province="Saratovskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Engels" province="Saratovskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Simbirsk" province="Ulyanovskaya oblast" country="R" river="Volga" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Orenburg" province="Orenburgskaya oblast" country="R" river="Ural" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Orsk" province="Orenburgskaya oblast" country="R" river="Ural" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kurgan" province="Kurganskaya oblast" country="R" river="Tobol" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Magnitogorsk" province="Chelyabinskaya oblast" country="R" river="Ural" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Biysk" province="Altayskiy kray" country="R" river="Katun" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Omsk" province="Omskaya oblast" country="R" river="Irtysch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kyzyl" province="Rep. of Tyva" country="R" river="Jenissej" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Abakan" province="Rep. of Khakassiya" country="R" river="Jenissej" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Krasnoyarsk" province="Krasnoyarskiy kray" country="R" river="Jenissej" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Irkutsk" province="Irkutskaya oblast" country="R" river="Angara" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Angarsk" province="Irkutskaya oblast" country="R" river="Angara" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bratsk" province="Irkutskaya oblast" country="R" river="Angara" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ust Ilimsk" province="Irkutskaya oblast" country="R" river="Angara" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Usolye Sibirskoye" province="Irkutskaya oblast" country="R" river="Angara" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Chita" province="Chitinskaya oblast" country="R" river="Schilka" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yakutsk" province="Rep. of Sakha" country="R" river="Lena" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Vladivostok" province="Primorsky kray" country="R" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Nakhodka" province="Primorsky kray" country="R" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Khabarovsk" province="Khabarovskiy kray" country="R" river="Amur" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Komsomolsk na Amure" province="Khabarovskiy kray" country="R" river="Amur" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Blagoveshchensk" province="Amurskaya oblast" country="R" river="Amur" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Petropavlovsk Kamchatsky" province="Kamchatskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Magadan" province="Magadanskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Sea of Okhotsk"/>
+   <located-tuple city="Okhotsk" province="Magadanskaya oblast" country="R" river="MISSING" lake="MISSING" sea="Sea of Okhotsk"/>
+   <located-tuple city="Liege" province="Liege" country="B" river="Maas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Namur" province="Namur" country="B" river="Maas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Arnhem" province="Gelderland" country="NL" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nijmegen" province="Gelderland" country="NL" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rotterdam" province="Zuid Holland" country="NL" river="Rhein" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Maastricht" province="Limburg" country="NL" river="Maas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Zagreb" province="Croatia" country="HR" river="Save" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Braila" province="Braila" country="RO" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Sfintu Gheorghe" province="Covasna" country="RO" river="Olt" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Galati" province="Galati" country="RO" river="Donau" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Miercurea Ciuc" province="Harghita" country="RO" river="Olt" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Slatina" province="Olt" country="RO" river="Olt" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Diyarbakir" province="Diyarbakir" country="TR" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Erzincan" province="Erzincan" country="TR" river="Karasu" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Erzurum" province="Erzurum" country="TR" river="Karasu" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mus" province="Mus" country="TR" river="Murat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Copenhagen" province="Denmark" country="DK" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Aarhus" province="Denmark" country="DK" river="MISSING" lake="MISSING" sea="Kattegat"/>
+   <located-tuple city="Esbjerg" province="Denmark" country="DK" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Tallinn" province="Estonia" country="EW" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Torshavn" province="Faroe Islands" country="FARX" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Lahti" province="Haeme" country="SF" river="MISSING" lake="Paeijaenne" sea="MISSING"/>
+   <located-tuple city="Kuopio" province="Kuopio" country="SF" river="MISSING" lake="Kallavesi" sea="MISSING"/>
+   <located-tuple city="Lappeenrenta" province="Kymi" country="SF" river="MISSING" lake="Saimaa" sea="MISSING"/>
+   <located-tuple city="Kotka" province="Kymi" country="SF" river="Kymijoki" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Rovaniemi" province="Lappia" country="SF" river="Ounasjoki" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rovaniemi" province="Lappia" country="SF" river="Kemijoki" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mikkeli" province="Mikkeli" country="SF" river="MISSING" lake="Saimaa" sea="MISSING"/>
+   <located-tuple city="Jyvaeskylae" province="Suomi" country="SF" river="MISSING" lake="Paeijaenne" sea="MISSING"/>
+   <located-tuple city="Oulu" province="Oulu" country="SF" river="Oulujoki" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Pori" province="Turku-Pori" country="SF" river="Kokemaeenjoki" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Turku" province="Turku-Pori" country="SF" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Helsinki" province="Uusimaa" country="SF" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Espoo" province="Uusimaa" country="SF" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Vaasa" province="Vaasa" country="SF" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Oslo" province="Oslo" country="N" river="MISSING" lake="MISSING" sea="Skagerrak"/>
+   <located-tuple city="Moss" province="Oestfold" country="N" river="MISSING" lake="MISSING" sea="Skagerrak"/>
+   <located-tuple city="Hamar" province="Hedmark" country="N" river="MISSING" lake="Mjoesa-See" sea="MISSING"/>
+   <located-tuple city="Lillehammer" province="Oppland" country="N" river="MISSING" lake="Mjoesa-See" sea="MISSING"/>
+   <located-tuple city="Arendal" province="Aust Agder" country="N" river="MISSING" lake="MISSING" sea="Skagerrak"/>
+   <located-tuple city="Kristiansand" province="Vest Agder" country="N" river="MISSING" lake="MISSING" sea="Skagerrak"/>
+   <located-tuple city="Stavanger" province="Rogaland" country="N" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Bergen" province="Hordaland" country="N" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Molde" province="Moere og Romsdal" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Trondheim" province="Soer Trondelag" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Steinkjer" province="Nord Trondelag" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Svolvaer" province="Nordland" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Narvik" province="Nordland" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Bodoe" province="Nordland" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Tromsoe" province="Troms" country="N" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Hammerfest" province="Finnmark" country="N" river="MISSING" lake="MISSING" sea="Barents Sea"/>
+   <located-tuple city="Vadsoe" province="Finnmark" country="N" river="MISSING" lake="MISSING" sea="Barents Sea"/>
+   <located-tuple city="Vanersborg" province="Alvsborg" country="S" river="Goetaaelv" lake="Vaenern" sea="MISSING"/>
+   <located-tuple city="Karlskrona" province="Blekinge" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Gavle" province="Gavleborg" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Goteborg" province="Goteborg och Bohus" country="S" river="Goetaaelv" lake="MISSING" sea="Kattegat"/>
+   <located-tuple city="Visby" province="Gotland" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Halmstad" province="Halland" country="S" river="MISSING" lake="MISSING" sea="Kattegat"/>
+   <located-tuple city="Jonkoping" province="Jonkoping" country="S" river="MISSING" lake="Vaettern" sea="MISSING"/>
+   <located-tuple city="Kalmar" province="Kalmar" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Malmo" province="Malmohus" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Helsingborg" province="Malmohus" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Lulea" province="Norrbotten" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Mariestad" province="Skaraborg" country="S" river="MISSING" lake="Vaenern" sea="MISSING"/>
+   <located-tuple city="Stockholm" province="Stockholm" country="S" river="MISSING" lake="Maelaren" sea="Baltic Sea"/>
+   <located-tuple city="Karlstad" province="Varmland" country="S" river="Klaraelv" lake="Vaenern" sea="MISSING"/>
+   <located-tuple city="Umea" province="Vasterbotten" country="S" river="Umeaelv" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Harnosand" province="Vasternorrland" country="S" river="MISSING" lake="MISSING" sea="Baltic Sea"/>
+   <located-tuple city="Vasteras" province="Vastmanland" country="S" river="MISSING" lake="Maelaren" sea="MISSING"/>
+   <located-tuple city="Monaco" province="Monaco" country="MC" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Saint Peter Port" province="Guernsey" country="GBG" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Reykjavik" province="Iceland" country="IS" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Keflavik" province="Iceland" country="IS" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Hafnarfjoerdur" province="Iceland" country="IS" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Akureyri" province="Iceland" country="IS" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Dublin" province="Ireland" country="IRL" river="MISSING" lake="MISSING" sea="Irish Sea"/>
+   <located-tuple city="Saint Helier" province="Jersey" country="GBJ" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Valletta" province="Malta" country="M" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Douglas" province="Man" country="GBM" river="MISSING" lake="MISSING" sea="Irish Sea"/>
+   <located-tuple city="Faro" province="Algarve" country="P" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Lisbon" province="Lisbon" country="P" river="Tajo" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Porto" province="Porto" country="P" river="Douro" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Vila Nova de Gaia" province="Porto" country="P" river="Douro" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Santarem" province="Santarem" country="P" river="Tajo" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Setubal" province="Setubal" country="P" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Viana do Castelo" province="Viana do Castelo" country="P" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Ponta Delgada" province="Azores" country="P" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Funchal" province="Madeira" country="P" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Longyearbyen" province="Svalbard" country="SVAX" river="MISSING" lake="MISSING" sea="Norwegian Sea"/>
+   <located-tuple city="Reading" province="Berkshire" country="GB" river="Thames" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Plymouth" province="Devon" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Bournemouth" province="Dorset" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Poole" province="Dorset" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Brighton" province="East Sussex" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Southend on Sea" province="Essex" country="GB" river="Thames" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="London" province="Greater London" country="GB" river="Thames" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Southampton" province="Hampshire" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Portsmouth" province="Hampshire" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Havant" province="Hampshire" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Fareham" province="Hampshire" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Dover" province="Kent" country="GB" river="MISSING" lake="MISSING" sea="The Channel"/>
+   <located-tuple city="Oxford" province="Oxfordshire" country="GB" river="Thames" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Inverness" province="Highland" country="GB" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Dundee" province="Tayside" country="GB" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Colwyn Bay" province="Aberconwy and Colwyn" country="GB" river="MISSING" lake="MISSING" sea="Irish Sea"/>
+   <located-tuple city="Cardiff" province="Cardiff" country="GB" river="MISSING" lake="MISSING" sea="Irish Sea"/>
+   <located-tuple city="Belfast" province="Northern Ireland" country="GB" river="MISSING" lake="MISSING" sea="Irish Sea"/>
+   <located-tuple city="Kirkwall" province="Orkneys" country="GB" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Stornoway" province="Outer Hebrides" country="GB" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Lerwick" province="Shetland" country="GB" river="MISSING" lake="MISSING" sea="North Sea"/>
+   <located-tuple city="Wuhu" province="Anhui" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Maanshan" province="Anhui" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Anqing" province="Anhui" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tongling" province="Anhui" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Lanzhou" province="Gansu" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Haikou" province="Hainan" country="TJ" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Sanya" province="Hainan" country="TJ" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Zhengzhou" province="Henan" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Luoyang" province="Henan" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kaifeng" province="Henan" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Wuhan" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Huangshi" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yichang" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Shashi" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Xianning" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Shishou" province="Hubei" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yueyang" province="Hunan" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nanjing" province="Jiangsu" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Changzhou" province="Jiangsu" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Zhenjiang" province="Jiangsu" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nantong" province="Jiangsu" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yangzhou" province="Jiangsu" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Jiujiang" province="Jiangxi" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Dalian" province="Liaoning" country="TJ" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Yingkou" province="Liaoning" country="TJ" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Jinan" province="Shandong" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Qingdao" province="Shandong" country="TJ" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Yantai" province="Shandong" country="TJ" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Weihai" province="Shandong" country="TJ" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Chongqing" province="Sichuan" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Luzhou" province="Sichuan" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yibin" province="Sichuan" country="TJ" river="Jangtse" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Baotou" province="Nei Monggol" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Yinchuan" province="Ningxia Huizu" country="TJ" river="Hwangho" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khorramshahr" province="Khuzestan" country="IR" river="Karun" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khorramshahr" province="Khuzestan" country="IR" river="Karun" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Hyderabad" province="Pakistan" country="PK" river="Indus" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Karachi" province="Pakistan" country="PK" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Sukkur" province="Pakistan" country="PK" river="Indus" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khorugh" province="Badakhshoni Kuni" country="TAD" river="Pjandsh" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Namangan" province="Namangan" country="UZB" river="Syrdarja" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tbilisi" province="Georgia" country="GE" river="Kura" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Baku" province="Azerbaijan" country="AZ" river="MISSING" lake="Caspian Sea" sea="MISSING"/>
+   <located-tuple city="Manama" province="Bahrain" country="BRN" river="MISSING" lake="MISSING" sea="Persian Gulf"/>
+   <located-tuple city="Dhaka" province="Bangladesh" country="BD" river="Ganges" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Pathein" province="Ayeyarwady" country="MYA" river="Irawaddy" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Magway" province="Magway" country="MYA" river="Irawaddy" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mandalay" province="Mandalay" country="MYA" river="Irawaddy" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Sagaing" province="Sagaing" country="MYA" river="Irawaddy" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Myitkyina" province="Kachin" country="MYA" river="Irawaddy" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Moulmein" province="Mon" country="MYA" river="Saluen" lake="MISSING" sea="Andaman Sea"/>
+   <located-tuple city="Gauhati" province="Assam" country="IND" river="Brahmaputra" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Patna" province="Bihar" country="IND" river="Ganges" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Panaji" province="Goa" country="IND" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Jamnagar" province="Gujarat" country="IND" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Trivandrum" province="Kerala" country="IND" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Cochin" province="Kerala" country="IND" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Mumbai" province="Maharashtra" country="IND" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Madras" province="Tamil Nadu" country="IND" river="MISSING" lake="MISSING" sea="Gulf of Bengal"/>
+   <located-tuple city="Kanpur" province="Uttar Pradesh" country="IND" river="Ganges" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Varanasi" province="Uttar Pradesh" country="IND" river="Ganges" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Allahabad" province="Uttar Pradesh" country="IND" river="Ganges" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Port Blair" province="Andaman and Nicobar Is." country="IND" river="MISSING" lake="MISSING" sea="Gulf of Bengal"/>
+   <located-tuple city="Port Blair" province="Andaman and Nicobar Is." country="IND" river="MISSING" lake="MISSING" sea="Andaman Sea"/>
+   <located-tuple city="Kavaratti" province="Lakshadweep Is." country="IND" river="MISSING" lake="MISSING" sea="Arabian Sea"/>
+   <located-tuple city="Melaka" province="Melaka" country="MAL" river="MISSING" lake="MISSING" sea="Malakka Strait"/>
+   <located-tuple city="Penang" province="Pulau Pinang" country="MAL" river="MISSING" lake="MISSING" sea="Malakka Strait"/>
+   <located-tuple city="Vientiane" province="Laos" country="LAO" river="Mekong" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Phnom Penh" province="Cambodia" country="K" river="Mekong" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Can Tho" province="Vietnam" country="VN" river="Mekong" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Long Xuyen" province="Vietnam" country="VN" river="Mekong" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Atyrau" province="Atyrau" country="KAZ" river="Ural" lake="Caspian Sea" sea="MISSING"/>
+   <located-tuple city="Oral" province="Batys Qazaqstan" country="KAZ" river="Ural" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Aqtau" province="Mangghystau" country="KAZ" river="MISSING" lake="Caspian Sea" sea="MISSING"/>
+   <located-tuple city="Pavlodar" province="Pavlodar" country="KAZ" river="Irtysch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Qostanay" province="Qostanay" country="KAZ" river="Tobol" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Qyzylorda" province="Qyzylorda" country="KAZ" river="Syrdarja" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Semey" province="Semey" country="KAZ" river="Irtysch" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Petropavl" province="Soltustik Qazaqstan" country="KAZ" river="Ischim" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Hamhung Hungnam" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Chongjin" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Sinuiju" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Wonsan" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Haeju" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Anju" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Songjin" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Kusong" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Sinpo" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Kaesong" province="North Korea" country="NOK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Flying Fish Cove" province="Christmas Island" country="XMAS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="West Island" province="Cocos Islands" country="COCO" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Gaza" province="Gaza Strip" country="GAZA" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Haifa" province="Haifa" country="IL" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Tel Aviv" province="Tel Aviv" country="IL" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Marsa Matruh" province="Matruh" country="ET" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="El Tur" province="Sina al Janubiyah" country="ET" river="MISSING" lake="MISSING" sea="Red Sea"/>
+   <located-tuple city="El Arish" province="Sina ash Shamaliyah" country="ET" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Aswan" province="Aswan" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Asyut" province="Asyut" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Beni Suef" province="Beni Suef" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="El Giza" province="El Giza" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="El Minya" province="El Minya" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Qena" province="Qena" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="El Uqsur" province="Qena" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Sohag" province="Sohag" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bur Said" province="Bur Said (munic.)" country="ET" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Alexandria" province="El Iskandariya" country="ET" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Cairo" province="El Qahira" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Helwan" province="El Qahira" country="ET" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="El Suweiz" province="El Suweiz" country="ET" river="MISSING" lake="MISSING" sea="Red Sea"/>
+   <located-tuple city="Jakarta" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Semarang" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Surabaya" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Banda Aceh" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Banda Aceh" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Andaman Sea"/>
+   <located-tuple city="Bengkulu" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Bandar Lampung" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Padang" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Medan" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Malakka Strait"/>
+   <located-tuple city="Pontianak" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Banjarmasin" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Samarinda" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Ujung Pandang" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Ambon" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Balikpapan" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Manado" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sulawesi Sea"/>
+   <located-tuple city="Pekalongan" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Tegal" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Pematang Siantar" province="Indonesia" country="RI" river="Asahan" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Probolinggo" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Pangkal Pinang" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Tanjung Balai" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Malakka Strait"/>
+   <located-tuple city="Batam" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Pare Pare" province="Indonesia" country="RI" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Dili" province="Timor-Leste" country="TL" river="MISSING" lake="MISSING" sea="Sunda Sea"/>
+   <located-tuple city="Port Moresby" province="Papua New Guinea" country="PNG" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Ar Ramadi" province="Al Anbar" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Al Hillah" province="Babil" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Baghdad" province="Baghdad" country="IRQ" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Al Basrah" province="Al Basrah" country="IRQ" river="Schatt al Arab" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="An Nasiriyah" province="Dhi Qar" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Al Amarah" province="Maysan" country="IRQ" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="As Samawah" province="Al Muthanna" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="An Najaf" province="An Najaf" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mosul" province="Ninawa" country="IRQ" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Diwaniyah" province="Al Qadisiyah" country="IRQ" river="Euphrat" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Samarra" province="Salah ad Din" country="IRQ" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Al Kut" province="Wasit" country="IRQ" river="Tigris" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kuwait" province="Kuwait" country="KWT" river="MISSING" lake="MISSING" sea="Persian Gulf"/>
+   <located-tuple city="Beirut" province="Lebanon" country="RL" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Hakodate" province="Hokkaido" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Hakodate" province="Hokkaido" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Aomori" province="Aomori" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Sendai" province="Miyagi" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Akita" province="Akita" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Chiba" province="Chiba" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Tokyo" province="Tokyo" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Yokohama" province="Kanagawa" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kawasaki" province="Kanagawa" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Niigata" province="Niigata" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Toyama" province="Toyama" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Kanazawa" province="Ishikawa" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Shizuoka" province="Shizuoka" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Nagoya" province="Aichi" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Tsu" province="Mie" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Osaka" province="Osaka" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kobe" province="Hyogo" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Wakayama" province="Wakayama" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Tottori" province="Tottori" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Matsue" province="Shimane" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Okayama" province="Okayama" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Hiroshima" province="Hiroshima" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Tokushima" province="Tokushima" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Takamatsu" province="Kagawa" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Matsuyama" province="Ehime" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kochi" province="Kochi" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Fukuoka" province="Fukuoka" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Kita Kyushu" province="Fukuoka" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Nagasaki" province="Nagasaki" country="J" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Oita" province="Oita" country="J" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Miyazaki" province="Miyazaki" country="J" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kagoshima" province="Kagoshima" country="J" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Naha" province="Okinawa" country="J" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Naha" province="Okinawa" country="J" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Pusan" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Inchon" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Ulsan" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="Sea of Japan"/>
+   <located-tuple city="Mokpo" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Kunsan" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="Yellow Sea"/>
+   <located-tuple city="Yosu" province="South Korea" country="ROK" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Male" province="Maldives" country="MV" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Muscat" province="Oman" country="OM" river="MISSING" lake="MISSING" sea="Gulf of Oman"/>
+   <located-tuple city="Abu Dhabi" province="Abu Dhabi" country="UAE" river="MISSING" lake="MISSING" sea="Persian Gulf"/>
+   <located-tuple city="Dubai" province="Dubayy" country="UAE" river="MISSING" lake="MISSING" sea="Persian Gulf"/>
+   <located-tuple city="Sharjah" province="Ash Shariqah" country="UAE" river="MISSING" lake="MISSING" sea="Persian Gulf"/>
+   <located-tuple city="Aden" province="Yemen" country="YE" river="MISSING" lake="MISSING" sea="Gulf of Aden"/>
+   <located-tuple city="Manila" province="Philippines" country="RP" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Davao" province="Philippines" country="RP" river="MISSING" lake="MISSING" sea="Sulawesi Sea"/>
+   <located-tuple city="Cebu" province="Philippines" country="RP" river="MISSING" lake="MISSING" sea="Sulawesi Sea"/>
+   <located-tuple city="Zamboanga" province="Philippines" country="RP" river="MISSING" lake="MISSING" sea="Sulawesi Sea"/>
+   <located-tuple city="Cagayan de Oro" province="Philippines" country="RP" river="MISSING" lake="MISSING" sea="Sulawesi Sea"/>
+   <located-tuple city="Singapore" province="Singapore" country="SGP" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Colombo" province="Sri Lanka" country="CL" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Hualien" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Taitung" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Chilung" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Hsinchu" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="East China Sea"/>
+   <located-tuple city="Kaohsiung" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="Tainan" province="Taiwan" country="RC" river="MISSING" lake="MISSING" sea="South China Sea"/>
+   <located-tuple city="The Valley" province="Anguilla" country="AXA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Saint Johns" province="Antigua and Barbuda" country="AG" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Oranjestad" province="Aruba" country="ARU" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Nassau" province="Bahamas" country="BS" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Bridgetown" province="Barbados" country="BDS" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Campeche" province="Campeche" country="MEX" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Ciudad Juarez" province="Chihuahua" country="MEX" river="Rio Grande" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Guadalajara" province="Jalisco" country="MEX" river="Rio Lerma" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tampico" province="Tamaulipas" country="MEX" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Reynosa" province="Tamaulipas" country="MEX" river="Rio Grande" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Nuevo Laredo" province="Tamaulipas" country="MEX" river="Rio Grande" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ciudad Madero" province="Tamaulipas" country="MEX" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Coatzacoalcos" province="Veracruz" country="MEX" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Veracruz Llave" province="Veracruz" country="MEX" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Hamilton" province="Bermuda" country="BERM" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Road Town" province="British Virgin Islands" country="BVIR" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Edmonton" province="Alberta" country="CDN" river="Saskatchewan River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Vancouver" province="British Columbia" country="CDN" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Victoria" province="British Columbia" country="CDN" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Saint Johns" province="Newfoundland" country="CDN" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Yellowknife" province="Northwest Territories" country="CDN" river="MISSING" lake="Great Slave Lake" sea="MISSING"/>
+   <located-tuple city="Halifax" province="Nova Scotia" country="CDN" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Hamilton" province="Ontario" country="CDN" river="MISSING" lake="Lake Ontario" sea="MISSING"/>
+   <located-tuple city="Toronto" province="Ontario" country="CDN" river="MISSING" lake="Lake Ontario" sea="MISSING"/>
+   <located-tuple city="Windsor" province="Ontario" country="CDN" river="Detroit River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Oshawa" province="Ontario" country="CDN" river="MISSING" lake="Lake Ontario" sea="MISSING"/>
+   <located-tuple city="Saint Catharines" province="Ontario" country="CDN" river="MISSING" lake="Lake Ontario" sea="MISSING"/>
+   <located-tuple city="Thunder Bay" province="Ontario" country="CDN" river="MISSING" lake="Lake Superior" sea="MISSING"/>
+   <located-tuple city="Charlottetown" province="Prince Edward Island" country="CDN" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Montreal" province="Quebec" country="CDN" river="Saint Lawrence River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Quebec" province="Quebec" country="CDN" river="Saint Lawrence River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Saskatoon" province="Saskatchewan" country="CDN" river="Saskatchewan River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Whitehorse" province="Yukon Territory" country="CDN" river="Yukon River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Huntsville" province="Alabama" country="USA" river="Tennessee" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Little Rock" province="Arkansas" country="USA" river="Arkansas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Los Angeles" province="California" country="USA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="San Diego" province="California" country="USA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="San Francisco" province="California" country="USA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Bridgeport" province="Connecticut" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Hartford" province="Connecticut" country="USA" river="Connecticut River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="New Haven" province="Connecticut" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Stamford" province="Connecticut" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Jacksonville" province="Florida" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Miami" province="Florida" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Tampa" province="Florida" country="USA" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="St. Petersburg" province="Florida" country="USA" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Savannah" province="Georgia" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Honolulu" province="Hawaii" country="USA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Chicago" province="Illinois" country="USA" river="MISSING" lake="Lake Michigan" sea="MISSING"/>
+   <located-tuple city="Evansville" province="Indiana" country="USA" river="Ohio River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Gary" province="Indiana" country="USA" river="MISSING" lake="Lake Michigan" sea="MISSING"/>
+   <located-tuple city="Wichita" province="Kansas" country="USA" river="Arkansas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kansas City" province="Kansas" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Louisville" province="Kentucky" country="USA" river="Ohio River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="New Orleans" province="Louisiana" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Baton Rouge" province="Louisiana" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Boston" province="Massachusetts" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Springfield" province="Massachusetts" country="USA" river="Connecticut River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Detroit" province="Michigan" country="USA" river="Detroit River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Minneapolis" province="Minnesota" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="St. Paul" province="Minnesota" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kansas City" province="Missouri" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="St. Louis" province="Missouri" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="St. Louis" province="Missouri" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Independence" province="Missouri" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Jefferson City" province="Missouri" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Omaha" province="Nebraska" country="USA" river="Missouri" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Reno" province="Nevada" country="USA" river="Truckee River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Concord" province="New Hampshire" country="USA" river="Merrimack River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Jersey City" province="New Jersey" country="USA" river="Hudson River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Albuquerque" province="New Mexico" country="USA" river="Rio Grande" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="New York" province="New York" country="USA" river="Hudson River" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Buffalo" province="New York" country="USA" river="MISSING" lake="Lake Erie" sea="MISSING"/>
+   <located-tuple city="Rochester" province="New York" country="USA" river="MISSING" lake="Lake Ontario" sea="MISSING"/>
+   <located-tuple city="Yonkers" province="New York" country="USA" river="Hudson River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Albany" province="New York" country="USA" river="Hudson River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bismarck" province="North Dakota" country="USA" river="Missouri" lake="Lake Oahe" sea="MISSING"/>
+   <located-tuple city="Cleveland" province="Ohio" country="USA" river="MISSING" lake="Lake Erie" sea="MISSING"/>
+   <located-tuple city="Cincinnati" province="Ohio" country="USA" river="Ohio River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Toledo" province="Ohio" country="USA" river="MISSING" lake="Lake Erie" sea="MISSING"/>
+   <located-tuple city="Tulsa" province="Oklahoma" country="USA" river="Arkansas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Portland" province="Oregon" country="USA" river="Columbia River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Pittsburgh" province="Pennsylvania" country="USA" river="Ohio River" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Erie" province="Pennsylvania" country="USA" river="MISSING" lake="Lake Erie" sea="MISSING"/>
+   <located-tuple city="Providence" province="Rhode Island" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Pierre" province="South Dakota" country="USA" river="Missouri" lake="Lake Oahe" sea="MISSING"/>
+   <located-tuple city="Memphis" province="Tennessee" country="USA" river="Mississippi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Knoxville" province="Tennessee" country="USA" river="Tennessee" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Chattanooga" province="Tennessee" country="USA" river="Tennessee" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="El Paso" province="Texas" country="USA" river="Rio Grande" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Corpus Christi" province="Texas" country="USA" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Salt Lake City" province="Utah" country="USA" river="MISSING" lake="Great Salt Lake" sea="MISSING"/>
+   <located-tuple city="Norfolk" province="Virginia" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Chesapeake" province="Virginia" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Newport News" province="Virginia" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Portsmouth" province="Virginia" country="USA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Milwaukee" province="Wisconsin" country="USA" river="MISSING" lake="Lake Michigan" sea="MISSING"/>
+   <located-tuple city="George Town" province="Cayman Islands" country="CAYM" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Puntarenas" province="Puntarenas" country="CR" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Limon" province="Limon" country="CR" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Managua" province="Nicaragua" country="NIC" river="MISSING" lake="Lake Managua" sea="MISSING"/>
+   <located-tuple city="Granada" province="Nicaragua" country="NIC" river="MISSING" lake="Lake Nicaragua" sea="MISSING"/>
+   <located-tuple city="Panama City" province="Panama" country="PA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Havana" province="Ciudad de la Habana" country="C" river="MISSING" lake="MISSING" sea="Gulf of Mexico"/>
+   <located-tuple city="Roseau" province="Dominica" country="WD" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Santo Domingo" province="Dominican Republic" country="DOM" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Port-au-Prince" province="Haiti" country="RH" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="La Ceiba" province="Atlantida" country="HCA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Tela" province="Atlantida" country="HCA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Trujillo" province="Colon" country="HCA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Puerto Cortes" province="Cortes" country="HCA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Puerto Lempira" province="Gracias a Dios" country="HCA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Nuuk" province="Greenland" country="GROX" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Saint Georges" province="Grenada" country="WG" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Basse-Terre" province="Guadeloupe" country="GUAD" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Kingston" province="Jamaica" country="JA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Fort-de-France" province="Martinique" country="MART" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Plymouth" province="Montserrat" country="MNTS" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Willemstad" province="Netherlands Antilles" country="NA" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Marigot" province="Saint Martin" country="SMAR" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Leticia" province="Amazonas" country="CO" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Barranquilla" province="Atlantico" country="CO" river="Rio Magdalena" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Puerto Inirida" province="Guainia" country="CO" river="Orinoco" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Neiva" province="Huila" country="CO" river="Rio Magdalena" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Barrancabermeja" province="Santander del Sur" country="CO" river="Rio Magdalena" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Puerto Carreno" province="Vichada" country="CO" river="Orinoco" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="San Juan" province="Puerto Rico" country="PR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Basseterre" province="Saint Kitts and Nevis" country="KN" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Castries" province="Saint Lucia" country="WL" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Saint-Pierre" province="Saint Pierre and Miquelon" country="SPMI" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Kingstown" province="Saint Vincent and the Grenadines" country="WV" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Port-of-Spain" province="Trinidad and Tobago" country="TT" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Grand Turk" province="Turks and Caicos Islands" country="TUCA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Charlotte Amalie" province="Virgin Islands" country="VIRG" river="MISSING" lake="MISSING" sea="Caribbean Sea"/>
+   <located-tuple city="Pago Pago" province="American Samoa" country="AMSA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Newcastle" province="New South Wales" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Sydney" province="New South Wales" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Wollongong" province="New South Wales" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Sunshine Coast" province="New South Wales" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Darwin" province="Northern Territory" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Brisbane" province="Queensland" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Gold Coast" province="Queensland" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Townsville" province="Queensland" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Adelaide" province="South Australia" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Hobart" province="Tasmania" country="AUS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Melbourne" province="Victoria" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Geelong" province="Victoria" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Perth" province="Western Australia" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Albany" province="Western Australia" country="AUS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Canberra" province="Australia Capital Territory" country="AUS" river="Murrumbidgee River" lake="Lake Burley Griffin" sea="MISSING"/>
+   <located-tuple city="Avarua" province="Cook Islands" country="COOK" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Suva" province="Fiji" country="FJI" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Papeete" province="French Polynesia" country="FPOL" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Agana" province="Guam" country="GUAM" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Dededo" province="Guam" country="GUAM" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Tarawa" province="Kiribati" country="KIR" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Majuro" province="Marshall Islands" country="MH" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kolonia" province="Micronesia" country="FSM" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Palikir" province="Micronesia" country="FSM" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Yaren" province="Nauru" country="NAU" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Noumea" province="New Caledonia" country="NCA" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Wellington" province="New Zealand" country="NZ" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Auckland" province="New Zealand" country="NZ" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Christchurch" province="New Zealand" country="NZ" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Alofi" province="Niue" country="NIUE" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Kingston" province="Norfolk Island" country="NORF" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Saipan" province="Northern Mariana Islands" country="NMIS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Koror" province="Palau" country="PAL" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Melekeok" province="Palau" country="PAL" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Adamstown" province="Pitcairn Islands" country="PITC" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Honiara" province="Solomon Islands" country="SLB" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Nukualofa" province="Tonga" country="TO" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Funafuti" province="Tuvalu" country="TUV" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Port-Vila" province="Vanuatu" country="VU" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Mata-Utu" province="Wallis and Futuna" country="WAFU" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Apia" province="Samoa" country="WS" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="La Plata" province="Buenos Aires" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Mar del Plata" province="Buenos Aires" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Bahia Blanca" province="Buenos Aires" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Resistencia" province="Chaco" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Comodoro Rivadavia" province="Chubut" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Rawson" province="Chubut" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Corrientes" province="Corrientes" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Parana" province="Entre Rios" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Concordia" province="Entre Rios" country="RA" river="Uruguay" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Formosa" province="Formosa" country="RA" river="Paraguay" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Posadas" province="Misiones" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rio Gallegos" province="Santa Cruz" country="RA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Santa Fe" province="Santa Fe" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rosario" province="Santa Fe" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Buenos Aires" province="Distrito Federal" country="RA" river="Parana" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Maceio" province="Alagoas" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Macapa" province="Amapa" country="BR" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Manaus" province="Amazonas" country="BR" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Manaus" province="Amazonas" country="BR" river="Rio Negro" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Salvador" province="Bahia" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Ilheus" province="Bahia" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Juazeiro" province="Bahia" country="BR" river="Rio Sao Francisco" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Fortaleza" province="Ceara" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Vila Velha" province="Espirito Santo" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Vitoria" province="Espirito Santo" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Sao Luis" province="Maranhao" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Belem" province="Para" country="BR" river="Tocantins" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Joao Pessoa" province="Paraiba" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Paranagua" province="Parana" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Recife" province="Pernambuco" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Rio de Janeiro" province="Rio de Janeiro" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Niteroi" province="Rio de Janeiro" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Natal" province="Rio Grande do Norte" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Porto Alegre" province="Rio Grande do Sul" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Rio Grande" province="Rio Grande do Sul" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Uruguaiana" province="Rio Grande do Sul" country="BR" river="Uruguay" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Porto Velho" province="Rondonia" country="BR" river="Rio Madeira" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Florianopolis" province="Santa Catarina" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Itajai" province="Santa Catarina" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Sao Paulo" province="Sao Paulo" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Santos" province="Sao Paulo" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Sao Vicente" province="Sao Paulo" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Aracaju" province="Sergipe" country="BR" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Valparaiso" province="Chile" country="RCH" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Asuncion" province="Paraguay" country="PY" river="Paraguay" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Montevideo" province="Uruguay" country="ROU" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Cuzco" province="Cuzco" country="PE" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Iquitos" province="Loreto" country="PE" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Pucallpa" province="Ucayali" country="PE" river="Amazonas" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Georgetown" province="Guyana" country="GUY" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Paramaribo" province="Suriname" country="SME" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Ciudad Bolivar" province="Bolivar" country="YV" river="Orinoco" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Ciudad Guayana" province="Bolivar" country="YV" river="Orinoco" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Maracaibo" province="Zulia" country="YV" river="MISSING" lake="Lake Maracaibo" sea="Caribbean Sea"/>
+   <located-tuple city="Guayaquil" province="Ecuador" country="EC" river="MISSING" lake="MISSING" sea="Pacific Ocean"/>
+   <located-tuple city="Stanley" province="Falkland Islands" country="FALK" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Algier" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Annaba" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Skikda" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Oran" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bejaia" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Mostaganem" province="Algeria" country="DZ" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Tripoli" province="Libya" country="LAR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bengasi" province="Libya" country="LAR" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Bamako" province="Mali" country="RMM" river="Niger" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Rabat" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Agadir" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Kenitra" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Safi" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Tanger" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Casablanca" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Tetouan" province="Morocco" country="MA" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Niamey" province="Niger" country="RN" river="Niger" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tunis" province="Tunisia" country="TN" river="MISSING" lake="MISSING" sea="Mediterranean Sea"/>
+   <located-tuple city="Luanda" province="Luanda" country="ANG" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Brazzaville" province="Congo" country="RCB" river="Zaire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kikwit" province="Bandundu" country="ZRE" river="Cuilo" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bandundu" province="Bandundu" country="ZRE" river="Kwa" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bandundu" province="Bandundu" country="ZRE" river="Kasai" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Matadi" province="Bas Zaire" country="ZRE" river="Zaire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Boma" province="Bas Zaire" country="ZRE" river="Zaire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Mbandaka" province="Equateur" country="ZRE" river="Zaire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Kananga" province="Kasai Occidental" country="ZRE" river="Lulua" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Tshikapa" province="Kasai Occidental" country="ZRE" river="Kasai" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bukavu" province="Kivu" country="ZRE" river="MISSING" lake="Lake Kivu" sea="MISSING"/>
+   <located-tuple city="Uvira" province="Kivu" country="ZRE" river="MISSING" lake="Lake Tanganjika" sea="MISSING"/>
+   <located-tuple city="Goma" province="Kivu" country="ZRE" river="MISSING" lake="Lake Kivu" sea="MISSING"/>
+   <located-tuple city="Kalemie" province="Shaba/Katanga" country="ZRE" river="Lukuga" lake="Lake Tanganjika" sea="MISSING"/>
+   <located-tuple city="Kinshasa" province="Kinshasa" country="ZRE" river="Zaire" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Lagos" province="Nigeria" country="WAN" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Onitsha" province="Nigeria" country="WAN" river="Niger" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Lome" province="Togo" country="RT" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Abidjan" province="Cote dIvoire" country="CI" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Accra" province="Ghana" country="GH" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Bujumbura" province="Burundi" country="BI" river="MISSING" lake="Lake Tanganjika" sea="MISSING"/>
+   <located-tuple city="Dar es Salaam" province="Daressalam" country="EAT" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Garoua" province="Nord" country="CAM" river="Benue" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bangui" province="Central African Republic" country="RCA" river="Ubangi" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="NDjamena" province="Chad" country="TCH" river="Schari" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Malabo" province="Equatorial Guinea" country="GQ" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Libreville" province="Gabon" country="G" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Praia" province="Cape Verde" country="CV" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Malakal" province="Aali an Nil" country="SUD" river="White Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Juba" province="al Istiwaiyah" country="SUD" river="Bahr el-Djebel/Albert-Nil" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khartoum" province="al Khartum" country="SUD" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khartoum" province="al Khartum" country="SUD" river="Blue Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Omdurman" province="al Khartum" country="SUD" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Omdurman" province="al Khartum" country="SUD" river="Blue Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Khartoum North" province="al Khartum" country="SUD" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="ad Damir" province="ash Shamaliyah" country="SUD" river="Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Port Sudan" province="ash Sharqiyah" country="SUD" river="MISSING" lake="MISSING" sea="Red Sea"/>
+   <located-tuple city="Wad Madani" province="Nil al Asraq" country="SUD" river="Blue Nile" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Moroni" province="Comoros" country="COM" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Conakry" province="Guinea" country="RG" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Monrovia" province="Liberia" country="LB" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Djibouti" province="Djibouti" country="DJI" river="MISSING" lake="MISSING" sea="Gulf of Aden"/>
+   <located-tuple city="Mogadishu" province="Somalia" country="SP" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Mombasa" province="Coast" country="EAK" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Banjul" province="Gambia" country="WAG" river="Gambia" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Dakar" province="Dakar" country="SN" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Saint Louis" province="Saint Louis" country="SN" river="Senegal" lake="MISSING" sea="MISSING"/>
+   <located-tuple city="Bissau" province="Guinea-Bissau" country="GNB" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Freetown" province="Sierra Leone" country="WAL" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Kampala" province="Uganda" country="EAU" river="MISSING" lake="Lake Victoria" sea="MISSING"/>
+   <located-tuple city="Xai Xai" province="Gaza" country="MOC" river="Limpopo" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Maputo" province="Maputo (munic.)" country="MOC" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Port Louis" province="Mauritius" country="MS" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Mamoutzou" province="Mayotte" country="MAYO" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Saint-Denis" province="Reunion" country="REUN" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+   <located-tuple city="Jamestown" province="Saint Helena" country="HELX" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Sao Tome" province="Sao Tome and Principe" country="STP" river="MISSING" lake="MISSING" sea="Atlantic Ocean"/>
+   <located-tuple city="Victoria" province="Seychelles" country="SY" river="MISSING" lake="MISSING" sea="Indian Ocean"/>
+</located>

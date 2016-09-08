@@ -1,0 +1,254 @@
+select count(*) from airport;
+count(*)  
+----------
+1320      
+pair3 Like
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city like 'Man%';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+pair3 and without index
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+select * from airport where city>='Man' and city<'Mao';
+IATACode    Name                Country     City        Province    Island      Latitude    Longitude   Elevation   gmtOffset 
+----------  ------------------  ----------  ----------  ----------  ----------  ----------  ----------  ----------  ----------
+MAO         Eduardo Gomes Intl  BR          Manaus      Amazonas    NULL        -3.038611   -60.049721  80          -4        
+MDL         Mandalay Intl       MYA         Mandalay    Mandalay    NULL        21.702156   95.977928   91          6.5       
+NZH         Manzhouli           CN          Manzhouli   Nei Mongol  NULL        49.566667   117.329444  0           8         
+MZL         La Nubia            CO          Manizales   Caldas      NULL        5.029597    -75.464708  2095        -5        
+MDC         Sam Ratulangi       RI          Manado      Sulawesi U  Sulawesi    1.549447    124.925878  80          8         
+MGA         Managua Intl        NIC         Managua     Nicaragua   NULL        12.141494   -86.168178  59          -6        
+MNL         Ninoy Aquino Intl   RP          Manila      Metro Mani  Luzon       14.508647   121.019581  23          8         
+BFN         Bloemfontein Intl   RSA         Mangaung    Free State  NULL        -29.092722  26.302444   1359        2         
+MAN         Manchester          GB          Manchester  North West  Great Brit  53.353744   -2.27495    78          0         
+explain query plan select * from airport where name like 'Man%';
+selectid    order       from        detail                        
+----------  ----------  ----------  ------------------------------
+0           0           0           SCAN TABLE airport (~660 rows)
+explain query plan select * from airport where name>='Man' and name<'Mao';
+selectid    order       from        detail                        
+----------  ----------  ----------  ------------------------------
+0           0           0           SCAN TABLE airport (~146 rows)

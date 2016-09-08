@@ -1,0 +1,524 @@
+select name, (population/2) as half_of_population 
+from country limit 10;
+Name,half_of_population
+Albania,1400069
+Greece,5408143
+Macedonia,1029897
+Serbia,3560333
+Montenegro,310014
+Kosovo,866936
+Andorra,39057
+France,32466700
+Spain,23407958
+Austria,4249879
+select * from City 
+where name='Manchester';
+Name,Country,Province,Population,Latitude,Longitude,Elevation
+Manchester,GB,"North West",510746,NULL,NULL,NULL
+Manchester,USA,"New Hampshire",109571,NULL,NULL,NULL
+select name from city 
+where name like 'Man%';
+Name
+Man
+Manado
+Managua
+Manaus
+Manbij
+Manchester
+Manchester
+Mandalay
+Mandaluyong
+Mangaung
+Manila
+Manisa
+Manizales
+Mannheim
+Manokwari
+Mansa
+Manzanillo
+Manzhouli
+select c.name as country, mem.organization 
+	from country c join 
+	(select distinct m.country as country_code, o.name as organization 
+		from organization o join ismember m on m.organization=o.abbreviation 
+		where o.established > '1994-12-01' 
+		and m.country in ( select country from religion 
+		where name='Buddhist' ) ) mem 
+	on c.code = mem.country_code;
+country,organization
+Australia,"Community of Democracies"
+Australia,"East Asia Summit"
+Australia,"Group of 20"
+Australia,"International Criminal Court"
+Australia,"International Mobile Satellite Organization"
+Australia,"International Trade Union Confederation"
+Australia,"Organization for the Prohibition of Chemical Weapons"
+Australia,"United Nations Mission in the Republic of South Sudan"
+Australia,"United Nations Integrated Mission in Timor-Leste"
+Bhutan,"Organization for the Prohibition of Chemical Weapons"
+Brunei,"East Asia Summit"
+Brunei,"International Mobile Satellite Organization"
+Brunei,"Organization for the Prohibition of Chemical Weapons"
+"Sri Lanka","Community of Democracies"
+"Sri Lanka","Conference of Interaction and Confidence-Building Measures in Asia"
+"Sri Lanka","International Mobile Satellite Organization"
+"Sri Lanka","International Trade Union Confederation"
+"Sri Lanka","United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+"Sri Lanka","Organization for the Prohibition of Chemical Weapons"
+"Sri Lanka","Shanghai Cooperation Organization"
+"Sri Lanka","United Nations Interim Security Force for Abyei"
+"Sri Lanka","United Nations Mission in the Republic of South Sudan"
+"United Kingdom","Community of Democracies"
+"United Kingdom","Group of 20"
+"United Kingdom","International Criminal Court"
+"United Kingdom","International Mobile Satellite Organization"
+"United Kingdom","International Trade Union Confederation"
+"United Kingdom","United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+"United Kingdom","Organization for the Prohibition of Chemical Weapons"
+"United Kingdom","Organization for Security and Cooperation in Europe"
+"United Kingdom","Convention of the Southeast European Law Enforcement Center"
+"United Kingdom","United Nations Mission in the Republic of South Sudan"
+Italy,"Community of Democracies"
+Italy,"European Central Bank"
+Italy,"Group of 20"
+Italy,"International Criminal Court"
+Italy,"International Mobile Satellite Organization"
+Italy,"International Trade Union Confederation"
+Italy,"Organization for the Prohibition of Chemical Weapons"
+Italy,"Organization for Security and Cooperation in Europe"
+Italy,"Convention of the Southeast European Law Enforcement Center"
+Italy,"United Nations Mission in the Republic of South Sudan"
+India,"Community of Democracies"
+India,"Conference of Interaction and Confidence-Building Measures in Asia"
+India,"East Asia Summit"
+India,"Group of 20"
+India,"International Mobile Satellite Organization"
+India,"International Trade Union Confederation"
+India,"United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+India,"Organization for the Prohibition of Chemical Weapons"
+India,"Shanghai Cooperation Organization"
+India,"United Nations Interim Security Force for Abyei"
+India,"United Nations Mission in the Republic of South Sudan"
+India,"United Nations Integrated Mission in Timor-Leste"
+India,"United Nations Operation in Cote dIvoire"
+Japan,"Community of Democracies"
+Japan,"Conference of Interaction and Confidence-Building Measures in Asia"
+Japan,"East Asia Summit"
+Japan,"Group of 20"
+Japan,"International Criminal Court"
+Japan,"International Mobile Satellite Organization"
+Japan,"International Trade Union Confederation"
+Japan,"Organization for the Prohibition of Chemical Weapons"
+Japan,"Convention of the Southeast European Law Enforcement Center"
+Japan,"United Nations Mission in the Republic of South Sudan"
+Japan,"United Nations Integrated Mission in Timor-Leste"
+Cambodia,"Conference of Interaction and Confidence-Building Measures in Asia"
+Cambodia,"East Asia Summit"
+Cambodia,"International Criminal Court"
+Cambodia,"International Trade Union Confederation"
+Cambodia,"Organization for the Prohibition of Chemical Weapons"
+Cambodia,"African Union/United Nations Hybrid Operation in Darfur"
+Cambodia,"United Nations Interim Security Force for Abyei"
+Cambodia,"United Nations Mission in the Republic of South Sudan"
+Laos,"East Asia Summit"
+Laos,"Organization for the Prohibition of Chemical Weapons"
+Malaysia,"Conference of Interaction and Confidence-Building Measures in Asia"
+Malaysia,"Developing Eight"
+Malaysia,"East Asia Summit"
+Malaysia,"International Mobile Satellite Organization"
+Malaysia,"International Trade Union Confederation"
+Malaysia,"United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+Malaysia,"Organization for the Prohibition of Chemical Weapons"
+Malaysia,"African Union/United Nations Hybrid Operation in Darfur"
+Malaysia,"United Nations Mission in Liberia"
+Malaysia,"United Nations Integrated Mission in Timor-Leste"
+Mongolia,"Community of Democracies"
+Mongolia,"Conference of Interaction and Confidence-Building Measures in Asia"
+Mongolia,"International Criminal Court"
+Mongolia,"International Mobile Satellite Organization"
+Mongolia,"International Trade Union Confederation"
+Mongolia,"United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+Mongolia,"Organization for the Prohibition of Chemical Weapons"
+Mongolia,"Organization for Security and Cooperation in Europe"
+Mongolia,"Shanghai Cooperation Organization"
+Mongolia,"African Union/United Nations Hybrid Operation in Darfur"
+Mongolia,"United Nations Interim Security Force for Abyei"
+Mongolia,"United Nations Mission in the Republic of South Sudan"
+Myanmar,"East Asia Summit"
+Myanmar,"International Trade Union Confederation"
+Myanmar,"Organization for the Prohibition of Chemical Weapons"
+Nepal,"Community of Democracies"
+Nepal,"International Trade Union Confederation"
+Nepal,"United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+Nepal,"Organization for the Prohibition of Chemical Weapons"
+Nepal,"African Union/United Nations Hybrid Operation in Darfur"
+Nepal,"United Nations Interim Security Force for Abyei"
+Nepal,"United Nations Mission in Liberia"
+Nepal,"United Nations Mission in the Republic of South Sudan"
+Nepal,"United Nations Integrated Mission in Timor-Leste"
+Nepal,"United Nations Operation in Cote dIvoire"
+"New Zealand","Community of Democracies"
+"New Zealand","East Asia Summit"
+"New Zealand","International Criminal Court"
+"New Zealand","International Mobile Satellite Organization"
+"New Zealand","International Trade Union Confederation"
+"New Zealand","Organization for the Prohibition of Chemical Weapons"
+"New Zealand","United Nations Mission in the Republic of South Sudan"
+"New Zealand","United Nations Integrated Mission in Timor-Leste"
+Indonesia,"Community of Democracies"
+Indonesia,"Conference of Interaction and Confidence-Building Measures in Asia"
+Indonesia,"Developing Eight"
+Indonesia,"East Asia Summit"
+Indonesia,"Group of 20"
+Indonesia,"International Mobile Satellite Organization"
+Indonesia,"International Trade Union Confederation"
+Indonesia,"United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+Indonesia,"Organization for the Prohibition of Chemical Weapons"
+Indonesia,"African Union/United Nations Hybrid Operation in Darfur"
+Indonesia,"United Nations Mission in Liberia"
+Indonesia,"United Nations Mission in the Republic of South Sudan"
+"South Korea","Community of Democracies"
+"South Korea","Conference of Interaction and Confidence-Building Measures in Asia"
+"South Korea","East Asia Summit"
+"South Korea","Group of 20"
+"South Korea","International Criminal Court"
+"South Korea","International Mobile Satellite Organization"
+"South Korea","International Trade Union Confederation"
+"South Korea","Organization for the Prohibition of Chemical Weapons"
+"South Korea","African Union/United Nations Hybrid Operation in Darfur"
+"South Korea","United Nations Mission in Liberia"
+"South Korea","United Nations Mission in the Republic of South Sudan"
+"South Korea","United Nations Operation in Cote dIvoire"
+Philippines,"Community of Democracies"
+Philippines,"Conference of Interaction and Confidence-Building Measures in Asia"
+Philippines,"East Asia Summit"
+Philippines,"International Criminal Court"
+Philippines,"International Mobile Satellite Organization"
+Philippines,"International Trade Union Confederation"
+Philippines,"Organization for the Prohibition of Chemical Weapons"
+Philippines,"United Nations Interim Security Force for Abyei"
+Philippines,"United Nations Mission in Liberia"
+Philippines,"United Nations Integrated Mission in Timor-Leste"
+Philippines,"United Nations Operation in Cote dIvoire"
+Thailand,"Community of Democracies"
+Thailand,"Conference of Interaction and Confidence-Building Measures in Asia"
+Thailand,"East Asia Summit"
+Thailand,"International Mobile Satellite Organization"
+Thailand,"International Trade Union Confederation"
+Thailand,"Organization for the Prohibition of Chemical Weapons"
+Thailand,"African Union/United Nations Hybrid Operation in Darfur"
+"United States","Community of Democracies"
+"United States","Conference of Interaction and Confidence-Building Measures in Asia"
+"United States","East Asia Summit"
+"United States","Group of 20"
+"United States","International Mobile Satellite Organization"
+"United States","International Trade Union Confederation"
+"United States","United Nations Organization Stabilization Mission in the Democratic Republic of the Congo"
+"United States","Organization for the Prohibition of Chemical Weapons"
+"United States","Organization for Security and Cooperation in Europe"
+"United States","Convention of the Southeast European Law Enforcement Center"
+"United States","United Nations Mission in Liberia"
+"United States","United Nations Mission in the Republic of South Sudan"
+Vietnam,"Conference of Interaction and Confidence-Building Measures in Asia"
+Vietnam,"East Asia Summit"
+Vietnam,"International Mobile Satellite Organization"
+Vietnam,"Organization for the Prohibition of Chemical Weapons"
+select c.name, count(geo.island) as num_island 
+from country c 
+join geo_island geo 
+on c.code=geo.country 
+group by geo.island;
+Name,num_island
+Finland,1
+Italy,1
+Indonesia,1
+Netherlands,1
+Germany,1
+"United Kingdom",1
+Anguilla,1
+Comoros,1
+"Antigua and Barbuda",1
+"United Kingdom",1
+Aruba,1
+"Saint Helena",1
+Norway,1
+Palau,1
+Canada,1
+Bahrain,1
+Indonesia,1
+Germany,1
+Indonesia,1
+Canada,1
+Barbados,1
+"Antigua and Barbuda",1
+"United Kingdom",1
+Guadeloupe,1
+Indonesia,1
+"United Kingdom",1
+Indonesia,1
+"Equatorial Guinea",1
+"United Kingdom",1
+Philippines,1
+Germany,1
+Malaysia,7
+Denmark,1
+"Papua New Guinea",1
+Australia,1
+"Cayman Islands",1
+Philippines,1
+Indonesia,1
+Greece,1
+"Christmas Island",1
+France,1
+Portugal,1
+Cuba,14
+Curacao,1
+Cyprus,1
+Estonia,1
+Canada,1
+Dominica,1
+"Falkland Islands",1
+Chile,1
+Vanuatu,1
+Canada,1
+Portugal,1
+Tokelau,1
+Denmark,1
+Germany,1
+Italy,1
+Portugal,1
+"Cape Verde",1
+Germany,1
+Tuvalu,1
+Spain,1
+Denmark,1
+Spain,1
+"Wallis and Futuna",1
+Iran,1
+Spain,1
+Sweden,1
+Malta,1
+Portugal,1
+Spain,1
+Bermuda,1
+"Cayman Islands",1
+Comoros,1
+"Turks and Caicos Islands",1
+"New Caledonia",1
+Guadeloupe,1
+"United Kingdom",11
+Greenland,1
+Grenada,1
+"Solomon Islands",1
+Guam,1
+Guernsey,1
+China,1
+Indonesia,1
+"United States",1
+Germany,1
+Spain,1
+Haiti,2
+Japan,1
+Japan,34
+"United Kingdom",1
+Spain,1
+Iceland,1
+Greece,1
+"United Kingdom",2
+Ecuador,1
+Nicaragua,1
+"United Kingdom",1
+"Isle of Man",1
+"United Kingdom",1
+Jamaica,1
+Indonesia,6
+"South Korea",1
+Jersey,1
+Germany,1
+"United Kingdom",1
+"United States",1
+India,1
+Greece,1
+Iran,1
+Thailand,1
+Greece,1
+Palau,1
+Greece,1
+Russia,1
+Indonesia,1
+Greece,1
+Japan,7
+Spain,1
+Malaysia,1
+Italy,1
+"United States",1
+Denmark,1
+Germany,1
+Spain,1
+Iran,1
+Greece,1
+Greece,1
+"United Kingdom",1
+Philippines,1
+Italy,1
+Italy,1
+"Cayman Islands",1
+Denmark,1
+Indonesia,1
+"United States",1
+Philippines,7
+Madagascar,1
+Portugal,1
+Seychelles,1
+"Marshall Islands",1
+Maldives,1
+Spain,1
+Malta,1
+Slovakia,2
+Canada,1
+Hungary,1
+"United States",1
+Martinique,1
+"United States",1
+Mauritius,1
+Mayotte,1
+Australia,1
+Spain,1
+Philippines,6
+Philippines,1
+"Saint Pierre and Miquelon",1
+Comoros,1
+"United States",1
+Montserrat,1
+"United Kingdom",1
+Greece,1
+"United States",1
+Nauru,1
+Philippines,2
+"Saint Kitts and Nevis",1
+"Papua New Guinea",3
+Bahamas,1
+Canada,1
+"United States",1
+Niue,1
+Germany,1
+"Norfolk Island",1
+"Turks and Caicos Islands",1
+"United Kingdom",1
+Russia,1
+"United States",1
+Sweden,1
+Estonia,1
+Japan,1
+Russia,1
+"United Kingdom",1
+Philippines,1
+Italy,1
+Philippines,1
+Russia,1
+Germany,1
+Tanzania,1
+Thailand,1
+Portugal,1
+Pitcairn,1
+Micronesia,1
+Portugal,1
+Canada,1
+Canada,1
+"Sao Tome and Principe",1
+"Turks and Caicos Islands",1
+"Puerto Rico",1
+"Cocos Islands",1
+"Cook Islands",1
+Canada,1
+Reunion,1
+Greece,1
+"United Kingdom",1
+"Northern Mariana Islands",1
+Germany,1
+Russia,1
+"Saint Helena",1
+"Saint Kitts and Nevis",1
+"Saint Lucia",1
+"Saint Pierre and Miquelon",1
+"Virgin Islands",1
+"Saint Vincent and the Grenadines",1
+"Northern Mariana Islands",1
+Italy,1
+Philippines,1
+Greece,1
+Indonesia,1
+Colombia,1
+"United States",1
+"United States",1
+Tanzania,1
+"United States",1
+"United States",1
+Portugal,1
+"United States",1
+"Cape Verde",1
+Portugal,1
+Portugal,1
+"Sao Tome and Principe",1
+Italy,1
+Samoa,1
+Netherlands,1
+Denmark,2
+"United Kingdom",1
+Japan,4
+Italy,1
+Singapore,1
+"United Kingdom",1
+Yemen,1
+India,1
+"United Kingdom",1
+"United Kingdom",1
+Canada,1
+Germany,1
+"Sri Lanka",1
+"Saint Barthelemy",1
+"Sint Maarten",2
+"Faroe Islands",1
+Italy,1
+Indonesia,6
+Indonesia,8
+Indonesia,1
+Svalbard,1
+Germany,1
+Greece,1
+"French Polynesia",1
+Taiwan,1
+Kiribati,1
+Australia,1
+"New Zealand",1
+"New Zealand",1
+Spain,1
+Portugal,1
+Indonesia,1
+Netherlands,1
+Netherlands,1
+Timor-Leste,2
+"Northern Mariana Islands",1
+"United Kingdom",1
+"Trinidad and Tobago",1
+Tonga,1
+"British Virgin Islands",1
+"Trinidad and Tobago",1
+"Saint Helena",1
+"American Samoa",1
+"United States",1
+Samoa,1
+Poland,2
+"Wallis and Futuna",1
+Canada,1
+Fiji,1
+Serbia,1
+Canada,2
+Fiji,1
+Netherlands,1
+Italy,1
+Germany,1
+"Falkland Islands",1
+"United Kingdom",1
+Greece,1
+Slovakia,3

@@ -1,0 +1,154 @@
+Kalahari|ANG|Moxico
+Kalahari|ANG|Cuando Cubango
+Kalahari|NAM|Namibia
+Kalahari|Z|Southern
+Kalahari|Z|Western
+Kalahari|RB|Botswana
+Kalahari|RSA|North West
+Namib|NAM|Namibia
+Ferlo|SN|Louga
+Ferlo|SN|Saint Louis
+Ferlo|SN|Tambacounda
+Trarza|RIM|Mauritania
+Erg Ouarane|RIM|Mauritania
+Erg Maqteir|RIM|Mauritania
+Saguia el-Hamra|WSA|Western Sahara
+Erg Igidi|DZ|Algeria
+Erg Igidi|RMM|Mali
+Erg Igidi|RIM|Mauritania
+Hamada du Draa|DZ|Algeria
+Hamada du Draa|MA|Morocco
+Erg Chech|DZ|Algeria
+Erg Chech|RMM|Mali
+Tanezrouft|DZ|Algeria
+Tanezrouft|RMM|Mali
+Azaouad|DZ|Algeria
+Azaouad|RMM|Mali
+Azaouad|RN|Niger
+Grand Erg Ouest|DZ|Algeria
+Grand Erg Est|DZ|Algeria
+Grand Erg Est|TN|Tunisia
+Erg Isaouane|DZ|Algeria
+Hamada al-Hamra|LAR|Libya
+Fesan|LAR|Libya
+Erg Rebiana|LAR|Libya
+Talak|RN|Niger
+Tenere|RN|Niger
+Tenere|TCH|Chad
+Djourab|TCH|Chad
+Erdi Ennedi|TCH|Chad
+Libyan Desert|ET|Matruh
+Libyan Desert|ET|El Wadi el Jadid
+Libyan Desert|ET|Beni Suef
+Libyan Desert|ET|El Giza
+Libyan Desert|ET|El Minya
+Libyan Desert|LAR|Libya
+Libyan Desert|SUD|Darfur
+Libyan Desert|SUD|ash Shamaliyah
+Darfur|SUD|Darfur
+Arabian Desert|ET|El Bahr el Ahmar
+Nubian Desert|SUD|ash Sharqiyah
+Negev|IL|South
+Syrian Desert|IRQ|Al Anbar
+Syrian Desert|JOR|Jordan
+Syrian Desert|SA|Saudi Arabia
+Syrian Desert|SYR|Syria
+Nefud|SA|Saudi Arabia
+Rub Al Chali|SA|Saudi Arabia
+Rub Al Chali|OM|Oman
+Rub Al Chali|UAE|Abu Dhabi
+Rub Al Chali|UAE|Dubayy
+Rub Al Chali|UAE|Al Fujayrah
+Rub Al Chali|UAE|Ras al Khaymah
+Rub Al Chali|UAE|Ash Shariqah
+Rub Al Chali|UAE|Umm al Qaywayn
+Rub Al Chali|YE|Yemen
+Dascht-e-Kavir|IR|Esfahan
+Dascht-e-Kavir|IR|Khorasan
+Dascht-e-Kavir|IR|Semnan
+Dascht-e-Kavir|IR|Tehran
+Dascht-e-Kavir|IR|Yazd
+Dascht-e-Lut|IR|Esfahan
+Dascht-e-Lut|IR|Kerman
+Dascht-e-Lut|IR|Khorasan
+Dascht-e-Lut|IR|Sistan e Baluchestan
+Dascht-e-Lut|IR|Yazd
+Dascht-e-Margoh|AFG|Afghanistan
+Rigestan|AFG|Afghanistan
+Rigestan|PK|Pakistan
+Thar|PK|Pakistan
+Thar|IND|Gujarat
+Thar|IND|Haryana
+Thar|IND|Punjab
+Thar|IND|Rajasthan
+Ryn|R|Rep. of Kalmykiya
+Ryn|R|Astrakhanskaya oblast
+Ryn|KAZ|Atyrau
+Ryn|KAZ|Batys Qazaqstan
+Ust Urt|UZB|Qaraqalpoghiston
+Ust Urt|KAZ|Aqtobe
+Ust Urt|KAZ|Mangghystau
+Karakum|TM|Ahal
+Karakum|TM|Balkan
+Karakum|TM|Dashhowuz
+Karakum|TM|Leban
+Karakum|TM|Mary
+Karakum|UZB|Samarqand
+Karakum|UZB|Qaraqalpoghiston
+Kysylkum|UZB|Jizzakh
+Kysylkum|UZB|Samarqand
+Kysylkum|UZB|Qaraqalpoghiston
+Kysylkum|KAZ|Qyzylorda
+Mujunkum|KAZ|Qyzylorda
+Mujunkum|KAZ|Zhambyl
+TaklaMakan|TJ|Xinjiang Uygur
+Gurbantunggut|TJ|Xinjiang Uygur
+Kum Tagh|TJ|Xinjiang Uygur
+Qaidam|TJ|Qinghai
+Gobi|TJ|Gansu
+Gobi|TJ|Nei Monggol
+Gobi|TJ|Ningxia Huizu
+Gobi|MNG|Mongolia
+Ordos|TJ|Shaanxi
+Ordos|TJ|Nei Monggol
+Ordos|TJ|Ningxia Huizu
+Great Sandy Desert|AUS|Western Australia
+Gibson Desert|AUS|Western Australia
+Great Victoria Desert|AUS|South Australia
+Great Victoria Desert|AUS|Western Australia
+Nullarbor Plain|AUS|South Australia
+Nullarbor Plain|AUS|Western Australia
+Simpson Desert|AUS|Northern Territory
+Simpson Desert|AUS|Queensland
+Simpson Desert|AUS|South Australia
+Red Centre|AUS|Northern Territory
+Red Centre|AUS|South Australia
+Red Centre|AUS|Western Australia
+Tanami|AUS|Northern Territory
+Sturt Desert|AUS|New South Wales
+Sturt Desert|AUS|Northern Territory
+Sturt Desert|AUS|Queensland
+Owyhee|USA|Idaho
+Owyhee|USA|Nevada
+Owyhee|USA|Oregon
+Great Salt Lake Desert|USA|Utah
+Colorado Plateau|USA|Arizona
+Colorado Plateau|USA|Colorado
+Colorado Plateau|USA|New Mexico
+Colorado Plateau|USA|Utah
+Great Basin|USA|California
+Great Basin|USA|Nevada
+Great Basin|USA|Utah
+Mojave|USA|Arizona
+Mojave|USA|California
+Mojave|USA|Nevada
+Mojave|USA|Utah
+Sonora|MEX|Chihuahua
+Sonora|MEX|Sonora
+Sonora|USA|Arizona
+Sonora|USA|California
+Chihuahua|USA|Arizona
+Chihuahua|USA|New Mexico
+Chihuahua|USA|Texas
+Baja California Desert|MEX|Baja California
+Atacama|RCH|Chile

@@ -1,0 +1,241 @@
+
+<country>
+   <country-tuple name="Albania" code="AL" capital="Tirane" province="Albania" area="28750.0" population="3249136"/>
+   <country-tuple name="Greece" code="GR" capital="Athens" province="Attiki" area="131940.0" population="10538594"/>
+   <country-tuple name="Macedonia" code="MK" capital="Skopje" province="Macedonia" area="25333.0" population="2104035"/>
+   <country-tuple name="Serbia" code="SRB" capital="Belgrade" province="Serbia" area="77474.0" population="7379339"/>
+   <country-tuple name="Montenegro" code="MNE" capital="Podgorica" province="Montenegro" area="14026.0" population="672180"/>
+   <country-tuple name="Kosovo" code="KOS" capital="Pristina" province="Kosovo" area="10887.0" population="1804838"/>
+   <country-tuple name="Andorra" code="AND" capital="Andorra la Vella" province="Andorra" area="450.0" population="72766"/>
+   <country-tuple name="France" code="F" capital="Paris" province="Ile de France" area="547030.0" population="58317450"/>
+   <country-tuple name="Spain" code="E" capital="Madrid" province="Madrid" area="504750.0" population="39181114"/>
+   <country-tuple name="Austria" code="A" capital="Vienna" province="Vienna" area="83850.0" population="8023244"/>
+   <country-tuple name="Czech Republic" code="CZ" capital="Prague" province="Praha" area="78703.0" population="10321120"/>
+   <country-tuple name="Germany" code="D" capital="Berlin" province="Berlin" area="356910.0" population="83536115"/>
+   <country-tuple name="Hungary" code="H" capital="Budapest" province="Budapest (munic.)" area="93030.0" population="10002541"/>
+   <country-tuple name="Italy" code="I" capital="Rome" province="Lazio" area="301230.0" population="57460274"/>
+   <country-tuple name="Liechtenstein" code="FL" capital="Vaduz" province="Liechtenstein" area="160.0" population="31122"/>
+   <country-tuple name="Slovakia" code="SK" capital="Bratislava" province="Slovakia" area="48845.0" population="5374362"/>
+   <country-tuple name="Slovenia" code="SLO" capital="Ljubljana" province="Slovenia" area="20256.0" population="1951443"/>
+   <country-tuple name="Switzerland" code="CH" capital="Bern" province="BE" area="41290.0" population="7207060"/>
+   <country-tuple name="Belarus" code="BY" capital="Minsk" province="Belarus" area="207600.0" population="10415973"/>
+   <country-tuple name="Latvia" code="LV" capital="Riga" province="Latvia" area="64100.0" population="2468982"/>
+   <country-tuple name="Lithuania" code="LT" capital="Vilnius" province="Lithuania" area="65200.0" population="3646041"/>
+   <country-tuple name="Poland" code="PL" capital="Warsaw" province="Warszwaskie" area="312683.0" population="38642565"/>
+   <country-tuple name="Ukraine" code="UA" capital="Kiev" province="Kyyivska" area="603700.0" population="50864009"/>
+   <country-tuple name="Russia" code="R" capital="Moscow" province="Moskva" area="17075200.0" population="148178487"/>
+   <country-tuple name="Belgium" code="B" capital="Brussels" province="Brabant" area="30510.0" population="10170241"/>
+   <country-tuple name="Luxembourg" code="L" capital="Luxembourg" province="Luxembourg" area="2586.0" population="415870"/>
+   <country-tuple name="Netherlands" code="NL" capital="Amsterdam" province="Noord Holland" area="37330.0" population="15568034"/>
+   <country-tuple name="Bosnia and Herzegovina" code="BIH" capital="Sarajevo" province="Bosnia and Herzegovina" area="51233.0" population="2656240"/>
+   <country-tuple name="Croatia" code="HR" capital="Zagreb" province="Croatia" area="56538.0" population="5004112"/>
+   <country-tuple name="Bulgaria" code="BG" capital="Sofia" province="Bulgaria" area="110910.0" population="8612757"/>
+   <country-tuple name="Romania" code="RO" capital="Bucharest" province="Bucuresti" area="237500.0" population="21657162"/>
+   <country-tuple name="Turkey" code="TR" capital="Ankara" province="Ankara" area="780580.0" population="62484478"/>
+   <country-tuple name="Denmark" code="DK" capital="Copenhagen" province="Denmark" area="43070.0" population="5249632"/>
+   <country-tuple name="Estonia" code="EW" capital="Tallinn" province="Estonia" area="45100.0" population="1459428"/>
+   <country-tuple name="Faroe Islands" code="FARX" capital="Torshavn" province="Faroe Islands" area="1400.0" population="43857"/>
+   <country-tuple name="Finland" code="SF" capital="Helsinki" province="Uusimaa" area="337030.0" population="5105230"/>
+   <country-tuple name="Norway" code="N" capital="Oslo" province="Oslo" area="324220.0" population="4383807"/>
+   <country-tuple name="Sweden" code="S" capital="Stockholm" province="Stockholm" area="449964.0" population="8900954"/>
+   <country-tuple name="Monaco" code="MC" capital="Monaco" province="Monaco" area="1.9" population="31719"/>
+   <country-tuple name="Gibraltar" code="GBZ" capital="Gibraltar" province="Gibraltar" area="6.5" population="28765"/>
+   <country-tuple name="Guernsey" code="GBG" capital="Saint Peter Port" province="Guernsey" area="194.0" population="62920"/>
+   <country-tuple name="Holy See" code="V" capital="Vatican City" province="Holy See" area="0.44" population="840"/>
+   <country-tuple name="Iceland" code="IS" capital="Reykjavik" province="Iceland" area="103000.0" population="270292"/>
+   <country-tuple name="Ireland" code="IRL" capital="Dublin" province="Ireland" area="70280.0" population="3566833"/>
+   <country-tuple name="San Marino" code="RSM" capital="San Marino" province="San Marino" area="60.0" population="24521"/>
+   <country-tuple name="Jersey" code="GBJ" capital="Saint Helier" province="Jersey" area="117.0" population="87848"/>
+   <country-tuple name="Malta" code="M" capital="Valletta" province="Malta" area="320.0" population="375576"/>
+   <country-tuple name="Man" code="GBM" capital="Douglas" province="Man" area="588.0" population="73837"/>
+   <country-tuple name="Moldova" code="MD" capital="Chisinau" province="Moldova" area="33700.0" population="4463847"/>
+   <country-tuple name="Portugal" code="P" capital="Lisbon" province="Lisbon" area="92080.0" population="9865114"/>
+   <country-tuple name="Svalbard" code="SVAX" capital="Longyearbyen" province="Svalbard" area="62049.0" population="2116"/>
+   <country-tuple name="United Kingdom" code="GB" capital="London" province="Greater London" area="244820.0" population="58489975"/>
+   <country-tuple name="Afghanistan" code="AFG" capital="Kabul" province="Afghanistan" area="647500.0" population="22664136"/>
+   <country-tuple name="China" code="TJ" capital="Beijing" province="Beijing (munic.)" area="9596960.0" population="1210004956"/>
+   <country-tuple name="Iran" code="IR" capital="Tehran" province="Tehran" area="1648000.0" population="66094264"/>
+   <country-tuple name="Pakistan" code="PK" capital="Islamabad" province="Pakistan" area="803940.0" population="129275660"/>
+   <country-tuple name="Tajikistan" code="TAD" capital="Dushanbe" province="Dushanbe (munic.)" area="143100.0" population="5916373"/>
+   <country-tuple name="Turkmenistan" code="TM" capital="Ashgabat" province="Ahal" area="488100.0" population="4149283"/>
+   <country-tuple name="Uzbekistan" code="UZB" capital="Tashkent" province="Toshkent" area="447400.0" population="23418381"/>
+   <country-tuple name="Armenia" code="ARM" capital="Yerevan" province="Armenia" area="29800.0" population="3463574"/>
+   <country-tuple name="Georgia" code="GE" capital="Tbilisi" province="Georgia" area="69700.0" population="5219810"/>
+   <country-tuple name="Azerbaijan" code="AZ" capital="Baku" province="Azerbaijan" area="86600.0" population="7676953"/>
+   <country-tuple name="Bahrain" code="BRN" capital="Manama" province="Bahrain" area="620.0" population="590042"/>
+   <country-tuple name="Bangladesh" code="BD" capital="Dhaka" province="Bangladesh" area="144000.0" population="123062800"/>
+   <country-tuple name="Myanmar" code="MYA" capital="Rangoon" province="Yangon" area="678500.0" population="45975625"/>
+   <country-tuple name="India" code="IND" capital="New Delhi" province="Delhi" area="3287590.0" population="952107694"/>
+   <country-tuple name="Bhutan" code="BHT" capital="Thimphu" province="Bhutan" area="47000.0" population="1822625"/>
+   <country-tuple name="Brunei" code="BRU" capital="Bandar Seri Begawan" province="Brunei" area="5770.0" population="299939"/>
+   <country-tuple name="Malaysia" code="MAL" capital="Kuala Lumpur" province="Fed. Terr. of Kuala Lumpur" area="329750.0" population="19962893"/>
+   <country-tuple name="Laos" code="LAO" capital="Vientiane" province="Laos" area="236800.0" population="4975772"/>
+   <country-tuple name="Thailand" code="THA" capital="Bangkok" province="Thailand" area="514000.0" population="58851357"/>
+   <country-tuple name="Cambodia" code="K" capital="Phnom Penh" province="Cambodia" area="181040.0" population="10861218"/>
+   <country-tuple name="Vietnam" code="VN" capital="Hanoi" province="Vietnam" area="329560.0" population="73976973"/>
+   <country-tuple name="Kazakstan" code="KAZ" capital="Almaty" province="Almaty (munic.)" area="2717300.0" population="16916463"/>
+   <country-tuple name="North Korea" code="NOK" capital="Pyongyang" province="North Korea" area="120540.0" population="23904124"/>
+   <country-tuple name="Kyrgyzstan" code="KGZ" capital="Bishkek" province="Kyrgyzstan" area="198500.0" population="4529648"/>
+   <country-tuple name="Hong Kong" code="HONX" capital="Hong Kong" province="Hong Kong" area="1092.0" population="7055071"/>
+   <country-tuple name="Macau" code="MACX" capital="Macau" province="Macau" area="16.0" population="496837"/>
+   <country-tuple name="Mongolia" code="MNG" capital="Ulaanbaatar" province="Mongolia" area="1565000.0" population="2496617"/>
+   <country-tuple name="Nepal" code="NEP" capital="Kathmandu" province="Nepal" area="140800.0" population="22094033"/>
+   <country-tuple name="Christmas Island" code="XMAS" capital="Flying Fish Cove" province="Christmas Island" area="135.0" population="1402"/>
+   <country-tuple name="Cocos Islands" code="COCO" capital="West Island" province="Cocos Islands" area="14.0" population="596"/>
+   <country-tuple name="Cyprus" code="CY" capital="Nicosia" province="Cyprus" area="9251.0" population="744609"/>
+   <country-tuple name="Gaza Strip" code="GAZA" capital="MISSING" province="MISSING" area="360.0" population="813332"/>
+   <country-tuple name="Israel" code="IL" capital="Jerusalem" province="Central" area="20770.0" population="5421995"/>
+   <country-tuple name="Egypt" code="ET" capital="Cairo" province="El Qahira" area="1001450.0" population="63575107"/>
+   <country-tuple name="Indonesia" code="RI" capital="Jakarta" province="Indonesia" area="1919440.0" population="206611600"/>
+   <country-tuple name="Timor-Leste" code="TL" capital="Dili" province="Timor-Leste" area="15007.0" population="1131612"/>
+   <country-tuple name="Papua New Guinea" code="PNG" capital="Port Moresby" province="Papua New Guinea" area="461690.0" population="4394537"/>
+   <country-tuple name="Iraq" code="IRQ" capital="Baghdad" province="Baghdad" area="437072.0" population="21422292"/>
+   <country-tuple name="Jordan" code="JOR" capital="Amman" province="Jordan" area="89213.0" population="4212152"/>
+   <country-tuple name="Kuwait" code="KWT" capital="Kuwait" province="Kuwait" area="17820.0" population="1950047"/>
+   <country-tuple name="Saudi Arabia" code="SA" capital="Riyadh" province="Saudi Arabia" area="1960582.0" population="19409058"/>
+   <country-tuple name="Syria" code="SYR" capital="Damascus" province="Syria" area="185180.0" population="15608648"/>
+   <country-tuple name="Lebanon" code="RL" capital="Beirut" province="Lebanon" area="10400.0" population="3776317"/>
+   <country-tuple name="West Bank" code="WEST" capital="MISSING" province="MISSING" area="5860.0" population="1427741"/>
+   <country-tuple name="Japan" code="J" capital="Tokyo" province="Tokyo" area="377835.0" population="125449703"/>
+   <country-tuple name="South Korea" code="ROK" capital="Seoul" province="South Korea" area="98480.0" population="45482291"/>
+   <country-tuple name="Maldives" code="MV" capital="Male" province="Maldives" area="300.0" population="270758"/>
+   <country-tuple name="Oman" code="OM" capital="Muscat" province="Oman" area="212460.0" population="2186548"/>
+   <country-tuple name="United Arab Emirates" code="UAE" capital="Abu Dhabi" province="Abu Dhabi" area="75581.0" population="3057337"/>
+   <country-tuple name="Yemen" code="YE" capital="Sanaa" province="Yemen" area="527970.0" population="13483178"/>
+   <country-tuple name="Philippines" code="RP" capital="Manila" province="Philippines" area="299764.0" population="74480848"/>
+   <country-tuple name="Qatar" code="Q" capital="Doha" province="Qatar" area="11000.0" population="547761"/>
+   <country-tuple name="Singapore" code="SGP" capital="Singapore" province="Singapore" area="632.6" population="3396924"/>
+   <country-tuple name="Sri Lanka" code="CL" capital="Colombo" province="Sri Lanka" area="65610.0" population="18553074"/>
+   <country-tuple name="Taiwan" code="RC" capital="Taipei" province="Taiwan" area="36179.0" population="21465881"/>
+   <country-tuple name="Anguilla" code="AXA" capital="The Valley" province="Anguilla" area="102.0" population="14436"/>
+   <country-tuple name="Antigua and Barbuda" code="AG" capital="Saint Johns" province="Antigua and Barbuda" area="442.0" population="65647"/>
+   <country-tuple name="Aruba" code="ARU" capital="Oranjestad" province="Aruba" area="193.0" population="103065"/>
+   <country-tuple name="Bahamas" code="BS" capital="Nassau" province="Bahamas" area="13940.0" population="259367"/>
+   <country-tuple name="Barbados" code="BDS" capital="Bridgetown" province="Barbados" area="430.0" population="257030"/>
+   <country-tuple name="Belize" code="BZ" capital="Belmopan" province="Belize" area="22960.0" population="219296"/>
+   <country-tuple name="Guatemala" code="GCA" capital="Guatemala City" province="Guatemala" area="108890.0" population="11277614"/>
+   <country-tuple name="Mexico" code="MEX" capital="Mexico City" province="Distrito Federal" area="1972550.0" population="95772462"/>
+   <country-tuple name="Bermuda" code="BERM" capital="Hamilton" province="Bermuda" area="53.3" population="67837"/>
+   <country-tuple name="British Virgin Islands" code="BVIR" capital="Road Town" province="British Virgin Islands" area="153.0" population="24491"/>
+   <country-tuple name="Canada" code="CDN" capital="Ottawa" province="Ontario" area="9976140.0" population="28820671"/>
+   <country-tuple name="United States" code="USA" capital="Washington" province="Distr. Columbia" area="9372610.0" population="266476278"/>
+   <country-tuple name="Cayman Islands" code="CAYM" capital="George Town" province="Cayman Islands" area="262.0" population="49035"/>
+   <country-tuple name="Costa Rica" code="CR" capital="San Jose" province="San Jose" area="51100.0" population="3463083"/>
+   <country-tuple name="Nicaragua" code="NIC" capital="Managua" province="Nicaragua" area="129494.0" population="4272352"/>
+   <country-tuple name="Panama" code="PA" capital="Panama City" province="Panama" area="78200.0" population="2655094"/>
+   <country-tuple name="Cuba" code="C" capital="Havana" province="Ciudad de la Habana" area="110860.0" population="10951334"/>
+   <country-tuple name="Dominica" code="WD" capital="Roseau" province="Dominica" area="746.0" population="82926"/>
+   <country-tuple name="Dominican Republic" code="DOM" capital="Santo Domingo" province="Dominican Republic" area="48730.0" population="8088881"/>
+   <country-tuple name="Haiti" code="RH" capital="Port-au-Prince" province="Haiti" area="27750.0" population="6731539"/>
+   <country-tuple name="El Salvador" code="ES" capital="San Salvador" province="El Salvador" area="21040.0" population="5828987"/>
+   <country-tuple name="Honduras" code="HCA" capital="Tegucigalpa" province="Francisco Morazan" area="112090.0" population="5605193"/>
+   <country-tuple name="Greenland" code="GROX" capital="Nuuk" province="Greenland" area="2175600.0" population="58203"/>
+   <country-tuple name="Grenada" code="WG" capital="Saint Georges" province="Grenada" area="344.0" population="94961"/>
+   <country-tuple name="Guadeloupe" code="GUAD" capital="Basse-Terre" province="Guadeloupe" area="1780.0" population="407768"/>
+   <country-tuple name="Jamaica" code="JA" capital="Kingston" province="Jamaica" area="10991.0" population="2595275"/>
+   <country-tuple name="Martinique" code="MART" capital="Fort-de-France" province="Martinique" area="1128.0" population="399151"/>
+   <country-tuple name="Montserrat" code="MNTS" capital="Plymouth" province="Montserrat" area="102.0" population="5097"/>
+   <country-tuple name="Netherlands Antilles" code="NA" capital="Willemstad" province="Netherlands Antilles" area="960.0" population="227049"/>
+   <country-tuple name="Saint Martin" code="SMAR" capital="Marigot" province="Saint Martin" area="54.0" population="29820"/>
+   <country-tuple name="Colombia" code="CO" capital="Bogota" province="Santa Fe de Bogota, DC" area="1138910.0" population="36813161"/>
+   <country-tuple name="Puerto Rico" code="PR" capital="San Juan" province="Puerto Rico" area="8870.0" population="3971020"/>
+   <country-tuple name="Saint Kitts and Nevis" code="KN" capital="Basseterre" province="Saint Kitts and Nevis" area="269.0" population="41369"/>
+   <country-tuple name="Saint Lucia" code="WL" capital="Castries" province="Saint Lucia" area="620.0" population="157862"/>
+   <country-tuple name="Saint Pierre and Miquelon" code="SPMI" capital="Saint-Pierre" province="Saint Pierre and Miquelon" area="242.0" population="6809"/>
+   <country-tuple name="Saint Vincent and the Grenadines" code="WV" capital="Kingstown" province="Saint Vincent and the Grenadines" area="389.0" population="118344"/>
+   <country-tuple name="Trinidad and Tobago" code="TT" capital="Port-of-Spain" province="Trinidad and Tobago" area="5130.0" population="1272385"/>
+   <country-tuple name="Turks and Caicos Islands" code="TUCA" capital="Grand Turk" province="Turks and Caicos Islands" area="430.0" population="22942"/>
+   <country-tuple name="Virgin Islands" code="VIRG" capital="Charlotte Amalie" province="Virgin Islands" area="352.0" population="97120"/>
+   <country-tuple name="American Samoa" code="AMSA" capital="Pago Pago" province="American Samoa" area="199.0" population="65628"/>
+   <country-tuple name="Australia" code="AUS" capital="Canberra" province="Australia Capital Territory" area="7686850.0" population="18260863"/>
+   <country-tuple name="Cook Islands" code="COOK" capital="Avarua" province="Cook Islands" area="240.0" population="11870"/>
+   <country-tuple name="Fiji" code="FJI" capital="Suva" province="Fiji" area="18270.0" population="782381"/>
+   <country-tuple name="French Polynesia" code="FPOL" capital="Papeete" province="French Polynesia" area="4167.0" population="287032"/>
+   <country-tuple name="Guam" code="GUAM" capital="Agana" province="Guam" area="541.3" population="178430"/>
+   <country-tuple name="Kiribati" code="KIR" capital="Tarawa" province="Kiribati" area="717.0" population="80919"/>
+   <country-tuple name="Marshall Islands" code="MH" capital="Majuro" province="Marshall Islands" area="181.3" population="58363"/>
+   <country-tuple name="Micronesia" code="FSM" capital="Palikir" province="Micronesia" area="702.0" population="125377"/>
+   <country-tuple name="Nauru" code="NAU" capital="Yaren" province="Nauru" area="21.0" population="10273"/>
+   <country-tuple name="New Caledonia" code="NCA" capital="Noumea" province="New Caledonia" area="19060.0" population="227436"/>
+   <country-tuple name="New Zealand" code="NZ" capital="Wellington" province="New Zealand" area="268680.0" population="3547983"/>
+   <country-tuple name="Niue" code="NIUE" capital="Alofi" province="Niue" area="260.0" population="1398"/>
+   <country-tuple name="Norfolk Island" code="NORF" capital="Kingston" province="Norfolk Island" area="34.6" population="2209"/>
+   <country-tuple name="Northern Mariana Islands" code="NMIS" capital="Saipan" province="Northern Mariana Islands" area="477.0" population="88662"/>
+   <country-tuple name="Palau" code="PAL" capital="Melekeok" province="Palau" area="458.0" population="16952"/>
+   <country-tuple name="Pitcairn Islands" code="PITC" capital="Adamstown" province="Pitcairn Islands" area="47.0" population="48"/>
+   <country-tuple name="Solomon Islands" code="SLB" capital="Honiara" province="Solomon Islands" area="28450.0" population="412902"/>
+   <country-tuple name="Tonga" code="TO" capital="Nukualofa" province="Tonga" area="748.0" population="106466"/>
+   <country-tuple name="Tuvalu" code="TUV" capital="Funafuti" province="Tuvalu" area="26.0" population="10146"/>
+   <country-tuple name="Vanuatu" code="VU" capital="Port-Vila" province="Vanuatu" area="14760.0" population="177504"/>
+   <country-tuple name="Wallis and Futuna" code="WAFU" capital="Mata-Utu" province="Wallis and Futuna" area="274.0" population="15289"/>
+   <country-tuple name="Samoa" code="WS" capital="Apia" province="Samoa" area="2860.0" population="214384"/>
+   <country-tuple name="Argentina" code="RA" capital="Buenos Aires" province="Distrito Federal" area="2766890.0" population="34672997"/>
+   <country-tuple name="Bolivia" code="BOL" capital="La Paz" province="Bolivia" area="1098580.0" population="7165257"/>
+   <country-tuple name="Brazil" code="BR" capital="Brasilia" province="Distrito Federal" area="8511965.0" population="162661214"/>
+   <country-tuple name="Chile" code="RCH" capital="Santiago" province="Chile" area="756950.0" population="14333258"/>
+   <country-tuple name="Paraguay" code="PY" capital="Asuncion" province="Paraguay" area="406750.0" population="5504146"/>
+   <country-tuple name="Uruguay" code="ROU" capital="Montevideo" province="Uruguay" area="176220.0" population="3238952"/>
+   <country-tuple name="Peru" code="PE" capital="Lima" province="Lima" area="1285220.0" population="24523408"/>
+   <country-tuple name="French Guiana" code="FGU" capital="Cayenne" province="French Guiana" area="91000.0" population="151187"/>
+   <country-tuple name="Guyana" code="GUY" capital="Georgetown" province="Guyana" area="214970.0" population="712091"/>
+   <country-tuple name="Suriname" code="SME" capital="Paramaribo" province="Suriname" area="163270.0" population="436418"/>
+   <country-tuple name="Venezuela" code="YV" capital="Caracas" province="Distrito Federal" area="912050.0" population="21983188"/>
+   <country-tuple name="Ecuador" code="EC" capital="Quito" province="Ecuador" area="283560.0" population="11466291"/>
+   <country-tuple name="Falkland Islands" code="FALK" capital="Stanley" province="Falkland Islands" area="12173.0" population="3140"/>
+   <country-tuple name="Algeria" code="DZ" capital="Algier" province="Algeria" area="2381740.0" population="29183032"/>
+   <country-tuple name="Libya" code="LAR" capital="Tripoli" province="Libya" area="1759540.0" population="5445436"/>
+   <country-tuple name="Mali" code="RMM" capital="Bamako" province="Mali" area="1240000.0" population="9653261"/>
+   <country-tuple name="Mauritania" code="RIM" capital="Nouakchott" province="Mauritania" area="1030700.0" population="2336048"/>
+   <country-tuple name="Morocco" code="MA" capital="Rabat" province="Morocco" area="446550.0" population="29779156"/>
+   <country-tuple name="Niger" code="RN" capital="Niamey" province="Niger" area="1267000.0" population="9113001"/>
+   <country-tuple name="Tunisia" code="TN" capital="Tunis" province="Tunisia" area="163610.0" population="9019687"/>
+   <country-tuple name="Western Sahara" code="WSA" capital="El Aaiun" province="Western Sahara" area="266000.0" population="222631"/>
+   <country-tuple name="Angola" code="ANG" capital="Luanda" province="Luanda" area="1246700.0" population="10342899"/>
+   <country-tuple name="Congo" code="RCB" capital="Brazzaville" province="Congo" area="342000.0" population="2527841"/>
+   <country-tuple name="Namibia" code="NAM" capital="Windhoek" province="Namibia" area="825418.0" population="1677243"/>
+   <country-tuple name="Zaire" code="ZRE" capital="Kinshasa" province="Kinshasa" area="2345410.0" population="46498539"/>
+   <country-tuple name="Zambia" code="Z" capital="Lusaka" province="Lusaka" area="752610.0" population="9159072"/>
+   <country-tuple name="Benin" code="BEN" capital="Porto-Novo" province="Benin" area="112620.0" population="5709529"/>
+   <country-tuple name="Burkina Faso" code="BF" capital="Ouagadougou" province="Burkina Faso" area="274200.0" population="10623323"/>
+   <country-tuple name="Nigeria" code="WAN" capital="Abuja" province="Nigeria" area="923770.0" population="103912489"/>
+   <country-tuple name="Togo" code="RT" capital="Lome" province="Togo" area="56790.0" population="4570530"/>
+   <country-tuple name="Botswana" code="RB" capital="Gaborone" province="Botswana" area="600370.0" population="1477630"/>
+   <country-tuple name="South Africa" code="RSA" capital="Pretoria" province="Gauteng" area="1219912.0" population="41743459"/>
+   <country-tuple name="Zimbabwe" code="ZW" capital="Harare" province="Zimbabwe" area="390580.0" population="11271314"/>
+   <country-tuple name="Cote dIvoire" code="CI" capital="Yamoussoukro" province="Cote dIvoire" area="322460.0" population="14762445"/>
+   <country-tuple name="Ghana" code="GH" capital="Accra" province="Ghana" area="238540.0" population="17698271"/>
+   <country-tuple name="Burundi" code="BI" capital="Bujumbura" province="Burundi" area="27830.0" population="5943057"/>
+   <country-tuple name="Rwanda" code="RWA" capital="Kigali" province="Rwanda" area="26340.0" population="6853359"/>
+   <country-tuple name="Tanzania" code="EAT" capital="Dar es Salaam" province="Daressalam" area="945090.0" population="29058470"/>
+   <country-tuple name="Cameroon" code="CAM" capital="Yaounde" province="Centre" area="475440.0" population="14261557"/>
+   <country-tuple name="Central African Republic" code="RCA" capital="Bangui" province="Central African Republic" area="622980.0" population="3274426"/>
+   <country-tuple name="Chad" code="TCH" capital="NDjamena" province="Chad" area="1284000.0" population="6976845"/>
+   <country-tuple name="Equatorial Guinea" code="GQ" capital="Malabo" province="Equatorial Guinea" area="28050.0" population="431282"/>
+   <country-tuple name="Gabon" code="G" capital="Libreville" province="Gabon" area="267670.0" population="1172798"/>
+   <country-tuple name="Cape Verde" code="CV" capital="Praia" province="Cape Verde" area="4030.0" population="449066"/>
+   <country-tuple name="Sudan" code="SUD" capital="Khartoum" province="al Khartum" area="2505810.0" population="31547543"/>
+   <country-tuple name="Comoros" code="COM" capital="Moroni" province="Comoros" area="2170.0" population="569237"/>
+   <country-tuple name="Guinea" code="RG" capital="Conakry" province="Guinea" area="245860.0" population="7411981"/>
+   <country-tuple name="Liberia" code="LB" capital="Monrovia" province="Liberia" area="111370.0" population="2109789"/>
+   <country-tuple name="Djibouti" code="DJI" capital="Djibouti" province="Djibouti" area="22000.0" population="427642"/>
+   <country-tuple name="Eritrea" code="ER" capital="Asmara" province="Eritrea" area="121320.0" population="3427883"/>
+   <country-tuple name="Ethiopia" code="ETH" capital="Addis Ababa" province="Ethiopia" area="1127127.0" population="57171662"/>
+   <country-tuple name="Somalia" code="SP" capital="Mogadishu" province="Somalia" area="637660.0" population="9639151"/>
+   <country-tuple name="Kenya" code="EAK" capital="Nairobi" province="Nairobi" area="582650.0" population="28176686"/>
+   <country-tuple name="Gambia" code="WAG" capital="Banjul" province="Gambia" area="11300.0" population="1204984"/>
+   <country-tuple name="Senegal" code="SN" capital="Dakar" province="Dakar" area="196190.0" population="9092749"/>
+   <country-tuple name="Guinea-Bissau" code="GNB" capital="Bissau" province="Guinea-Bissau" area="36120.0" population="1151330"/>
+   <country-tuple name="Sierra Leone" code="WAL" capital="Freetown" province="Sierra Leone" area="71740.0" population="4793121"/>
+   <country-tuple name="Uganda" code="EAU" capital="Kampala" province="Uganda" area="236040.0" population="20158176"/>
+   <country-tuple name="Lesotho" code="LS" capital="Maseru" province="Lesotho" area="30350.0" population="1970781"/>
+   <country-tuple name="Madagascar" code="RM" capital="Antananarivo" province="Antananarivo" area="587041.0" population="13670507"/>
+   <country-tuple name="Malawi" code="MW" capital="Lilongwe" province="Malawi" area="118480.0" population="9452844"/>
+   <country-tuple name="Mozambique" code="MOC" capital="Maputo" province="Maputo (munic.)" area="801590.0" population="17877927"/>
+   <country-tuple name="Mauritius" code="MS" capital="Port Louis" province="Mauritius" area="2040.0" population="1140256"/>
+   <country-tuple name="Mayotte" code="MAYO" capital="Mamoutzou" province="Mayotte" area="374.0" population="223765"/>
+   <country-tuple name="Swaziland" code="SD" capital="Mbabane" province="Swaziland" area="17360.0" population="998730"/>
+   <country-tuple name="Reunion" code="REUN" capital="Saint-Denis" province="Reunion" area="2510.0" population="679198"/>
+   <country-tuple name="Saint Helena" code="HELX" capital="Jamestown" province="Saint Helena" area="413.0" population="7637"/>
+   <country-tuple name="Sao Tome and Principe" code="STP" capital="Sao Tome" province="Sao Tome and Principe" area="1001.0" population="144128"/>
+   <country-tuple name="Seychelles" code="SY" capital="Victoria" province="Seychelles" area="455.0" population="77575"/>
+</country>

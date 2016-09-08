@@ -1,0 +1,37 @@
+
+<sea>
+   <sea-tuple name="Skagerrak" depth="725.0"/>
+   <sea-tuple name="Kattegat" depth="94.0"/>
+   <sea-tuple name="North Sea" depth="200.0"/>
+   <sea-tuple name="The Channel" depth="175.0"/>
+   <sea-tuple name="Black Sea" depth="2211.0"/>
+   <sea-tuple name="Sea of Azov" depth="100.0"/>
+   <sea-tuple name="Baltic Sea" depth="459.0"/>
+   <sea-tuple name="Atlantic Ocean" depth="9219.0"/>
+   <sea-tuple name="Mediterranean Sea" depth="5121.0"/>
+   <sea-tuple name="Gulf of Mexico" depth="4375.0"/>
+   <sea-tuple name="Norwegian Sea" depth="3860.0"/>
+   <sea-tuple name="Barents Sea" depth="32.0"/>
+   <sea-tuple name="Sibirian Sea" depth="540.0"/>
+   <sea-tuple name="Arctic Ocean" depth="5608.0"/>
+   <sea-tuple name="Bering Sea" depth="4096.0"/>
+   <sea-tuple name="Pacific Ocean" depth="11034.0"/>
+   <sea-tuple name="Sea of Okhotsk" depth="3372.0"/>
+   <sea-tuple name="Sea of Japan" depth="4036.0"/>
+   <sea-tuple name="Yellow Sea" depth="200.0"/>
+   <sea-tuple name="East China Sea" depth="2370.0"/>
+   <sea-tuple name="South China Sea" depth="5420.0"/>
+   <sea-tuple name="Persian Gulf" depth="102.0"/>
+   <sea-tuple name="Irish Sea" depth="272.0"/>
+   <sea-tuple name="Caribbean Sea" depth="7240.0"/>
+   <sea-tuple name="Indian Ocean" depth="6400.0"/>
+   <sea-tuple name="Arabian Sea" depth="5203.0"/>
+   <sea-tuple name="Gulf of Oman" depth="3350.0"/>
+   <sea-tuple name="Red Sea" depth="2635.0"/>
+   <sea-tuple name="Gulf of Aden" depth="5143.0"/>
+   <sea-tuple name="Gulf of Bengal" depth="4045.0"/>
+   <sea-tuple name="Andaman Sea" depth="3113.0"/>
+   <sea-tuple name="Malakka Strait" depth="104.0"/>
+   <sea-tuple name="Sunda Sea" depth="7440.0"/>
+   <sea-tuple name="Sulawesi Sea" depth="6218.0"/>
+</sea>

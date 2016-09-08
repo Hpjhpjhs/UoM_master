@@ -1,0 +1,129 @@
+<html class="gr__studentnet_cs_manchester_ac_uk"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+	<link href="Pract_07_files/style.htm" rel="stylesheet" type="text/css">
+	<link href="Pract_07_files/print.htm" rel="stylesheet" type="text/css" media="print">
+</head><body>
+
+<div id="logo">
+	<a href="http://www.cs.manchester.ac.uk/">
+	<img src="Pract_07_files/logomanchester.gif" border="0"></a>
+</div>
+
+
+<center><br><h2>COMP61342 : Computer Vision</h2></center>
+
+	<center>MSc Module part of <a href="http://www.cs.manchester.ac.uk/postgraduate/">Taught Postgraduate 
+Programmes</a></center><br>
+
+<center>
+<table bgcolor="#bcbcbc" width="100%">
+<tbody><tr>
+<td>
+  &nbsp; &nbsp;
+</td>
+</tr>
+</tbody></table>
+</center>
+
+<center><table cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+  <td align="left" valign="top" width="50%">
+  <table width="100%">
+    <tbody><tr><td height="50" valign="top">
+    
+    <h2>Threshold Based Segmentation</h2>
+    
+    <br>
+    90 min. ASSESSED
+    </td></tr>
+    <tr><td height="150" valign="top">
+    Objectives:<br>
+
+    At the end of this practical you should 
+    understand: <br>  
+    - the characteristics of anatomical MR brain images <br>
+    - the use of thresholding for region segmentation <br>
+    - the value of adaptive thresholding for industrial scene analysis<br>
+    
+    </td></tr>
+    <tr><td height="200" valign="top">
+    
+    <h2>Terminology:</h2>
+    
+    <br>
+
+    See: <br>
+    <a href="http://studentnet.cs.manchester.ac.uk/pgt/COMP61342/cvmsc/Terminol.html#Histograms">Image Histograms</a><br>
+    <a href="http://studentnet.cs.manchester.ac.uk/pgt/COMP61342/cvmsc/Terminol.html#Threshol">Thresholding</a><br>
+    <a href="http://studentnet.cs.manchester.ac.uk/pgt/COMP61342/cvmsc/Terminol.html#GreyBinS">Grey Levels</a><br> 
+</td></tr>
+</tbody></table>
+</td>
+<td align="right" valign="top" width="50%">
+<table width="100%">
+<tbody><tr><td>
+    <a href="http://www.tina-vision.net/teaching/cvmsc/images/brains.pgm">
+    <img src="Pract_07_files/brains.gif" align="right" height="200" width="200"></a>
+    </td></tr>
+    <tr><td>
+    <a href="http://www.tina-vision.net/teaching/cvmsc/images/tray.pgm">
+    <img src="Pract_07_files/tray.gif" align="right" height="200" width="200"> </a>
+    </td></tr>
+  </tbody></table>
+  </td>
+  </tr>
+</tbody></table>
+</center>
+
+<center><table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="left" width="100%">
+This exercise is to be carried out using MATLAB and a report
+is to be written as part of your course assessment.
+A moderate degree of collaboration in carrying out
+the work is acceptable but reports should be entirely your own.
+You can expect to have to draw upon both course work
+and previous practical experience.
+In each case you should explain the objective of the exercise,
+outline the combination of processes you used, explain the
+results you obtained, the scope (ie general usefulness)
+of the method and try to address any specific questions
+raised. You do not need to explain the basics of MATLAB but inclusion of
+the MATALB routines you develop will be expected.
+Tackle the following two problems and produce a write-up of
+approximately 1-2 pages for each.
+<p>
+Download the .pgm images above for analysis in MATLAB.
+</p><p>
+The upper image is a Nuclear Magnetic Resonance image of the skull
+and brain. In such images, the distinct tissue types have distinct
+grey level values.
+</p><p>
+Use the ROI histogramming routines you already have to
+identify regions of white matter in the histogram of the upper image.
+For reference a white matter segmentation is shown in the lower
+image of the main "Region Segmentation" unit page.
+</p><p>
+Use a combination of thesholds above and below the white matter peak
+and some simple image arithmetic
+to produce your own pixel level binary segmentation of white matter.
+</p><p>
+Now attempt the same process with the lower image, which was obtained
+from a CCD camera in an industrial environment. This time attempt to extract
+the darker contents of each circular cell.
+</p><p>
+You will notice that illumination artefacts cause position dependant
+results.
+Now filter the image with a large scale smoothing kernal, subtract the
+result from the original image and try again.
+</p><p>
+Can you improve upon your initial segmentation?
+
+</p></td></tr></tbody></table>
+</center>
+
+<br><br><br>
+
+
+
+</body><span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></html>

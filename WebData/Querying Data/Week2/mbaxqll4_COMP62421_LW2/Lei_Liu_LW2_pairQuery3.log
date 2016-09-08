@@ -1,0 +1,52 @@
+pair3 Like
+select * from city where name like 'Man%';
+Name        Country     Province           Population  Latitude    Longitude   Elevation 
+----------  ----------  -----------------  ----------  ----------  ----------  ----------
+Mannheim    D           Baden-Wurttemberg  290117      49.5667     8.46667     NULL      
+Manisa      TR          Manisa             309050      NULL        NULL        NULL      
+Manchester  GB          North West         510746      NULL        NULL        NULL      
+Manzhouli   CN          Nei Mongol         120023      NULL        NULL        NULL      
+Mandalay    MYA         Mandalay           1225133     21.9833     96.1        NULL      
+Manado      RI          Sulawesi Utara     410481      NULL        NULL        NULL      
+Manokwari   RI          Papua Barat        136302      NULL        NULL        NULL      
+Manbij      SYR         Halab              204766      NULL        NULL        NULL      
+Manila      RP          Metro Manila       1660714     14.5833     120.983     NULL      
+Mandaluyon  RP          Metro Manila       305576      NULL        NULL        NULL      
+Manchester  USA         New Hampshire      109571      NULL        NULL        NULL      
+Managua     NIC         Nicaragua          1028808     12.1667     -86.25      NULL      
+Manzanillo  C           Granma             105967      NULL        NULL        NULL      
+Manizales   CO          Caldas             394627      NULL        NULL        NULL      
+Manaus      BR          Amazonas           1792881     -3.1        -60         NULL      
+Mansa       Z           Luapula            NULL        NULL        NULL        NULL      
+Mangaung    RSA         Free State         747431      NULL        NULL        NULL      
+Man         CI          Montagnes          148171      NULL        NULL        NULL      
+pair3 and
+select * from city where name>='Man' and name<'Mao';
+Name        Country     Province    Population  Latitude    Longitude   Elevation 
+----------  ----------  ----------  ----------  ----------  ----------  ----------
+Man         CI          Montagnes   148171      NULL        NULL        NULL      
+Manado      RI          Sulawesi U  410481      NULL        NULL        NULL      
+Managua     NIC         Nicaragua   1028808     12.1667     -86.25      NULL      
+Manaus      BR          Amazonas    1792881     -3.1        -60         NULL      
+Manbij      SYR         Halab       204766      NULL        NULL        NULL      
+Manchester  GB          North West  510746      NULL        NULL        NULL      
+Manchester  USA         New Hampsh  109571      NULL        NULL        NULL      
+Mandalay    MYA         Mandalay    1225133     21.9833     96.1        NULL      
+Mandaluyon  RP          Metro Mani  305576      NULL        NULL        NULL      
+Mangaung    RSA         Free State  747431      NULL        NULL        NULL      
+Manila      RP          Metro Mani  1660714     14.5833     120.983     NULL      
+Manisa      TR          Manisa      309050      NULL        NULL        NULL      
+Manizales   CO          Caldas      394627      NULL        NULL        NULL      
+Mannheim    D           Baden-Wurt  290117      49.5667     8.46667     NULL      
+Manokwari   RI          Papua Bara  136302      NULL        NULL        NULL      
+Mansa       Z           Luapula     NULL        NULL        NULL        NULL      
+Manzanillo  C           Granma      105967      NULL        NULL        NULL      
+Manzhouli   CN          Nei Mongol  120023      NULL        NULL        NULL      
+explain query plan select * from city where name like 'Man%';
+selectid    order       from        detail                      
+----------  ----------  ----------  ----------------------------
+0           0           0           SCAN TABLE city (~1675 rows)
+explain query plan select * from city where name>='Man' and name<'Mao';
+selectid    order       from        detail                                                                               
+----------  ----------  ----------  -------------------------------------------------------------------------------------
+0           0           0           SEARCH TABLE city USING INDEX sqlite_autoindex_City_1 (Name>? AND Name<?) (~209 rows)

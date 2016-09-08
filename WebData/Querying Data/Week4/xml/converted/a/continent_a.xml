@@ -1,0 +1,8 @@
+
+<continent>
+   <continent-tuple name="Europe" area="9562488.0"/>
+   <continent-tuple name="Asia" area="45095292.0"/>
+   <continent-tuple name="Australia/Oceania" area="8503474.0"/>
+   <continent-tuple name="Africa" area="30254708.0"/>
+   <continent-tuple name="America" area="39872000.0"/>
+</continent>

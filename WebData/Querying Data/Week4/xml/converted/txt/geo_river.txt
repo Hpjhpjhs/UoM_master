@@ -1,0 +1,851 @@
+Thjorsa|IS|Iceland
+Joekulsa a Fjoellum|IS|Iceland
+Glomma|N|Akershus
+Glomma|N|Oestfold
+Glomma|N|Hedmark
+Glomma|N|Soer Trondelag
+Lagen|N|Akershus
+Lagen|N|Hedmark
+Lagen|N|Oppland
+Goetaaelv|S|Alvsborg
+Goetaaelv|S|Goteborg och Bohus
+Klaraelv|N|Hedmark
+Klaraelv|S|Varmland
+Umeaelv|S|Vasterbotten
+Dalaelv|S|Gavleborg
+Dalaelv|S|Dalarna
+Dalaelv|S|Uppsala
+Dalaelv|S|Vastmanland
+Vaesterdalaelv|S|Dalarna
+Oesterdalaelv|S|Dalarna
+Paatsjoki|R|Murmanskaya oblast
+Paatsjoki|SF|Lappia
+Paatsjoki|N|Finnmark
+Ounasjoki|SF|Lappia
+Kemijoki|SF|Lappia
+Oulujoki|SF|Oulu
+Kymijoki|SF|Haeme
+Kymijoki|SF|Kymi
+Kymijoki|SF|Mikkeli
+Kokemaeenjoki|SF|Turku-Pori
+Vuoksi|R|Rep. of Karelia
+Vuoksi|SF|Kuopio
+Vuoksi|SF|Kymi
+Thames|GB|Berkshire
+Thames|GB|Buckinghamshire
+Thames|GB|Essex
+Thames|GB|Gloucestershire
+Thames|GB|Greater London
+Thames|GB|Kent
+Thames|GB|Oxfordshire
+Thames|GB|Surrey
+Thames|GB|Wiltshire
+Maas|F|Champagne Ardenne
+Maas|F|Lorraine
+Maas|B|Liege
+Maas|B|Limburg
+Maas|B|Namur
+Maas|NL|Gelderland
+Maas|NL|Zuid Holland
+Maas|NL|Noord Brabant
+Maas|NL|Limburg
+Loire|F|Auvergne
+Loire|F|Bourgogne
+Loire|F|Centre
+Loire|F|Pays de la Loire
+Loire|F|Rhone Alpes
+Garonne|F|Aquitaine
+Garonne|F|Languedoc Roussillon
+Garonne|F|Midi Pyrenees
+Garonne|E|Catalonia
+Rhone|F|Languedoc Roussillon
+Rhone|F|Provence Cote dAzur
+Rhone|F|Rhone Alpes
+Rhone|CH|GE
+Rhone|CH|VS
+Rhone|CH|VD
+Saone|F|Bourgogne
+Saone|F|Franche Comte
+Saone|F|Lorraine
+Saone|F|Rhone Alpes
+Doubs|F|Bourgogne
+Doubs|F|Franche Comte
+Doubs|CH|JU
+Isere|F|Rhone Alpes
+Seine|F|Bourgogne
+Seine|F|Champagne Ardenne
+Seine|F|Haute Normandie
+Seine|F|Ile de France
+Marne|F|Champagne Ardenne
+Marne|F|Ile de France
+Tajo|E|Castile La Mancha
+Tajo|E|Estremadura
+Tajo|P|Castelo Branco
+Tajo|P|Lisbon
+Tajo|P|Portalegre
+Tajo|P|Santarem
+Douro|E|Castile and Leon
+Douro|P|Aveiro
+Douro|P|Braganca
+Douro|P|Guarda
+Douro|P|Porto
+Douro|P|Vila Real
+Douro|P|Viseu
+Guadiana|E|Andalusia
+Guadiana|E|Castile La Mancha
+Guadiana|E|Estremadura
+Guadiana|P|Beja
+Guadiana|P|Evora
+Guadiana|P|Algarve
+Guadiana|P|Portalegre
+Guadalquivir|E|Andalusia
+Ebro|E|Aragon
+Ebro|E|Basque Country
+Ebro|E|Castile and Leon
+Ebro|E|Catalonia
+Ebro|E|Navarre
+Ebro|E|Rioja
+Po|I|Piemonte
+Po|I|Lombardia
+Po|I|Veneto
+Po|I|Emilia Romagna
+Ticino|I|Piemonte
+Ticino|I|Lombardia
+Ticino|CH|TI
+Adda|I|Lombardia
+Mincio|I|Veneto
+Etsch|I|Trentino Alto Adige
+Etsch|I|Veneto
+Tiber|I|Toscana
+Tiber|I|Umbria
+Tiber|I|Lazio
+Arno|I|Toscana
+Donau|SRB|Serbia
+Donau|A|Vienna
+Donau|A|Upper Austria
+Donau|A|Lower Austria
+Donau|D|Baden Wurttemberg
+Donau|D|Bayern
+Donau|H|Baranya
+Donau|H|Bacs Kiskun
+Donau|H|Fejer
+Donau|H|Komarom Esztergom
+Donau|H|Pest
+Donau|H|Tolna
+Donau|H|Budapest (munic.)
+Donau|SK|Slovakia
+Donau|UA|Odeska
+Donau|HR|Croatia
+Donau|BG|Bulgaria
+Donau|RO|Braila
+Donau|RO|Calarasi
+Donau|RO|Caras Severin
+Donau|RO|Constanta
+Donau|RO|Dolj
+Donau|RO|Galati
+Donau|RO|Giurgiu
+Donau|RO|Ialomita
+Donau|RO|Mehedinti
+Donau|RO|Olt
+Donau|RO|Teleorman
+Donau|RO|Tulcea
+Donau|MD|Moldova
+Breg|D|Baden Wurttemberg
+Brigach|D|Baden Wurttemberg
+Iller|A|Vorarlberg
+Iller|D|Baden Wurttemberg
+Iller|D|Bayern
+Lech|A|Vorarlberg
+Lech|A|Tyrol
+Lech|D|Bayern
+Isar|A|Tyrol
+Isar|D|Bayern
+Ammer|D|Bayern
+Wurm|D|Bayern
+Inn|A|Tyrol
+Inn|D|Bayern
+Inn|CH|GR
+Alz|D|Bayern
+Salzach|A|Salzburg
+Salzach|D|Bayern
+Enns|A|Salzburg
+March|A|Lower Austria
+March|CZ|Jihomoravsky
+March|CZ|Severomoravsky
+March|SK|Slovakia
+Raab|A|Burgenland
+Raab|A|Styria
+Raab|H|Gyor Sopron
+Raab|H|Vas
+Raab|H|Veszprem
+Raab|H|Gyor (munic.)
+Waag|SK|Slovakia
+Drau|A|Carinthia
+Drau|H|Baranya
+Drau|H|Somogy
+Drau|H|Zala
+Drau|I|Trentino Alto Adige
+Drau|SLO|Slovenia
+Drau|HR|Croatia
+Mur|A|Styria
+Mur|A|Salzburg
+Mur|H|Zala
+Mur|SLO|Slovenia
+Mur|HR|Croatia
+Theiss|SRB|Serbia
+Theiss|H|Borsod Abauj Zemplen
+Theiss|H|Csongrad
+Theiss|H|Hajdu Bihar
+Theiss|H|Heves
+Theiss|H|Szabolcs Szatmar
+Theiss|H|Szolnok
+Theiss|H|Szeged (munic.)
+Theiss|UA|Chernivetska
+Theiss|UA|Ivano Frankivska
+Theiss|UA|Zakarpatska
+Save|SRB|Serbia
+Save|SLO|Slovenia
+Save|BIH|Bosnia and Herzegovina
+Save|HR|Croatia
+Morava|SRB|Serbia
+Western Morava|SRB|Serbia
+Southern Morava|MK|Macedonia
+Southern Morava|SRB|Serbia
+Southern Morava|KOS|Kosovo
+Olt|RO|Brasov
+Olt|RO|Covasna
+Olt|RO|Harghita
+Olt|RO|Olt
+Olt|RO|Sibiu
+Olt|RO|Vilcea
+Pruth|UA|Chernivetska
+Pruth|UA|Ivano Frankivska
+Pruth|RO|Botosani
+Pruth|RO|Galati
+Pruth|RO|Iasi
+Pruth|RO|Vaslui
+Pruth|MD|Moldova
+Dnjestr|UA|Chernivetska
+Dnjestr|UA|Ivano Frankivska
+Dnjestr|UA|Khmelnytska
+Dnjestr|UA|Lvivska
+Dnjestr|UA|Odeska
+Dnjestr|UA|Ternopilska
+Dnjestr|UA|Vinnytska
+Dnjestr|MD|Moldova
+Weser|D|Bremen
+Weser|D|Hessen
+Weser|D|Niedersachsen
+Weser|D|Nordrhein Westfalen
+Aller|D|Niedersachsen
+Leine|D|Niedersachsen
+Leine|D|Thuringen
+Werra|D|Hessen
+Werra|D|Niedersachsen
+Werra|D|Thuringen
+Fulda|D|Hessen
+Elbe|CZ|Severocesky
+Elbe|CZ|Praha
+Elbe|CZ|Vychodocesky
+Elbe|D|Brandenburg
+Elbe|D|Hamburg
+Elbe|D|Mecklenburg Vorpommern
+Elbe|D|Niedersachsen
+Elbe|D|Sachsen
+Elbe|D|Sachsen Anhalt
+Elbe|D|Schleswig Holstein
+Moldau|CZ|Jihocesky
+Moldau|CZ|Praha
+Rhein|F|Alsace
+Rhein|A|Vorarlberg
+Rhein|D|Baden Wurttemberg
+Rhein|D|Hessen
+Rhein|D|Nordrhein Westfalen
+Rhein|D|Rheinland Pfalz
+Rhein|FL|Liechtenstein
+Rhein|CH|AG
+Rhein|CH|BL
+Rhein|CH|BS
+Rhein|CH|GR
+Rhein|CH|SG
+Rhein|CH|SH
+Rhein|CH|TG
+Rhein|CH|ZH
+Rhein|NL|Gelderland
+Rhein|NL|Zuid Holland
+Main|D|Bayern
+Main|D|Hessen
+Mosel|F|Lorraine
+Mosel|D|Rheinland Pfalz
+Mosel|D|Saarland
+Mosel|L|Luxembourg
+Saar|F|Alsace
+Saar|F|Lorraine
+Saar|D|Rheinland Pfalz
+Saar|D|Saarland
+Neckar|D|Baden Wurttemberg
+Aare|CH|AG
+Aare|CH|BE
+Aare|CH|SO
+Reuss|CH|AG
+Reuss|CH|LU
+Reuss|CH|UR
+Limmat|CH|AG
+Limmat|CH|ZH
+Oder|CZ|Severomoravsky
+Oder|D|Brandenburg
+Oder|D|Mecklenburg Vorpommern
+Oder|D|Sachsen
+Oder|PL|Gorzowskie
+Oder|PL|Legnickie
+Oder|PL|Opolskie
+Oder|PL|Szczecinskie
+Oder|PL|Wroclawskie
+Oder|PL|Zielonogorskie
+Weichsel|PL|Warszwaskie
+Weichsel|PL|Bielskie
+Weichsel|PL|Bydgoskie
+Weichsel|PL|Elblaskie
+Weichsel|PL|Gdanskie
+Weichsel|PL|Katowickie
+Weichsel|PL|Kieleckie
+Weichsel|PL|Krakowskie
+Weichsel|PL|Lubelskie
+Weichsel|PL|Plockie
+Weichsel|PL|Radomskie
+Weichsel|PL|Rzeszowskie
+Weichsel|PL|Siedleckie
+Weichsel|PL|Skierniewickie
+Weichsel|PL|Tarnobrzeskie
+Weichsel|PL|Tarnowskie
+Weichsel|PL|Torunskie
+Weichsel|PL|Wloclawskie
+Drin|AL|Albania
+White Drin|AL|Albania
+White Drin|KOS|Kosovo
+Black Drin|AL|Albania
+Black Drin|MK|Macedonia
+Jordan|IL|North
+Jordan|JOR|Jordan
+Jordan|SYR|Syria
+Jordan|RL|Lebanon
+Jordan|WEST|West Bank
+Kura|TR|Kars
+Kura|GE|Georgia
+Kura|AZ|Azerbaijan
+Schatt al Arab|IR|Khuzestan
+Schatt al Arab|IRQ|Al Basrah
+Tigris|TR|Batman
+Tigris|TR|Diyarbakir
+Tigris|TR|Mardin
+Tigris|TR|Siirt
+Tigris|TR|Sirnak
+Tigris|IRQ|Babil
+Tigris|IRQ|Baghdad
+Tigris|IRQ|Al Basrah
+Tigris|IRQ|Maysan
+Tigris|IRQ|Ninawa
+Tigris|IRQ|Salah ad Din
+Tigris|IRQ|Ad Tamim
+Tigris|IRQ|Wasit
+Tigris|IRQ|Dahuk
+Tigris|IRQ|Arbil
+Tigris|SYR|Syria
+Euphrat|TR|Adiyaman
+Euphrat|TR|Gaziantep
+Euphrat|TR|Malatya
+Euphrat|TR|Sanliurfa
+Euphrat|IRQ|Al Anbar
+Euphrat|IRQ|Babil
+Euphrat|IRQ|Al Basrah
+Euphrat|IRQ|Dhi Qar
+Euphrat|IRQ|Karbala
+Euphrat|IRQ|Al Muthanna
+Euphrat|IRQ|An Najaf
+Euphrat|IRQ|Ninawa
+Euphrat|IRQ|Al Qadisiyah
+Euphrat|SYR|Syria
+Murat|TR|Agri
+Murat|TR|Bingol
+Murat|TR|Elazig
+Murat|TR|Mus
+Karasu|TR|Erzincan
+Karasu|TR|Erzurum
+Karun|IR|Boyer Ahmad e Kohkiluyeh
+Karun|IR|Chahar Mahal e Bakhtiari
+Karun|IR|Esfahan
+Karun|IR|Khuzestan
+Northern Dwina|R|Arkhangelskaya oblast
+Northern Dwina|R|Vologodskaya oblast
+Suchona|R|Vologodskaya oblast
+Petschora|R|Rep. of Komi
+Petschora|R|Arkhangelskaya oblast
+Newa|R|Leningradskaya oblast
+Swir|R|Leningradskaya oblast
+Narva|R|Pskovskaya oblast
+Narva|EW|Estonia
+Western Dwina|BY|Belarus
+Western Dwina|LV|Latvia
+Western Dwina|R|Smolenskaya oblast
+Volga|R|Ivanovskaya oblast
+Volga|R|Kostromskaya oblast
+Volga|R|Tverskaya oblast
+Volga|R|Yaroslavskaya oblast
+Volga|R|Rep. of Mariy El
+Volga|R|Chuvash Republic
+Volga|R|Nizhegorodskaya oblast
+Volga|R|Rep. of Tatarstan
+Volga|R|Astrakhanskaya oblast
+Volga|R|Volgogradskaya oblast
+Volga|R|Penzenskaya oblast
+Volga|R|Samarskaya oblast
+Volga|R|Saratovskaya oblast
+Volga|R|Ulyanovskaya oblast
+Oka|R|Vladimirskaya oblast
+Oka|R|Kaluzhskaya oblast
+Oka|R|Moskovskaya oblast
+Oka|R|Orjolskaya oblast
+Oka|R|Ryazanskaya oblast
+Oka|R|Tulskaya oblast
+Oka|R|Nizhegorodskaya oblast
+Don|R|Tulskaya oblast
+Don|R|Voronezhskaya oblast
+Don|R|Lipetskaya oblast
+Don|R|Volgogradskaya oblast
+Don|R|Rostovskaya oblast
+Dnepr|BY|Belarus
+Dnepr|UA|Cherkaska
+Dnepr|UA|Chernihivska
+Dnepr|UA|Dnipropetrovska
+Dnepr|UA|Khersonska
+Dnepr|UA|Kyyivska
+Dnepr|UA|Kirovohradska
+Dnepr|UA|Poltavska
+Dnepr|UA|Zaporizka
+Dnepr|R|Smolenskaya oblast
+Ural|R|Rep. of Bashkortostan
+Ural|R|Orenburgskaya oblast
+Ural|R|Chelyabinskaya oblast
+Ural|KAZ|Atyrau
+Ural|KAZ|Batys Qazaqstan
+Ob|R|Altayskiy kray
+Ob|R|Novosibirskaya oblast
+Ob|R|Tomskaya oblast
+Ob|R|Tyumenskaya oblast
+Irtysch|R|Omskaya oblast
+Irtysch|R|Tyumenskaya oblast
+Irtysch|TJ|Xinjiang Uygur
+Irtysch|KAZ|Pavlodar
+Irtysch|KAZ|Semey
+Irtysch|KAZ|Shyghys Qazaqstan
+Tobol|R|Orenburgskaya oblast
+Tobol|R|Kurganskaya oblast
+Tobol|R|Tyumenskaya oblast
+Tobol|KAZ|Qostanay
+Ischim|R|Omskaya oblast
+Ischim|R|Tyumenskaya oblast
+Ischim|KAZ|Qaraghandy
+Ischim|KAZ|Soltustik Qazaqstan
+Katun|R|Rep. of Altay
+Katun|R|Altayskiy kray
+Jenissej|R|Rep. of Tyva
+Jenissej|R|Rep. of Khakassiya
+Jenissej|R|Krasnoyarskiy kray
+Angara|R|Rep. of Buryatiya
+Angara|R|Krasnoyarskiy kray
+Angara|R|Irkutskaya oblast
+Chatanga|R|Krasnoyarskiy kray
+Lena|R|Irkutskaya oblast
+Lena|R|Rep. of Sakha
+Amur|R|Chitinskaya oblast
+Amur|R|Yevreyskaya avt. oblast
+Amur|R|Khabarovskiy kray
+Amur|R|Amurskaya oblast
+Amur|TJ|Heilongjiang
+Schilka|R|Chitinskaya oblast
+Argun|R|Chitinskaya oblast
+Argun|TJ|Heilongjiang
+Kolyma|R|Rep. of Sakha
+Kolyma|R|Magadanskaya oblast
+Syrdarja|TAD|Khujand
+Syrdarja|UZB|Namangan
+Syrdarja|UZB|Toshkent
+Syrdarja|KAZ|Ongtustik Qazaqstan
+Syrdarja|KAZ|Qyzylorda
+Naryn|UZB|Toshkent
+Naryn|KGZ|Kyrgyzstan
+Amudarja|AFG|Afghanistan
+Amudarja|TAD|Khatlon
+Amudarja|TM|Dashhowuz
+Amudarja|TM|Leban
+Amudarja|UZB|Samarqand
+Amudarja|UZB|Qaraqalpoghiston
+Pjandsh|AFG|Afghanistan
+Pjandsh|TAD|Kulob
+Pjandsh|TAD|Khatlon
+Pjandsh|TAD|Badakhshoni Kuni
+Hwangho|TJ|Gansu
+Hwangho|TJ|Henan
+Hwangho|TJ|Qinghai
+Hwangho|TJ|Shaanxi
+Hwangho|TJ|Shandong
+Hwangho|TJ|Nei Monggol
+Hwangho|TJ|Ningxia Huizu
+Jangtse|TJ|Anhui
+Jangtse|TJ|Hubei
+Jangtse|TJ|Hunan
+Jangtse|TJ|Jiangsu
+Jangtse|TJ|Jiangxi
+Jangtse|TJ|Qinghai
+Jangtse|TJ|Sichuan
+Jangtse|TJ|Yunnan
+Jangtse|TJ|Tibet
+Jangtse|TJ|Shanghai (munic.)
+Mekong|TJ|Yunnan
+Mekong|TJ|Tibet
+Mekong|LAO|Laos
+Mekong|THA|Thailand
+Mekong|K|Cambodia
+Mekong|VN|Vietnam
+Saluen|TJ|Yunnan
+Saluen|TJ|Tibet
+Saluen|MYA|Kayin
+Saluen|MYA|Kayah
+Saluen|MYA|Mon
+Saluen|MYA|Shan
+Irawaddy|TJ|Yunnan
+Irawaddy|TJ|Tibet
+Irawaddy|MYA|Ayeyarwady
+Irawaddy|MYA|Magway
+Irawaddy|MYA|Mandalay
+Irawaddy|MYA|Bago
+Irawaddy|MYA|Yangon
+Irawaddy|MYA|Sagaing
+Irawaddy|MYA|Kachin
+Ganges|BD|Bangladesh
+Ganges|IND|Bihar
+Ganges|IND|Uttar Pradesh
+Ganges|IND|West Bengal
+Brahmaputra|TJ|Tibet
+Brahmaputra|BD|Bangladesh
+Brahmaputra|IND|Arunachal Pradesh
+Brahmaputra|IND|Assam
+Indus|TJ|Tibet
+Indus|PK|Pakistan
+Indus|IND|Jammu and Kashmir
+Asahan|RI|Indonesia
+Yukon River|CDN|Yukon Territory
+Yukon River|USA|Alaska
+Mackenzie River|CDN|Northwest Territories
+Nelson River|CDN|Manitoba
+Saskatchewan River|CDN|Alberta
+Saskatchewan River|CDN|Manitoba
+Saskatchewan River|CDN|Saskatchewan
+Saint Lawrence River|CDN|Quebec
+Saint Lawrence River|USA|New York
+Niagara River|CDN|Ontario
+Niagara River|USA|New York
+Detroit River|CDN|Ontario
+Detroit River|USA|Michigan
+Manicouagan|CDN|Quebec
+Riviere Richelieu|CDN|Quebec
+Merrimack River|USA|Massachusetts
+Merrimack River|USA|New Hampshire
+Connecticut River|USA|Connecticut
+Connecticut River|USA|Massachusetts
+Connecticut River|USA|New Hampshire
+Connecticut River|USA|Vermont
+Hudson River|USA|New Jersey
+Hudson River|USA|New York
+Mississippi|USA|Arkansas
+Mississippi|USA|Illinois
+Mississippi|USA|Iowa
+Mississippi|USA|Kentucky
+Mississippi|USA|Louisiana
+Mississippi|USA|Minnesota
+Mississippi|USA|Mississippi
+Mississippi|USA|Missouri
+Mississippi|USA|Tennessee
+Mississippi|USA|Wisconsin
+Missouri|USA|Iowa
+Missouri|USA|Kansas
+Missouri|USA|Missouri
+Missouri|USA|Montana
+Missouri|USA|Nebraska
+Missouri|USA|North Dakota
+Missouri|USA|South Dakota
+Arkansas|USA|Arkansas
+Arkansas|USA|Colorado
+Arkansas|USA|Kansas
+Arkansas|USA|Oklahoma
+Ohio River|USA|Illinois
+Ohio River|USA|Indiana
+Ohio River|USA|Kentucky
+Ohio River|USA|Ohio
+Ohio River|USA|Pennsylvania
+Ohio River|USA|West Virginia
+Allegheny River|USA|New York
+Allegheny River|USA|Pennsylvania
+Tennessee|USA|Alabama
+Tennessee|USA|Kentucky
+Tennessee|USA|North Carolina
+Tennessee|USA|Tennessee
+Columbia River|CDN|British Columbia
+Columbia River|USA|Oregon
+Columbia River|USA|Washington
+Truckee River|USA|California
+Truckee River|USA|Nevada
+Colorado|MEX|Baja California
+Colorado|MEX|Sonora
+Colorado|USA|Arizona
+Colorado|USA|California
+Colorado|USA|Colorado
+Colorado|USA|Nevada
+Colorado|USA|Utah
+Rio Grande|MEX|Chihuahua
+Rio Grande|MEX|Coahuila
+Rio Grande|MEX|Nuevo Leon
+Rio Grande|MEX|Tamaulipas
+Rio Grande|USA|Colorado
+Rio Grande|USA|New Mexico
+Rio Grande|USA|Texas
+Rio Lerma|MEX|Guanajuato
+Rio Lerma|MEX|Jalisco
+Rio Lerma|MEX|Mexico, Estado de
+Rio Lerma|MEX|Michoacan
+Rio Lerma|MEX|Nayarit
+Rio Lerma|MEX|Queretaro
+Rio San Juan|CR|Alajuela
+Rio San Juan|CR|Heredia
+Rio San Juan|CR|Limon
+Rio San Juan|NIC|Nicaragua
+Rio Desaguadero|BOL|Bolivia
+Rio Magdalena|CO|Antioquia
+Rio Magdalena|CO|Atlantico
+Rio Magdalena|CO|Bolivar
+Rio Magdalena|CO|Boyaca
+Rio Magdalena|CO|Caldas
+Rio Magdalena|CO|Huila
+Rio Magdalena|CO|Magdalena
+Rio Magdalena|CO|Norte de Santander
+Rio Magdalena|CO|Santander del Sur
+Rio Magdalena|CO|Tolima
+Orinoco|CO|Guainia
+Orinoco|CO|Vichada
+Orinoco|YV|Amazonas
+Orinoco|YV|Anzoategui
+Orinoco|YV|Apure
+Orinoco|YV|Bolivar
+Orinoco|YV|Delta Amacuro
+Orinoco|YV|Guarico
+Orinoco|YV|Monagas
+Amazonas|CO|Amazonas
+Amazonas|BR|Amapa
+Amazonas|BR|Amazonas
+Amazonas|BR|Para
+Amazonas|PE|Cuzco
+Amazonas|PE|Loreto
+Amazonas|PE|Ucayali
+Rio Negro|CO|Guainia
+Rio Negro|BR|Amazonas
+Rio Negro|BR|Roraima
+Rio Madeira|BOL|Bolivia
+Rio Madeira|BR|Amazonas
+Rio Madeira|BR|Rondonia
+Rio Mamore|BOL|Bolivia
+Tocantins|BR|Goias
+Tocantins|BR|Maranhao
+Tocantins|BR|Para
+Tocantins|BR|Tocantins
+Rio Sao Francisco|BR|Alagoas
+Rio Sao Francisco|BR|Bahia
+Rio Sao Francisco|BR|Minas Gerais
+Rio Sao Francisco|BR|Pernambuco
+Rio Sao Francisco|BR|Sergipe
+Parana|RA|Buenos Aires
+Parana|RA|Chaco
+Parana|RA|Corrientes
+Parana|RA|Entre Rios
+Parana|RA|Misiones
+Parana|RA|Santa Fe
+Parana|RA|Distrito Federal
+Parana|BR|Goias
+Parana|BR|Mato Grosso do Sul
+Parana|BR|Minas Gerais
+Parana|BR|Parana
+Parana|BR|Sao Paulo
+Parana|PY|Paraguay
+Paraguay|RA|Chaco
+Paraguay|RA|Formosa
+Paraguay|BOL|Bolivia
+Paraguay|BR|Mato Grosso
+Paraguay|BR|Mato Grosso do Sul
+Paraguay|PY|Paraguay
+Uruguay|RA|Corrientes
+Uruguay|RA|Entre Rios
+Uruguay|RA|Misiones
+Uruguay|BR|Rio Grande do Sul
+Uruguay|ROU|Uruguay
+Gambia|RG|Guinea
+Gambia|WAG|Gambia
+Gambia|SN|Kolda
+Gambia|SN|Tambacounda
+Senegal|RMM|Mali
+Senegal|RIM|Mauritania
+Senegal|RG|Guinea
+Senegal|SN|Saint Louis
+Senegal|SN|Tambacounda
+Volta|BF|Burkina Faso
+Volta|GH|Ghana
+Niger|RMM|Mali
+Niger|RN|Niger
+Niger|WAN|Nigeria
+Niger|RG|Guinea
+Bani|RMM|Mali
+Bani|CI|Cote dIvoire
+Benue|WAN|Nigeria
+Benue|CAM|Nord
+Schari|CAM|Nord extreme
+Schari|RCA|Central African Republic
+Schari|TCH|Chad
+Nile|ET|El Buhayra
+Nile|ET|El Daqahliya
+Nile|ET|Dumyat
+Nile|ET|El Gharbiya
+Nile|ET|Kafr el Sheikh
+Nile|ET|El Minufiya
+Nile|ET|El Qalubiya
+Nile|ET|Sharqiya
+Nile|ET|Aswan
+Nile|ET|Asyut
+Nile|ET|Beni Suef
+Nile|ET|El Giza
+Nile|ET|El Minya
+Nile|ET|Qena
+Nile|ET|Sohag
+Nile|ET|El Qahira
+Nile|SUD|al Khartum
+Nile|SUD|ash Shamaliyah
+Atbara|SUD|ash Shamaliyah
+Atbara|SUD|ash Sharqiyah
+Atbara|ETH|Ethiopia
+Blue Nile|SUD|al Khartum
+Blue Nile|SUD|Nil al Asraq
+Blue Nile|ETH|Ethiopia
+White Nile|SUD|Aali an Nil
+White Nile|SUD|al Khartum
+White Nile|SUD|Nil al Asraq
+Sobat|SUD|Aali an Nil
+Sobat|ETH|Ethiopia
+Pibor|SUD|Aali an Nil
+Baro|ETH|Ethiopia
+Bahr el-Ghasal|SUD|Aali an Nil
+Bahr el-Ghasal|SUD|Bahr al Ghazal
+Bahr el-Djebel/Albert-Nil|SUD|Aali an Nil
+Bahr el-Djebel/Albert-Nil|SUD|Bahr al Ghazal
+Bahr el-Djebel/Albert-Nil|SUD|al Istiwaiyah
+Bahr el-Djebel/Albert-Nil|EAU|Uganda
+Semliki|ZRE|Haut Zaire
+Semliki|ZRE|Kivu
+Semliki|EAU|Uganda
+Victoria Nile|EAU|Uganda
+Akagera|RWA|Rwanda
+Akagera|EAT|Mwanza
+Jubba|ETH|Ethiopia
+Jubba|SP|Somalia
+Shabelle|ETH|Ethiopia
+Shabelle|SP|Somalia
+Sanaga|CAM|Centre
+Sanaga|CAM|Est
+Sanaga|CAM|Cote/Littoral
+Zaire|RCB|Congo
+Zaire|ZRE|Bandundu
+Zaire|ZRE|Bas Zaire
+Zaire|ZRE|Equateur
+Zaire|ZRE|Haut Zaire
+Zaire|ZRE|Kinshasa
+Sanga|RCB|Congo
+Sanga|CAM|Est
+Sanga|RCA|Central African Republic
+Ubangi|RCB|Congo
+Ubangi|ZRE|Equateur
+Ubangi|RCA|Central African Republic
+Bomu|ZRE|Haut Zaire
+Bomu|RCA|Central African Republic
+Uelle|ZRE|Equateur
+Uelle|ZRE|Haut Zaire
+Kwa|ZRE|Bandundu
+Fimi|ZRE|Bandundu
+Lukenie|ZRE|Bandundu
+Lukenie|ZRE|Kasai Occidental
+Lukenie|ZRE|Kasai Oriental
+Kasai|ANG|Lunda Norte
+Kasai|ANG|Lunda Sul
+Kasai|ANG|Moxico
+Kasai|ZRE|Bandundu
+Kasai|ZRE|Kasai Occidental
+Kasai|ZRE|Shaba/Katanga
+Cuango|ANG|Uige
+Cuango|ANG|Malanje
+Cuango|ANG|Lunda Norte
+Cuango|ANG|Lunda Sul
+Cuango|ZRE|Bandundu
+Cuango|ZRE|Bas Zaire
+Cuilo|ANG|Bie
+Cuilo|ANG|Moxico
+Cuilo|ANG|Cuando Cubango
+Cuilo|ZRE|Bandundu
+Ruki|ZRE|Equateur
+Busira|ZRE|Equateur
+Tshuapa|ZRE|Equateur
+Tshuapa|ZRE|Kasai Oriental
+Lulua|ZRE|Kasai Occidental
+Lulua|ZRE|Shaba/Katanga
+Lomami|ZRE|Haut Zaire
+Lomami|ZRE|Kasai Oriental
+Lomami|ZRE|Kivu
+Lomami|ZRE|Shaba/Katanga
+Aruwimi|ZRE|Haut Zaire
+Lualaba|ZRE|Haut Zaire
+Lualaba|ZRE|Kivu
+Lualaba|ZRE|Shaba/Katanga
+Lukuga|ZRE|Shaba/Katanga
+Ruzizi|ZRE|Kivu
+Ruzizi|BI|Burundi
+Ruzizi|RWA|Rwanda
+Luvua|ZRE|Shaba/Katanga
+Luapula|ZRE|Shaba/Katanga
+Luapula|Z|Luapula
+Zambezi|ANG|Moxico
+Zambezi|Z|Central
+Zambezi|Z|Lusaka
+Zambezi|Z|Northwestern
+Zambezi|Z|Southern
+Zambezi|Z|Western
+Zambezi|ZW|Zimbabwe
+Zambezi|MOC|Manica
+Zambezi|MOC|Tete
+Zambezi|MOC|Zambezia
+Chire|MW|Malawi
+Chire|MOC|Tete
+Chire|MOC|Zambezia
+Limpopo|RB|Botswana
+Limpopo|RSA|Gauteng
+Limpopo|RSA|Limpopo
+Limpopo|ZW|Zimbabwe
+Limpopo|MOC|Gaza
+Oranje|NAM|Namibia
+Oranje|RSA|Free State
+Oranje|RSA|Northern Cape
+Oranje|LS|Lesotho
+Vaal|RSA|Free State
+Vaal|RSA|Mpumalanga
+Vaal|RSA|Northern Cape
+Vaal|RSA|North West
+Murray River|AUS|New South Wales
+Murray River|AUS|South Australia
+Murray River|AUS|Victoria
+Darling River|AUS|New South Wales
+Darling River|AUS|Queensland
+Murrumbidgee River|AUS|New South Wales
+Murrumbidgee River|AUS|Australia Capital Territory

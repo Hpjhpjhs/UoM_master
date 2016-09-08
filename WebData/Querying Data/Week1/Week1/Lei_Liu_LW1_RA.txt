@@ -1,0 +1,9 @@
+\project_{name} (\project_{name, code} country \join_{country=code} geo_sea);
+
+\rename_{L_R_S_names} (\project_{name} lake) \union (\project_{name} river) \union (\project_{name} sea);
+
+\project_{avg(length)} river;
+
+\project_{rname, length} \select_{country = 'GB'} (\rename_{rname, length} \project_{name, length} river \join \rename_{rname, country} \project_{river, country} geo_river);
+
+

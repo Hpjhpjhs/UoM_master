@@ -1,0 +1,735 @@
+Skagerrak|DK|Denmark
+Skagerrak|N|Oslo
+Skagerrak|N|Akershus
+Skagerrak|N|Oestfold
+Skagerrak|N|Buskerud
+Skagerrak|N|Vestfold
+Skagerrak|N|Aust Agder
+Skagerrak|N|Vest Agder
+Skagerrak|S|Goteborg och Bohus
+Kattegat|DK|Denmark
+Kattegat|S|Goteborg och Bohus
+Kattegat|S|Halland
+Kattegat|S|Kristianstad
+Kattegat|S|Malmohus
+North Sea|F|Nord Pas de Calais
+North Sea|D|Bremen
+North Sea|D|Niedersachsen
+North Sea|D|Schleswig Holstein
+North Sea|B|West Flanders
+North Sea|NL|Groningen
+North Sea|NL|Friesland
+North Sea|NL|Flevoland
+North Sea|NL|Noord Holland
+North Sea|NL|Zuid Holland
+North Sea|NL|Zeeland
+North Sea|DK|Denmark
+North Sea|N|Telemark
+North Sea|N|Vest Agder
+North Sea|N|Rogaland
+North Sea|N|Hordaland
+North Sea|N|Sogn og Fjordane
+North Sea|GB|Essex
+North Sea|GB|Greater London
+North Sea|GB|Humberside
+North Sea|GB|Kent
+North Sea|GB|Norfolk
+North Sea|GB|Northumberland
+North Sea|GB|North Yorkshire
+North Sea|GB|Suffolk
+North Sea|GB|Tyne and Wear
+North Sea|GB|Grampian
+North Sea|GB|Highland
+North Sea|GB|Orkneys
+North Sea|GB|Shetland
+The Channel|F|Basse Normandie
+The Channel|F|Haute Normandie
+The Channel|F|Nord Pas de Calais
+The Channel|F|Picardie
+The Channel|GBG|Guernsey
+The Channel|GBJ|Jersey
+The Channel|GB|Cornwall
+The Channel|GB|Devon
+The Channel|GB|Dorset
+The Channel|GB|East Sussex
+The Channel|GB|Hampshire
+The Channel|GB|Kent
+The Channel|GB|West Sussex
+Black Sea|UA|Khersonska
+Black Sea|UA|Mykolayivska
+Black Sea|UA|Odeska
+Black Sea|UA|Krym
+Black Sea|R|Krasnodarsky kray
+Black Sea|BG|Bulgaria
+Black Sea|RO|Constanta
+Black Sea|RO|Tulcea
+Black Sea|TR|Artvin
+Black Sea|TR|Bolu
+Black Sea|TR|Giresun
+Black Sea|TR|Istanbul
+Black Sea|TR|Kastamonu
+Black Sea|TR|Kirklareli
+Black Sea|TR|Kocaeli
+Black Sea|TR|Ordu
+Black Sea|TR|Rize
+Black Sea|TR|Sakarya
+Black Sea|TR|Samsun
+Black Sea|TR|Sinop
+Black Sea|TR|Trabzon
+Black Sea|TR|Zonguldak
+Black Sea|GE|Georgia
+Sea of Azov|UA|Donetska
+Sea of Azov|UA|Khersonska
+Sea of Azov|UA|Zaporizka
+Sea of Azov|UA|Krym
+Sea of Azov|R|Rostovskaya oblast
+Sea of Azov|R|Krasnodarsky kray
+Baltic Sea|D|Mecklenburg Vorpommern
+Baltic Sea|D|Schleswig Holstein
+Baltic Sea|LV|Latvia
+Baltic Sea|LT|Lithuania
+Baltic Sea|PL|Elblaskie
+Baltic Sea|PL|Gdanskie
+Baltic Sea|PL|Koszalinskie
+Baltic Sea|PL|Slupskie
+Baltic Sea|PL|Szczecinskie
+Baltic Sea|R|Kaliningradskaya oblast
+Baltic Sea|R|Sankt Peterburg
+Baltic Sea|R|Leningradskaya oblast
+Baltic Sea|DK|Denmark
+Baltic Sea|EW|Estonia
+Baltic Sea|SF|Aland
+Baltic Sea|SF|Kymi
+Baltic Sea|SF|Lappia
+Baltic Sea|SF|Oulu
+Baltic Sea|SF|Turku-Pori
+Baltic Sea|SF|Uusimaa
+Baltic Sea|SF|Vaasa
+Baltic Sea|S|Blekinge
+Baltic Sea|S|Gavleborg
+Baltic Sea|S|Gotland
+Baltic Sea|S|Kalmar
+Baltic Sea|S|Kristianstad
+Baltic Sea|S|Malmohus
+Baltic Sea|S|Norrbotten
+Baltic Sea|S|Ostergotland
+Baltic Sea|S|Sodermanland
+Baltic Sea|S|Stockholm
+Baltic Sea|S|Uppsala
+Baltic Sea|S|Vasterbotten
+Baltic Sea|S|Vasternorrland
+Atlantic Ocean|F|Aquitaine
+Atlantic Ocean|F|Bretagne
+Atlantic Ocean|F|Pays de la Loire
+Atlantic Ocean|F|Poitou Charentes
+Atlantic Ocean|E|Andalusia
+Atlantic Ocean|E|Asturias
+Atlantic Ocean|E|Basque Country
+Atlantic Ocean|E|Canary Islands
+Atlantic Ocean|E|Cantabria
+Atlantic Ocean|E|Galicia
+Atlantic Ocean|FARX|Faroe Islands
+Atlantic Ocean|GBZ|Gibraltar
+Atlantic Ocean|IS|Iceland
+Atlantic Ocean|IRL|Ireland
+Atlantic Ocean|P|Aveiro
+Atlantic Ocean|P|Beja
+Atlantic Ocean|P|Braga
+Atlantic Ocean|P|Coimbra
+Atlantic Ocean|P|Algarve
+Atlantic Ocean|P|Leiria
+Atlantic Ocean|P|Lisbon
+Atlantic Ocean|P|Porto
+Atlantic Ocean|P|Setubal
+Atlantic Ocean|P|Viana do Castelo
+Atlantic Ocean|P|Azores
+Atlantic Ocean|P|Madeira
+Atlantic Ocean|SVAX|Svalbard
+Atlantic Ocean|GB|Cornwall
+Atlantic Ocean|GB|Devon
+Atlantic Ocean|GB|Northern Ireland
+Atlantic Ocean|GB|Outer Hebrides
+Atlantic Ocean|AXA|Anguilla
+Atlantic Ocean|AG|Antigua and Barbuda
+Atlantic Ocean|BS|Bahamas
+Atlantic Ocean|BDS|Barbados
+Atlantic Ocean|BERM|Bermuda
+Atlantic Ocean|BVIR|British Virgin Islands
+Atlantic Ocean|CDN|Manitoba
+Atlantic Ocean|CDN|New Brunswick
+Atlantic Ocean|CDN|Newfoundland
+Atlantic Ocean|CDN|Northwest Territories
+Atlantic Ocean|CDN|Nova Scotia
+Atlantic Ocean|CDN|Ontario
+Atlantic Ocean|CDN|Prince Edward Island
+Atlantic Ocean|CDN|Quebec
+Atlantic Ocean|USA|Connecticut
+Atlantic Ocean|USA|Delaware
+Atlantic Ocean|USA|Florida
+Atlantic Ocean|USA|Georgia
+Atlantic Ocean|USA|Maine
+Atlantic Ocean|USA|Maryland
+Atlantic Ocean|USA|Massachusetts
+Atlantic Ocean|USA|New Hampshire
+Atlantic Ocean|USA|New Jersey
+Atlantic Ocean|USA|New York
+Atlantic Ocean|USA|North Carolina
+Atlantic Ocean|USA|Rhode Island
+Atlantic Ocean|USA|South Carolina
+Atlantic Ocean|USA|Virginia
+Atlantic Ocean|C|Ciego de Avila
+Atlantic Ocean|C|Guantanamo
+Atlantic Ocean|C|Holguin
+Atlantic Ocean|C|La Habana
+Atlantic Ocean|C|Las Tunas
+Atlantic Ocean|C|Matanzas
+Atlantic Ocean|C|Sancti Spiritus
+Atlantic Ocean|C|Villa Clara
+Atlantic Ocean|WD|Dominica
+Atlantic Ocean|DOM|Dominican Republic
+Atlantic Ocean|RH|Haiti
+Atlantic Ocean|GROX|Greenland
+Atlantic Ocean|WG|Grenada
+Atlantic Ocean|GUAD|Guadeloupe
+Atlantic Ocean|MART|Martinique
+Atlantic Ocean|MNTS|Montserrat
+Atlantic Ocean|NA|Netherlands Antilles
+Atlantic Ocean|SMAR|Saint Martin
+Atlantic Ocean|PR|Puerto Rico
+Atlantic Ocean|KN|Saint Kitts and Nevis
+Atlantic Ocean|WL|Saint Lucia
+Atlantic Ocean|SPMI|Saint Pierre and Miquelon
+Atlantic Ocean|WV|Saint Vincent and the Grenadines
+Atlantic Ocean|TT|Trinidad and Tobago
+Atlantic Ocean|TUCA|Turks and Caicos Islands
+Atlantic Ocean|VIRG|Virgin Islands
+Atlantic Ocean|RA|Buenos Aires
+Atlantic Ocean|RA|Chubut
+Atlantic Ocean|RA|Rio Negro
+Atlantic Ocean|RA|Santa Cruz
+Atlantic Ocean|RA|Tierra del Fuego
+Atlantic Ocean|BR|Alagoas
+Atlantic Ocean|BR|Amapa
+Atlantic Ocean|BR|Bahia
+Atlantic Ocean|BR|Ceara
+Atlantic Ocean|BR|Espirito Santo
+Atlantic Ocean|BR|Maranhao
+Atlantic Ocean|BR|Para
+Atlantic Ocean|BR|Paraiba
+Atlantic Ocean|BR|Parana
+Atlantic Ocean|BR|Pernambuco
+Atlantic Ocean|BR|Rio de Janeiro
+Atlantic Ocean|BR|Rio Grande do Norte
+Atlantic Ocean|BR|Rio Grande do Sul
+Atlantic Ocean|BR|Santa Catarina
+Atlantic Ocean|BR|Sao Paulo
+Atlantic Ocean|BR|Sergipe
+Atlantic Ocean|RCH|Chile
+Atlantic Ocean|ROU|Uruguay
+Atlantic Ocean|FGU|French Guiana
+Atlantic Ocean|GUY|Guyana
+Atlantic Ocean|SME|Suriname
+Atlantic Ocean|YV|Delta Amacuro
+Atlantic Ocean|FALK|Falkland Islands
+Atlantic Ocean|RIM|Mauritania
+Atlantic Ocean|MA|Morocco
+Atlantic Ocean|WSA|Western Sahara
+Atlantic Ocean|ANG|Cabinda
+Atlantic Ocean|ANG|Zaire
+Atlantic Ocean|ANG|Luanda
+Atlantic Ocean|ANG|Cuanza Sul
+Atlantic Ocean|ANG|Benguela
+Atlantic Ocean|ANG|Namibe
+Atlantic Ocean|ANG|Bengo
+Atlantic Ocean|RCB|Congo
+Atlantic Ocean|NAM|Namibia
+Atlantic Ocean|ZRE|Bas Zaire
+Atlantic Ocean|BEN|Benin
+Atlantic Ocean|WAN|Nigeria
+Atlantic Ocean|RT|Togo
+Atlantic Ocean|RSA|Western Cape
+Atlantic Ocean|CI|Cote dIvoire
+Atlantic Ocean|GH|Ghana
+Atlantic Ocean|CAM|Centre
+Atlantic Ocean|CAM|Cote/Littoral
+Atlantic Ocean|CAM|Sudoueste
+Atlantic Ocean|GQ|Equatorial Guinea
+Atlantic Ocean|G|Gabon
+Atlantic Ocean|CV|Cape Verde
+Atlantic Ocean|RG|Guinea
+Atlantic Ocean|LB|Liberia
+Atlantic Ocean|WAG|Gambia
+Atlantic Ocean|SN|Dakar
+Atlantic Ocean|SN|Fatick
+Atlantic Ocean|SN|Louga
+Atlantic Ocean|SN|Saint Louis
+Atlantic Ocean|SN|Thies
+Atlantic Ocean|SN|Ziguinchor
+Atlantic Ocean|GNB|Guinea-Bissau
+Atlantic Ocean|WAL|Sierra Leone
+Atlantic Ocean|HELX|Saint Helena
+Atlantic Ocean|STP|Sao Tome and Principe
+Mediterranean Sea|AL|Albania
+Mediterranean Sea|GR|Anatoliki Makedhonia kai Thraki
+Mediterranean Sea|GR|Attiki
+Mediterranean Sea|GR|Dhytiki Ellas
+Mediterranean Sea|GR|Ionioi Nisoi
+Mediterranean Sea|GR|Ipiros
+Mediterranean Sea|GR|Kedriki Makedhonia
+Mediterranean Sea|GR|Kriti
+Mediterranean Sea|GR|Notion Aiyaion
+Mediterranean Sea|GR|Peloponnisos
+Mediterranean Sea|GR|Sterea Ellas
+Mediterranean Sea|GR|Thessalia
+Mediterranean Sea|GR|Voreion Aiyaion
+Mediterranean Sea|MNE|Montenegro
+Mediterranean Sea|F|Corse
+Mediterranean Sea|F|Languedoc Roussillon
+Mediterranean Sea|F|Provence Cote dAzur
+Mediterranean Sea|E|Andalusia
+Mediterranean Sea|E|Balearic Islands
+Mediterranean Sea|E|Catalonia
+Mediterranean Sea|E|Murcia
+Mediterranean Sea|E|Valencia
+Mediterranean Sea|I|Veneto
+Mediterranean Sea|I|Friuli Venezia Giulia
+Mediterranean Sea|I|Liguria
+Mediterranean Sea|I|Emilia Romagna
+Mediterranean Sea|I|Toscana
+Mediterranean Sea|I|Marche
+Mediterranean Sea|I|Lazio
+Mediterranean Sea|I|Abruzzo
+Mediterranean Sea|I|Campania
+Mediterranean Sea|I|Puglia
+Mediterranean Sea|I|Calabria
+Mediterranean Sea|I|Sicilia
+Mediterranean Sea|I|Sardegna
+Mediterranean Sea|SLO|Slovenia
+Mediterranean Sea|BIH|Bosnia and Herzegovina
+Mediterranean Sea|HR|Croatia
+Mediterranean Sea|TR|Adana
+Mediterranean Sea|TR|Antalya
+Mediterranean Sea|TR|Aydin
+Mediterranean Sea|TR|Balikesir
+Mediterranean Sea|TR|Canakkale
+Mediterranean Sea|TR|Hatay
+Mediterranean Sea|TR|Icel
+Mediterranean Sea|TR|Izmir
+Mediterranean Sea|TR|Mugla
+Mediterranean Sea|MC|Monaco
+Mediterranean Sea|GBZ|Gibraltar
+Mediterranean Sea|M|Malta
+Mediterranean Sea|CY|Cyprus
+Mediterranean Sea|GAZA|Gaza Strip
+Mediterranean Sea|IL|Central
+Mediterranean Sea|IL|Haifa
+Mediterranean Sea|IL|North
+Mediterranean Sea|IL|Tel Aviv
+Mediterranean Sea|IL|South
+Mediterranean Sea|ET|Matruh
+Mediterranean Sea|ET|Sina ash Shamaliyah
+Mediterranean Sea|ET|El Buhayra
+Mediterranean Sea|ET|El Daqahliya
+Mediterranean Sea|ET|Dumyat
+Mediterranean Sea|ET|Ismailiya
+Mediterranean Sea|ET|Kafr el Sheikh
+Mediterranean Sea|ET|Sharqiya
+Mediterranean Sea|ET|Bur Said (munic.)
+Mediterranean Sea|ET|El Iskandariya
+Mediterranean Sea|SYR|Syria
+Mediterranean Sea|RL|Lebanon
+Mediterranean Sea|DZ|Algeria
+Mediterranean Sea|LAR|Libya
+Mediterranean Sea|MA|Morocco
+Mediterranean Sea|TN|Tunisia
+Gulf of Mexico|MEX|Campeche
+Gulf of Mexico|MEX|Tabasco
+Gulf of Mexico|MEX|Tamaulipas
+Gulf of Mexico|MEX|Veracruz
+Gulf of Mexico|MEX|Yucatan
+Gulf of Mexico|USA|Alabama
+Gulf of Mexico|USA|Florida
+Gulf of Mexico|USA|Louisiana
+Gulf of Mexico|USA|Mississippi
+Gulf of Mexico|USA|Texas
+Gulf of Mexico|C|Ciudad de la Habana
+Gulf of Mexico|C|La Habana
+Gulf of Mexico|C|Pinar del Rio
+Norwegian Sea|FARX|Faroe Islands
+Norwegian Sea|N|Sogn og Fjordane
+Norwegian Sea|N|Moere og Romsdal
+Norwegian Sea|N|Soer Trondelag
+Norwegian Sea|N|Nord Trondelag
+Norwegian Sea|N|Nordland
+Norwegian Sea|N|Troms
+Norwegian Sea|N|Finnmark
+Norwegian Sea|IS|Iceland
+Norwegian Sea|SVAX|Svalbard
+Norwegian Sea|GB|Shetland
+Norwegian Sea|GROX|Greenland
+Barents Sea|R|Rep. of Karelia
+Barents Sea|R|Arkhangelskaya oblast
+Barents Sea|R|Murmanskaya oblast
+Barents Sea|N|Finnmark
+Sibirian Sea|R|Arkhangelskaya oblast
+Sibirian Sea|R|Tyumenskaya oblast
+Sibirian Sea|R|Krasnoyarskiy kray
+Sibirian Sea|R|Rep. of Sakha
+Sibirian Sea|R|Magadanskaya oblast
+Arctic Ocean|R|Magadanskaya oblast
+Arctic Ocean|SVAX|Svalbard
+Arctic Ocean|CDN|Northwest Territories
+Arctic Ocean|CDN|Yukon Territory
+Arctic Ocean|USA|Alaska
+Arctic Ocean|GROX|Greenland
+Bering Sea|R|Kamchatskaya oblast
+Bering Sea|R|Magadanskaya oblast
+Bering Sea|USA|Alaska
+Pacific Ocean|R|Khabarovskiy kray
+Pacific Ocean|R|Kamchatskaya oblast
+Pacific Ocean|R|Magadanskaya oblast
+Pacific Ocean|R|Sakhalinskaya oblast
+Pacific Ocean|RI|Indonesia
+Pacific Ocean|PNG|Papua New Guinea
+Pacific Ocean|J|Hokkaido
+Pacific Ocean|J|Aomori
+Pacific Ocean|J|Iwate
+Pacific Ocean|J|Miyagi
+Pacific Ocean|J|Fukushima
+Pacific Ocean|J|Ibaraki
+Pacific Ocean|J|Chiba
+Pacific Ocean|J|Kanagawa
+Pacific Ocean|J|Shizuoka
+Pacific Ocean|J|Aichi
+Pacific Ocean|J|Mie
+Pacific Ocean|J|Wakayama
+Pacific Ocean|J|Tokushima
+Pacific Ocean|J|Kochi
+Pacific Ocean|J|Miyazaki
+Pacific Ocean|J|Kagoshima
+Pacific Ocean|J|Okinawa
+Pacific Ocean|MV|Maldives
+Pacific Ocean|RP|Philippines
+Pacific Ocean|RC|Taiwan
+Pacific Ocean|GCA|Guatemala
+Pacific Ocean|MEX|Baja California
+Pacific Ocean|MEX|Baja California Sur
+Pacific Ocean|MEX|Chiapas
+Pacific Ocean|MEX|Colima
+Pacific Ocean|MEX|Guerrero
+Pacific Ocean|MEX|Jalisco
+Pacific Ocean|MEX|Michoacan
+Pacific Ocean|MEX|Nayarit
+Pacific Ocean|MEX|Oaxaca
+Pacific Ocean|MEX|Sinaloa
+Pacific Ocean|MEX|Sonora
+Pacific Ocean|CDN|British Columbia
+Pacific Ocean|CDN|Yukon Territory
+Pacific Ocean|USA|Alaska
+Pacific Ocean|USA|California
+Pacific Ocean|USA|Hawaii
+Pacific Ocean|USA|Oregon
+Pacific Ocean|USA|Washington
+Pacific Ocean|CR|Guanacaste
+Pacific Ocean|CR|Puntarenas
+Pacific Ocean|NIC|Nicaragua
+Pacific Ocean|PA|Cocle
+Pacific Ocean|PA|Chiriqui
+Pacific Ocean|PA|Darien
+Pacific Ocean|PA|Herrera
+Pacific Ocean|PA|Los Santos
+Pacific Ocean|PA|Panama
+Pacific Ocean|PA|Veraguas
+Pacific Ocean|ES|El Salvador
+Pacific Ocean|HCA|Choluteca
+Pacific Ocean|HCA|Valle
+Pacific Ocean|CO|Cauca
+Pacific Ocean|CO|Choco
+Pacific Ocean|CO|Narino
+Pacific Ocean|CO|Valle de Cauca
+Pacific Ocean|AMSA|American Samoa
+Pacific Ocean|AUS|New South Wales
+Pacific Ocean|AUS|Queensland
+Pacific Ocean|AUS|Tasmania
+Pacific Ocean|AUS|Victoria
+Pacific Ocean|COOK|Cook Islands
+Pacific Ocean|FJI|Fiji
+Pacific Ocean|FPOL|French Polynesia
+Pacific Ocean|GUAM|Guam
+Pacific Ocean|KIR|Kiribati
+Pacific Ocean|MH|Marshall Islands
+Pacific Ocean|FSM|Micronesia
+Pacific Ocean|NAU|Nauru
+Pacific Ocean|NCA|New Caledonia
+Pacific Ocean|NZ|New Zealand
+Pacific Ocean|NIUE|Niue
+Pacific Ocean|NORF|Norfolk Island
+Pacific Ocean|NMIS|Northern Mariana Islands
+Pacific Ocean|PAL|Palau
+Pacific Ocean|PITC|Pitcairn Islands
+Pacific Ocean|SLB|Solomon Islands
+Pacific Ocean|TO|Tonga
+Pacific Ocean|TUV|Tuvalu
+Pacific Ocean|VU|Vanuatu
+Pacific Ocean|WAFU|Wallis and Futuna
+Pacific Ocean|WS|Samoa
+Pacific Ocean|RCH|Chile
+Pacific Ocean|PE|Ancash
+Pacific Ocean|PE|Arequipa
+Pacific Ocean|PE|Ica
+Pacific Ocean|PE|La Libertad
+Pacific Ocean|PE|Lambayeque
+Pacific Ocean|PE|Lima
+Pacific Ocean|PE|Moquegua
+Pacific Ocean|PE|Piura
+Pacific Ocean|PE|Tacna
+Pacific Ocean|PE|Tumbes
+Pacific Ocean|EC|Ecuador
+Sea of Okhotsk|R|Kamchatskaya oblast
+Sea of Okhotsk|R|Magadanskaya oblast
+Sea of Okhotsk|J|Hokkaido
+Sea of Japan|R|Primorsky kray
+Sea of Japan|R|Khabarovskiy kray
+Sea of Japan|R|Sakhalinskaya oblast
+Sea of Japan|NOK|North Korea
+Sea of Japan|J|Hokkaido
+Sea of Japan|J|Aomori
+Sea of Japan|J|Akita
+Sea of Japan|J|Yamagata
+Sea of Japan|J|Niigata
+Sea of Japan|J|Toyama
+Sea of Japan|J|Ishikawa
+Sea of Japan|J|Fukui
+Sea of Japan|J|Kyoto
+Sea of Japan|J|Hyogo
+Sea of Japan|J|Tottori
+Sea of Japan|J|Shimane
+Sea of Japan|J|Yamaguchi
+Sea of Japan|J|Fukuoka
+Sea of Japan|J|Saga
+Sea of Japan|ROK|South Korea
+Yellow Sea|TJ|Hebei
+Yellow Sea|TJ|Jiangsu
+Yellow Sea|TJ|Liaoning
+Yellow Sea|TJ|Shandong
+Yellow Sea|NOK|North Korea
+Yellow Sea|ROK|South Korea
+East China Sea|TJ|Fujian
+East China Sea|TJ|Jiangsu
+East China Sea|TJ|Zhejiang
+East China Sea|J|Saga
+East China Sea|J|Nagasaki
+East China Sea|J|Kumamoto
+East China Sea|J|Kagoshima
+East China Sea|J|Okinawa
+East China Sea|ROK|South Korea
+East China Sea|RC|Taiwan
+South China Sea|TJ|Fujian
+South China Sea|TJ|Guangdong
+South China Sea|TJ|Guangxi Zhuangzu
+South China Sea|BRU|Brunei
+South China Sea|MAL|Johor
+South China Sea|MAL|Kelantan
+South China Sea|MAL|Pahang
+South China Sea|MAL|Sabah
+South China Sea|MAL|Sarawak
+South China Sea|MAL|Terengganu
+South China Sea|THA|Thailand
+South China Sea|K|Cambodia
+South China Sea|VN|Vietnam
+South China Sea|HONX|Hong Kong
+South China Sea|MACX|Macau
+South China Sea|RI|Indonesia
+South China Sea|RP|Philippines
+South China Sea|SGP|Singapore
+South China Sea|RC|Taiwan
+Persian Gulf|IR|Bushehr
+Persian Gulf|IR|Hormozgan
+Persian Gulf|IR|Khuzestan
+Persian Gulf|BRN|Bahrain
+Persian Gulf|IRQ|Al Basrah
+Persian Gulf|KWT|Kuwait
+Persian Gulf|SA|Saudi Arabia
+Persian Gulf|OM|Oman
+Persian Gulf|UAE|Abu Dhabi
+Persian Gulf|UAE|Ajman
+Persian Gulf|UAE|Dubayy
+Persian Gulf|UAE|Ras al Khaymah
+Persian Gulf|UAE|Ash Shariqah
+Persian Gulf|UAE|Umm al Qaywayn
+Persian Gulf|Q|Qatar
+Irish Sea|IRL|Ireland
+Irish Sea|GBM|Man
+Irish Sea|GB|Lancashire
+Irish Sea|GB|Merseyside
+Irish Sea|GB|Anglesey
+Irish Sea|GB|Cardiff
+Irish Sea|GB|Swansea
+Irish Sea|GB|Northern Ireland
+Caribbean Sea|AXA|Anguilla
+Caribbean Sea|AG|Antigua and Barbuda
+Caribbean Sea|ARU|Aruba
+Caribbean Sea|BZ|Belize
+Caribbean Sea|GCA|Guatemala
+Caribbean Sea|MEX|Quintana Roo
+Caribbean Sea|MEX|Yucatan
+Caribbean Sea|BVIR|British Virgin Islands
+Caribbean Sea|CAYM|Cayman Islands
+Caribbean Sea|CR|Limon
+Caribbean Sea|NIC|Nicaragua
+Caribbean Sea|PA|Bocas del Toro
+Caribbean Sea|PA|Colon
+Caribbean Sea|PA|Comarca de San Blas
+Caribbean Sea|C|Ciego de Avila
+Caribbean Sea|C|Cienfuegos
+Caribbean Sea|C|Granma
+Caribbean Sea|C|Guantanamo
+Caribbean Sea|C|La Habana
+Caribbean Sea|C|Las Tunas
+Caribbean Sea|C|Matanzas
+Caribbean Sea|C|Pinar del Rio
+Caribbean Sea|C|Sancti Spiritus
+Caribbean Sea|C|Santiago de Cuba
+Caribbean Sea|C|Isla de la Juventud
+Caribbean Sea|WD|Dominica
+Caribbean Sea|DOM|Dominican Republic
+Caribbean Sea|RH|Haiti
+Caribbean Sea|HCA|Atlantida
+Caribbean Sea|HCA|Colon
+Caribbean Sea|HCA|Cortes
+Caribbean Sea|HCA|Gracias a Dios
+Caribbean Sea|WG|Grenada
+Caribbean Sea|GUAD|Guadeloupe
+Caribbean Sea|JA|Jamaica
+Caribbean Sea|MART|Martinique
+Caribbean Sea|MNTS|Montserrat
+Caribbean Sea|NA|Netherlands Antilles
+Caribbean Sea|SMAR|Saint Martin
+Caribbean Sea|CO|Antioquia
+Caribbean Sea|CO|Atlantico
+Caribbean Sea|CO|Choco
+Caribbean Sea|CO|Cordoba
+Caribbean Sea|CO|Guajira, La
+Caribbean Sea|CO|Magdalena
+Caribbean Sea|CO|Sucre
+Caribbean Sea|PR|Puerto Rico
+Caribbean Sea|KN|Saint Kitts and Nevis
+Caribbean Sea|WL|Saint Lucia
+Caribbean Sea|WV|Saint Vincent and the Grenadines
+Caribbean Sea|TT|Trinidad and Tobago
+Caribbean Sea|VIRG|Virgin Islands
+Caribbean Sea|YV|Anzoategui
+Caribbean Sea|YV|Aragua
+Caribbean Sea|YV|Carabobo
+Caribbean Sea|YV|Delta Amacuro
+Caribbean Sea|YV|Falcon
+Caribbean Sea|YV|Miranda
+Caribbean Sea|YV|Monagas
+Caribbean Sea|YV|Nueva Esparta
+Caribbean Sea|YV|Sucre
+Caribbean Sea|YV|Zulia
+Caribbean Sea|YV|Distrito Federal
+Indian Ocean|PK|Pakistan
+Indian Ocean|IND|Kerala
+Indian Ocean|IND|Tamil Nadu
+Indian Ocean|XMAS|Christmas Island
+Indian Ocean|COCO|Cocos Islands
+Indian Ocean|RI|Indonesia
+Indian Ocean|TL|Timor-Leste
+Indian Ocean|MV|Maldives
+Indian Ocean|YE|Yemen
+Indian Ocean|SGP|Singapore
+Indian Ocean|CL|Sri Lanka
+Indian Ocean|AUS|New South Wales
+Indian Ocean|AUS|Northern Territory
+Indian Ocean|AUS|South Australia
+Indian Ocean|AUS|Tasmania
+Indian Ocean|AUS|Victoria
+Indian Ocean|AUS|Western Australia
+Indian Ocean|RSA|Eastern Cape
+Indian Ocean|RSA|Kwazulu Natal
+Indian Ocean|RSA|Western Cape
+Indian Ocean|EAT|Tanga
+Indian Ocean|EAT|Pwani
+Indian Ocean|EAT|Daressalam
+Indian Ocean|EAT|Lindi
+Indian Ocean|EAT|Mtwara
+Indian Ocean|COM|Comoros
+Indian Ocean|SP|Somalia
+Indian Ocean|EAK|Coast
+Indian Ocean|RM|Antsiranana
+Indian Ocean|RM|Antananarivo
+Indian Ocean|RM|Fianarantsoa
+Indian Ocean|RM|Mahajanga
+Indian Ocean|RM|Toamasina
+Indian Ocean|RM|Toliara
+Indian Ocean|MOC|Cabo Delgado
+Indian Ocean|MOC|Gaza
+Indian Ocean|MOC|Inhambane
+Indian Ocean|MOC|Maputo
+Indian Ocean|MOC|Nampula
+Indian Ocean|MOC|Sofala
+Indian Ocean|MOC|Zambezia
+Indian Ocean|MOC|Maputo (munic.)
+Indian Ocean|MS|Mauritius
+Indian Ocean|MAYO|Mayotte
+Indian Ocean|REUN|Reunion
+Indian Ocean|SY|Seychelles
+Arabian Sea|PK|Pakistan
+Arabian Sea|IND|Goa
+Arabian Sea|IND|Gujarat
+Arabian Sea|IND|Karnataka
+Arabian Sea|IND|Kerala
+Arabian Sea|IND|Maharashtra
+Arabian Sea|IND|Tamil Nadu
+Arabian Sea|IND|Lakshadweep Is.
+Arabian Sea|OM|Oman
+Gulf of Oman|IR|Hormozgan
+Gulf of Oman|IR|Sistan e Baluchestan
+Gulf of Oman|PK|Pakistan
+Gulf of Oman|OM|Oman
+Gulf of Oman|UAE|Al Fujayrah
+Red Sea|IL|South
+Red Sea|ET|El Bahr el Ahmar
+Red Sea|ET|Sina al Janubiyah
+Red Sea|ET|El Suweiz
+Red Sea|JOR|Jordan
+Red Sea|SA|Saudi Arabia
+Red Sea|YE|Yemen
+Red Sea|SUD|ash Sharqiyah
+Red Sea|DJI|Djibouti
+Red Sea|ER|Eritrea
+Gulf of Aden|YE|Yemen
+Gulf of Aden|DJI|Djibouti
+Gulf of Aden|SP|Somalia
+Gulf of Bengal|BD|Bangladesh
+Gulf of Bengal|MYA|Ayeyarwady
+Gulf of Bengal|MYA|Rakhine
+Gulf of Bengal|IND|Andhra Pradesh
+Gulf of Bengal|IND|Orissa
+Gulf of Bengal|IND|West Bengal
+Gulf of Bengal|IND|Andaman and Nicobar Is.
+Gulf of Bengal|CL|Sri Lanka
+Andaman Sea|MYA|Ayeyarwady
+Andaman Sea|MYA|Bago
+Andaman Sea|MYA|Yangon
+Andaman Sea|MYA|Mon
+Andaman Sea|IND|Andaman and Nicobar Is.
+Andaman Sea|THA|Thailand
+Andaman Sea|RI|Indonesia
+Malakka Strait|MAL|Johor
+Malakka Strait|MAL|Kedah
+Malakka Strait|MAL|Melaka
+Malakka Strait|MAL|Negeri Sembilan
+Malakka Strait|MAL|Perak
+Malakka Strait|MAL|Perlis
+Malakka Strait|MAL|Pulau Pinang
+Malakka Strait|MAL|Selangor
+Malakka Strait|THA|Thailand
+Malakka Strait|RI|Indonesia
+Malakka Strait|SGP|Singapore
+Sunda Sea|RI|Indonesia
+Sunda Sea|TL|Timor-Leste
+Sulawesi Sea|MAL|Sarawak
+Sulawesi Sea|RI|Indonesia
+Sulawesi Sea|RP|Philippines

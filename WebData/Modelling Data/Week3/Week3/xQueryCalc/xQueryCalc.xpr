@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="17.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="xQueryCalc.xpr">
+        <file name="calc2quiz.xquery"/>
+        <file name="example-quiz.html"/>
+        <file name="example-quiz.xml"/>
+        <file name="flashcardhtml.xsd"/>
+        <file name="miniformvalidator.js"/>
+        <file name="quiz.xsd"/>
+        <file name="xQueryCalc.xpr"/>
+    </projectTree>
+</project>

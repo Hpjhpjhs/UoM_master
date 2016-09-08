@@ -1,0 +1,8008 @@
+TL|ACP|member
+PNG|ACP|member
+AG|ACP|member
+BS|ACP|member
+BDS|ACP|member
+BZ|ACP|member
+WD|ACP|member
+DOM|ACP|member
+RH|ACP|member
+WG|ACP|member
+JA|ACP|member
+KN|ACP|member
+WL|ACP|member
+WV|ACP|member
+TT|ACP|member
+COOK|ACP|member
+FJI|ACP|member
+KIR|ACP|member
+NIUE|ACP|member
+SLB|ACP|member
+TO|ACP|member
+TUV|ACP|member
+VU|ACP|member
+WS|ACP|member
+GUY|ACP|member
+SME|ACP|member
+RMM|ACP|member
+RIM|ACP|member
+RN|ACP|member
+ANG|ACP|member
+RCB|ACP|member
+NAM|ACP|member
+ZRE|ACP|member
+Z|ACP|member
+BEN|ACP|member
+BF|ACP|member
+WAN|ACP|member
+RT|ACP|member
+RB|ACP|member
+ZW|ACP|member
+CI|ACP|member
+GH|ACP|member
+BI|ACP|member
+RWA|ACP|member
+EAT|ACP|member
+CAM|ACP|member
+RCA|ACP|member
+TCH|ACP|member
+GQ|ACP|member
+G|ACP|member
+CV|ACP|member
+SUD|ACP|member
+COM|ACP|member
+RG|ACP|member
+LB|ACP|member
+DJI|ACP|member
+ER|ACP|member
+ETH|ACP|member
+SP|ACP|member
+EAK|ACP|member
+WAG|ACP|member
+SN|ACP|member
+GNB|ACP|member
+WAL|ACP|member
+EAU|ACP|member
+LS|ACP|member
+RM|ACP|member
+MW|ACP|member
+MOC|ACP|member
+MS|ACP|member
+SD|ACP|member
+STP|ACP|member
+SY|ACP|member
+ET|AfDB|regional member
+DZ|AfDB|regional member
+LAR|AfDB|regional member
+RMM|AfDB|regional member
+RIM|AfDB|regional member
+MA|AfDB|regional member
+RN|AfDB|regional member
+TN|AfDB|regional member
+ANG|AfDB|regional member
+RCB|AfDB|regional member
+NAM|AfDB|regional member
+ZRE|AfDB|regional member
+Z|AfDB|regional member
+BEN|AfDB|regional member
+BF|AfDB|regional member
+WAN|AfDB|regional member
+RT|AfDB|regional member
+RB|AfDB|regional member
+ZW|AfDB|regional member
+CI|AfDB|regional member
+GH|AfDB|regional member
+BI|AfDB|regional member
+RWA|AfDB|regional member
+EAT|AfDB|regional member
+CAM|AfDB|regional member
+RCA|AfDB|regional member
+TCH|AfDB|regional member
+GQ|AfDB|regional member
+G|AfDB|regional member
+CV|AfDB|regional member
+SUD|AfDB|regional member
+COM|AfDB|regional member
+RG|AfDB|regional member
+LB|AfDB|regional member
+DJI|AfDB|regional member
+ER|AfDB|regional member
+ETH|AfDB|regional member
+SP|AfDB|regional member
+EAK|AfDB|regional member
+WAG|AfDB|regional member
+SN|AfDB|regional member
+GNB|AfDB|regional member
+WAL|AfDB|regional member
+EAU|AfDB|regional member
+LS|AfDB|regional member
+RM|AfDB|regional member
+MW|AfDB|regional member
+MOC|AfDB|regional member
+MS|AfDB|regional member
+SD|AfDB|regional member
+STP|AfDB|regional member
+SY|AfDB|regional member
+F|AfDB|nonregional member
+E|AfDB|nonregional member
+A|AfDB|nonregional member
+D|AfDB|nonregional member
+I|AfDB|nonregional member
+CH|AfDB|nonregional member
+B|AfDB|nonregional member
+NL|AfDB|nonregional member
+DK|AfDB|nonregional member
+SF|AfDB|nonregional member
+N|AfDB|nonregional member
+S|AfDB|nonregional member
+P|AfDB|nonregional member
+GB|AfDB|nonregional member
+TJ|AfDB|nonregional member
+IND|AfDB|nonregional member
+KWT|AfDB|nonregional member
+SA|AfDB|nonregional member
+J|AfDB|nonregional member
+ROK|AfDB|nonregional member
+UAE|AfDB|nonregional member
+CDN|AfDB|nonregional member
+USA|AfDB|nonregional member
+RA|AfDB|nonregional member
+BR|AfDB|nonregional member
+F|ACCT|member
+B|ACCT|member
+L|ACCT|member
+BG|ACCT|member
+RO|ACCT|member
+MC|ACCT|member
+LAO|ACCT|member
+K|ACCT|member
+VN|ACCT|member
+RL|ACCT|member
+CDN|ACCT|member
+WD|ACCT|member
+RH|ACCT|member
+VU|ACCT|member
+RMM|ACCT|member
+RN|ACCT|member
+TN|ACCT|member
+RCB|ACCT|member
+ZRE|ACCT|member
+BEN|ACCT|member
+BF|ACCT|member
+RT|ACCT|member
+CI|ACCT|member
+BI|ACCT|member
+RWA|ACCT|member
+CAM|ACCT|member
+RCA|ACCT|member
+TCH|ACCT|member
+GQ|ACCT|member
+G|ACCT|member
+COM|ACCT|member
+RG|ACCT|member
+DJI|ACCT|member
+SN|ACCT|member
+RM|ACCT|member
+MS|ACCT|member
+SY|ACCT|member
+ET|ACCT|associate member
+WL|ACCT|associate member
+RIM|ACCT|associate member
+MA|ACCT|associate member
+GNB|ACCT|associate member
+AG|OPANAL|member
+BS|OPANAL|member
+BDS|OPANAL|member
+BZ|OPANAL|member
+GCA|OPANAL|member
+MEX|OPANAL|member
+CR|OPANAL|member
+NIC|OPANAL|member
+PA|OPANAL|member
+WD|OPANAL|member
+DOM|OPANAL|member
+RH|OPANAL|member
+ES|OPANAL|member
+HCA|OPANAL|member
+WG|OPANAL|member
+JA|OPANAL|member
+CO|OPANAL|member
+WV|OPANAL|member
+TT|OPANAL|member
+RA|OPANAL|member
+BOL|OPANAL|member
+BR|OPANAL|member
+RCH|OPANAL|member
+PY|OPANAL|member
+ROU|OPANAL|member
+PE|OPANAL|member
+SME|OPANAL|member
+YV|OPANAL|member
+EC|OPANAL|member
+CO|AG|member
+BOL|AG|member
+PE|AG|member
+YV|AG|member
+EC|AG|member
+PA|AG|associate member
+F|AG|observer
+E|AG|observer
+A|AG|observer
+D|AG|observer
+I|AG|observer
+CH|AG|observer
+B|AG|observer
+NL|AG|observer
+DK|AG|observer
+SF|AG|observer
+S|AG|observer
+GB|AG|observer
+IND|AG|observer
+IL|AG|observer
+ET|AG|observer
+J|AG|observer
+MEX|AG|observer
+CDN|AG|observer
+USA|AG|observer
+CR|AG|observer
+AUS|AG|observer
+RA|AG|observer
+BR|AG|observer
+PY|AG|observer
+ROU|AG|observer
+BRN|ABEDA|member
+ET|ABEDA|member
+IRQ|ABEDA|member
+JOR|ABEDA|member
+KWT|ABEDA|member
+SA|ABEDA|member
+SYR|ABEDA|member
+RL|ABEDA|member
+OM|ABEDA|member
+UAE|ABEDA|member
+Q|ABEDA|member
+DZ|ABEDA|member
+LAR|ABEDA|member
+RIM|ABEDA|member
+MA|ABEDA|member
+TN|ABEDA|member
+SUD|ABEDA|member
+ET|ACC|member
+IRQ|ACC|member
+JOR|ACC|member
+YE|ACC|member
+BRN|AFESD|member
+ET|AFESD|member
+IRQ|AFESD|member
+JOR|AFESD|member
+KWT|AFESD|member
+SA|AFESD|member
+SYR|AFESD|member
+RL|AFESD|member
+OM|AFESD|member
+UAE|AFESD|member
+YE|AFESD|member
+Q|AFESD|member
+DZ|AFESD|member
+LAR|AFESD|member
+RIM|AFESD|member
+MA|AFESD|member
+TN|AFESD|member
+SUD|AFESD|member
+DJI|AFESD|member
+SP|AFESD|member
+BRN|AL|member
+ET|AL|member
+IRQ|AL|member
+JOR|AL|member
+KWT|AL|member
+SA|AL|member
+SYR|AL|member
+RL|AL|member
+OM|AL|member
+UAE|AL|member
+YE|AL|member
+Q|AL|member
+DZ|AL|member
+LAR|AL|member
+RIM|AL|member
+MA|AL|member
+TN|AL|member
+SUD|AL|member
+COM|AL|member
+DJI|AL|member
+SP|AL|member
+DZ|AMU|member
+LAR|AMU|member
+RIM|AMU|member
+MA|AMU|member
+TN|AMU|member
+BRN|AMF|member
+ET|AMF|member
+IRQ|AMF|member
+JOR|AMF|member
+KWT|AMF|member
+SA|AMF|member
+SYR|AMF|member
+RL|AMF|member
+OM|AMF|member
+UAE|AMF|member
+YE|AMF|member
+Q|AMF|member
+DZ|AMF|member
+LAR|AMF|member
+RIM|AMF|member
+MA|AMF|member
+TN|AMF|member
+SUD|AMF|member
+SP|AMF|member
+TJ|APEC|member
+HONX|APEC|member
+PNG|APEC|member
+J|APEC|member
+ROK|APEC|member
+RC|APEC|member
+MEX|APEC|member
+CDN|APEC|member
+USA|APEC|member
+NZ|APEC|member
+RCH|APEC|member
+AFG|AsDB|regional member
+TJ|AsDB|regional member
+PK|AsDB|regional member
+UZB|AsDB|regional member
+BD|AsDB|regional member
+MYA|AsDB|regional member
+IND|AsDB|regional member
+BHT|AsDB|regional member
+MAL|AsDB|regional member
+LAO|AsDB|regional member
+THA|AsDB|regional member
+K|AsDB|regional member
+VN|AsDB|regional member
+KAZ|AsDB|regional member
+KGZ|AsDB|regional member
+MNG|AsDB|regional member
+NEP|AsDB|regional member
+RI|AsDB|regional member
+PNG|AsDB|regional member
+J|AsDB|regional member
+ROK|AsDB|regional member
+MV|AsDB|regional member
+RP|AsDB|regional member
+SGP|AsDB|regional member
+CL|AsDB|regional member
+RC|AsDB|regional member
+AUS|AsDB|regional member
+FJI|AsDB|regional member
+KIR|AsDB|regional member
+MH|AsDB|regional member
+NAU|AsDB|regional member
+NZ|AsDB|regional member
+SLB|AsDB|regional member
+TO|AsDB|regional member
+TUV|AsDB|regional member
+VU|AsDB|regional member
+WS|AsDB|regional member
+F|AsDB|nonregional member
+E|AsDB|nonregional member
+A|AsDB|nonregional member
+D|AsDB|nonregional member
+I|AsDB|nonregional member
+CH|AsDB|nonregional member
+B|AsDB|nonregional member
+NL|AsDB|nonregional member
+TR|AsDB|nonregional member
+DK|AsDB|nonregional member
+SF|AsDB|nonregional member
+N|AsDB|nonregional member
+S|AsDB|nonregional member
+GB|AsDB|nonregional member
+CDN|AsDB|nonregional member
+USA|AsDB|nonregional member
+BRU|ASEAN|member
+MAL|ASEAN|member
+THA|ASEAN|member
+VN|ASEAN|member
+RI|ASEAN|member
+RP|ASEAN|member
+SGP|ASEAN|member
+LAO|ASEAN|observer
+TJ|Mekong Group|member
+MYA|Mekong Group|member
+BRU|Mekong Group|member
+MAL|Mekong Group|member
+LAO|Mekong Group|member
+THA|Mekong Group|member
+K|Mekong Group|member
+VN|Mekong Group|member
+RI|Mekong Group|member
+RP|Mekong Group|member
+SGP|Mekong Group|member
+USA|ANZUS|member
+AUS|ANZUS|member
+NZ|ANZUS|member
+GR|BIS|member
+F|BIS|member
+E|BIS|member
+A|BIS|member
+CZ|BIS|member
+D|BIS|member
+H|BIS|member
+I|BIS|member
+SK|BIS|member
+CH|BIS|member
+LV|BIS|member
+LT|BIS|member
+PL|BIS|member
+B|BIS|member
+NL|BIS|member
+BG|BIS|member
+RO|BIS|member
+TR|BIS|member
+DK|BIS|member
+EW|BIS|member
+SF|BIS|member
+N|BIS|member
+S|BIS|member
+IS|BIS|member
+IRL|BIS|member
+P|BIS|member
+GB|BIS|member
+HONX|BIS|member
+J|BIS|member
+CDN|BIS|member
+USA|BIS|member
+AUS|BIS|member
+RSA|BIS|member
+B|Benelux|member
+L|Benelux|member
+NL|Benelux|member
+AL|BSEC|member
+GR|BSEC|member
+UA|BSEC|member
+R|BSEC|member
+BG|BSEC|member
+RO|BSEC|member
+TR|BSEC|member
+MD|BSEC|member
+ARM|BSEC|member
+GE|BSEC|member
+AZ|BSEC|member
+SRB|BSEC|observer
+SK|BSEC|observer
+PL|BSEC|observer
+IL|BSEC|observer
+ET|BSEC|observer
+TN|BSEC|observer
+AG|Caricom|member
+BS|Caricom|member
+BDS|Caricom|member
+BZ|Caricom|member
+WD|Caricom|member
+WG|Caricom|member
+JA|Caricom|member
+MNTS|Caricom|member
+KN|Caricom|member
+WL|Caricom|member
+WV|Caricom|member
+TT|Caricom|member
+GUY|Caricom|member
+SME|Caricom|member
+BVIR|Caricom|associate member
+TUCA|Caricom|associate member
+AXA|Caricom|observer
+ARU|Caricom|observer
+MEX|Caricom|observer
+BERM|Caricom|observer
+CAYM|Caricom|observer
+DOM|Caricom|observer
+RH|Caricom|observer
+NA|Caricom|observer
+PR|Caricom|observer
+YV|Caricom|observer
+AXA|CDB|regional member
+AG|CDB|regional member
+BS|CDB|regional member
+BDS|CDB|regional member
+BZ|CDB|regional member
+MEX|CDB|regional member
+BVIR|CDB|regional member
+CAYM|CDB|regional member
+WD|CDB|regional member
+WG|CDB|regional member
+JA|CDB|regional member
+MNTS|CDB|regional member
+CO|CDB|regional member
+KN|CDB|regional member
+WL|CDB|regional member
+WV|CDB|regional member
+TT|CDB|regional member
+TUCA|CDB|regional member
+GUY|CDB|regional member
+YV|CDB|regional member
+F|CDB|nonregional member
+D|CDB|nonregional member
+I|CDB|nonregional member
+GB|CDB|nonregional member
+CDN|CDB|nonregional member
+RCB|UDEAC|member
+CAM|UDEAC|member
+RCA|UDEAC|member
+TCH|UDEAC|member
+GQ|UDEAC|member
+G|UDEAC|member
+F|BDEAC|member
+D|BDEAC|member
+KWT|BDEAC|member
+RCB|BDEAC|member
+CAM|BDEAC|member
+RCA|BDEAC|member
+TCH|BDEAC|member
+GQ|BDEAC|member
+G|BDEAC|member
+GCA|BCIE|member
+CR|BCIE|member
+NIC|BCIE|member
+ES|BCIE|member
+HCA|BCIE|member
+RC|BCIE|nonregional member
+MEX|BCIE|nonregional member
+RA|BCIE|nonregional member
+YV|BCIE|nonregional member
+GCA|CACM|member
+CR|CACM|member
+NIC|CACM|member
+ES|CACM|member
+HCA|CACM|member
+MK|CEI|member
+A|CEI|member
+CZ|CEI|member
+H|CEI|member
+I|CEI|member
+SK|CEI|member
+SLO|CEI|member
+PL|CEI|member
+BIH|CEI|member
+HR|CEI|member
+SRB|CEI|associate member
+MNE|CEI|associate member
+BY|CEI|associate member
+UA|CEI|associate member
+BG|CEI|associate member
+RO|CEI|associate member
+AFG|CP|member
+IR|CP|member
+PK|CP|member
+BD|CP|member
+MYA|CP|member
+IND|CP|member
+BHT|CP|member
+MAL|CP|member
+LAO|CP|member
+THA|CP|member
+K|CP|member
+NEP|CP|member
+RI|CP|member
+PNG|CP|member
+J|CP|member
+ROK|CP|member
+MV|CP|member
+RP|CP|member
+SGP|CP|member
+CL|CP|member
+USA|CP|member
+AUS|CP|member
+FJI|CP|member
+NZ|CP|member
+M|C|member
+GB|C|member
+PK|C|member
+BD|C|member
+IND|C|member
+BRU|C|member
+MAL|C|member
+CY|C|member
+PNG|C|member
+MV|C|member
+SGP|C|member
+CL|C|member
+AG|C|member
+BS|C|member
+BDS|C|member
+BZ|C|member
+CDN|C|member
+WD|C|member
+WG|C|member
+JA|C|member
+KN|C|member
+WL|C|member
+WV|C|member
+TT|C|member
+AUS|C|member
+KIR|C|member
+NZ|C|member
+SLB|C|member
+TO|C|member
+VU|C|member
+WS|C|member
+GUY|C|member
+NAM|C|member
+Z|C|member
+WAN|C|member
+RB|C|member
+RSA|C|member
+ZW|C|member
+GH|C|member
+EAT|C|member
+EAK|C|member
+WAG|C|member
+WAL|C|member
+EAU|C|member
+LS|C|member
+MW|C|member
+MS|C|member
+SD|C|member
+SY|C|member
+NAU|C|special member
+TUV|C|special member
+BY|CIS|member
+UA|CIS|member
+R|CIS|member
+MD|CIS|member
+TAD|CIS|member
+TM|CIS|member
+UZB|CIS|member
+ARM|CIS|member
+GE|CIS|member
+AZ|CIS|member
+KAZ|CIS|member
+KGZ|CIS|member
+ET|CAEU|member
+IRQ|CAEU|member
+JOR|CAEU|member
+KWT|CAEU|member
+SYR|CAEU|member
+UAE|CAEU|member
+YE|CAEU|member
+LAR|CAEU|member
+RIM|CAEU|member
+SUD|CAEU|member
+SP|CAEU|member
+AL|CE|member
+GR|CE|member
+MK|CE|member
+SRB|CE|member
+MNE|CE|member
+AND|CE|member
+F|CE|member
+E|CE|member
+A|CE|member
+CZ|CE|member
+D|CE|member
+H|CE|member
+I|CE|member
+FL|CE|member
+SK|CE|member
+SLO|CE|member
+CH|CE|member
+LV|CE|member
+LT|CE|member
+PL|CE|member
+UA|CE|member
+R|CE|member
+B|CE|member
+L|CE|member
+NL|CE|member
+BG|CE|member
+RO|CE|member
+TR|CE|member
+DK|CE|member
+EW|CE|member
+SF|CE|member
+N|CE|member
+S|CE|member
+IS|CE|member
+IRL|CE|member
+RSM|CE|member
+M|CE|member
+MD|CE|member
+P|CE|member
+GB|CE|member
+CY|CE|member
+IL|CE|observer
+BY|CE|guest
+BIH|CE|guest
+HR|CE|guest
+D|CBSS|member
+LV|CBSS|member
+LT|CBSS|member
+PL|CBSS|member
+R|CBSS|member
+DK|CBSS|member
+EW|CBSS|member
+SF|CBSS|member
+N|CBSS|member
+S|CBSS|member
+RN|Entente|member
+BEN|Entente|member
+BF|Entente|member
+RT|Entente|member
+CI|Entente|member
+AL|CCC|member
+GR|CCC|member
+MK|CCC|member
+F|CCC|member
+E|CCC|member
+A|CCC|member
+CZ|CCC|member
+D|CCC|member
+H|CCC|member
+I|CCC|member
+SK|CCC|member
+SLO|CCC|member
+CH|CCC|member
+BY|CCC|member
+LV|CCC|member
+LT|CCC|member
+PL|CCC|member
+UA|CCC|member
+R|CCC|member
+B|CCC|member
+L|CCC|member
+NL|CCC|member
+HR|CCC|member
+BG|CCC|member
+RO|CCC|member
+TR|CCC|member
+DK|CCC|member
+EW|CCC|member
+SF|CCC|member
+N|CCC|member
+S|CCC|member
+IS|CCC|member
+IRL|CCC|member
+M|CCC|member
+MD|CCC|member
+P|CCC|member
+GB|CCC|member
+TJ|CCC|member
+IR|CCC|member
+PK|CCC|member
+TM|CCC|member
+UZB|CCC|member
+ARM|CCC|member
+GE|CCC|member
+AZ|CCC|member
+BD|CCC|member
+MYA|CCC|member
+IND|CCC|member
+MAL|CCC|member
+THA|CCC|member
+VN|CCC|member
+KAZ|CCC|member
+MNG|CCC|member
+NEP|CCC|member
+CY|CCC|member
+IL|CCC|member
+ET|CCC|member
+RI|CCC|member
+IRQ|CCC|member
+JOR|CCC|member
+KWT|CCC|member
+SA|CCC|member
+SYR|CCC|member
+RL|CCC|member
+J|CCC|member
+ROK|CCC|member
+UAE|CCC|member
+YE|CCC|member
+RP|CCC|member
+Q|CCC|member
+SGP|CCC|member
+CL|CCC|member
+BS|CCC|member
+GCA|CCC|member
+MEX|CCC|member
+CDN|CCC|member
+USA|CCC|member
+C|CCC|member
+RH|CCC|member
+JA|CCC|member
+CO|CCC|member
+TT|CCC|member
+AUS|CCC|member
+NZ|CCC|member
+RA|CCC|member
+BR|CCC|member
+RCH|CCC|member
+PY|CCC|member
+ROU|CCC|member
+PE|CCC|member
+GUY|CCC|member
+DZ|CCC|member
+LAR|CCC|member
+RMM|CCC|member
+RIM|CCC|member
+MA|CCC|member
+RN|CCC|member
+TN|CCC|member
+ANG|CCC|member
+RCB|CCC|member
+NAM|CCC|member
+ZRE|CCC|member
+Z|CCC|member
+BF|CCC|member
+WAN|CCC|member
+RT|CCC|member
+RB|CCC|member
+RSA|CCC|member
+ZW|CCC|member
+CI|CCC|member
+GH|CCC|member
+BI|CCC|member
+RWA|CCC|member
+EAT|CCC|member
+CAM|CCC|member
+RCA|CCC|member
+G|CCC|member
+CV|CCC|member
+SUD|CCC|member
+COM|CCC|member
+RG|CCC|member
+LB|CCC|member
+ETH|CCC|member
+EAK|CCC|member
+WAG|CCC|member
+SN|CCC|member
+WAL|CCC|member
+EAU|CCC|member
+LS|CCC|member
+RM|CCC|member
+MW|CCC|member
+MOC|CCC|member
+MS|CCC|member
+SD|CCC|member
+EAT|EADB|member
+EAK|EADB|member
+EAU|EADB|member
+F|ESCAP|member
+R|ESCAP|member
+NL|ESCAP|member
+GB|ESCAP|member
+AFG|ESCAP|member
+TJ|ESCAP|member
+IR|ESCAP|member
+PK|ESCAP|member
+TAD|ESCAP|member
+TM|ESCAP|member
+UZB|ESCAP|member
+ARM|ESCAP|member
+AZ|ESCAP|member
+BD|ESCAP|member
+MYA|ESCAP|member
+IND|ESCAP|member
+BHT|ESCAP|member
+BRU|ESCAP|member
+MAL|ESCAP|member
+LAO|ESCAP|member
+THA|ESCAP|member
+K|ESCAP|member
+VN|ESCAP|member
+KAZ|ESCAP|member
+NOK|ESCAP|member
+KGZ|ESCAP|member
+MNG|ESCAP|member
+NEP|ESCAP|member
+RI|ESCAP|member
+PNG|ESCAP|member
+J|ESCAP|member
+ROK|ESCAP|member
+MV|ESCAP|member
+RP|ESCAP|member
+SGP|ESCAP|member
+CL|ESCAP|member
+USA|ESCAP|member
+AUS|ESCAP|member
+FJI|ESCAP|member
+KIR|ESCAP|member
+MH|ESCAP|member
+NAU|ESCAP|member
+NZ|ESCAP|member
+SLB|ESCAP|member
+TO|ESCAP|member
+TUV|ESCAP|member
+VU|ESCAP|member
+WS|ESCAP|member
+FPOL|ESCAP|associate member
+NMIS|ESCAP|associate member
+PAL|ESCAP|associate member
+BRN|ESCWA|member
+ET|ESCWA|member
+IRQ|ESCWA|member
+JOR|ESCWA|member
+KWT|ESCWA|member
+SA|ESCWA|member
+SYR|ESCWA|member
+RL|ESCWA|member
+OM|ESCWA|member
+UAE|ESCWA|member
+YE|ESCWA|member
+Q|ESCWA|member
+ET|ECA|member
+DZ|ECA|member
+LAR|ECA|member
+RMM|ECA|member
+RIM|ECA|member
+MA|ECA|member
+RN|ECA|member
+TN|ECA|member
+ANG|ECA|member
+RCB|ECA|member
+NAM|ECA|member
+ZRE|ECA|member
+Z|ECA|member
+BEN|ECA|member
+BF|ECA|member
+WAN|ECA|member
+RT|ECA|member
+RB|ECA|member
+RSA|ECA|member
+ZW|ECA|member
+CI|ECA|member
+GH|ECA|member
+BI|ECA|member
+RWA|ECA|member
+EAT|ECA|member
+CAM|ECA|member
+RCA|ECA|member
+TCH|ECA|member
+GQ|ECA|member
+G|ECA|member
+CV|ECA|member
+SUD|ECA|member
+COM|ECA|member
+RG|ECA|member
+LB|ECA|member
+DJI|ECA|member
+ER|ECA|member
+ETH|ECA|member
+SP|ECA|member
+EAK|ECA|member
+WAG|ECA|member
+SN|ECA|member
+GNB|ECA|member
+WAL|ECA|member
+EAU|ECA|member
+LS|ECA|member
+RM|ECA|member
+MW|ECA|member
+MOC|ECA|member
+MS|ECA|member
+SD|ECA|member
+STP|ECA|member
+SY|ECA|member
+F|ECA|associate member
+GB|ECA|associate member
+AL|ECE|member
+GR|ECE|member
+MK|ECE|member
+AND|ECE|member
+F|ECE|member
+E|ECE|member
+A|ECE|member
+CZ|ECE|member
+D|ECE|member
+H|ECE|member
+I|ECE|member
+FL|ECE|member
+SK|ECE|member
+SLO|ECE|member
+CH|ECE|member
+BY|ECE|member
+LV|ECE|member
+LT|ECE|member
+PL|ECE|member
+UA|ECE|member
+R|ECE|member
+B|ECE|member
+L|ECE|member
+NL|ECE|member
+BIH|ECE|member
+HR|ECE|member
+BG|ECE|member
+RO|ECE|member
+TR|ECE|member
+DK|ECE|member
+EW|ECE|member
+SF|ECE|member
+N|ECE|member
+S|ECE|member
+MC|ECE|member
+IS|ECE|member
+IRL|ECE|member
+RSM|ECE|member
+M|ECE|member
+MD|ECE|member
+P|ECE|member
+GB|ECE|member
+TAD|ECE|member
+TM|ECE|member
+UZB|ECE|member
+ARM|ECE|member
+GE|ECE|member
+AZ|ECE|member
+KAZ|ECE|member
+KGZ|ECE|member
+CY|ECE|member
+IL|ECE|member
+CDN|ECE|member
+USA|ECE|member
+F|ECLAC|member
+E|ECLAC|member
+I|ECLAC|member
+NL|ECLAC|member
+P|ECLAC|member
+GB|ECLAC|member
+AG|ECLAC|member
+BS|ECLAC|member
+BDS|ECLAC|member
+BZ|ECLAC|member
+GCA|ECLAC|member
+MEX|ECLAC|member
+CDN|ECLAC|member
+USA|ECLAC|member
+CR|ECLAC|member
+NIC|ECLAC|member
+PA|ECLAC|member
+C|ECLAC|member
+WD|ECLAC|member
+DOM|ECLAC|member
+RH|ECLAC|member
+ES|ECLAC|member
+HCA|ECLAC|member
+WG|ECLAC|member
+JA|ECLAC|member
+CO|ECLAC|member
+KN|ECLAC|member
+WL|ECLAC|member
+WV|ECLAC|member
+TT|ECLAC|member
+RA|ECLAC|member
+BOL|ECLAC|member
+BR|ECLAC|member
+RCH|ECLAC|member
+PY|ECLAC|member
+ROU|ECLAC|member
+PE|ECLAC|member
+GUY|ECLAC|member
+SME|ECLAC|member
+YV|ECLAC|member
+EC|ECLAC|member
+BVIR|ECLAC|associate member
+VIRG|ECLAC|associate member
+RCB|CEEAC|member
+ZRE|CEEAC|member
+BI|CEEAC|member
+RWA|CEEAC|member
+CAM|CEEAC|member
+RCA|CEEAC|member
+TCH|CEEAC|member
+GQ|CEEAC|member
+G|CEEAC|member
+STP|CEEAC|member
+ANG|CEEAC|observer
+ZRE|CEPGL|member
+BI|CEPGL|member
+RWA|CEPGL|member
+RMM|ECOWAS|member
+RIM|ECOWAS|member
+RN|ECOWAS|member
+BEN|ECOWAS|member
+BF|ECOWAS|member
+WAN|ECOWAS|member
+RT|ECOWAS|member
+CI|ECOWAS|member
+GH|ECOWAS|member
+CV|ECOWAS|member
+RG|ECOWAS|member
+LB|ECOWAS|member
+WAG|ECOWAS|member
+SN|ECOWAS|member
+GNB|ECOWAS|member
+WAL|ECOWAS|member
+TR|ECO|member
+AFG|ECO|member
+IR|ECO|member
+PK|ECO|member
+TAD|ECO|member
+TM|ECO|member
+UZB|ECO|member
+AZ|ECO|member
+KAZ|ECO|member
+KGZ|ECO|member
+AL|EBRD|member
+GR|EBRD|member
+MK|EBRD|member
+SRB|EBRD|member
+MNE|EBRD|member
+F|EBRD|member
+E|EBRD|member
+A|EBRD|member
+CZ|EBRD|member
+D|EBRD|member
+H|EBRD|member
+I|EBRD|member
+FL|EBRD|member
+SK|EBRD|member
+SLO|EBRD|member
+CH|EBRD|member
+BY|EBRD|member
+LV|EBRD|member
+LT|EBRD|member
+PL|EBRD|member
+UA|EBRD|member
+R|EBRD|member
+B|EBRD|member
+L|EBRD|member
+NL|EBRD|member
+HR|EBRD|member
+BG|EBRD|member
+RO|EBRD|member
+TR|EBRD|member
+DK|EBRD|member
+EW|EBRD|member
+SF|EBRD|member
+N|EBRD|member
+S|EBRD|member
+IS|EBRD|member
+IRL|EBRD|member
+M|EBRD|member
+MD|EBRD|member
+P|EBRD|member
+GB|EBRD|member
+TAD|EBRD|member
+TM|EBRD|member
+UZB|EBRD|member
+ARM|EBRD|member
+GE|EBRD|member
+AZ|EBRD|member
+KAZ|EBRD|member
+KGZ|EBRD|member
+CY|EBRD|member
+IL|EBRD|member
+ET|EBRD|member
+J|EBRD|member
+ROK|EBRD|member
+MEX|EBRD|member
+CDN|EBRD|member
+USA|EBRD|member
+AUS|EBRD|member
+NZ|EBRD|member
+MA|EBRD|member
+FL|EFTA|member
+CH|EFTA|member
+N|EFTA|member
+IS|EFTA|member
+GR|EIB|member
+F|EIB|member
+E|EIB|member
+A|EIB|member
+D|EIB|member
+I|EIB|member
+B|EIB|member
+L|EIB|member
+NL|EIB|member
+DK|EIB|member
+SF|EIB|member
+S|EIB|member
+IRL|EIB|member
+P|EIB|member
+GB|EIB|member
+GR|CERN|member
+F|CERN|member
+E|CERN|member
+A|CERN|member
+CZ|CERN|member
+D|CERN|member
+H|CERN|member
+I|CERN|member
+SK|CERN|member
+CH|CERN|member
+PL|CERN|member
+B|CERN|member
+NL|CERN|member
+DK|CERN|member
+SF|CERN|member
+N|CERN|member
+S|CERN|member
+P|CERN|member
+GB|CERN|member
+R|CERN|observer
+TR|CERN|observer
+IL|CERN|observer
+F|ESA|member
+E|ESA|member
+A|ESA|member
+D|ESA|member
+I|ESA|member
+CH|ESA|member
+B|ESA|member
+NL|ESA|member
+DK|ESA|member
+SF|ESA|member
+N|ESA|member
+S|ESA|member
+IRL|ESA|member
+GB|ESA|member
+CDN|ESA|cooperating state
+GR|EU|member
+F|EU|member
+E|EU|member
+A|EU|member
+CZ|EU|member
+D|EU|member
+H|EU|member
+I|EU|member
+SK|EU|member
+SLO|EU|member
+LV|EU|member
+LT|EU|member
+PL|EU|member
+B|EU|member
+L|EU|member
+NL|EU|member
+BG|EU|member
+RO|EU|member
+DK|EU|member
+EW|EU|member
+SF|EU|member
+S|EU|member
+IRL|EU|member
+M|EU|member
+P|EU|member
+GB|EU|member
+CY|EU|member
+MK|EU|membership applicant
+HR|EU|membership applicant
+TR|EU|membership applicant
+AL|FAO|member
+GR|FAO|member
+MK|FAO|member
+SRB|FAO|member
+MNE|FAO|member
+F|FAO|member
+E|FAO|member
+A|FAO|member
+CZ|FAO|member
+D|FAO|member
+H|FAO|member
+I|FAO|member
+SK|FAO|member
+SLO|FAO|member
+CH|FAO|member
+LV|FAO|member
+LT|FAO|member
+PL|FAO|member
+B|FAO|member
+L|FAO|member
+NL|FAO|member
+BIH|FAO|member
+HR|FAO|member
+BG|FAO|member
+RO|FAO|member
+TR|FAO|member
+DK|FAO|member
+EW|FAO|member
+SF|FAO|member
+N|FAO|member
+S|FAO|member
+IS|FAO|member
+IRL|FAO|member
+M|FAO|member
+MD|FAO|member
+P|FAO|member
+GB|FAO|member
+AFG|FAO|member
+TJ|FAO|member
+IR|FAO|member
+PK|FAO|member
+TAD|FAO|member
+TM|FAO|member
+ARM|FAO|member
+GE|FAO|member
+AZ|FAO|member
+BRN|FAO|member
+BD|FAO|member
+MYA|FAO|member
+IND|FAO|member
+BHT|FAO|member
+BRU|FAO|member
+MAL|FAO|member
+LAO|FAO|member
+THA|FAO|member
+K|FAO|member
+VN|FAO|member
+NOK|FAO|member
+KGZ|FAO|member
+MNG|FAO|member
+NEP|FAO|member
+CY|FAO|member
+IL|FAO|member
+ET|FAO|member
+RI|FAO|member
+TL|FAO|member
+PNG|FAO|member
+IRQ|FAO|member
+JOR|FAO|member
+KWT|FAO|member
+SA|FAO|member
+SYR|FAO|member
+RL|FAO|member
+J|FAO|member
+ROK|FAO|member
+MV|FAO|member
+OM|FAO|member
+UAE|FAO|member
+YE|FAO|member
+RP|FAO|member
+Q|FAO|member
+CL|FAO|member
+AG|FAO|member
+BS|FAO|member
+BDS|FAO|member
+BZ|FAO|member
+GCA|FAO|member
+MEX|FAO|member
+CDN|FAO|member
+USA|FAO|member
+CR|FAO|member
+NIC|FAO|member
+PA|FAO|member
+C|FAO|member
+WD|FAO|member
+DOM|FAO|member
+RH|FAO|member
+ES|FAO|member
+HCA|FAO|member
+WG|FAO|member
+JA|FAO|member
+CO|FAO|member
+KN|FAO|member
+WL|FAO|member
+WV|FAO|member
+TT|FAO|member
+AUS|FAO|member
+COOK|FAO|member
+FJI|FAO|member
+NZ|FAO|member
+NIUE|FAO|member
+SLB|FAO|member
+TO|FAO|member
+VU|FAO|member
+WS|FAO|member
+RA|FAO|member
+BOL|FAO|member
+BR|FAO|member
+RCH|FAO|member
+PY|FAO|member
+ROU|FAO|member
+PE|FAO|member
+GUY|FAO|member
+SME|FAO|member
+YV|FAO|member
+EC|FAO|member
+DZ|FAO|member
+LAR|FAO|member
+RMM|FAO|member
+RIM|FAO|member
+MA|FAO|member
+RN|FAO|member
+TN|FAO|member
+ANG|FAO|member
+RCB|FAO|member
+NAM|FAO|member
+ZRE|FAO|member
+Z|FAO|member
+BEN|FAO|member
+BF|FAO|member
+WAN|FAO|member
+RT|FAO|member
+RB|FAO|member
+RSA|FAO|member
+ZW|FAO|member
+CI|FAO|member
+GH|FAO|member
+BI|FAO|member
+RWA|FAO|member
+EAT|FAO|member
+CAM|FAO|member
+RCA|FAO|member
+TCH|FAO|member
+GQ|FAO|member
+G|FAO|member
+CV|FAO|member
+SUD|FAO|member
+COM|FAO|member
+RG|FAO|member
+LB|FAO|member
+DJI|FAO|member
+ER|FAO|member
+ETH|FAO|member
+SP|FAO|member
+EAK|FAO|member
+WAG|FAO|member
+SN|FAO|member
+GNB|FAO|member
+WAL|FAO|member
+EAU|FAO|member
+LS|FAO|member
+RM|FAO|member
+MW|FAO|member
+MOC|FAO|member
+MS|FAO|member
+SD|FAO|member
+STP|FAO|member
+SY|FAO|member
+F|FZ|member
+RMM|FZ|member
+RN|FZ|member
+RCB|FZ|member
+BEN|FZ|member
+BF|FZ|member
+RT|FZ|member
+CI|FZ|member
+CAM|FZ|member
+RCA|FZ|member
+TCH|FZ|member
+GQ|FZ|member
+G|FZ|member
+COM|FZ|member
+SN|FZ|member
+J|G-2|member
+USA|G-2|member
+MEX|G-3|member
+CO|G-3|member
+YV|G-3|member
+F|G-5|member
+D|G-5|member
+GB|G-5|member
+J|G-5|member
+USA|G-5|member
+GR|G-6|member
+S|G-6|member
+IND|G-6|member
+MEX|G-6|member
+RA|G-6|member
+EAT|G-6|member
+F|G-7|member
+D|G-7|member
+I|G-7|member
+GB|G-7|member
+J|G-7|member
+CDN|G-7|member
+USA|G-7|member
+F|G-8|member
+D|G-8|member
+I|G-8|member
+R|G-8|member
+GB|G-8|member
+J|G-8|member
+CDN|G-8|member
+USA|G-8|member
+SRB|G-9|member
+A|G-9|member
+H|G-9|member
+B|G-9|member
+BG|G-9|member
+RO|G-9|member
+DK|G-9|member
+SF|G-9|member
+S|G-9|member
+F|G-10|member
+D|G-10|member
+I|G-10|member
+CH|G-10|member
+B|G-10|member
+NL|G-10|member
+S|G-10|member
+GB|G-10|member
+J|G-10|member
+CDN|G-10|member
+USA|G-10|member
+MEX|G-11|member
+DOM|G-11|member
+CO|G-11|member
+RA|G-11|member
+BOL|G-11|member
+BR|G-11|member
+RCH|G-11|member
+ROU|G-11|member
+PE|G-11|member
+YV|G-11|member
+EC|G-11|member
+IND|G-15|member
+MAL|G-15|member
+ET|G-15|member
+RI|G-15|member
+MEX|G-15|member
+JA|G-15|member
+RA|G-15|member
+BR|G-15|member
+PE|G-15|member
+YV|G-15|member
+DZ|G-15|member
+WAN|G-15|member
+ZW|G-15|member
+SN|G-15|member
+IR|G-19|member
+PK|G-19|member
+IND|G-19|member
+ET|G-19|member
+RI|G-19|member
+IRQ|G-19|member
+SA|G-19|member
+MEX|G-19|member
+JA|G-19|member
+RA|G-19|member
+BR|G-19|member
+PE|G-19|member
+YV|G-19|member
+DZ|G-19|member
+ZRE|G-19|member
+Z|G-19|member
+WAN|G-19|member
+CAM|G-19|member
+IR|G-24|member
+PK|G-24|member
+IND|G-24|member
+ET|G-24|member
+SYR|G-24|member
+RL|G-24|member
+RP|G-24|member
+CL|G-24|member
+GCA|G-24|member
+MEX|G-24|member
+CO|G-24|member
+TT|G-24|member
+RA|G-24|member
+BR|G-24|member
+PE|G-24|member
+YV|G-24|member
+DZ|G-24|member
+ZRE|G-24|member
+WAN|G-24|member
+CI|G-24|member
+GH|G-24|member
+G|G-24|member
+ETH|G-24|member
+RO|G-77|member
+M|G-77|member
+AFG|G-77|member
+IR|G-77|member
+PK|G-77|member
+BRN|G-77|member
+BD|G-77|member
+MYA|G-77|member
+IND|G-77|member
+BHT|G-77|member
+BRU|G-77|member
+MAL|G-77|member
+LAO|G-77|member
+THA|G-77|member
+K|G-77|member
+VN|G-77|member
+NOK|G-77|member
+MNG|G-77|member
+NEP|G-77|member
+CY|G-77|member
+ET|G-77|member
+RI|G-77|member
+TL|G-77|member
+PNG|G-77|member
+IRQ|G-77|member
+JOR|G-77|member
+KWT|G-77|member
+SA|G-77|member
+SYR|G-77|member
+RL|G-77|member
+ROK|G-77|member
+MV|G-77|member
+OM|G-77|member
+UAE|G-77|member
+YE|G-77|member
+RP|G-77|member
+Q|G-77|member
+SGP|G-77|member
+CL|G-77|member
+AG|G-77|member
+BS|G-77|member
+BDS|G-77|member
+BZ|G-77|member
+GCA|G-77|member
+MEX|G-77|member
+CR|G-77|member
+NIC|G-77|member
+PA|G-77|member
+C|G-77|member
+WD|G-77|member
+DOM|G-77|member
+RH|G-77|member
+ES|G-77|member
+HCA|G-77|member
+WG|G-77|member
+JA|G-77|member
+CO|G-77|member
+KN|G-77|member
+WL|G-77|member
+WV|G-77|member
+TT|G-77|member
+FJI|G-77|member
+SLB|G-77|member
+TO|G-77|member
+VU|G-77|member
+WS|G-77|member
+RA|G-77|member
+BOL|G-77|member
+BR|G-77|member
+RCH|G-77|member
+PY|G-77|member
+ROU|G-77|member
+PE|G-77|member
+GUY|G-77|member
+SME|G-77|member
+YV|G-77|member
+EC|G-77|member
+DZ|G-77|member
+LAR|G-77|member
+RMM|G-77|member
+RIM|G-77|member
+MA|G-77|member
+RN|G-77|member
+TN|G-77|member
+ANG|G-77|member
+RCB|G-77|member
+NAM|G-77|member
+ZRE|G-77|member
+Z|G-77|member
+BEN|G-77|member
+BF|G-77|member
+WAN|G-77|member
+RT|G-77|member
+RB|G-77|member
+RSA|G-77|member
+ZW|G-77|member
+CI|G-77|member
+GH|G-77|member
+BI|G-77|member
+RWA|G-77|member
+EAT|G-77|member
+CAM|G-77|member
+RCA|G-77|member
+TCH|G-77|member
+GQ|G-77|member
+G|G-77|member
+CV|G-77|member
+SUD|G-77|member
+COM|G-77|member
+RG|G-77|member
+LB|G-77|member
+DJI|G-77|member
+ETH|G-77|member
+SP|G-77|member
+EAK|G-77|member
+WAG|G-77|member
+SN|G-77|member
+GNB|G-77|member
+WAL|G-77|member
+EAU|G-77|member
+LS|G-77|member
+RM|G-77|member
+MW|G-77|member
+MOC|G-77|member
+MS|G-77|member
+SD|G-77|member
+STP|G-77|member
+SY|G-77|member
+BRN|GCC|member
+KWT|GCC|member
+SA|GCC|member
+OM|GCC|member
+UAE|GCC|member
+Q|GCC|member
+F|IADB|member
+E|IADB|member
+A|IADB|member
+D|IADB|member
+I|IADB|member
+SLO|IADB|member
+CH|IADB|member
+B|IADB|member
+NL|IADB|member
+HR|IADB|member
+DK|IADB|member
+SF|IADB|member
+N|IADB|member
+S|IADB|member
+P|IADB|member
+GB|IADB|member
+IL|IADB|member
+J|IADB|member
+BS|IADB|member
+BDS|IADB|member
+BZ|IADB|member
+GCA|IADB|member
+MEX|IADB|member
+CDN|IADB|member
+USA|IADB|member
+CR|IADB|member
+NIC|IADB|member
+PA|IADB|member
+DOM|IADB|member
+RH|IADB|member
+ES|IADB|member
+HCA|IADB|member
+JA|IADB|member
+CO|IADB|member
+TT|IADB|member
+RA|IADB|member
+BOL|IADB|member
+BR|IADB|member
+RCH|IADB|member
+PY|IADB|member
+ROU|IADB|member
+PE|IADB|member
+GUY|IADB|member
+SME|IADB|member
+YV|IADB|member
+EC|IADB|member
+SUD|IGADD|member
+DJI|IGADD|member
+ER|IGADD|member
+ETH|IGADD|member
+SP|IGADD|member
+EAK|IGADD|member
+EAU|IGADD|member
+AL|IAEA|member
+GR|IAEA|member
+MK|IAEA|member
+SRB|IAEA|member
+MNE|IAEA|member
+F|IAEA|member
+E|IAEA|member
+A|IAEA|member
+CZ|IAEA|member
+D|IAEA|member
+H|IAEA|member
+I|IAEA|member
+FL|IAEA|member
+SK|IAEA|member
+SLO|IAEA|member
+CH|IAEA|member
+BY|IAEA|member
+LT|IAEA|member
+PL|IAEA|member
+UA|IAEA|member
+R|IAEA|member
+B|IAEA|member
+L|IAEA|member
+NL|IAEA|member
+HR|IAEA|member
+BG|IAEA|member
+RO|IAEA|member
+TR|IAEA|member
+DK|IAEA|member
+EW|IAEA|member
+SF|IAEA|member
+N|IAEA|member
+S|IAEA|member
+MC|IAEA|member
+V|IAEA|member
+IS|IAEA|member
+IRL|IAEA|member
+P|IAEA|member
+GB|IAEA|member
+AFG|IAEA|member
+TJ|IAEA|member
+IR|IAEA|member
+PK|IAEA|member
+UZB|IAEA|member
+ARM|IAEA|member
+BD|IAEA|member
+MYA|IAEA|member
+IND|IAEA|member
+MAL|IAEA|member
+THA|IAEA|member
+K|IAEA|member
+VN|IAEA|member
+KAZ|IAEA|member
+MNG|IAEA|member
+CY|IAEA|member
+IL|IAEA|member
+ET|IAEA|member
+RI|IAEA|member
+IRQ|IAEA|member
+JOR|IAEA|member
+KWT|IAEA|member
+SA|IAEA|member
+SYR|IAEA|member
+RL|IAEA|member
+J|IAEA|member
+ROK|IAEA|member
+UAE|IAEA|member
+YE|IAEA|member
+RP|IAEA|member
+Q|IAEA|member
+SGP|IAEA|member
+CL|IAEA|member
+GCA|IAEA|member
+MEX|IAEA|member
+CDN|IAEA|member
+USA|IAEA|member
+CR|IAEA|member
+NIC|IAEA|member
+PA|IAEA|member
+C|IAEA|member
+DOM|IAEA|member
+RH|IAEA|member
+ES|IAEA|member
+JA|IAEA|member
+CO|IAEA|member
+AUS|IAEA|member
+MH|IAEA|member
+NZ|IAEA|member
+RA|IAEA|member
+BOL|IAEA|member
+BR|IAEA|member
+RCH|IAEA|member
+PY|IAEA|member
+ROU|IAEA|member
+PE|IAEA|member
+YV|IAEA|member
+EC|IAEA|member
+DZ|IAEA|member
+LAR|IAEA|member
+RMM|IAEA|member
+MA|IAEA|member
+RN|IAEA|member
+TN|IAEA|member
+NAM|IAEA|member
+ZRE|IAEA|member
+Z|IAEA|member
+WAN|IAEA|member
+RSA|IAEA|member
+ZW|IAEA|member
+CI|IAEA|member
+GH|IAEA|member
+EAT|IAEA|member
+CAM|IAEA|member
+G|IAEA|member
+SUD|IAEA|member
+LB|IAEA|member
+ETH|IAEA|member
+EAK|IAEA|member
+SN|IAEA|member
+WAL|IAEA|member
+EAU|IAEA|member
+RM|IAEA|member
+MS|IAEA|member
+AL|IBRD|member
+GR|IBRD|member
+MK|IBRD|member
+SRB|IBRD|member
+MNE|IBRD|member
+F|IBRD|member
+E|IBRD|member
+A|IBRD|member
+CZ|IBRD|member
+D|IBRD|member
+H|IBRD|member
+I|IBRD|member
+SK|IBRD|member
+SLO|IBRD|member
+CH|IBRD|member
+BY|IBRD|member
+LV|IBRD|member
+LT|IBRD|member
+PL|IBRD|member
+UA|IBRD|member
+R|IBRD|member
+B|IBRD|member
+L|IBRD|member
+NL|IBRD|member
+HR|IBRD|member
+BG|IBRD|member
+RO|IBRD|member
+TR|IBRD|member
+DK|IBRD|member
+EW|IBRD|member
+SF|IBRD|member
+N|IBRD|member
+S|IBRD|member
+IS|IBRD|member
+IRL|IBRD|member
+M|IBRD|member
+MD|IBRD|member
+P|IBRD|member
+GB|IBRD|member
+AFG|IBRD|member
+TJ|IBRD|member
+IR|IBRD|member
+PK|IBRD|member
+TAD|IBRD|member
+TM|IBRD|member
+UZB|IBRD|member
+ARM|IBRD|member
+GE|IBRD|member
+AZ|IBRD|member
+BRN|IBRD|member
+BD|IBRD|member
+MYA|IBRD|member
+IND|IBRD|member
+BHT|IBRD|member
+BRU|IBRD|member
+MAL|IBRD|member
+LAO|IBRD|member
+THA|IBRD|member
+K|IBRD|member
+VN|IBRD|member
+KAZ|IBRD|member
+KGZ|IBRD|member
+MNG|IBRD|member
+NEP|IBRD|member
+CY|IBRD|member
+IL|IBRD|member
+ET|IBRD|member
+RI|IBRD|member
+TL|IBRD|member
+PNG|IBRD|member
+IRQ|IBRD|member
+JOR|IBRD|member
+KWT|IBRD|member
+SA|IBRD|member
+SYR|IBRD|member
+RL|IBRD|member
+J|IBRD|member
+ROK|IBRD|member
+MV|IBRD|member
+OM|IBRD|member
+UAE|IBRD|member
+YE|IBRD|member
+RP|IBRD|member
+Q|IBRD|member
+SGP|IBRD|member
+CL|IBRD|member
+AG|IBRD|member
+BS|IBRD|member
+BDS|IBRD|member
+BZ|IBRD|member
+GCA|IBRD|member
+MEX|IBRD|member
+CDN|IBRD|member
+USA|IBRD|member
+CR|IBRD|member
+NIC|IBRD|member
+PA|IBRD|member
+WD|IBRD|member
+DOM|IBRD|member
+RH|IBRD|member
+ES|IBRD|member
+HCA|IBRD|member
+WG|IBRD|member
+JA|IBRD|member
+CO|IBRD|member
+KN|IBRD|member
+WL|IBRD|member
+WV|IBRD|member
+TT|IBRD|member
+AUS|IBRD|member
+FJI|IBRD|member
+KIR|IBRD|member
+MH|IBRD|member
+NZ|IBRD|member
+SLB|IBRD|member
+TO|IBRD|member
+VU|IBRD|member
+WS|IBRD|member
+RA|IBRD|member
+BOL|IBRD|member
+BR|IBRD|member
+RCH|IBRD|member
+PY|IBRD|member
+ROU|IBRD|member
+PE|IBRD|member
+GUY|IBRD|member
+SME|IBRD|member
+YV|IBRD|member
+EC|IBRD|member
+DZ|IBRD|member
+LAR|IBRD|member
+RMM|IBRD|member
+RIM|IBRD|member
+MA|IBRD|member
+RN|IBRD|member
+TN|IBRD|member
+ANG|IBRD|member
+RCB|IBRD|member
+NAM|IBRD|member
+ZRE|IBRD|member
+Z|IBRD|member
+BEN|IBRD|member
+BF|IBRD|member
+WAN|IBRD|member
+RT|IBRD|member
+RB|IBRD|member
+RSA|IBRD|member
+ZW|IBRD|member
+CI|IBRD|member
+GH|IBRD|member
+BI|IBRD|member
+RWA|IBRD|member
+EAT|IBRD|member
+CAM|IBRD|member
+RCA|IBRD|member
+TCH|IBRD|member
+GQ|IBRD|member
+G|IBRD|member
+CV|IBRD|member
+SUD|IBRD|member
+COM|IBRD|member
+RG|IBRD|member
+LB|IBRD|member
+DJI|IBRD|member
+ER|IBRD|member
+ETH|IBRD|member
+SP|IBRD|member
+EAK|IBRD|member
+WAG|IBRD|member
+SN|IBRD|member
+GNB|IBRD|member
+WAL|IBRD|member
+EAU|IBRD|member
+LS|IBRD|member
+RM|IBRD|member
+MW|IBRD|member
+MOC|IBRD|member
+MS|IBRD|member
+SD|IBRD|member
+STP|IBRD|member
+SY|IBRD|member
+GR|ICC|member
+SRB|ICC|member
+F|ICC|member
+E|ICC|member
+A|ICC|member
+D|ICC|member
+I|ICC|member
+CH|ICC|member
+B|ICC|member
+L|ICC|member
+NL|ICC|member
+TR|ICC|member
+DK|ICC|member
+SF|ICC|member
+N|ICC|member
+S|ICC|member
+IS|ICC|member
+IRL|ICC|member
+P|ICC|member
+GB|ICC|member
+IR|ICC|member
+PK|ICC|member
+IND|ICC|member
+HONX|ICC|member
+CY|ICC|member
+IL|ICC|member
+ET|ICC|member
+RI|ICC|member
+JOR|ICC|member
+KWT|ICC|member
+SA|ICC|member
+SYR|ICC|member
+RL|ICC|member
+J|ICC|member
+ROK|ICC|member
+SGP|ICC|member
+CL|ICC|member
+RC|ICC|member
+MEX|ICC|member
+CDN|ICC|member
+USA|ICC|member
+CO|ICC|member
+AUS|ICC|member
+RA|ICC|member
+BR|ICC|member
+ROU|ICC|member
+YV|ICC|member
+EC|ICC|member
+MA|ICC|member
+TN|ICC|member
+ZRE|ICC|member
+BF|ICC|member
+WAN|ICC|member
+RT|ICC|member
+RSA|ICC|member
+CI|ICC|member
+CAM|ICC|member
+G|ICC|member
+SN|ICC|member
+RM|ICC|member
+AL|ICAO|member
+GR|ICAO|member
+MK|ICAO|member
+SRB|ICAO|member
+MNE|ICAO|member
+F|ICAO|member
+E|ICAO|member
+A|ICAO|member
+CZ|ICAO|member
+D|ICAO|member
+H|ICAO|member
+I|ICAO|member
+SK|ICAO|member
+SLO|ICAO|member
+CH|ICAO|member
+BY|ICAO|member
+LV|ICAO|member
+LT|ICAO|member
+PL|ICAO|member
+UA|ICAO|member
+R|ICAO|member
+B|ICAO|member
+L|ICAO|member
+NL|ICAO|member
+BIH|ICAO|member
+HR|ICAO|member
+BG|ICAO|member
+RO|ICAO|member
+TR|ICAO|member
+DK|ICAO|member
+EW|ICAO|member
+SF|ICAO|member
+N|ICAO|member
+S|ICAO|member
+MC|ICAO|member
+IS|ICAO|member
+IRL|ICAO|member
+RSM|ICAO|member
+M|ICAO|member
+MD|ICAO|member
+P|ICAO|member
+GB|ICAO|member
+AFG|ICAO|member
+TJ|ICAO|member
+IR|ICAO|member
+PK|ICAO|member
+TAD|ICAO|member
+TM|ICAO|member
+UZB|ICAO|member
+ARM|ICAO|member
+GE|ICAO|member
+AZ|ICAO|member
+BRN|ICAO|member
+BD|ICAO|member
+MYA|ICAO|member
+IND|ICAO|member
+BHT|ICAO|member
+BRU|ICAO|member
+MAL|ICAO|member
+LAO|ICAO|member
+THA|ICAO|member
+K|ICAO|member
+VN|ICAO|member
+KAZ|ICAO|member
+NOK|ICAO|member
+KGZ|ICAO|member
+MNG|ICAO|member
+NEP|ICAO|member
+CY|ICAO|member
+IL|ICAO|member
+ET|ICAO|member
+RI|ICAO|member
+TL|ICAO|member
+PNG|ICAO|member
+IRQ|ICAO|member
+JOR|ICAO|member
+KWT|ICAO|member
+SA|ICAO|member
+SYR|ICAO|member
+RL|ICAO|member
+J|ICAO|member
+ROK|ICAO|member
+MV|ICAO|member
+OM|ICAO|member
+UAE|ICAO|member
+YE|ICAO|member
+RP|ICAO|member
+Q|ICAO|member
+SGP|ICAO|member
+CL|ICAO|member
+AG|ICAO|member
+BS|ICAO|member
+BDS|ICAO|member
+BZ|ICAO|member
+GCA|ICAO|member
+MEX|ICAO|member
+CDN|ICAO|member
+USA|ICAO|member
+CR|ICAO|member
+NIC|ICAO|member
+PA|ICAO|member
+C|ICAO|member
+DOM|ICAO|member
+RH|ICAO|member
+ES|ICAO|member
+HCA|ICAO|member
+WG|ICAO|member
+JA|ICAO|member
+CO|ICAO|member
+WL|ICAO|member
+WV|ICAO|member
+TT|ICAO|member
+AUS|ICAO|member
+COOK|ICAO|member
+FJI|ICAO|member
+KIR|ICAO|member
+MH|ICAO|member
+NAU|ICAO|member
+NZ|ICAO|member
+SLB|ICAO|member
+TO|ICAO|member
+VU|ICAO|member
+RA|ICAO|member
+BOL|ICAO|member
+BR|ICAO|member
+RCH|ICAO|member
+PY|ICAO|member
+ROU|ICAO|member
+PE|ICAO|member
+GUY|ICAO|member
+SME|ICAO|member
+YV|ICAO|member
+EC|ICAO|member
+DZ|ICAO|member
+LAR|ICAO|member
+RMM|ICAO|member
+RIM|ICAO|member
+MA|ICAO|member
+RN|ICAO|member
+TN|ICAO|member
+ANG|ICAO|member
+RCB|ICAO|member
+NAM|ICAO|member
+ZRE|ICAO|member
+Z|ICAO|member
+BEN|ICAO|member
+BF|ICAO|member
+WAN|ICAO|member
+RT|ICAO|member
+RB|ICAO|member
+RSA|ICAO|member
+ZW|ICAO|member
+CI|ICAO|member
+GH|ICAO|member
+BI|ICAO|member
+RWA|ICAO|member
+EAT|ICAO|member
+CAM|ICAO|member
+RCA|ICAO|member
+TCH|ICAO|member
+GQ|ICAO|member
+G|ICAO|member
+CV|ICAO|member
+SUD|ICAO|member
+COM|ICAO|member
+RG|ICAO|member
+LB|ICAO|member
+DJI|ICAO|member
+ER|ICAO|member
+ETH|ICAO|member
+SP|ICAO|member
+EAK|ICAO|member
+WAG|ICAO|member
+SN|ICAO|member
+GNB|ICAO|member
+WAL|ICAO|member
+EAU|ICAO|member
+LS|ICAO|member
+RM|ICAO|member
+MW|ICAO|member
+MOC|ICAO|member
+MS|ICAO|member
+SD|ICAO|member
+STP|ICAO|member
+SY|ICAO|member
+GR|ICFTU|member
+F|ICFTU|member
+E|ICFTU|member
+A|ICFTU|member
+CZ|ICFTU|member
+D|ICFTU|member
+I|ICFTU|member
+SK|ICFTU|member
+CH|ICFTU|member
+PL|ICFTU|member
+B|ICFTU|member
+L|ICFTU|member
+NL|ICFTU|member
+BG|ICFTU|member
+RO|ICFTU|member
+TR|ICFTU|member
+DK|ICFTU|member
+EW|ICFTU|member
+SF|ICFTU|member
+N|ICFTU|member
+S|ICFTU|member
+V|ICFTU|member
+IS|ICFTU|member
+RSM|ICFTU|member
+M|ICFTU|member
+P|ICFTU|member
+GB|ICFTU|member
+TJ|ICFTU|member
+PK|ICFTU|member
+BD|ICFTU|member
+IND|ICFTU|member
+MAL|ICFTU|member
+THA|ICFTU|member
+CY|ICFTU|member
+IL|ICFTU|member
+RI|ICFTU|member
+PNG|ICFTU|member
+RL|ICFTU|member
+J|ICFTU|member
+ROK|ICFTU|member
+RP|ICFTU|member
+SGP|ICFTU|member
+CL|ICFTU|member
+AG|ICFTU|member
+BS|ICFTU|member
+BDS|ICFTU|member
+BZ|ICFTU|member
+GCA|ICFTU|member
+MEX|ICFTU|member
+BERM|ICFTU|member
+CDN|ICFTU|member
+USA|ICFTU|member
+CR|ICFTU|member
+NIC|ICFTU|member
+PA|ICFTU|member
+WD|ICFTU|member
+DOM|ICFTU|member
+ES|ICFTU|member
+HCA|ICFTU|member
+WG|ICFTU|member
+JA|ICFTU|member
+CO|ICFTU|member
+KN|ICFTU|member
+WL|ICFTU|member
+WV|ICFTU|member
+TT|ICFTU|member
+AUS|ICFTU|member
+FJI|ICFTU|member
+FPOL|ICFTU|member
+KIR|ICFTU|member
+NZ|ICFTU|member
+TO|ICFTU|member
+WS|ICFTU|member
+RA|ICFTU|member
+BR|ICFTU|member
+RCH|ICFTU|member
+PY|ICFTU|member
+PE|ICFTU|member
+GUY|ICFTU|member
+SME|ICFTU|member
+YV|ICFTU|member
+EC|ICFTU|member
+RMM|ICFTU|member
+MA|ICFTU|member
+TN|ICFTU|member
+Z|ICFTU|member
+BEN|ICFTU|member
+BF|ICFTU|member
+RT|ICFTU|member
+RB|ICFTU|member
+ZW|ICFTU|member
+GH|ICFTU|member
+RWA|ICFTU|member
+CAM|ICFTU|member
+TCH|ICFTU|member
+G|ICFTU|member
+CV|ICFTU|member
+LB|ICFTU|member
+EAK|ICFTU|member
+WAG|ICFTU|member
+SN|ICFTU|member
+WAL|ICFTU|member
+EAU|ICFTU|member
+LS|ICFTU|member
+RM|ICFTU|member
+MW|ICFTU|member
+MS|ICFTU|member
+SD|ICFTU|member
+HELX|ICFTU|member
+SY|ICFTU|member
+AL|Interpol|member
+GR|Interpol|member
+MK|Interpol|member
+SRB|Interpol|member
+MNE|Interpol|member
+AND|Interpol|member
+F|Interpol|member
+E|Interpol|member
+A|Interpol|member
+CZ|Interpol|member
+D|Interpol|member
+H|Interpol|member
+I|Interpol|member
+FL|Interpol|member
+SK|Interpol|member
+SLO|Interpol|member
+CH|Interpol|member
+BY|Interpol|member
+LV|Interpol|member
+LT|Interpol|member
+PL|Interpol|member
+UA|Interpol|member
+R|Interpol|member
+B|Interpol|member
+L|Interpol|member
+NL|Interpol|member
+BIH|Interpol|member
+HR|Interpol|member
+BG|Interpol|member
+RO|Interpol|member
+TR|Interpol|member
+DK|Interpol|member
+EW|Interpol|member
+SF|Interpol|member
+N|Interpol|member
+S|Interpol|member
+MC|Interpol|member
+IS|Interpol|member
+IRL|Interpol|member
+M|Interpol|member
+MD|Interpol|member
+P|Interpol|member
+GB|Interpol|member
+TJ|Interpol|member
+IR|Interpol|member
+PK|Interpol|member
+UZB|Interpol|member
+ARM|Interpol|member
+GE|Interpol|member
+AZ|Interpol|member
+BRN|Interpol|member
+BD|Interpol|member
+MYA|Interpol|member
+IND|Interpol|member
+BRU|Interpol|member
+MAL|Interpol|member
+LAO|Interpol|member
+THA|Interpol|member
+K|Interpol|member
+VN|Interpol|member
+KAZ|Interpol|member
+MNG|Interpol|member
+NEP|Interpol|member
+CY|Interpol|member
+IL|Interpol|member
+ET|Interpol|member
+RI|Interpol|member
+TL|Interpol|member
+PNG|Interpol|member
+IRQ|Interpol|member
+JOR|Interpol|member
+KWT|Interpol|member
+SA|Interpol|member
+SYR|Interpol|member
+RL|Interpol|member
+J|Interpol|member
+ROK|Interpol|member
+MV|Interpol|member
+OM|Interpol|member
+UAE|Interpol|member
+YE|Interpol|member
+RP|Interpol|member
+Q|Interpol|member
+SGP|Interpol|member
+CL|Interpol|member
+AG|Interpol|member
+ARU|Interpol|member
+BS|Interpol|member
+BDS|Interpol|member
+BZ|Interpol|member
+GCA|Interpol|member
+MEX|Interpol|member
+CDN|Interpol|member
+USA|Interpol|member
+CR|Interpol|member
+NIC|Interpol|member
+PA|Interpol|member
+C|Interpol|member
+WD|Interpol|member
+DOM|Interpol|member
+RH|Interpol|member
+ES|Interpol|member
+HCA|Interpol|member
+WG|Interpol|member
+JA|Interpol|member
+NA|Interpol|member
+CO|Interpol|member
+KN|Interpol|member
+WL|Interpol|member
+WV|Interpol|member
+TT|Interpol|member
+AUS|Interpol|member
+FJI|Interpol|member
+KIR|Interpol|member
+MH|Interpol|member
+NAU|Interpol|member
+NZ|Interpol|member
+TO|Interpol|member
+RA|Interpol|member
+BOL|Interpol|member
+BR|Interpol|member
+RCH|Interpol|member
+PY|Interpol|member
+ROU|Interpol|member
+PE|Interpol|member
+GUY|Interpol|member
+SME|Interpol|member
+YV|Interpol|member
+EC|Interpol|member
+DZ|Interpol|member
+LAR|Interpol|member
+RMM|Interpol|member
+RIM|Interpol|member
+MA|Interpol|member
+RN|Interpol|member
+TN|Interpol|member
+ANG|Interpol|member
+RCB|Interpol|member
+NAM|Interpol|member
+ZRE|Interpol|member
+Z|Interpol|member
+BEN|Interpol|member
+BF|Interpol|member
+WAN|Interpol|member
+RT|Interpol|member
+RB|Interpol|member
+RSA|Interpol|member
+ZW|Interpol|member
+CI|Interpol|member
+GH|Interpol|member
+BI|Interpol|member
+RWA|Interpol|member
+EAT|Interpol|member
+CAM|Interpol|member
+RCA|Interpol|member
+TCH|Interpol|member
+GQ|Interpol|member
+G|Interpol|member
+CV|Interpol|member
+SUD|Interpol|member
+RG|Interpol|member
+LB|Interpol|member
+DJI|Interpol|member
+ETH|Interpol|member
+SP|Interpol|member
+EAK|Interpol|member
+WAG|Interpol|member
+SN|Interpol|member
+GNB|Interpol|member
+WAL|Interpol|member
+EAU|Interpol|member
+LS|Interpol|member
+RM|Interpol|member
+MW|Interpol|member
+MOC|Interpol|member
+MS|Interpol|member
+SD|Interpol|member
+STP|Interpol|member
+SY|Interpol|member
+GBZ|Interpol|subbureau
+AXA|Interpol|subbureau
+BERM|Interpol|subbureau
+BVIR|Interpol|subbureau
+CAYM|Interpol|subbureau
+MNTS|Interpol|subbureau
+PR|Interpol|subbureau
+TUCA|Interpol|subbureau
+AMSA|Interpol|subbureau
+F|IDA|Part I
+A|IDA|Part I
+D|IDA|Part I
+I|IDA|Part I
+CH|IDA|Part I
+R|IDA|Part I
+B|IDA|Part I
+L|IDA|Part I
+NL|IDA|Part I
+DK|IDA|Part I
+SF|IDA|Part I
+N|IDA|Part I
+S|IDA|Part I
+IS|IDA|Part I
+IRL|IDA|Part I
+GB|IDA|Part I
+KWT|IDA|Part I
+J|IDA|Part I
+UAE|IDA|Part I
+CDN|IDA|Part I
+USA|IDA|Part I
+AUS|IDA|Part I
+NZ|IDA|Part I
+RSA|IDA|Part I
+AL|IDA|Part II
+GR|IDA|Part II
+MK|IDA|Part II
+SRB|IDA|Part II
+MNE|IDA|Part II
+E|IDA|Part II
+CZ|IDA|Part II
+H|IDA|Part II
+SK|IDA|Part II
+SLO|IDA|Part II
+LV|IDA|Part II
+PL|IDA|Part II
+HR|IDA|Part II
+TR|IDA|Part II
+MD|IDA|Part II
+P|IDA|Part II
+AFG|IDA|Part II
+TJ|IDA|Part II
+IR|IDA|Part II
+PK|IDA|Part II
+TAD|IDA|Part II
+UZB|IDA|Part II
+ARM|IDA|Part II
+GE|IDA|Part II
+AZ|IDA|Part II
+BD|IDA|Part II
+MYA|IDA|Part II
+IND|IDA|Part II
+BHT|IDA|Part II
+MAL|IDA|Part II
+LAO|IDA|Part II
+THA|IDA|Part II
+K|IDA|Part II
+VN|IDA|Part II
+KAZ|IDA|Part II
+KGZ|IDA|Part II
+MNG|IDA|Part II
+NEP|IDA|Part II
+CY|IDA|Part II
+IL|IDA|Part II
+ET|IDA|Part II
+RI|IDA|Part II
+TL|IDA|Part II
+PNG|IDA|Part II
+IRQ|IDA|Part II
+JOR|IDA|Part II
+SA|IDA|Part II
+SYR|IDA|Part II
+RL|IDA|Part II
+ROK|IDA|Part II
+MV|IDA|Part II
+OM|IDA|Part II
+YE|IDA|Part II
+RP|IDA|Part II
+CL|IDA|Part II
+BZ|IDA|Part II
+GCA|IDA|Part II
+MEX|IDA|Part II
+CR|IDA|Part II
+NIC|IDA|Part II
+PA|IDA|Part II
+WD|IDA|Part II
+DOM|IDA|Part II
+RH|IDA|Part II
+ES|IDA|Part II
+HCA|IDA|Part II
+WG|IDA|Part II
+CO|IDA|Part II
+KN|IDA|Part II
+WL|IDA|Part II
+WV|IDA|Part II
+TT|IDA|Part II
+FJI|IDA|Part II
+KIR|IDA|Part II
+MH|IDA|Part II
+SLB|IDA|Part II
+TO|IDA|Part II
+VU|IDA|Part II
+WS|IDA|Part II
+RA|IDA|Part II
+BOL|IDA|Part II
+BR|IDA|Part II
+RCH|IDA|Part II
+PY|IDA|Part II
+PE|IDA|Part II
+GUY|IDA|Part II
+EC|IDA|Part II
+DZ|IDA|Part II
+LAR|IDA|Part II
+RMM|IDA|Part II
+RIM|IDA|Part II
+MA|IDA|Part II
+RN|IDA|Part II
+TN|IDA|Part II
+ANG|IDA|Part II
+RCB|IDA|Part II
+ZRE|IDA|Part II
+Z|IDA|Part II
+BEN|IDA|Part II
+BF|IDA|Part II
+WAN|IDA|Part II
+RT|IDA|Part II
+RB|IDA|Part II
+ZW|IDA|Part II
+CI|IDA|Part II
+GH|IDA|Part II
+BI|IDA|Part II
+RWA|IDA|Part II
+EAT|IDA|Part II
+CAM|IDA|Part II
+RCA|IDA|Part II
+TCH|IDA|Part II
+GQ|IDA|Part II
+G|IDA|Part II
+CV|IDA|Part II
+SUD|IDA|Part II
+COM|IDA|Part II
+RG|IDA|Part II
+LB|IDA|Part II
+DJI|IDA|Part II
+ER|IDA|Part II
+ETH|IDA|Part II
+SP|IDA|Part II
+EAK|IDA|Part II
+WAG|IDA|Part II
+SN|IDA|Part II
+GNB|IDA|Part II
+WAL|IDA|Part II
+EAU|IDA|Part II
+LS|IDA|Part II
+RM|IDA|Part II
+MW|IDA|Part II
+MOC|IDA|Part II
+MS|IDA|Part II
+SD|IDA|Part II
+STP|IDA|Part II
+GR|IEA|member
+F|IEA|member
+E|IEA|member
+A|IEA|member
+D|IEA|member
+I|IEA|member
+CH|IEA|member
+B|IEA|member
+L|IEA|member
+NL|IEA|member
+TR|IEA|member
+DK|IEA|member
+SF|IEA|member
+N|IEA|member
+S|IEA|member
+IRL|IEA|member
+P|IEA|member
+GB|IEA|member
+J|IEA|member
+CDN|IEA|member
+USA|IEA|member
+AUS|IEA|member
+NZ|IEA|member
+AL|IFRCS|member
+GR|IFRCS|member
+MK|IFRCS|member
+SRB|IFRCS|member
+MNE|IFRCS|member
+AND|IFRCS|member
+F|IFRCS|member
+E|IFRCS|member
+A|IFRCS|member
+CZ|IFRCS|member
+D|IFRCS|member
+H|IFRCS|member
+I|IFRCS|member
+FL|IFRCS|member
+SK|IFRCS|member
+SLO|IFRCS|member
+CH|IFRCS|member
+BY|IFRCS|member
+LV|IFRCS|member
+LT|IFRCS|member
+PL|IFRCS|member
+UA|IFRCS|member
+R|IFRCS|member
+B|IFRCS|member
+L|IFRCS|member
+NL|IFRCS|member
+HR|IFRCS|member
+BG|IFRCS|member
+RO|IFRCS|member
+TR|IFRCS|member
+DK|IFRCS|member
+EW|IFRCS|member
+SF|IFRCS|member
+N|IFRCS|member
+S|IFRCS|member
+MC|IFRCS|member
+IS|IFRCS|member
+IRL|IFRCS|member
+RSM|IFRCS|member
+M|IFRCS|member
+P|IFRCS|member
+GB|IFRCS|member
+AFG|IFRCS|member
+TJ|IFRCS|member
+IR|IFRCS|member
+PK|IFRCS|member
+TM|IFRCS|member
+UZB|IFRCS|member
+ARM|IFRCS|member
+AZ|IFRCS|member
+BRN|IFRCS|member
+BD|IFRCS|member
+MYA|IFRCS|member
+IND|IFRCS|member
+MAL|IFRCS|member
+LAO|IFRCS|member
+THA|IFRCS|member
+K|IFRCS|member
+VN|IFRCS|member
+NOK|IFRCS|member
+MNG|IFRCS|member
+NEP|IFRCS|member
+ET|IFRCS|member
+RI|IFRCS|member
+TL|IFRCS|member
+PNG|IFRCS|member
+IRQ|IFRCS|member
+JOR|IFRCS|member
+KWT|IFRCS|member
+SA|IFRCS|member
+SYR|IFRCS|member
+RL|IFRCS|member
+J|IFRCS|member
+ROK|IFRCS|member
+UAE|IFRCS|member
+YE|IFRCS|member
+RP|IFRCS|member
+Q|IFRCS|member
+SGP|IFRCS|member
+CL|IFRCS|member
+AG|IFRCS|member
+BS|IFRCS|member
+BDS|IFRCS|member
+BZ|IFRCS|member
+GCA|IFRCS|member
+MEX|IFRCS|member
+CDN|IFRCS|member
+USA|IFRCS|member
+CR|IFRCS|member
+NIC|IFRCS|member
+PA|IFRCS|member
+C|IFRCS|member
+WD|IFRCS|member
+DOM|IFRCS|member
+RH|IFRCS|member
+ES|IFRCS|member
+HCA|IFRCS|member
+WG|IFRCS|member
+JA|IFRCS|member
+CO|IFRCS|member
+KN|IFRCS|member
+WL|IFRCS|member
+WV|IFRCS|member
+TT|IFRCS|member
+AUS|IFRCS|member
+COOK|IFRCS|member
+FJI|IFRCS|member
+NZ|IFRCS|member
+SLB|IFRCS|member
+TO|IFRCS|member
+VU|IFRCS|member
+WS|IFRCS|member
+RA|IFRCS|member
+BOL|IFRCS|member
+BR|IFRCS|member
+RCH|IFRCS|member
+PY|IFRCS|member
+ROU|IFRCS|member
+PE|IFRCS|member
+GUY|IFRCS|member
+SME|IFRCS|member
+YV|IFRCS|member
+EC|IFRCS|member
+DZ|IFRCS|member
+LAR|IFRCS|member
+RMM|IFRCS|member
+RIM|IFRCS|member
+MA|IFRCS|member
+RN|IFRCS|member
+TN|IFRCS|member
+ANG|IFRCS|member
+RCB|IFRCS|member
+NAM|IFRCS|member
+ZRE|IFRCS|member
+Z|IFRCS|member
+BEN|IFRCS|member
+BF|IFRCS|member
+WAN|IFRCS|member
+RT|IFRCS|member
+RB|IFRCS|member
+RSA|IFRCS|member
+ZW|IFRCS|member
+CI|IFRCS|member
+GH|IFRCS|member
+BI|IFRCS|member
+RWA|IFRCS|member
+EAT|IFRCS|member
+CAM|IFRCS|member
+RCA|IFRCS|member
+TCH|IFRCS|member
+GQ|IFRCS|member
+CV|IFRCS|member
+SUD|IFRCS|member
+RG|IFRCS|member
+LB|IFRCS|member
+DJI|IFRCS|member
+ETH|IFRCS|member
+SP|IFRCS|member
+EAK|IFRCS|member
+WAG|IFRCS|member
+SN|IFRCS|member
+GNB|IFRCS|member
+WAL|IFRCS|member
+EAU|IFRCS|member
+LS|IFRCS|member
+RM|IFRCS|member
+MW|IFRCS|member
+MOC|IFRCS|member
+MS|IFRCS|member
+SD|IFRCS|member
+STP|IFRCS|member
+SY|IFRCS|member
+CY|IFRCS|associate member
+KIR|IFRCS|associate member
+TUV|IFRCS|associate member
+G|IFRCS|associate member
+COM|IFRCS|associate member
+AL|IFC|member
+GR|IFC|member
+MK|IFC|member
+SRB|IFC|member
+MNE|IFC|member
+F|IFC|member
+E|IFC|member
+A|IFC|member
+CZ|IFC|member
+D|IFC|member
+H|IFC|member
+I|IFC|member
+SK|IFC|member
+SLO|IFC|member
+CH|IFC|member
+BY|IFC|member
+LV|IFC|member
+LT|IFC|member
+PL|IFC|member
+UA|IFC|member
+R|IFC|member
+B|IFC|member
+L|IFC|member
+NL|IFC|member
+HR|IFC|member
+BG|IFC|member
+RO|IFC|member
+TR|IFC|member
+DK|IFC|member
+EW|IFC|member
+SF|IFC|member
+N|IFC|member
+S|IFC|member
+IS|IFC|member
+IRL|IFC|member
+MD|IFC|member
+P|IFC|member
+GB|IFC|member
+AFG|IFC|member
+TJ|IFC|member
+IR|IFC|member
+PK|IFC|member
+TAD|IFC|member
+UZB|IFC|member
+ARM|IFC|member
+GE|IFC|member
+BD|IFC|member
+MYA|IFC|member
+IND|IFC|member
+MAL|IFC|member
+LAO|IFC|member
+THA|IFC|member
+VN|IFC|member
+KAZ|IFC|member
+KGZ|IFC|member
+MNG|IFC|member
+NEP|IFC|member
+CY|IFC|member
+IL|IFC|member
+ET|IFC|member
+RI|IFC|member
+TL|IFC|member
+PNG|IFC|member
+IRQ|IFC|member
+JOR|IFC|member
+KWT|IFC|member
+SA|IFC|member
+SYR|IFC|member
+RL|IFC|member
+J|IFC|member
+ROK|IFC|member
+MV|IFC|member
+OM|IFC|member
+UAE|IFC|member
+YE|IFC|member
+RP|IFC|member
+SGP|IFC|member
+CL|IFC|member
+AG|IFC|member
+BS|IFC|member
+BDS|IFC|member
+BZ|IFC|member
+GCA|IFC|member
+MEX|IFC|member
+CDN|IFC|member
+USA|IFC|member
+CR|IFC|member
+NIC|IFC|member
+PA|IFC|member
+WD|IFC|member
+DOM|IFC|member
+RH|IFC|member
+ES|IFC|member
+HCA|IFC|member
+WG|IFC|member
+JA|IFC|member
+CO|IFC|member
+WL|IFC|member
+TT|IFC|member
+AUS|IFC|member
+FJI|IFC|member
+KIR|IFC|member
+MH|IFC|member
+NZ|IFC|member
+SLB|IFC|member
+TO|IFC|member
+VU|IFC|member
+WS|IFC|member
+RA|IFC|member
+BOL|IFC|member
+BR|IFC|member
+RCH|IFC|member
+PY|IFC|member
+ROU|IFC|member
+PE|IFC|member
+GUY|IFC|member
+YV|IFC|member
+EC|IFC|member
+DZ|IFC|member
+LAR|IFC|member
+RMM|IFC|member
+RIM|IFC|member
+MA|IFC|member
+RN|IFC|member
+TN|IFC|member
+ANG|IFC|member
+RCB|IFC|member
+NAM|IFC|member
+ZRE|IFC|member
+Z|IFC|member
+BEN|IFC|member
+BF|IFC|member
+WAN|IFC|member
+RT|IFC|member
+RB|IFC|member
+RSA|IFC|member
+ZW|IFC|member
+CI|IFC|member
+GH|IFC|member
+BI|IFC|member
+RWA|IFC|member
+EAT|IFC|member
+CAM|IFC|member
+RCA|IFC|member
+GQ|IFC|member
+G|IFC|member
+CV|IFC|member
+SUD|IFC|member
+COM|IFC|member
+RG|IFC|member
+LB|IFC|member
+DJI|IFC|member
+ETH|IFC|member
+SP|IFC|member
+EAK|IFC|member
+WAG|IFC|member
+SN|IFC|member
+GNB|IFC|member
+WAL|IFC|member
+EAU|IFC|member
+LS|IFC|member
+RM|IFC|member
+MW|IFC|member
+MOC|IFC|member
+MS|IFC|member
+SD|IFC|member
+SY|IFC|member
+GR|IFAD|Category I
+F|IFAD|Category I
+E|IFAD|Category I
+A|IFAD|Category I
+D|IFAD|Category I
+I|IFAD|Category I
+CH|IFAD|Category I
+B|IFAD|Category I
+L|IFAD|Category I
+NL|IFAD|Category I
+DK|IFAD|Category I
+SF|IFAD|Category I
+N|IFAD|Category I
+S|IFAD|Category I
+IRL|IFAD|Category I
+GB|IFAD|Category I
+J|IFAD|Category I
+CDN|IFAD|Category I
+USA|IFAD|Category I
+AUS|IFAD|Category I
+NZ|IFAD|Category I
+IR|IFAD|Category II
+RI|IFAD|Category II
+IRQ|IFAD|Category II
+KWT|IFAD|Category II
+SA|IFAD|Category II
+UAE|IFAD|Category II
+Q|IFAD|Category II
+YV|IFAD|Category II
+DZ|IFAD|Category II
+LAR|IFAD|Category II
+WAN|IFAD|Category II
+G|IFAD|Category II
+AL|IFAD|Category III
+MK|IFAD|Category III
+BIH|IFAD|Category III
+HR|IFAD|Category III
+RO|IFAD|Category III
+TR|IFAD|Category III
+M|IFAD|Category III
+P|IFAD|Category III
+AFG|IFAD|Category III
+TJ|IFAD|Category III
+PK|IFAD|Category III
+TAD|IFAD|Category III
+ARM|IFAD|Category III
+GE|IFAD|Category III
+AZ|IFAD|Category III
+BD|IFAD|Category III
+MYA|IFAD|Category III
+IND|IFAD|Category III
+BHT|IFAD|Category III
+MAL|IFAD|Category III
+LAO|IFAD|Category III
+THA|IFAD|Category III
+K|IFAD|Category III
+VN|IFAD|Category III
+NOK|IFAD|Category III
+KGZ|IFAD|Category III
+MNG|IFAD|Category III
+NEP|IFAD|Category III
+CY|IFAD|Category III
+IL|IFAD|Category III
+ET|IFAD|Category III
+TL|IFAD|Category III
+PNG|IFAD|Category III
+JOR|IFAD|Category III
+SYR|IFAD|Category III
+RL|IFAD|Category III
+ROK|IFAD|Category III
+MV|IFAD|Category III
+OM|IFAD|Category III
+YE|IFAD|Category III
+RP|IFAD|Category III
+CL|IFAD|Category III
+AG|IFAD|Category III
+BDS|IFAD|Category III
+BZ|IFAD|Category III
+GCA|IFAD|Category III
+MEX|IFAD|Category III
+CR|IFAD|Category III
+NIC|IFAD|Category III
+PA|IFAD|Category III
+C|IFAD|Category III
+WD|IFAD|Category III
+DOM|IFAD|Category III
+RH|IFAD|Category III
+ES|IFAD|Category III
+HCA|IFAD|Category III
+WG|IFAD|Category III
+JA|IFAD|Category III
+CO|IFAD|Category III
+KN|IFAD|Category III
+WL|IFAD|Category III
+WV|IFAD|Category III
+TT|IFAD|Category III
+COOK|IFAD|Category III
+FJI|IFAD|Category III
+NIUE|IFAD|Category III
+SLB|IFAD|Category III
+TO|IFAD|Category III
+WS|IFAD|Category III
+RA|IFAD|Category III
+BOL|IFAD|Category III
+BR|IFAD|Category III
+RCH|IFAD|Category III
+PY|IFAD|Category III
+ROU|IFAD|Category III
+PE|IFAD|Category III
+GUY|IFAD|Category III
+SME|IFAD|Category III
+EC|IFAD|Category III
+RMM|IFAD|Category III
+RIM|IFAD|Category III
+MA|IFAD|Category III
+RN|IFAD|Category III
+TN|IFAD|Category III
+ANG|IFAD|Category III
+RCB|IFAD|Category III
+NAM|IFAD|Category III
+ZRE|IFAD|Category III
+Z|IFAD|Category III
+BEN|IFAD|Category III
+BF|IFAD|Category III
+RT|IFAD|Category III
+RB|IFAD|Category III
+ZW|IFAD|Category III
+CI|IFAD|Category III
+GH|IFAD|Category III
+BI|IFAD|Category III
+RWA|IFAD|Category III
+EAT|IFAD|Category III
+CAM|IFAD|Category III
+RCA|IFAD|Category III
+TCH|IFAD|Category III
+GQ|IFAD|Category III
+CV|IFAD|Category III
+SUD|IFAD|Category III
+COM|IFAD|Category III
+RG|IFAD|Category III
+LB|IFAD|Category III
+DJI|IFAD|Category III
+ER|IFAD|Category III
+ETH|IFAD|Category III
+SP|IFAD|Category III
+EAK|IFAD|Category III
+WAG|IFAD|Category III
+SN|IFAD|Category III
+GNB|IFAD|Category III
+WAL|IFAD|Category III
+EAU|IFAD|Category III
+LS|IFAD|Category III
+RM|IFAD|Category III
+MW|IFAD|Category III
+MOC|IFAD|Category III
+MS|IFAD|Category III
+SD|IFAD|Category III
+STP|IFAD|Category III
+SY|IFAD|Category III
+AL|ILO|member
+GR|ILO|member
+MK|ILO|member
+SRB|ILO|member
+MNE|ILO|member
+F|ILO|member
+E|ILO|member
+A|ILO|member
+CZ|ILO|member
+D|ILO|member
+H|ILO|member
+I|ILO|member
+SK|ILO|member
+SLO|ILO|member
+CH|ILO|member
+BY|ILO|member
+LV|ILO|member
+LT|ILO|member
+PL|ILO|member
+UA|ILO|member
+R|ILO|member
+B|ILO|member
+L|ILO|member
+NL|ILO|member
+BIH|ILO|member
+HR|ILO|member
+BG|ILO|member
+RO|ILO|member
+TR|ILO|member
+DK|ILO|member
+EW|ILO|member
+SF|ILO|member
+N|ILO|member
+S|ILO|member
+IS|ILO|member
+IRL|ILO|member
+RSM|ILO|member
+M|ILO|member
+MD|ILO|member
+P|ILO|member
+GB|ILO|member
+AFG|ILO|member
+TJ|ILO|member
+IR|ILO|member
+PK|ILO|member
+TAD|ILO|member
+TM|ILO|member
+UZB|ILO|member
+ARM|ILO|member
+GE|ILO|member
+AZ|ILO|member
+BRN|ILO|member
+BD|ILO|member
+MYA|ILO|member
+IND|ILO|member
+MAL|ILO|member
+LAO|ILO|member
+THA|ILO|member
+K|ILO|member
+VN|ILO|member
+KAZ|ILO|member
+KGZ|ILO|member
+MNG|ILO|member
+NEP|ILO|member
+CY|ILO|member
+IL|ILO|member
+ET|ILO|member
+RI|ILO|member
+TL|ILO|member
+PNG|ILO|member
+IRQ|ILO|member
+JOR|ILO|member
+KWT|ILO|member
+SA|ILO|member
+SYR|ILO|member
+RL|ILO|member
+J|ILO|member
+ROK|ILO|member
+OM|ILO|member
+UAE|ILO|member
+YE|ILO|member
+RP|ILO|member
+Q|ILO|member
+SGP|ILO|member
+CL|ILO|member
+AG|ILO|member
+ARU|ILO|member
+BS|ILO|member
+BDS|ILO|member
+BZ|ILO|member
+GCA|ILO|member
+MEX|ILO|member
+CDN|ILO|member
+USA|ILO|member
+CR|ILO|member
+NIC|ILO|member
+PA|ILO|member
+C|ILO|member
+WD|ILO|member
+DOM|ILO|member
+RH|ILO|member
+ES|ILO|member
+HCA|ILO|member
+WG|ILO|member
+JA|ILO|member
+NA|ILO|member
+CO|ILO|member
+WL|ILO|member
+WV|ILO|member
+TT|ILO|member
+AUS|ILO|member
+FJI|ILO|member
+NZ|ILO|member
+SLB|ILO|member
+RA|ILO|member
+BOL|ILO|member
+BR|ILO|member
+RCH|ILO|member
+PY|ILO|member
+ROU|ILO|member
+PE|ILO|member
+GUY|ILO|member
+SME|ILO|member
+YV|ILO|member
+EC|ILO|member
+DZ|ILO|member
+LAR|ILO|member
+RMM|ILO|member
+RIM|ILO|member
+MA|ILO|member
+RN|ILO|member
+TN|ILO|member
+ANG|ILO|member
+RCB|ILO|member
+NAM|ILO|member
+ZRE|ILO|member
+Z|ILO|member
+BEN|ILO|member
+BF|ILO|member
+WAN|ILO|member
+RT|ILO|member
+RB|ILO|member
+RSA|ILO|member
+ZW|ILO|member
+CI|ILO|member
+GH|ILO|member
+BI|ILO|member
+RWA|ILO|member
+EAT|ILO|member
+CAM|ILO|member
+RCA|ILO|member
+TCH|ILO|member
+GQ|ILO|member
+G|ILO|member
+CV|ILO|member
+SUD|ILO|member
+COM|ILO|member
+RG|ILO|member
+LB|ILO|member
+DJI|ILO|member
+ER|ILO|member
+ETH|ILO|member
+SP|ILO|member
+EAK|ILO|member
+WAG|ILO|member
+SN|ILO|member
+GNB|ILO|member
+WAL|ILO|member
+EAU|ILO|member
+LS|ILO|member
+RM|ILO|member
+MW|ILO|member
+MOC|ILO|member
+MS|ILO|member
+SD|ILO|member
+STP|ILO|member
+SY|ILO|member
+AL|IMO|member
+GR|IMO|member
+MK|IMO|member
+SRB|IMO|member
+MNE|IMO|member
+F|IMO|member
+E|IMO|member
+A|IMO|member
+CZ|IMO|member
+D|IMO|member
+H|IMO|member
+I|IMO|member
+SK|IMO|member
+SLO|IMO|member
+CH|IMO|member
+LV|IMO|member
+PL|IMO|member
+UA|IMO|member
+R|IMO|member
+B|IMO|member
+L|IMO|member
+NL|IMO|member
+BIH|IMO|member
+HR|IMO|member
+BG|IMO|member
+RO|IMO|member
+TR|IMO|member
+DK|IMO|member
+EW|IMO|member
+SF|IMO|member
+N|IMO|member
+S|IMO|member
+MC|IMO|member
+IS|IMO|member
+IRL|IMO|member
+M|IMO|member
+P|IMO|member
+GB|IMO|member
+TJ|IMO|member
+IR|IMO|member
+PK|IMO|member
+TM|IMO|member
+GE|IMO|member
+AZ|IMO|member
+BRN|IMO|member
+BD|IMO|member
+MYA|IMO|member
+IND|IMO|member
+BRU|IMO|member
+MAL|IMO|member
+THA|IMO|member
+K|IMO|member
+VN|IMO|member
+KAZ|IMO|member
+NOK|IMO|member
+NEP|IMO|member
+CY|IMO|member
+IL|IMO|member
+ET|IMO|member
+RI|IMO|member
+TL|IMO|member
+PNG|IMO|member
+IRQ|IMO|member
+JOR|IMO|member
+KWT|IMO|member
+SA|IMO|member
+SYR|IMO|member
+RL|IMO|member
+J|IMO|member
+ROK|IMO|member
+MV|IMO|member
+OM|IMO|member
+UAE|IMO|member
+YE|IMO|member
+RP|IMO|member
+Q|IMO|member
+SGP|IMO|member
+CL|IMO|member
+AG|IMO|member
+BS|IMO|member
+BDS|IMO|member
+BZ|IMO|member
+GCA|IMO|member
+MEX|IMO|member
+CDN|IMO|member
+USA|IMO|member
+CR|IMO|member
+NIC|IMO|member
+PA|IMO|member
+C|IMO|member
+WD|IMO|member
+DOM|IMO|member
+RH|IMO|member
+ES|IMO|member
+HCA|IMO|member
+JA|IMO|member
+CO|IMO|member
+WL|IMO|member
+WV|IMO|member
+TT|IMO|member
+AUS|IMO|member
+FJI|IMO|member
+NZ|IMO|member
+SLB|IMO|member
+VU|IMO|member
+RA|IMO|member
+BOL|IMO|member
+BR|IMO|member
+RCH|IMO|member
+PY|IMO|member
+ROU|IMO|member
+PE|IMO|member
+GUY|IMO|member
+SME|IMO|member
+YV|IMO|member
+EC|IMO|member
+DZ|IMO|member
+LAR|IMO|member
+RIM|IMO|member
+MA|IMO|member
+TN|IMO|member
+ANG|IMO|member
+RCB|IMO|member
+NAM|IMO|member
+ZRE|IMO|member
+BEN|IMO|member
+WAN|IMO|member
+RT|IMO|member
+RSA|IMO|member
+CI|IMO|member
+GH|IMO|member
+EAT|IMO|member
+CAM|IMO|member
+GQ|IMO|member
+G|IMO|member
+CV|IMO|member
+SUD|IMO|member
+RG|IMO|member
+LB|IMO|member
+DJI|IMO|member
+ER|IMO|member
+ETH|IMO|member
+SP|IMO|member
+EAK|IMO|member
+WAG|IMO|member
+SN|IMO|member
+GNB|IMO|member
+WAL|IMO|member
+RM|IMO|member
+MW|IMO|member
+MOC|IMO|member
+MS|IMO|member
+STP|IMO|member
+SY|IMO|member
+HONX|IMO|associated
+MACX|IMO|associated
+GR|Inmarsat|member
+F|Inmarsat|member
+E|Inmarsat|member
+CZ|Inmarsat|member
+D|Inmarsat|member
+I|Inmarsat|member
+SK|Inmarsat|member
+CH|Inmarsat|member
+BY|Inmarsat|member
+PL|Inmarsat|member
+UA|Inmarsat|member
+R|Inmarsat|member
+B|Inmarsat|member
+NL|Inmarsat|member
+HR|Inmarsat|member
+BG|Inmarsat|member
+RO|Inmarsat|member
+TR|Inmarsat|member
+DK|Inmarsat|member
+SF|Inmarsat|member
+N|Inmarsat|member
+S|Inmarsat|member
+MC|Inmarsat|member
+IS|Inmarsat|member
+M|Inmarsat|member
+P|Inmarsat|member
+GB|Inmarsat|member
+TJ|Inmarsat|member
+IR|Inmarsat|member
+PK|Inmarsat|member
+GE|Inmarsat|member
+BRN|Inmarsat|member
+BD|Inmarsat|member
+IND|Inmarsat|member
+BRU|Inmarsat|member
+MAL|Inmarsat|member
+CY|Inmarsat|member
+IL|Inmarsat|member
+ET|Inmarsat|member
+RI|Inmarsat|member
+IRQ|Inmarsat|member
+KWT|Inmarsat|member
+SA|Inmarsat|member
+J|Inmarsat|member
+ROK|Inmarsat|member
+OM|Inmarsat|member
+UAE|Inmarsat|member
+RP|Inmarsat|member
+Q|Inmarsat|member
+SGP|Inmarsat|member
+CL|Inmarsat|member
+BS|Inmarsat|member
+MEX|Inmarsat|member
+CDN|Inmarsat|member
+USA|Inmarsat|member
+PA|Inmarsat|member
+C|Inmarsat|member
+CO|Inmarsat|member
+AUS|Inmarsat|member
+NZ|Inmarsat|member
+RA|Inmarsat|member
+BR|Inmarsat|member
+RCH|Inmarsat|member
+PE|Inmarsat|member
+DZ|Inmarsat|member
+TN|Inmarsat|member
+WAN|Inmarsat|member
+RSA|Inmarsat|member
+CAM|Inmarsat|member
+G|Inmarsat|member
+LB|Inmarsat|member
+SN|Inmarsat|member
+MOC|Inmarsat|member
+MS|Inmarsat|member
+AL|IMF|member
+GR|IMF|member
+MK|IMF|member
+SRB|IMF|member
+MNE|IMF|member
+F|IMF|member
+E|IMF|member
+A|IMF|member
+CZ|IMF|member
+D|IMF|member
+H|IMF|member
+I|IMF|member
+SK|IMF|member
+SLO|IMF|member
+CH|IMF|member
+BY|IMF|member
+LV|IMF|member
+LT|IMF|member
+PL|IMF|member
+UA|IMF|member
+R|IMF|member
+B|IMF|member
+L|IMF|member
+NL|IMF|member
+HR|IMF|member
+BG|IMF|member
+RO|IMF|member
+TR|IMF|member
+DK|IMF|member
+EW|IMF|member
+SF|IMF|member
+N|IMF|member
+S|IMF|member
+IS|IMF|member
+IRL|IMF|member
+RSM|IMF|member
+M|IMF|member
+MD|IMF|member
+P|IMF|member
+GB|IMF|member
+AFG|IMF|member
+TJ|IMF|member
+IR|IMF|member
+PK|IMF|member
+TAD|IMF|member
+TM|IMF|member
+UZB|IMF|member
+ARM|IMF|member
+GE|IMF|member
+AZ|IMF|member
+BRN|IMF|member
+BD|IMF|member
+MYA|IMF|member
+IND|IMF|member
+BHT|IMF|member
+BRU|IMF|member
+MAL|IMF|member
+LAO|IMF|member
+THA|IMF|member
+K|IMF|member
+VN|IMF|member
+KAZ|IMF|member
+KGZ|IMF|member
+HONX|IMF|member
+MACX|IMF|member
+MNG|IMF|member
+NEP|IMF|member
+CY|IMF|member
+IL|IMF|member
+ET|IMF|member
+RI|IMF|member
+TL|IMF|member
+PNG|IMF|member
+IRQ|IMF|member
+JOR|IMF|member
+KWT|IMF|member
+SA|IMF|member
+SYR|IMF|member
+RL|IMF|member
+J|IMF|member
+ROK|IMF|member
+MV|IMF|member
+OM|IMF|member
+UAE|IMF|member
+YE|IMF|member
+RP|IMF|member
+Q|IMF|member
+SGP|IMF|member
+CL|IMF|member
+AG|IMF|member
+ARU|IMF|member
+BS|IMF|member
+BDS|IMF|member
+BZ|IMF|member
+GCA|IMF|member
+MEX|IMF|member
+CDN|IMF|member
+USA|IMF|member
+CR|IMF|member
+NIC|IMF|member
+PA|IMF|member
+WD|IMF|member
+DOM|IMF|member
+RH|IMF|member
+ES|IMF|member
+HCA|IMF|member
+WG|IMF|member
+JA|IMF|member
+NA|IMF|member
+CO|IMF|member
+KN|IMF|member
+WL|IMF|member
+WV|IMF|member
+TT|IMF|member
+AUS|IMF|member
+FJI|IMF|member
+KIR|IMF|member
+MH|IMF|member
+NZ|IMF|member
+SLB|IMF|member
+TO|IMF|member
+VU|IMF|member
+WS|IMF|member
+RA|IMF|member
+BOL|IMF|member
+BR|IMF|member
+RCH|IMF|member
+PY|IMF|member
+ROU|IMF|member
+PE|IMF|member
+GUY|IMF|member
+SME|IMF|member
+YV|IMF|member
+EC|IMF|member
+DZ|IMF|member
+LAR|IMF|member
+RMM|IMF|member
+RIM|IMF|member
+MA|IMF|member
+RN|IMF|member
+TN|IMF|member
+ANG|IMF|member
+RCB|IMF|member
+NAM|IMF|member
+ZRE|IMF|member
+Z|IMF|member
+BEN|IMF|member
+BF|IMF|member
+WAN|IMF|member
+RT|IMF|member
+RB|IMF|member
+RSA|IMF|member
+ZW|IMF|member
+CI|IMF|member
+GH|IMF|member
+BI|IMF|member
+RWA|IMF|member
+EAT|IMF|member
+CAM|IMF|member
+RCA|IMF|member
+TCH|IMF|member
+GQ|IMF|member
+G|IMF|member
+CV|IMF|member
+SUD|IMF|member
+COM|IMF|member
+RG|IMF|member
+LB|IMF|member
+DJI|IMF|member
+ER|IMF|member
+ETH|IMF|member
+SP|IMF|member
+EAK|IMF|member
+WAG|IMF|member
+SN|IMF|member
+GNB|IMF|member
+WAL|IMF|member
+EAU|IMF|member
+LS|IMF|member
+RM|IMF|member
+MW|IMF|member
+MOC|IMF|member
+MS|IMF|member
+SD|IMF|member
+STP|IMF|member
+SY|IMF|member
+AL|IOC|National Olympic Committee
+GR|IOC|National Olympic Committee
+MK|IOC|National Olympic Committee
+SRB|IOC|National Olympic Committee
+MNE|IOC|National Olympic Committee
+AND|IOC|National Olympic Committee
+F|IOC|National Olympic Committee
+E|IOC|National Olympic Committee
+A|IOC|National Olympic Committee
+CZ|IOC|National Olympic Committee
+D|IOC|National Olympic Committee
+H|IOC|National Olympic Committee
+I|IOC|National Olympic Committee
+FL|IOC|National Olympic Committee
+SK|IOC|National Olympic Committee
+SLO|IOC|National Olympic Committee
+CH|IOC|National Olympic Committee
+BY|IOC|National Olympic Committee
+LV|IOC|National Olympic Committee
+LT|IOC|National Olympic Committee
+PL|IOC|National Olympic Committee
+UA|IOC|National Olympic Committee
+R|IOC|National Olympic Committee
+B|IOC|National Olympic Committee
+L|IOC|National Olympic Committee
+NL|IOC|National Olympic Committee
+BIH|IOC|National Olympic Committee
+HR|IOC|National Olympic Committee
+BG|IOC|National Olympic Committee
+RO|IOC|National Olympic Committee
+TR|IOC|National Olympic Committee
+DK|IOC|National Olympic Committee
+EW|IOC|National Olympic Committee
+SF|IOC|National Olympic Committee
+N|IOC|National Olympic Committee
+S|IOC|National Olympic Committee
+MC|IOC|National Olympic Committee
+IS|IOC|National Olympic Committee
+IRL|IOC|National Olympic Committee
+RSM|IOC|National Olympic Committee
+M|IOC|National Olympic Committee
+MD|IOC|National Olympic Committee
+P|IOC|National Olympic Committee
+GB|IOC|National Olympic Committee
+AFG|IOC|National Olympic Committee
+TJ|IOC|National Olympic Committee
+IR|IOC|National Olympic Committee
+PK|IOC|National Olympic Committee
+TAD|IOC|National Olympic Committee
+TM|IOC|National Olympic Committee
+UZB|IOC|National Olympic Committee
+ARM|IOC|National Olympic Committee
+GE|IOC|National Olympic Committee
+AZ|IOC|National Olympic Committee
+BRN|IOC|National Olympic Committee
+BD|IOC|National Olympic Committee
+MYA|IOC|National Olympic Committee
+IND|IOC|National Olympic Committee
+BHT|IOC|National Olympic Committee
+BRU|IOC|National Olympic Committee
+MAL|IOC|National Olympic Committee
+LAO|IOC|National Olympic Committee
+THA|IOC|National Olympic Committee
+VN|IOC|National Olympic Committee
+KAZ|IOC|National Olympic Committee
+NOK|IOC|National Olympic Committee
+KGZ|IOC|National Olympic Committee
+HONX|IOC|National Olympic Committee
+MNG|IOC|National Olympic Committee
+NEP|IOC|National Olympic Committee
+CY|IOC|National Olympic Committee
+IL|IOC|National Olympic Committee
+ET|IOC|National Olympic Committee
+RI|IOC|National Olympic Committee
+TL|IOC|National Olympic Committee
+PNG|IOC|National Olympic Committee
+IRQ|IOC|National Olympic Committee
+JOR|IOC|National Olympic Committee
+KWT|IOC|National Olympic Committee
+SA|IOC|National Olympic Committee
+SYR|IOC|National Olympic Committee
+RL|IOC|National Olympic Committee
+J|IOC|National Olympic Committee
+ROK|IOC|National Olympic Committee
+MV|IOC|National Olympic Committee
+OM|IOC|National Olympic Committee
+UAE|IOC|National Olympic Committee
+YE|IOC|National Olympic Committee
+RP|IOC|National Olympic Committee
+Q|IOC|National Olympic Committee
+SGP|IOC|National Olympic Committee
+CL|IOC|National Olympic Committee
+RC|IOC|National Olympic Committee
+AG|IOC|National Olympic Committee
+ARU|IOC|National Olympic Committee
+BS|IOC|National Olympic Committee
+BDS|IOC|National Olympic Committee
+BZ|IOC|National Olympic Committee
+GCA|IOC|National Olympic Committee
+MEX|IOC|National Olympic Committee
+BERM|IOC|National Olympic Committee
+BVIR|IOC|National Olympic Committee
+CDN|IOC|National Olympic Committee
+USA|IOC|National Olympic Committee
+CAYM|IOC|National Olympic Committee
+CR|IOC|National Olympic Committee
+NIC|IOC|National Olympic Committee
+PA|IOC|National Olympic Committee
+C|IOC|National Olympic Committee
+WD|IOC|National Olympic Committee
+DOM|IOC|National Olympic Committee
+RH|IOC|National Olympic Committee
+ES|IOC|National Olympic Committee
+HCA|IOC|National Olympic Committee
+WG|IOC|National Olympic Committee
+JA|IOC|National Olympic Committee
+NA|IOC|National Olympic Committee
+CO|IOC|National Olympic Committee
+PR|IOC|National Olympic Committee
+KN|IOC|National Olympic Committee
+WL|IOC|National Olympic Committee
+WV|IOC|National Olympic Committee
+TT|IOC|National Olympic Committee
+VIRG|IOC|National Olympic Committee
+AMSA|IOC|National Olympic Committee
+AUS|IOC|National Olympic Committee
+COOK|IOC|National Olympic Committee
+FJI|IOC|National Olympic Committee
+GUAM|IOC|National Olympic Committee
+NZ|IOC|National Olympic Committee
+SLB|IOC|National Olympic Committee
+TO|IOC|National Olympic Committee
+VU|IOC|National Olympic Committee
+WS|IOC|National Olympic Committee
+RA|IOC|National Olympic Committee
+BOL|IOC|National Olympic Committee
+BR|IOC|National Olympic Committee
+RCH|IOC|National Olympic Committee
+PY|IOC|National Olympic Committee
+ROU|IOC|National Olympic Committee
+PE|IOC|National Olympic Committee
+GUY|IOC|National Olympic Committee
+SME|IOC|National Olympic Committee
+YV|IOC|National Olympic Committee
+EC|IOC|National Olympic Committee
+DZ|IOC|National Olympic Committee
+LAR|IOC|National Olympic Committee
+RMM|IOC|National Olympic Committee
+RIM|IOC|National Olympic Committee
+MA|IOC|National Olympic Committee
+RN|IOC|National Olympic Committee
+TN|IOC|National Olympic Committee
+ANG|IOC|National Olympic Committee
+RCB|IOC|National Olympic Committee
+NAM|IOC|National Olympic Committee
+ZRE|IOC|National Olympic Committee
+Z|IOC|National Olympic Committee
+BEN|IOC|National Olympic Committee
+BF|IOC|National Olympic Committee
+WAN|IOC|National Olympic Committee
+RT|IOC|National Olympic Committee
+RB|IOC|National Olympic Committee
+RSA|IOC|National Olympic Committee
+ZW|IOC|National Olympic Committee
+CI|IOC|National Olympic Committee
+GH|IOC|National Olympic Committee
+BI|IOC|National Olympic Committee
+RWA|IOC|National Olympic Committee
+EAT|IOC|National Olympic Committee
+CAM|IOC|National Olympic Committee
+RCA|IOC|National Olympic Committee
+TCH|IOC|National Olympic Committee
+GQ|IOC|National Olympic Committee
+G|IOC|National Olympic Committee
+CV|IOC|National Olympic Committee
+SUD|IOC|National Olympic Committee
+COM|IOC|National Olympic Committee
+RG|IOC|National Olympic Committee
+LB|IOC|National Olympic Committee
+DJI|IOC|National Olympic Committee
+ETH|IOC|National Olympic Committee
+SP|IOC|National Olympic Committee
+EAK|IOC|National Olympic Committee
+WAG|IOC|National Olympic Committee
+SN|IOC|National Olympic Committee
+WAL|IOC|National Olympic Committee
+EAU|IOC|National Olympic Committee
+LS|IOC|National Olympic Committee
+RM|IOC|National Olympic Committee
+MW|IOC|National Olympic Committee
+MOC|IOC|National Olympic Committee
+MS|IOC|National Olympic Committee
+SD|IOC|National Olympic Committee
+REUN|IOC|National Olympic Committee
+STP|IOC|National Olympic Committee
+SY|IOC|National Olympic Committee
+AL|IOM|member
+GR|IOM|member
+SRB|IOM|member
+MNE|IOM|member
+F|IOM|member
+A|IOM|member
+D|IOM|member
+H|IOM|member
+I|IOM|member
+CH|IOM|member
+PL|IOM|member
+B|IOM|member
+L|IOM|member
+NL|IOM|member
+HR|IOM|member
+BG|IOM|member
+DK|IOM|member
+SF|IOM|member
+N|IOM|member
+S|IOM|member
+P|IOM|member
+PK|IOM|member
+TAD|IOM|member
+ARM|IOM|member
+BD|IOM|member
+THA|IOM|member
+CY|IOM|member
+IL|IOM|member
+ET|IOM|member
+J|IOM|member
+ROK|IOM|member
+RP|IOM|member
+CL|IOM|member
+GCA|IOM|member
+CDN|IOM|member
+USA|IOM|member
+CR|IOM|member
+NIC|IOM|member
+PA|IOM|member
+DOM|IOM|member
+RH|IOM|member
+ES|IOM|member
+HCA|IOM|member
+CO|IOM|member
+AUS|IOM|member
+RA|IOM|member
+BOL|IOM|member
+RCH|IOM|member
+PY|IOM|member
+ROU|IOM|member
+PE|IOM|member
+YV|IOM|member
+EC|IOM|member
+ANG|IOM|member
+Z|IOM|member
+EAK|IOM|member
+EAU|IOM|member
+E|IOM|observer
+CZ|IOM|observer
+SK|IOM|observer
+SLO|IOM|observer
+BY|IOM|observer
+LV|IOM|observer
+UA|IOM|observer
+R|IOM|observer
+BIH|IOM|observer
+RO|IOM|observer
+TR|IOM|observer
+V|IOM|observer
+RSM|IOM|observer
+M|IOM|observer
+MD|IOM|observer
+GB|IOM|observer
+AFG|IOM|observer
+IR|IOM|observer
+GE|IOM|observer
+IND|IOM|observer
+VN|IOM|observer
+KGZ|IOM|observer
+RI|IOM|observer
+JOR|IOM|observer
+BZ|IOM|observer
+MEX|IOM|observer
+NZ|IOM|observer
+BR|IOM|observer
+MA|IOM|observer
+NAM|IOM|observer
+ZW|IOM|observer
+GH|IOM|observer
+RWA|IOM|observer
+CV|IOM|observer
+SUD|IOM|observer
+LB|IOM|observer
+SP|IOM|observer
+GNB|IOM|observer
+MOC|IOM|observer
+STP|IOM|observer
+AL|ISO|member
+GR|ISO|member
+SRB|ISO|member
+MNE|ISO|member
+F|ISO|member
+E|ISO|member
+A|ISO|member
+CZ|ISO|member
+D|ISO|member
+H|ISO|member
+I|ISO|member
+SK|ISO|member
+SLO|ISO|member
+CH|ISO|member
+BY|ISO|member
+PL|ISO|member
+UA|ISO|member
+R|ISO|member
+B|ISO|member
+NL|ISO|member
+HR|ISO|member
+BG|ISO|member
+RO|ISO|member
+TR|ISO|member
+DK|ISO|member
+SF|ISO|member
+N|ISO|member
+S|ISO|member
+IS|ISO|member
+IRL|ISO|member
+P|ISO|member
+GB|ISO|member
+TJ|ISO|member
+IR|ISO|member
+PK|ISO|member
+UZB|ISO|member
+BD|ISO|member
+IND|ISO|member
+MAL|ISO|member
+THA|ISO|member
+VN|ISO|member
+NOK|ISO|member
+MNG|ISO|member
+CY|ISO|member
+IL|ISO|member
+ET|ISO|member
+RI|ISO|member
+SA|ISO|member
+SYR|ISO|member
+J|ISO|member
+ROK|ISO|member
+RP|ISO|member
+SGP|ISO|member
+CL|ISO|member
+MEX|ISO|member
+CDN|ISO|member
+USA|ISO|member
+C|ISO|member
+JA|ISO|member
+CO|ISO|member
+TT|ISO|member
+AUS|ISO|member
+NZ|ISO|member
+RA|ISO|member
+BR|ISO|member
+RCH|ISO|member
+ROU|ISO|member
+YV|ISO|member
+DZ|ISO|member
+LAR|ISO|member
+MA|ISO|member
+TN|ISO|member
+RSA|ISO|member
+ZW|ISO|member
+EAT|ISO|member
+ETH|ISO|member
+EAK|ISO|member
+LT|ISO|correspondent member
+EW|ISO|correspondent member
+M|ISO|correspondent member
+TM|ISO|correspondent member
+BRN|ISO|correspondent member
+BRU|ISO|correspondent member
+HONX|ISO|correspondent member
+MACX|ISO|correspondent member
+NEP|ISO|correspondent member
+PNG|ISO|correspondent member
+JOR|ISO|correspondent member
+KWT|ISO|correspondent member
+OM|ISO|correspondent member
+UAE|ISO|correspondent member
+Q|ISO|correspondent member
+BDS|ISO|correspondent member
+PE|ISO|correspondent member
+EAU|ISO|correspondent member
+MW|ISO|correspondent member
+MS|ISO|correspondent member
+AG|ISO|subscriber member
+WG|ISO|subscriber member
+WL|ISO|subscriber member
+BI|ISO|subscriber member
+AL|ICRM|National Society
+GR|ICRM|National Society
+SRB|ICRM|National Society
+MNE|ICRM|National Society
+F|ICRM|National Society
+E|ICRM|National Society
+A|ICRM|National Society
+CZ|ICRM|National Society
+D|ICRM|National Society
+H|ICRM|National Society
+I|ICRM|National Society
+FL|ICRM|National Society
+SK|ICRM|National Society
+SLO|ICRM|National Society
+CH|ICRM|National Society
+LV|ICRM|National Society
+LT|ICRM|National Society
+PL|ICRM|National Society
+UA|ICRM|National Society
+R|ICRM|National Society
+B|ICRM|National Society
+L|ICRM|National Society
+NL|ICRM|National Society
+HR|ICRM|National Society
+BG|ICRM|National Society
+RO|ICRM|National Society
+TR|ICRM|National Society
+DK|ICRM|National Society
+EW|ICRM|National Society
+SF|ICRM|National Society
+N|ICRM|National Society
+S|ICRM|National Society
+MC|ICRM|National Society
+IS|ICRM|National Society
+IRL|ICRM|National Society
+RSM|ICRM|National Society
+M|ICRM|National Society
+P|ICRM|National Society
+GB|ICRM|National Society
+AFG|ICRM|National Society
+TJ|ICRM|National Society
+IR|ICRM|National Society
+PK|ICRM|National Society
+BRN|ICRM|National Society
+BD|ICRM|National Society
+MYA|ICRM|National Society
+IND|ICRM|National Society
+MAL|ICRM|National Society
+LAO|ICRM|National Society
+THA|ICRM|National Society
+K|ICRM|National Society
+VN|ICRM|National Society
+NOK|ICRM|National Society
+MNG|ICRM|National Society
+NEP|ICRM|National Society
+ET|ICRM|National Society
+RI|ICRM|National Society
+PNG|ICRM|National Society
+IRQ|ICRM|National Society
+JOR|ICRM|National Society
+KWT|ICRM|National Society
+SA|ICRM|National Society
+SYR|ICRM|National Society
+RL|ICRM|National Society
+J|ICRM|National Society
+ROK|ICRM|National Society
+UAE|ICRM|National Society
+YE|ICRM|National Society
+RP|ICRM|National Society
+Q|ICRM|National Society
+SGP|ICRM|National Society
+CL|ICRM|National Society
+AG|ICRM|National Society
+BS|ICRM|National Society
+BDS|ICRM|National Society
+BZ|ICRM|National Society
+GCA|ICRM|National Society
+MEX|ICRM|National Society
+CDN|ICRM|National Society
+USA|ICRM|National Society
+CR|ICRM|National Society
+NIC|ICRM|National Society
+PA|ICRM|National Society
+C|ICRM|National Society
+WD|ICRM|National Society
+DOM|ICRM|National Society
+RH|ICRM|National Society
+ES|ICRM|National Society
+HCA|ICRM|National Society
+WG|ICRM|National Society
+JA|ICRM|National Society
+CO|ICRM|National Society
+KN|ICRM|National Society
+WL|ICRM|National Society
+WV|ICRM|National Society
+TT|ICRM|National Society
+AUS|ICRM|National Society
+COOK|ICRM|National Society
+FJI|ICRM|National Society
+NZ|ICRM|National Society
+SLB|ICRM|National Society
+TO|ICRM|National Society
+VU|ICRM|National Society
+WS|ICRM|National Society
+RA|ICRM|National Society
+BOL|ICRM|National Society
+BR|ICRM|National Society
+RCH|ICRM|National Society
+PY|ICRM|National Society
+ROU|ICRM|National Society
+PE|ICRM|National Society
+GUY|ICRM|National Society
+SME|ICRM|National Society
+YV|ICRM|National Society
+EC|ICRM|National Society
+DZ|ICRM|National Society
+LAR|ICRM|National Society
+RMM|ICRM|National Society
+RIM|ICRM|National Society
+MA|ICRM|National Society
+RN|ICRM|National Society
+TN|ICRM|National Society
+ANG|ICRM|National Society
+RCB|ICRM|National Society
+NAM|ICRM|National Society
+ZRE|ICRM|National Society
+Z|ICRM|National Society
+BEN|ICRM|National Society
+BF|ICRM|National Society
+WAN|ICRM|National Society
+RT|ICRM|National Society
+RB|ICRM|National Society
+RSA|ICRM|National Society
+ZW|ICRM|National Society
+CI|ICRM|National Society
+GH|ICRM|National Society
+BI|ICRM|National Society
+RWA|ICRM|National Society
+EAT|ICRM|National Society
+CAM|ICRM|National Society
+RCA|ICRM|National Society
+TCH|ICRM|National Society
+CV|ICRM|National Society
+SUD|ICRM|National Society
+RG|ICRM|National Society
+LB|ICRM|National Society
+DJI|ICRM|National Society
+ETH|ICRM|National Society
+SP|ICRM|National Society
+EAK|ICRM|National Society
+WAG|ICRM|National Society
+SN|ICRM|National Society
+GNB|ICRM|National Society
+WAL|ICRM|National Society
+EAU|ICRM|National Society
+LS|ICRM|National Society
+RM|ICRM|National Society
+MW|ICRM|National Society
+MOC|ICRM|National Society
+MS|ICRM|National Society
+SD|ICRM|National Society
+STP|ICRM|National Society
+SY|ICRM|National Society
+AL|ITU|member
+GR|ITU|member
+MK|ITU|member
+SRB|ITU|member
+MNE|ITU|member
+AND|ITU|member
+F|ITU|member
+E|ITU|member
+A|ITU|member
+CZ|ITU|member
+D|ITU|member
+H|ITU|member
+I|ITU|member
+FL|ITU|member
+SK|ITU|member
+SLO|ITU|member
+CH|ITU|member
+BY|ITU|member
+LV|ITU|member
+LT|ITU|member
+PL|ITU|member
+UA|ITU|member
+R|ITU|member
+B|ITU|member
+L|ITU|member
+NL|ITU|member
+BIH|ITU|member
+HR|ITU|member
+BG|ITU|member
+RO|ITU|member
+TR|ITU|member
+DK|ITU|member
+EW|ITU|member
+SF|ITU|member
+N|ITU|member
+S|ITU|member
+MC|ITU|member
+V|ITU|member
+IS|ITU|member
+IRL|ITU|member
+RSM|ITU|member
+M|ITU|member
+MD|ITU|member
+P|ITU|member
+GB|ITU|member
+AFG|ITU|member
+TJ|ITU|member
+IR|ITU|member
+PK|ITU|member
+TAD|ITU|member
+TM|ITU|member
+UZB|ITU|member
+ARM|ITU|member
+GE|ITU|member
+AZ|ITU|member
+BRN|ITU|member
+BD|ITU|member
+MYA|ITU|member
+IND|ITU|member
+BHT|ITU|member
+BRU|ITU|member
+MAL|ITU|member
+LAO|ITU|member
+THA|ITU|member
+K|ITU|member
+VN|ITU|member
+KAZ|ITU|member
+NOK|ITU|member
+KGZ|ITU|member
+MNG|ITU|member
+NEP|ITU|member
+CY|ITU|member
+IL|ITU|member
+ET|ITU|member
+RI|ITU|member
+PNG|ITU|member
+IRQ|ITU|member
+JOR|ITU|member
+KWT|ITU|member
+SA|ITU|member
+SYR|ITU|member
+RL|ITU|member
+J|ITU|member
+ROK|ITU|member
+MV|ITU|member
+OM|ITU|member
+UAE|ITU|member
+YE|ITU|member
+RP|ITU|member
+Q|ITU|member
+SGP|ITU|member
+CL|ITU|member
+AG|ITU|member
+BS|ITU|member
+BDS|ITU|member
+BZ|ITU|member
+GCA|ITU|member
+MEX|ITU|member
+CDN|ITU|member
+USA|ITU|member
+CR|ITU|member
+NIC|ITU|member
+PA|ITU|member
+C|ITU|member
+DOM|ITU|member
+RH|ITU|member
+ES|ITU|member
+HCA|ITU|member
+WG|ITU|member
+JA|ITU|member
+CO|ITU|member
+WV|ITU|member
+TT|ITU|member
+AUS|ITU|member
+FJI|ITU|member
+KIR|ITU|member
+NAU|ITU|member
+NZ|ITU|member
+SLB|ITU|member
+TO|ITU|member
+VU|ITU|member
+WS|ITU|member
+RA|ITU|member
+BOL|ITU|member
+BR|ITU|member
+RCH|ITU|member
+PY|ITU|member
+ROU|ITU|member
+PE|ITU|member
+GUY|ITU|member
+SME|ITU|member
+YV|ITU|member
+EC|ITU|member
+DZ|ITU|member
+LAR|ITU|member
+RMM|ITU|member
+RIM|ITU|member
+MA|ITU|member
+RN|ITU|member
+TN|ITU|member
+ANG|ITU|member
+RCB|ITU|member
+NAM|ITU|member
+ZRE|ITU|member
+Z|ITU|member
+BEN|ITU|member
+BF|ITU|member
+WAN|ITU|member
+RT|ITU|member
+RB|ITU|member
+RSA|ITU|member
+ZW|ITU|member
+CI|ITU|member
+GH|ITU|member
+BI|ITU|member
+RWA|ITU|member
+EAT|ITU|member
+CAM|ITU|member
+RCA|ITU|member
+TCH|ITU|member
+GQ|ITU|member
+G|ITU|member
+CV|ITU|member
+SUD|ITU|member
+COM|ITU|member
+RG|ITU|member
+LB|ITU|member
+DJI|ITU|member
+ER|ITU|member
+ETH|ITU|member
+SP|ITU|member
+EAK|ITU|member
+WAG|ITU|member
+SN|ITU|member
+GNB|ITU|member
+WAL|ITU|member
+EAU|ITU|member
+LS|ITU|member
+RM|ITU|member
+MW|ITU|member
+MOC|ITU|member
+MS|ITU|member
+SD|ITU|member
+STP|ITU|member
+GR|Intelsat|member
+F|Intelsat|member
+E|Intelsat|member
+A|Intelsat|member
+CZ|Intelsat|member
+D|Intelsat|member
+H|Intelsat|member
+I|Intelsat|member
+FL|Intelsat|member
+CH|Intelsat|member
+PL|Intelsat|member
+R|Intelsat|member
+B|Intelsat|member
+L|Intelsat|member
+NL|Intelsat|member
+HR|Intelsat|member
+RO|Intelsat|member
+TR|Intelsat|member
+DK|Intelsat|member
+SF|Intelsat|member
+N|Intelsat|member
+S|Intelsat|member
+MC|Intelsat|member
+V|Intelsat|member
+IS|Intelsat|member
+IRL|Intelsat|member
+M|Intelsat|member
+P|Intelsat|member
+GB|Intelsat|member
+AFG|Intelsat|member
+TJ|Intelsat|member
+IR|Intelsat|member
+PK|Intelsat|member
+ARM|Intelsat|member
+AZ|Intelsat|member
+BRN|Intelsat|member
+BD|Intelsat|member
+IND|Intelsat|member
+BHT|Intelsat|member
+BRU|Intelsat|member
+MAL|Intelsat|member
+THA|Intelsat|member
+VN|Intelsat|member
+KAZ|Intelsat|member
+KGZ|Intelsat|member
+NEP|Intelsat|member
+CY|Intelsat|member
+IL|Intelsat|member
+ET|Intelsat|member
+RI|Intelsat|member
+PNG|Intelsat|member
+IRQ|Intelsat|member
+JOR|Intelsat|member
+KWT|Intelsat|member
+SA|Intelsat|member
+SYR|Intelsat|member
+RL|Intelsat|member
+J|Intelsat|member
+ROK|Intelsat|member
+OM|Intelsat|member
+UAE|Intelsat|member
+YE|Intelsat|member
+RP|Intelsat|member
+Q|Intelsat|member
+SGP|Intelsat|member
+CL|Intelsat|member
+BS|Intelsat|member
+BDS|Intelsat|member
+GCA|Intelsat|member
+MEX|Intelsat|member
+CDN|Intelsat|member
+USA|Intelsat|member
+CR|Intelsat|member
+NIC|Intelsat|member
+PA|Intelsat|member
+DOM|Intelsat|member
+RH|Intelsat|member
+ES|Intelsat|member
+HCA|Intelsat|member
+JA|Intelsat|member
+CO|Intelsat|member
+TT|Intelsat|member
+AUS|Intelsat|member
+FJI|Intelsat|member
+NZ|Intelsat|member
+RA|Intelsat|member
+BOL|Intelsat|member
+BR|Intelsat|member
+RCH|Intelsat|member
+PY|Intelsat|member
+ROU|Intelsat|member
+PE|Intelsat|member
+YV|Intelsat|member
+EC|Intelsat|member
+DZ|Intelsat|member
+LAR|Intelsat|member
+RMM|Intelsat|member
+RIM|Intelsat|member
+MA|Intelsat|member
+RN|Intelsat|member
+TN|Intelsat|member
+ANG|Intelsat|member
+RCB|Intelsat|member
+NAM|Intelsat|member
+ZRE|Intelsat|member
+Z|Intelsat|member
+BEN|Intelsat|member
+BF|Intelsat|member
+WAN|Intelsat|member
+RT|Intelsat|member
+RB|Intelsat|member
+RSA|Intelsat|member
+ZW|Intelsat|member
+CI|Intelsat|member
+GH|Intelsat|member
+RWA|Intelsat|member
+EAT|Intelsat|member
+CAM|Intelsat|member
+RCA|Intelsat|member
+TCH|Intelsat|member
+G|Intelsat|member
+CV|Intelsat|member
+SUD|Intelsat|member
+RG|Intelsat|member
+ETH|Intelsat|member
+SP|Intelsat|member
+EAK|Intelsat|member
+SN|Intelsat|member
+EAU|Intelsat|member
+RM|Intelsat|member
+MW|Intelsat|member
+MOC|Intelsat|member
+MS|Intelsat|member
+SD|Intelsat|member
+AL|Intelsat|nonsignatory user
+MK|Intelsat|nonsignatory user
+SK|Intelsat|nonsignatory user
+SLO|Intelsat|nonsignatory user
+BY|Intelsat|nonsignatory user
+LV|Intelsat|nonsignatory user
+LT|Intelsat|nonsignatory user
+UA|Intelsat|nonsignatory user
+BIH|Intelsat|nonsignatory user
+BG|Intelsat|nonsignatory user
+MD|Intelsat|nonsignatory user
+TAD|Intelsat|nonsignatory user
+TM|Intelsat|nonsignatory user
+MYA|Intelsat|nonsignatory user
+LAO|Intelsat|nonsignatory user
+K|Intelsat|nonsignatory user
+NOK|Intelsat|nonsignatory user
+MNG|Intelsat|nonsignatory user
+MV|Intelsat|nonsignatory user
+AG|Intelsat|nonsignatory user
+BZ|Intelsat|nonsignatory user
+C|Intelsat|nonsignatory user
+WL|Intelsat|nonsignatory user
+WV|Intelsat|nonsignatory user
+KIR|Intelsat|nonsignatory user
+MH|Intelsat|nonsignatory user
+NAU|Intelsat|nonsignatory user
+SLB|Intelsat|nonsignatory user
+TO|Intelsat|nonsignatory user
+TUV|Intelsat|nonsignatory user
+VU|Intelsat|nonsignatory user
+WS|Intelsat|nonsignatory user
+GUY|Intelsat|nonsignatory user
+SME|Intelsat|nonsignatory user
+BI|Intelsat|nonsignatory user
+GQ|Intelsat|nonsignatory user
+COM|Intelsat|nonsignatory user
+LB|Intelsat|nonsignatory user
+DJI|Intelsat|nonsignatory user
+ER|Intelsat|nonsignatory user
+WAG|Intelsat|nonsignatory user
+GNB|Intelsat|nonsignatory user
+WAL|Intelsat|nonsignatory user
+LS|Intelsat|nonsignatory user
+STP|Intelsat|nonsignatory user
+SY|Intelsat|nonsignatory user
+AL|IDB|member
+TR|IDB|member
+AFG|IDB|member
+IR|IDB|member
+PK|IDB|member
+TAD|IDB|member
+TM|IDB|member
+AZ|IDB|member
+BRN|IDB|member
+BD|IDB|member
+BRU|IDB|member
+MAL|IDB|member
+KAZ|IDB|member
+KGZ|IDB|member
+ET|IDB|member
+RI|IDB|member
+IRQ|IDB|member
+JOR|IDB|member
+KWT|IDB|member
+SA|IDB|member
+SYR|IDB|member
+RL|IDB|member
+MV|IDB|member
+OM|IDB|member
+UAE|IDB|member
+YE|IDB|member
+Q|IDB|member
+DZ|IDB|member
+LAR|IDB|member
+RMM|IDB|member
+RIM|IDB|member
+MA|IDB|member
+RN|IDB|member
+TN|IDB|member
+BEN|IDB|member
+BF|IDB|member
+CAM|IDB|member
+TCH|IDB|member
+G|IDB|member
+SUD|IDB|member
+COM|IDB|member
+RG|IDB|member
+DJI|IDB|member
+SP|IDB|member
+WAG|IDB|member
+SN|IDB|member
+GNB|IDB|member
+WAL|IDB|member
+EAU|IDB|member
+MOC|IDB|member
+BDS|LAES|member
+BZ|LAES|member
+GCA|LAES|member
+MEX|LAES|member
+CR|LAES|member
+NIC|LAES|member
+PA|LAES|member
+C|LAES|member
+DOM|LAES|member
+RH|LAES|member
+ES|LAES|member
+HCA|LAES|member
+WG|LAES|member
+JA|LAES|member
+CO|LAES|member
+TT|LAES|member
+RA|LAES|member
+BOL|LAES|member
+BR|LAES|member
+RCH|LAES|member
+PY|LAES|member
+ROU|LAES|member
+PE|LAES|member
+GUY|LAES|member
+SME|LAES|member
+YV|LAES|member
+EC|LAES|member
+MEX|LAIA|member
+CO|LAIA|member
+RA|LAIA|member
+BOL|LAIA|member
+BR|LAIA|member
+RCH|LAIA|member
+PY|LAIA|member
+ROU|LAIA|member
+PE|LAIA|member
+YV|LAIA|member
+EC|LAIA|member
+E|LAIA|observer
+I|LAIA|observer
+P|LAIA|observer
+TJ|LAIA|observer
+GCA|LAIA|observer
+CR|LAIA|observer
+NIC|LAIA|observer
+PA|LAIA|observer
+C|LAIA|observer
+DOM|LAIA|observer
+ES|LAIA|observer
+HCA|LAIA|observer
+GR|MTCR|member
+F|MTCR|member
+E|MTCR|member
+A|MTCR|member
+D|MTCR|member
+H|MTCR|member
+I|MTCR|member
+CH|MTCR|member
+R|MTCR|member
+B|MTCR|member
+L|MTCR|member
+NL|MTCR|member
+DK|MTCR|member
+SF|MTCR|member
+N|MTCR|member
+S|MTCR|member
+IS|MTCR|member
+IRL|MTCR|member
+P|MTCR|member
+GB|MTCR|member
+J|MTCR|member
+CDN|MTCR|member
+USA|MTCR|member
+AUS|MTCR|member
+NZ|MTCR|member
+RA|MTCR|member
+BR|MTCR|member
+RSA|MTCR|member
+M|NAM|member
+AFG|NAM|member
+IR|NAM|member
+PK|NAM|member
+UZB|NAM|member
+BRN|NAM|member
+BD|NAM|member
+MYA|NAM|member
+IND|NAM|member
+BHT|NAM|member
+BRU|NAM|member
+MAL|NAM|member
+LAO|NAM|member
+THA|NAM|member
+K|NAM|member
+VN|NAM|member
+NOK|NAM|member
+MNG|NAM|member
+NEP|NAM|member
+CY|NAM|member
+ET|NAM|member
+RI|NAM|member
+TL|NAM|member
+PNG|NAM|member
+IRQ|NAM|member
+JOR|NAM|member
+KWT|NAM|member
+SA|NAM|member
+SYR|NAM|member
+RL|NAM|member
+MV|NAM|member
+OM|NAM|member
+UAE|NAM|member
+YE|NAM|member
+RP|NAM|member
+Q|NAM|member
+SGP|NAM|member
+CL|NAM|member
+BS|NAM|member
+BDS|NAM|member
+BZ|NAM|member
+GCA|NAM|member
+NIC|NAM|member
+PA|NAM|member
+C|NAM|member
+HCA|NAM|member
+WG|NAM|member
+JA|NAM|member
+CO|NAM|member
+WL|NAM|member
+TT|NAM|member
+VU|NAM|member
+BOL|NAM|member
+RCH|NAM|member
+PE|NAM|member
+GUY|NAM|member
+SME|NAM|member
+YV|NAM|member
+EC|NAM|member
+DZ|NAM|member
+LAR|NAM|member
+RMM|NAM|member
+RIM|NAM|member
+MA|NAM|member
+RN|NAM|member
+TN|NAM|member
+ANG|NAM|member
+RCB|NAM|member
+NAM|NAM|member
+ZRE|NAM|member
+Z|NAM|member
+BEN|NAM|member
+BF|NAM|member
+WAN|NAM|member
+RT|NAM|member
+RB|NAM|member
+RSA|NAM|member
+ZW|NAM|member
+CI|NAM|member
+GH|NAM|member
+BI|NAM|member
+RWA|NAM|member
+EAT|NAM|member
+CAM|NAM|member
+RCA|NAM|member
+TCH|NAM|member
+GQ|NAM|member
+G|NAM|member
+CV|NAM|member
+SUD|NAM|member
+COM|NAM|member
+RG|NAM|member
+LB|NAM|member
+DJI|NAM|member
+ER|NAM|member
+ETH|NAM|member
+SP|NAM|member
+EAK|NAM|member
+WAG|NAM|member
+SN|NAM|member
+GNB|NAM|member
+WAL|NAM|member
+EAU|NAM|member
+LS|NAM|member
+RM|NAM|member
+MW|NAM|member
+MOC|NAM|member
+MS|NAM|member
+SD|NAM|member
+STP|NAM|member
+SY|NAM|member
+HR|NAM|observer
+TJ|NAM|observer
+ARM|NAM|observer
+AZ|NAM|observer
+AG|NAM|observer
+MEX|NAM|observer
+CR|NAM|observer
+WD|NAM|observer
+ES|NAM|observer
+BR|NAM|observer
+ROU|NAM|observer
+GR|NAM|guest
+E|NAM|guest
+A|NAM|guest
+D|NAM|guest
+H|NAM|guest
+I|NAM|guest
+SLO|NAM|guest
+CH|NAM|guest
+PL|NAM|guest
+NL|NAM|guest
+BIH|NAM|guest
+BG|NAM|guest
+RO|NAM|guest
+SF|NAM|guest
+N|NAM|guest
+S|NAM|guest
+RSM|NAM|guest
+P|NAM|guest
+CDN|NAM|guest
+DOM|NAM|guest
+AUS|NAM|guest
+NZ|NAM|guest
+DK|NC|member
+SF|NC|member
+N|NC|member
+S|NC|member
+IS|NC|member
+DK|NIB|member
+SF|NIB|member
+N|NIB|member
+S|NIB|member
+IS|NIB|member
+AL|ANC|member
+GR|ANC|member
+F|ANC|member
+E|ANC|member
+A|ANC|member
+CZ|ANC|member
+D|ANC|member
+H|ANC|member
+I|ANC|member
+SK|ANC|member
+SLO|ANC|member
+BY|ANC|member
+LV|ANC|member
+LT|ANC|member
+PL|ANC|member
+UA|ANC|member
+R|ANC|member
+B|ANC|member
+L|ANC|member
+NL|ANC|member
+BG|ANC|member
+RO|ANC|member
+TR|ANC|member
+DK|ANC|member
+EW|ANC|member
+SF|ANC|member
+N|ANC|member
+S|ANC|member
+IS|ANC|member
+M|ANC|member
+MD|ANC|member
+P|ANC|member
+GB|ANC|member
+TAD|ANC|member
+TM|ANC|member
+UZB|ANC|member
+ARM|ANC|member
+GE|ANC|member
+AZ|ANC|member
+KAZ|ANC|member
+KGZ|ANC|member
+CDN|ANC|member
+USA|ANC|member
+GR|NATO|member
+F|NATO|member
+E|NATO|member
+D|NATO|member
+I|NATO|member
+B|NATO|member
+L|NATO|member
+NL|NATO|member
+TR|NATO|member
+DK|NATO|member
+N|NATO|member
+IS|NATO|member
+P|NATO|member
+GB|NATO|member
+CDN|NATO|member
+USA|NATO|member
+GR|EN|member
+F|EN|member
+E|EN|member
+A|EN|member
+D|EN|member
+I|EN|member
+CH|EN|member
+B|EN|member
+L|EN|member
+NL|EN|member
+TR|EN|member
+DK|EN|member
+SF|EN|member
+N|EN|member
+S|EN|member
+IS|EN|member
+IRL|EN|member
+P|EN|member
+GB|EN|member
+J|EN|member
+CDN|EN|member
+USA|EN|member
+AUS|EN|member
+GR|NSG|member
+F|NSG|member
+E|NSG|member
+A|NSG|member
+CZ|NSG|member
+D|NSG|member
+H|NSG|member
+I|NSG|member
+SK|NSG|member
+CH|NSG|member
+PL|NSG|member
+UA|NSG|member
+R|NSG|member
+B|NSG|member
+L|NSG|member
+NL|NSG|member
+BG|NSG|member
+RO|NSG|member
+DK|NSG|member
+SF|NSG|member
+N|NSG|member
+S|NSG|member
+IRL|NSG|member
+P|NSG|member
+GB|NSG|member
+J|NSG|member
+ROK|NSG|member
+CDN|NSG|member
+USA|NSG|member
+AUS|NSG|member
+NZ|NSG|member
+RA|NSG|member
+BR|NSG|member
+RSA|NSG|member
+GR|OECD|member
+F|OECD|member
+E|OECD|member
+A|OECD|member
+CZ|OECD|member
+D|OECD|member
+H|OECD|member
+I|OECD|member
+CH|OECD|member
+B|OECD|member
+L|OECD|member
+NL|OECD|member
+TR|OECD|member
+DK|OECD|member
+SF|OECD|member
+N|OECD|member
+S|OECD|member
+IS|OECD|member
+IRL|OECD|member
+P|OECD|member
+GB|OECD|member
+J|OECD|member
+MEX|OECD|member
+CDN|OECD|member
+USA|OECD|member
+AUS|OECD|member
+NZ|OECD|member
+AL|OSCE|member
+GR|OSCE|member
+MK|OSCE|member
+SRB|OSCE|member
+MNE|OSCE|member
+F|OSCE|member
+E|OSCE|member
+A|OSCE|member
+CZ|OSCE|member
+D|OSCE|member
+H|OSCE|member
+I|OSCE|member
+FL|OSCE|member
+SK|OSCE|member
+SLO|OSCE|member
+CH|OSCE|member
+BY|OSCE|member
+LV|OSCE|member
+LT|OSCE|member
+PL|OSCE|member
+UA|OSCE|member
+R|OSCE|member
+B|OSCE|member
+L|OSCE|member
+NL|OSCE|member
+BIH|OSCE|member
+HR|OSCE|member
+BG|OSCE|member
+RO|OSCE|member
+TR|OSCE|member
+DK|OSCE|member
+EW|OSCE|member
+SF|OSCE|member
+N|OSCE|member
+S|OSCE|member
+MC|OSCE|member
+V|OSCE|member
+IS|OSCE|member
+IRL|OSCE|member
+RSM|OSCE|member
+M|OSCE|member
+MD|OSCE|member
+P|OSCE|member
+GB|OSCE|member
+TAD|OSCE|member
+TM|OSCE|member
+UZB|OSCE|member
+ARM|OSCE|member
+GE|OSCE|member
+AZ|OSCE|member
+KAZ|OSCE|member
+KGZ|OSCE|member
+CY|OSCE|member
+CDN|OSCE|member
+USA|OSCE|member
+ET|OAU|member
+DZ|OAU|member
+LAR|OAU|member
+RMM|OAU|member
+RIM|OAU|member
+RN|OAU|member
+TN|OAU|member
+ANG|OAU|member
+RCB|OAU|member
+NAM|OAU|member
+ZRE|OAU|member
+Z|OAU|member
+BEN|OAU|member
+BF|OAU|member
+WAN|OAU|member
+RT|OAU|member
+RB|OAU|member
+RSA|OAU|member
+ZW|OAU|member
+CI|OAU|member
+GH|OAU|member
+BI|OAU|member
+RWA|OAU|member
+EAT|OAU|member
+CAM|OAU|member
+RCA|OAU|member
+TCH|OAU|member
+GQ|OAU|member
+G|OAU|member
+CV|OAU|member
+SUD|OAU|member
+COM|OAU|member
+RG|OAU|member
+LB|OAU|member
+DJI|OAU|member
+ER|OAU|member
+ETH|OAU|member
+SP|OAU|member
+EAK|OAU|member
+WAG|OAU|member
+SN|OAU|member
+GNB|OAU|member
+WAL|OAU|member
+EAU|OAU|member
+LS|OAU|member
+RM|OAU|member
+MW|OAU|member
+MOC|OAU|member
+MS|OAU|member
+SD|OAU|member
+STP|OAU|member
+SY|OAU|member
+AG|OAS|member
+BS|OAS|member
+BDS|OAS|member
+BZ|OAS|member
+GCA|OAS|member
+MEX|OAS|member
+CDN|OAS|member
+USA|OAS|member
+CR|OAS|member
+NIC|OAS|member
+PA|OAS|member
+C|OAS|member
+WD|OAS|member
+DOM|OAS|member
+RH|OAS|member
+ES|OAS|member
+HCA|OAS|member
+WG|OAS|member
+JA|OAS|member
+CO|OAS|member
+KN|OAS|member
+WL|OAS|member
+WV|OAS|member
+TT|OAS|member
+RA|OAS|member
+BOL|OAS|member
+BR|OAS|member
+RCH|OAS|member
+PY|OAS|member
+ROU|OAS|member
+PE|OAS|member
+GUY|OAS|member
+SME|OAS|member
+YV|OAS|member
+EC|OAS|member
+GR|OAS|observer
+F|OAS|observer
+E|OAS|observer
+A|OAS|observer
+D|OAS|observer
+H|OAS|observer
+I|OAS|observer
+CH|OAS|observer
+PL|OAS|observer
+R|OAS|observer
+B|OAS|observer
+NL|OAS|observer
+RO|OAS|observer
+SF|OAS|observer
+V|OAS|observer
+P|OAS|observer
+PK|OAS|observer
+IND|OAS|observer
+CY|OAS|observer
+IL|OAS|observer
+ET|OAS|observer
+SA|OAS|observer
+J|OAS|observer
+ROK|OAS|observer
+DZ|OAS|observer
+MA|OAS|observer
+TN|OAS|observer
+ANG|OAS|observer
+GQ|OAS|observer
+BRN|OAPEC|member
+ET|OAPEC|member
+IRQ|OAPEC|member
+KWT|OAPEC|member
+SA|OAPEC|member
+SYR|OAPEC|member
+UAE|OAPEC|member
+Q|OAPEC|member
+DZ|OAPEC|member
+LAR|OAPEC|member
+AG|OECS|member
+WD|OECS|member
+WG|OECS|member
+MNTS|OECS|member
+KN|OECS|member
+WL|OECS|member
+WV|OECS|member
+AXA|OECS|associate member
+BVIR|OECS|associate member
+IR|OPEC|member
+RI|OPEC|member
+IRQ|OPEC|member
+KWT|OPEC|member
+SA|OPEC|member
+UAE|OPEC|member
+Q|OPEC|member
+YV|OPEC|member
+DZ|OPEC|member
+LAR|OPEC|member
+WAN|OPEC|member
+G|OPEC|member
+AL|OIC|member
+TR|OIC|member
+AFG|OIC|member
+IR|OIC|member
+PK|OIC|member
+TAD|OIC|member
+TM|OIC|member
+AZ|OIC|member
+BRN|OIC|member
+BD|OIC|member
+BRU|OIC|member
+MAL|OIC|member
+KAZ|OIC|member
+KGZ|OIC|member
+ET|OIC|member
+RI|OIC|member
+IRQ|OIC|member
+JOR|OIC|member
+KWT|OIC|member
+SA|OIC|member
+SYR|OIC|member
+RL|OIC|member
+MV|OIC|member
+OM|OIC|member
+UAE|OIC|member
+YE|OIC|member
+Q|OIC|member
+DZ|OIC|member
+LAR|OIC|member
+RMM|OIC|member
+RIM|OIC|member
+MA|OIC|member
+RN|OIC|member
+TN|OIC|member
+BEN|OIC|member
+BF|OIC|member
+CAM|OIC|member
+TCH|OIC|member
+G|OIC|member
+SUD|OIC|member
+COM|OIC|member
+RG|OIC|member
+DJI|OIC|member
+SP|OIC|member
+WAG|OIC|member
+SN|OIC|member
+GNB|OIC|member
+WAL|OIC|member
+EAU|OIC|member
+MOC|OIC|member
+UZB|OIC|observer
+AL|PFP|member
+SRB|PFP|member
+MNE|PFP|member
+A|PFP|member
+CZ|PFP|member
+H|PFP|member
+SK|PFP|member
+SLO|PFP|member
+BY|PFP|member
+LV|PFP|member
+LT|PFP|member
+PL|PFP|member
+UA|PFP|member
+R|PFP|member
+BG|PFP|member
+RO|PFP|member
+EW|PFP|member
+SF|PFP|member
+S|PFP|member
+M|PFP|member
+MD|PFP|member
+TM|PFP|member
+UZB|PFP|member
+ARM|PFP|member
+GE|PFP|member
+AZ|PFP|member
+KAZ|PFP|member
+KGZ|PFP|member
+GR|PCA|member
+SRB|PCA|member
+MNE|PCA|member
+F|PCA|member
+E|PCA|member
+A|PCA|member
+CZ|PCA|member
+D|PCA|member
+H|PCA|member
+I|PCA|member
+FL|PCA|member
+SK|PCA|member
+CH|PCA|member
+BY|PCA|member
+PL|PCA|member
+UA|PCA|member
+R|PCA|member
+B|PCA|member
+L|PCA|member
+NL|PCA|member
+BG|PCA|member
+RO|PCA|member
+TR|PCA|member
+DK|PCA|member
+SF|PCA|member
+N|PCA|member
+S|PCA|member
+IS|PCA|member
+M|PCA|member
+P|PCA|member
+GB|PCA|member
+TJ|PCA|member
+IR|PCA|member
+PK|PCA|member
+IND|PCA|member
+LAO|PCA|member
+THA|PCA|member
+K|PCA|member
+KGZ|PCA|member
+CY|PCA|member
+IL|PCA|member
+ET|PCA|member
+IRQ|PCA|member
+JOR|PCA|member
+RL|PCA|member
+J|PCA|member
+SGP|PCA|member
+CL|PCA|member
+GCA|PCA|member
+MEX|PCA|member
+CDN|PCA|member
+USA|PCA|member
+NIC|PCA|member
+PA|PCA|member
+C|PCA|member
+DOM|PCA|member
+RH|PCA|member
+ES|PCA|member
+HCA|PCA|member
+CO|PCA|member
+AUS|PCA|member
+FJI|PCA|member
+NZ|PCA|member
+RA|PCA|member
+BOL|PCA|member
+BR|PCA|member
+RCH|PCA|member
+PY|PCA|member
+ROU|PCA|member
+PE|PCA|member
+SME|PCA|member
+YV|PCA|member
+EC|PCA|member
+ZRE|PCA|member
+BF|PCA|member
+WAN|PCA|member
+ZW|PCA|member
+CAM|PCA|member
+SUD|PCA|member
+SN|PCA|member
+EAU|PCA|member
+MS|PCA|member
+SD|PCA|member
+MEX|RG|member
+CO|RG|member
+RA|RG|member
+BOL|RG|member
+BR|RG|member
+RCH|RG|member
+PY|RG|member
+ROU|RG|member
+PE|RG|member
+YV|RG|member
+EC|RG|member
+PK|SAARC|member
+BD|SAARC|member
+IND|SAARC|member
+BHT|SAARC|member
+NEP|SAARC|member
+MV|SAARC|member
+CL|SAARC|member
+F|SPC|member
+GB|SPC|member
+PNG|SPC|member
+USA|SPC|member
+AMSA|SPC|member
+AUS|SPC|member
+COOK|SPC|member
+FJI|SPC|member
+FPOL|SPC|member
+GUAM|SPC|member
+KIR|SPC|member
+MH|SPC|member
+NAU|SPC|member
+NCA|SPC|member
+NZ|SPC|member
+NIUE|SPC|member
+NMIS|SPC|member
+PAL|SPC|member
+PITC|SPC|member
+SLB|SPC|member
+TO|SPC|member
+TUV|SPC|member
+VU|SPC|member
+WAFU|SPC|member
+WS|SPC|member
+PNG|SPF|member
+AUS|SPF|member
+FJI|SPF|member
+KIR|SPF|member
+MH|SPF|member
+NAU|SPF|member
+NZ|SPF|member
+PAL|SPF|member
+SLB|SPF|member
+TO|SPF|member
+TUV|SPF|member
+VU|SPF|member
+WS|SPF|member
+PNG|Sparteca|member
+AUS|Sparteca|member
+COOK|Sparteca|member
+FJI|Sparteca|member
+KIR|Sparteca|member
+MH|Sparteca|member
+NAU|Sparteca|member
+NZ|Sparteca|member
+NIUE|Sparteca|member
+SLB|Sparteca|member
+TO|Sparteca|member
+TUV|Sparteca|member
+VU|Sparteca|member
+WS|Sparteca|member
+NAM|SACU|member
+RB|SACU|member
+RSA|SACU|member
+LS|SACU|member
+SD|SACU|member
+ANG|SADC|member
+NAM|SADC|member
+Z|SADC|member
+RB|SADC|member
+RSA|SADC|member
+ZW|SADC|member
+EAT|SADC|member
+LS|SADC|member
+MW|SADC|member
+MOC|SADC|member
+MS|SADC|member
+SD|SADC|member
+RA|Mercosur|member
+BR|Mercosur|member
+PY|Mercosur|member
+ROU|Mercosur|member
+RCH|Mercosur|associate member
+AL|UN|member
+GR|UN|member
+MK|UN|member
+SRB|UN|member
+MNE|UN|member
+AND|UN|member
+F|UN|member
+E|UN|member
+A|UN|member
+CZ|UN|member
+D|UN|member
+H|UN|member
+I|UN|member
+FL|UN|member
+SK|UN|member
+SLO|UN|member
+BY|UN|member
+LV|UN|member
+LT|UN|member
+PL|UN|member
+UA|UN|member
+R|UN|member
+B|UN|member
+L|UN|member
+NL|UN|member
+BIH|UN|member
+HR|UN|member
+BG|UN|member
+RO|UN|member
+TR|UN|member
+DK|UN|member
+EW|UN|member
+SF|UN|member
+N|UN|member
+S|UN|member
+MC|UN|member
+IS|UN|member
+IRL|UN|member
+RSM|UN|member
+M|UN|member
+MD|UN|member
+P|UN|member
+GB|UN|member
+AFG|UN|member
+TJ|UN|member
+IR|UN|member
+PK|UN|member
+TAD|UN|member
+TM|UN|member
+UZB|UN|member
+ARM|UN|member
+GE|UN|member
+AZ|UN|member
+BRN|UN|member
+BD|UN|member
+MYA|UN|member
+IND|UN|member
+BHT|UN|member
+BRU|UN|member
+MAL|UN|member
+LAO|UN|member
+THA|UN|member
+K|UN|member
+VN|UN|member
+KAZ|UN|member
+NOK|UN|member
+KGZ|UN|member
+MNG|UN|member
+NEP|UN|member
+CY|UN|member
+IL|UN|member
+ET|UN|member
+RI|UN|member
+TL|UN|member
+PNG|UN|member
+IRQ|UN|member
+JOR|UN|member
+KWT|UN|member
+SA|UN|member
+SYR|UN|member
+RL|UN|member
+J|UN|member
+ROK|UN|member
+MV|UN|member
+OM|UN|member
+UAE|UN|member
+YE|UN|member
+RP|UN|member
+Q|UN|member
+SGP|UN|member
+CL|UN|member
+AG|UN|member
+BS|UN|member
+BDS|UN|member
+BZ|UN|member
+GCA|UN|member
+MEX|UN|member
+CDN|UN|member
+USA|UN|member
+CR|UN|member
+NIC|UN|member
+PA|UN|member
+C|UN|member
+WD|UN|member
+DOM|UN|member
+RH|UN|member
+ES|UN|member
+HCA|UN|member
+WG|UN|member
+JA|UN|member
+CO|UN|member
+KN|UN|member
+WL|UN|member
+WV|UN|member
+TT|UN|member
+AUS|UN|member
+FJI|UN|member
+MH|UN|member
+NZ|UN|member
+PAL|UN|member
+SLB|UN|member
+VU|UN|member
+WS|UN|member
+RA|UN|member
+BOL|UN|member
+BR|UN|member
+RCH|UN|member
+PY|UN|member
+ROU|UN|member
+PE|UN|member
+GUY|UN|member
+SME|UN|member
+YV|UN|member
+EC|UN|member
+DZ|UN|member
+LAR|UN|member
+RMM|UN|member
+RIM|UN|member
+MA|UN|member
+RN|UN|member
+TN|UN|member
+ANG|UN|member
+RCB|UN|member
+NAM|UN|member
+ZRE|UN|member
+Z|UN|member
+BEN|UN|member
+BF|UN|member
+WAN|UN|member
+RT|UN|member
+RB|UN|member
+RSA|UN|member
+ZW|UN|member
+CI|UN|member
+GH|UN|member
+BI|UN|member
+RWA|UN|member
+EAT|UN|member
+CAM|UN|member
+RCA|UN|member
+TCH|UN|member
+GQ|UN|member
+G|UN|member
+CV|UN|member
+SUD|UN|member
+COM|UN|member
+RG|UN|member
+LB|UN|member
+DJI|UN|member
+ER|UN|member
+ETH|UN|member
+SP|UN|member
+EAK|UN|member
+WAG|UN|member
+SN|UN|member
+GNB|UN|member
+WAL|UN|member
+EAU|UN|member
+LS|UN|member
+RM|UN|member
+MW|UN|member
+MOC|UN|member
+MS|UN|member
+SD|UN|member
+STP|UN|member
+SY|UN|member
+CH|UN|observer
+V|UN|observer
+F|UNAVEM III|member
+H|UNAVEM III|member
+SK|UNAVEM III|member
+PL|UNAVEM III|member
+R|UNAVEM III|member
+NL|UNAVEM III|member
+BG|UNAVEM III|member
+RO|UNAVEM III|member
+N|UNAVEM III|member
+S|UNAVEM III|member
+P|UNAVEM III|member
+GB|UNAVEM III|member
+PK|UNAVEM III|member
+BD|UNAVEM III|member
+IND|UNAVEM III|member
+MAL|UNAVEM III|member
+ET|UNAVEM III|member
+JOR|UNAVEM III|member
+FJI|UNAVEM III|member
+NZ|UNAVEM III|member
+RA|UNAVEM III|member
+BR|UNAVEM III|member
+ROU|UNAVEM III|member
+DZ|UNAVEM III|member
+RMM|UNAVEM III|member
+MA|UNAVEM III|member
+RCB|UNAVEM III|member
+Z|UNAVEM III|member
+WAN|UNAVEM III|member
+ZW|UNAVEM III|member
+EAT|UNAVEM III|member
+EAK|UNAVEM III|member
+SN|UNAVEM III|member
+GNB|UNAVEM III|member
+A|UNAMIR|member
+D|UNAMIR|member
+CH|UNAMIR|member
+R|UNAMIR|member
+PK|UNAMIR|member
+BD|UNAMIR|member
+IND|UNAMIR|member
+JOR|UNAMIR|member
+CDN|UNAMIR|member
+AUS|UNAMIR|member
+FJI|UNAMIR|member
+RA|UNAMIR|member
+ROU|UNAMIR|member
+RMM|UNAMIR|member
+RN|UNAMIR|member
+TN|UNAMIR|member
+RCB|UNAMIR|member
+Z|UNAMIR|member
+WAN|UNAMIR|member
+ZW|UNAMIR|member
+GH|UNAMIR|member
+TCH|UNAMIR|member
+RG|UNAMIR|member
+DJI|UNAMIR|member
+SN|UNAMIR|member
+GNB|UNAMIR|member
+MW|UNAMIR|member
+SRB|UNCTAD|member
+CH|UNCTAD|member
+TL|UNCTAD|member
+TO|UNCTAD|member
+F|UNCRO|member
+E|UNCRO|member
+CZ|UNCRO|member
+D|UNCRO|member
+SK|UNCRO|member
+LT|UNCRO|member
+PL|UNCRO|member
+UA|UNCRO|member
+R|UNCRO|member
+B|UNCRO|member
+NL|UNCRO|member
+TR|UNCRO|member
+DK|UNCRO|member
+EW|UNCRO|member
+SF|UNCRO|member
+N|UNCRO|member
+S|UNCRO|member
+IRL|UNCRO|member
+P|UNCRO|member
+GB|UNCRO|member
+PK|UNCRO|member
+BD|UNCRO|member
+MAL|UNCRO|member
+NEP|UNCRO|member
+ET|UNCRO|member
+RI|UNCRO|member
+JOR|UNCRO|member
+CDN|UNCRO|member
+USA|UNCRO|member
+RA|UNCRO|member
+BR|UNCRO|member
+TN|UNCRO|member
+WAN|UNCRO|member
+GH|UNCRO|member
+EAK|UNCRO|member
+SN|UNCRO|member
+A|UNDOF|member
+PL|UNDOF|member
+CDN|UNDOF|member
+AL|UNESCO|member
+GR|UNESCO|member
+MK|UNESCO|member
+SRB|UNESCO|member
+MNE|UNESCO|member
+AND|UNESCO|member
+F|UNESCO|member
+E|UNESCO|member
+A|UNESCO|member
+CZ|UNESCO|member
+D|UNESCO|member
+H|UNESCO|member
+I|UNESCO|member
+SK|UNESCO|member
+SLO|UNESCO|member
+CH|UNESCO|member
+BY|UNESCO|member
+LV|UNESCO|member
+LT|UNESCO|member
+PL|UNESCO|member
+UA|UNESCO|member
+R|UNESCO|member
+B|UNESCO|member
+L|UNESCO|member
+NL|UNESCO|member
+BIH|UNESCO|member
+HR|UNESCO|member
+BG|UNESCO|member
+RO|UNESCO|member
+TR|UNESCO|member
+DK|UNESCO|member
+EW|UNESCO|member
+SF|UNESCO|member
+N|UNESCO|member
+S|UNESCO|member
+MC|UNESCO|member
+IS|UNESCO|member
+IRL|UNESCO|member
+RSM|UNESCO|member
+M|UNESCO|member
+MD|UNESCO|member
+P|UNESCO|member
+AFG|UNESCO|member
+TJ|UNESCO|member
+IR|UNESCO|member
+PK|UNESCO|member
+TAD|UNESCO|member
+TM|UNESCO|member
+UZB|UNESCO|member
+ARM|UNESCO|member
+GE|UNESCO|member
+AZ|UNESCO|member
+BRN|UNESCO|member
+BD|UNESCO|member
+MYA|UNESCO|member
+IND|UNESCO|member
+BHT|UNESCO|member
+MAL|UNESCO|member
+LAO|UNESCO|member
+THA|UNESCO|member
+K|UNESCO|member
+VN|UNESCO|member
+KAZ|UNESCO|member
+NOK|UNESCO|member
+KGZ|UNESCO|member
+MNG|UNESCO|member
+NEP|UNESCO|member
+CY|UNESCO|member
+IL|UNESCO|member
+ET|UNESCO|member
+RI|UNESCO|member
+TL|UNESCO|member
+PNG|UNESCO|member
+IRQ|UNESCO|member
+JOR|UNESCO|member
+KWT|UNESCO|member
+SA|UNESCO|member
+SYR|UNESCO|member
+RL|UNESCO|member
+J|UNESCO|member
+ROK|UNESCO|member
+MV|UNESCO|member
+OM|UNESCO|member
+UAE|UNESCO|member
+YE|UNESCO|member
+RP|UNESCO|member
+Q|UNESCO|member
+CL|UNESCO|member
+AG|UNESCO|member
+BS|UNESCO|member
+BDS|UNESCO|member
+BZ|UNESCO|member
+GCA|UNESCO|member
+MEX|UNESCO|member
+CDN|UNESCO|member
+CAYM|UNESCO|member
+CR|UNESCO|member
+NIC|UNESCO|member
+PA|UNESCO|member
+C|UNESCO|member
+WD|UNESCO|member
+DOM|UNESCO|member
+RH|UNESCO|member
+ES|UNESCO|member
+HCA|UNESCO|member
+WG|UNESCO|member
+JA|UNESCO|member
+CO|UNESCO|member
+KN|UNESCO|member
+WL|UNESCO|member
+WV|UNESCO|member
+TT|UNESCO|member
+AUS|UNESCO|member
+COOK|UNESCO|member
+FJI|UNESCO|member
+KIR|UNESCO|member
+MH|UNESCO|member
+NZ|UNESCO|member
+NIUE|UNESCO|member
+SLB|UNESCO|member
+TO|UNESCO|member
+TUV|UNESCO|member
+VU|UNESCO|member
+WS|UNESCO|member
+RA|UNESCO|member
+BOL|UNESCO|member
+BR|UNESCO|member
+RCH|UNESCO|member
+PY|UNESCO|member
+ROU|UNESCO|member
+PE|UNESCO|member
+GUY|UNESCO|member
+SME|UNESCO|member
+YV|UNESCO|member
+EC|UNESCO|member
+DZ|UNESCO|member
+LAR|UNESCO|member
+RMM|UNESCO|member
+RIM|UNESCO|member
+MA|UNESCO|member
+RN|UNESCO|member
+TN|UNESCO|member
+ANG|UNESCO|member
+RCB|UNESCO|member
+NAM|UNESCO|member
+ZRE|UNESCO|member
+Z|UNESCO|member
+BEN|UNESCO|member
+BF|UNESCO|member
+WAN|UNESCO|member
+RT|UNESCO|member
+RB|UNESCO|member
+RSA|UNESCO|member
+ZW|UNESCO|member
+CI|UNESCO|member
+GH|UNESCO|member
+BI|UNESCO|member
+RWA|UNESCO|member
+EAT|UNESCO|member
+CAM|UNESCO|member
+RCA|UNESCO|member
+TCH|UNESCO|member
+GQ|UNESCO|member
+G|UNESCO|member
+CV|UNESCO|member
+SUD|UNESCO|member
+COM|UNESCO|member
+RG|UNESCO|member
+LB|UNESCO|member
+DJI|UNESCO|member
+ER|UNESCO|member
+ETH|UNESCO|member
+SP|UNESCO|member
+EAK|UNESCO|member
+WAG|UNESCO|member
+SN|UNESCO|member
+GNB|UNESCO|member
+WAL|UNESCO|member
+EAU|UNESCO|member
+LS|UNESCO|member
+RM|UNESCO|member
+MW|UNESCO|member
+MOC|UNESCO|member
+MS|UNESCO|member
+SD|UNESCO|member
+STP|UNESCO|member
+SY|UNESCO|member
+MACX|UNESCO|associate member
+ARU|UNESCO|associate member
+BVIR|UNESCO|associate member
+NA|UNESCO|associate member
+A|UNFICYP|member
+SF|UNFICYP|member
+IRL|UNFICYP|member
+GB|UNFICYP|member
+CDN|UNFICYP|member
+AUS|UNFICYP|member
+RA|UNFICYP|member
+AL|UNIDO|member
+GR|UNIDO|member
+MK|UNIDO|member
+SRB|UNIDO|member
+MNE|UNIDO|member
+F|UNIDO|member
+E|UNIDO|member
+A|UNIDO|member
+CZ|UNIDO|member
+D|UNIDO|member
+H|UNIDO|member
+I|UNIDO|member
+SK|UNIDO|member
+SLO|UNIDO|member
+CH|UNIDO|member
+BY|UNIDO|member
+LV|UNIDO|member
+PL|UNIDO|member
+UA|UNIDO|member
+R|UNIDO|member
+B|UNIDO|member
+L|UNIDO|member
+NL|UNIDO|member
+BIH|UNIDO|member
+HR|UNIDO|member
+BG|UNIDO|member
+RO|UNIDO|member
+TR|UNIDO|member
+DK|UNIDO|member
+SF|UNIDO|member
+N|UNIDO|member
+S|UNIDO|member
+IRL|UNIDO|member
+M|UNIDO|member
+MD|UNIDO|member
+P|UNIDO|member
+GB|UNIDO|member
+AFG|UNIDO|member
+TJ|UNIDO|member
+IR|UNIDO|member
+PK|UNIDO|member
+TAD|UNIDO|member
+UZB|UNIDO|member
+ARM|UNIDO|member
+GE|UNIDO|member
+AZ|UNIDO|member
+BRN|UNIDO|member
+BD|UNIDO|member
+MYA|UNIDO|member
+IND|UNIDO|member
+BHT|UNIDO|member
+MAL|UNIDO|member
+LAO|UNIDO|member
+THA|UNIDO|member
+K|UNIDO|member
+VN|UNIDO|member
+NOK|UNIDO|member
+KGZ|UNIDO|member
+MNG|UNIDO|member
+NEP|UNIDO|member
+CY|UNIDO|member
+IL|UNIDO|member
+ET|UNIDO|member
+RI|UNIDO|member
+TL|UNIDO|member
+PNG|UNIDO|member
+IRQ|UNIDO|member
+JOR|UNIDO|member
+KWT|UNIDO|member
+SA|UNIDO|member
+SYR|UNIDO|member
+RL|UNIDO|member
+J|UNIDO|member
+ROK|UNIDO|member
+MV|UNIDO|member
+OM|UNIDO|member
+UAE|UNIDO|member
+YE|UNIDO|member
+RP|UNIDO|member
+Q|UNIDO|member
+CL|UNIDO|member
+BS|UNIDO|member
+BDS|UNIDO|member
+BZ|UNIDO|member
+GCA|UNIDO|member
+MEX|UNIDO|member
+CDN|UNIDO|member
+USA|UNIDO|member
+CR|UNIDO|member
+NIC|UNIDO|member
+PA|UNIDO|member
+C|UNIDO|member
+WD|UNIDO|member
+DOM|UNIDO|member
+RH|UNIDO|member
+ES|UNIDO|member
+HCA|UNIDO|member
+WG|UNIDO|member
+JA|UNIDO|member
+CO|UNIDO|member
+KN|UNIDO|member
+WL|UNIDO|member
+WV|UNIDO|member
+TT|UNIDO|member
+AUS|UNIDO|member
+FJI|UNIDO|member
+NZ|UNIDO|member
+TO|UNIDO|member
+VU|UNIDO|member
+RA|UNIDO|member
+BOL|UNIDO|member
+BR|UNIDO|member
+RCH|UNIDO|member
+PY|UNIDO|member
+ROU|UNIDO|member
+PE|UNIDO|member
+GUY|UNIDO|member
+SME|UNIDO|member
+YV|UNIDO|member
+EC|UNIDO|member
+DZ|UNIDO|member
+LAR|UNIDO|member
+RMM|UNIDO|member
+RIM|UNIDO|member
+MA|UNIDO|member
+RN|UNIDO|member
+TN|UNIDO|member
+ANG|UNIDO|member
+RCB|UNIDO|member
+NAM|UNIDO|member
+ZRE|UNIDO|member
+Z|UNIDO|member
+BEN|UNIDO|member
+BF|UNIDO|member
+WAN|UNIDO|member
+RT|UNIDO|member
+RB|UNIDO|member
+ZW|UNIDO|member
+CI|UNIDO|member
+GH|UNIDO|member
+BI|UNIDO|member
+RWA|UNIDO|member
+EAT|UNIDO|member
+CAM|UNIDO|member
+RCA|UNIDO|member
+TCH|UNIDO|member
+GQ|UNIDO|member
+G|UNIDO|member
+CV|UNIDO|member
+SUD|UNIDO|member
+COM|UNIDO|member
+RG|UNIDO|member
+LB|UNIDO|member
+DJI|UNIDO|member
+ER|UNIDO|member
+ETH|UNIDO|member
+SP|UNIDO|member
+EAK|UNIDO|member
+WAG|UNIDO|member
+SN|UNIDO|member
+GNB|UNIDO|member
+WAL|UNIDO|member
+EAU|UNIDO|member
+LS|UNIDO|member
+RM|UNIDO|member
+MW|UNIDO|member
+MOC|UNIDO|member
+MS|UNIDO|member
+SD|UNIDO|member
+STP|UNIDO|member
+SY|UNIDO|member
+F|UNITAR|member
+D|UNITAR|member
+I|UNITAR|member
+CH|UNITAR|member
+R|UNITAR|member
+B|UNITAR|member
+NL|UNITAR|member
+N|UNITAR|member
+S|UNITAR|member
+GB|UNITAR|member
+TJ|UNITAR|member
+PK|UNITAR|member
+IND|UNITAR|member
+J|UNITAR|member
+MEX|UNITAR|member
+CDN|UNITAR|member
+USA|UNITAR|member
+JA|UNITAR|member
+RA|UNITAR|member
+LAR|UNITAR|member
+TN|UNITAR|member
+CI|UNITAR|member
+EAU|UNITAR|member
+F|UNIFIL|member
+I|UNIFIL|member
+PL|UNIFIL|member
+SF|UNIFIL|member
+N|UNIFIL|member
+IRL|UNIFIL|member
+NEP|UNIFIL|member
+FJI|UNIFIL|member
+GH|UNIFIL|member
+GR|UNIKOM|member
+F|UNIKOM|member
+A|UNIKOM|member
+H|UNIKOM|member
+I|UNIKOM|member
+PL|UNIKOM|member
+R|UNIKOM|member
+RO|UNIKOM|member
+TR|UNIKOM|member
+DK|UNIKOM|member
+SF|UNIKOM|member
+S|UNIKOM|member
+IRL|UNIKOM|member
+GB|UNIKOM|member
+TJ|UNIKOM|member
+PK|UNIKOM|member
+BD|UNIKOM|member
+IND|UNIKOM|member
+MAL|UNIKOM|member
+THA|UNIKOM|member
+RI|UNIKOM|member
+SGP|UNIKOM|member
+CDN|UNIKOM|member
+USA|UNIKOM|member
+FJI|UNIKOM|member
+RA|UNIKOM|member
+ROU|UNIKOM|member
+YV|UNIKOM|member
+WAN|UNIKOM|member
+GH|UNIKOM|member
+EAK|UNIKOM|member
+SN|UNIKOM|member
+I|UNMOGIP|member
+B|UNMOGIP|member
+DK|UNMOGIP|member
+SF|UNMOGIP|member
+S|UNMOGIP|member
+ROK|UNMOGIP|member
+RCH|UNMOGIP|member
+ROU|UNMOGIP|member
+GR|MINURSO|member
+F|MINURSO|member
+A|MINURSO|member
+D|MINURSO|member
+H|MINURSO|member
+I|MINURSO|member
+PL|MINURSO|member
+R|MINURSO|member
+B|MINURSO|member
+N|MINURSO|member
+IRL|MINURSO|member
+TJ|MINURSO|member
+PK|MINURSO|member
+BD|MINURSO|member
+MAL|MINURSO|member
+ET|MINURSO|member
+ROK|MINURSO|member
+USA|MINURSO|member
+ES|MINURSO|member
+HCA|MINURSO|member
+RA|MINURSO|member
+ROU|MINURSO|member
+YV|MINURSO|member
+TN|MINURSO|member
+WAN|MINURSO|member
+RT|MINURSO|member
+GH|MINURSO|member
+RG|MINURSO|member
+EAK|MINURSO|member
+F|UNMIH|member
+A|UNMIH|member
+R|UNMIH|member
+NL|UNMIH|member
+IRL|UNMIH|member
+PK|UNMIH|member
+BD|UNMIH|member
+IND|UNMIH|member
+NEP|UNMIH|member
+JOR|UNMIH|member
+RP|UNMIH|member
+BS|UNMIH|member
+BDS|UNMIH|member
+BZ|UNMIH|member
+GCA|UNMIH|member
+CDN|UNMIH|member
+USA|UNMIH|member
+HCA|UNMIH|member
+JA|UNMIH|member
+KN|UNMIH|member
+WL|UNMIH|member
+TT|UNMIH|member
+RA|UNMIH|member
+GUY|UNMIH|member
+SME|UNMIH|member
+DZ|UNMIH|member
+RMM|UNMIH|member
+BEN|UNMIH|member
+RT|UNMIH|member
+DJI|UNMIH|member
+A|UNMOT|member
+H|UNMOT|member
+CH|UNMOT|member
+PL|UNMOT|member
+UA|UNMOT|member
+BG|UNMOT|member
+DK|UNMOT|member
+BD|UNMOT|member
+JOR|UNMOT|member
+ROU|UNMOT|member
+AL|UNOMIG|member
+GR|UNOMIG|member
+F|UNOMIG|member
+A|UNOMIG|member
+CZ|UNOMIG|member
+D|UNOMIG|member
+H|UNOMIG|member
+CH|UNOMIG|member
+PL|UNOMIG|member
+R|UNOMIG|member
+TR|UNOMIG|member
+DK|UNOMIG|member
+S|UNOMIG|member
+GB|UNOMIG|member
+PK|UNOMIG|member
+BD|UNOMIG|member
+ET|UNOMIG|member
+RI|UNOMIG|member
+JOR|UNOMIG|member
+ROK|UNOMIG|member
+USA|UNOMIG|member
+C|UNOMIG|member
+ROU|UNOMIG|member
+CZ|UNOMIL|member
+TJ|UNOMIL|member
+PK|UNOMIL|member
+IND|UNOMIL|member
+MAL|UNOMIL|member
+ET|UNOMIL|member
+JOR|UNOMIL|member
+ROU|UNOMIL|member
+EAK|UNOMIL|member
+GNB|UNOMIL|member
+GR|UNHCR|member
+SRB|UNHCR|member
+MNE|UNHCR|member
+F|UNHCR|member
+E|UNHCR|member
+A|UNHCR|member
+D|UNHCR|member
+H|UNHCR|member
+I|UNHCR|member
+CH|UNHCR|member
+R|UNHCR|member
+B|UNHCR|member
+NL|UNHCR|member
+TR|UNHCR|member
+DK|UNHCR|member
+SF|UNHCR|member
+N|UNHCR|member
+S|UNHCR|member
+V|UNHCR|member
+GB|UNHCR|member
+TJ|UNHCR|member
+IR|UNHCR|member
+PK|UNHCR|member
+BD|UNHCR|member
+IND|UNHCR|member
+THA|UNHCR|member
+IL|UNHCR|member
+RL|UNHCR|member
+J|UNHCR|member
+RP|UNHCR|member
+CDN|UNHCR|member
+USA|UNHCR|member
+NIC|UNHCR|member
+CO|UNHCR|member
+AUS|UNHCR|member
+RA|UNHCR|member
+BR|UNHCR|member
+YV|UNHCR|member
+DZ|UNHCR|member
+MA|UNHCR|member
+TN|UNHCR|member
+NAM|UNHCR|member
+ZRE|UNHCR|member
+WAN|UNHCR|member
+EAT|UNHCR|member
+SUD|UNHCR|member
+ETH|UNHCR|member
+SP|UNHCR|member
+EAU|UNHCR|member
+LS|UNHCR|member
+RM|UNHCR|member
+F|UNPREDEP|member
+E|UNPREDEP|member
+CH|UNPREDEP|member
+PL|UNPREDEP|member
+UA|UNPREDEP|member
+R|UNPREDEP|member
+NL|UNPREDEP|member
+DK|UNPREDEP|member
+SF|UNPREDEP|member
+N|UNPREDEP|member
+S|UNPREDEP|member
+IRL|UNPREDEP|member
+P|UNPREDEP|member
+GB|UNPREDEP|member
+PK|UNPREDEP|member
+BD|UNPREDEP|member
+MAL|UNPREDEP|member
+ET|UNPREDEP|member
+RI|UNPREDEP|member
+JOR|UNPREDEP|member
+CDN|UNPREDEP|member
+USA|UNPREDEP|member
+NZ|UNPREDEP|member
+BR|UNPREDEP|member
+WAN|UNPREDEP|member
+GH|UNPREDEP|member
+EAK|UNPREDEP|member
+F|UNPROFOR|member
+E|UNPROFOR|member
+CZ|UNPROFOR|member
+D|UNPROFOR|member
+CH|UNPROFOR|member
+PL|UNPROFOR|member
+UA|UNPROFOR|member
+R|UNPROFOR|member
+B|UNPROFOR|member
+NL|UNPROFOR|member
+DK|UNPROFOR|member
+SF|UNPROFOR|member
+N|UNPROFOR|member
+S|UNPROFOR|member
+IRL|UNPROFOR|member
+P|UNPROFOR|member
+GB|UNPROFOR|member
+PK|UNPROFOR|member
+BD|UNPROFOR|member
+MAL|UNPROFOR|member
+NEP|UNPROFOR|member
+ET|UNPROFOR|member
+RI|UNPROFOR|member
+JOR|UNPROFOR|member
+CDN|UNPROFOR|member
+USA|UNPROFOR|member
+NZ|UNPROFOR|member
+BR|UNPROFOR|member
+WAN|UNPROFOR|member
+GH|UNPROFOR|member
+EAK|UNPROFOR|member
+F|UNRWA|member
+B|UNRWA|member
+TR|UNRWA|member
+GB|UNRWA|member
+ET|UNRWA|member
+JOR|UNRWA|member
+SYR|UNRWA|member
+RL|UNRWA|member
+J|UNRWA|member
+USA|UNRWA|member
+F|UNTSO|member
+A|UNTSO|member
+I|UNTSO|member
+CH|UNTSO|member
+R|UNTSO|member
+B|UNTSO|member
+NL|UNTSO|member
+DK|UNTSO|member
+SF|UNTSO|member
+N|UNTSO|member
+S|UNTSO|member
+IRL|UNTSO|member
+TJ|UNTSO|member
+CDN|UNTSO|member
+USA|UNTSO|member
+AUS|UNTSO|member
+NZ|UNTSO|member
+RA|UNTSO|member
+RCH|UNTSO|member
+F|UNU|member
+E|UNU|member
+H|UNU|member
+CH|UNU|member
+NL|UNU|member
+IS|UNU|member
+GB|UNU|member
+TJ|UNU|member
+BD|UNU|member
+IND|UNU|member
+THA|UNU|member
+J|UNU|member
+ROK|UNU|member
+RP|UNU|member
+CL|UNU|member
+GCA|UNU|member
+MEX|UNU|member
+CDN|UNU|member
+USA|UNU|member
+CR|UNU|member
+CO|UNU|member
+TT|UNU|member
+AUS|UNU|member
+RA|UNU|member
+BR|UNU|member
+RCH|UNU|member
+YV|UNU|member
+WAN|UNU|member
+GH|UNU|member
+SUD|UNU|member
+ETH|UNU|member
+EAK|UNU|member
+AL|UPU|member
+GR|UPU|member
+MK|UPU|member
+SRB|UPU|member
+MNE|UPU|member
+F|UPU|member
+E|UPU|member
+A|UPU|member
+CZ|UPU|member
+D|UPU|member
+H|UPU|member
+I|UPU|member
+FL|UPU|member
+SK|UPU|member
+SLO|UPU|member
+CH|UPU|member
+BY|UPU|member
+LV|UPU|member
+LT|UPU|member
+PL|UPU|member
+UA|UPU|member
+R|UPU|member
+B|UPU|member
+L|UPU|member
+NL|UPU|member
+BIH|UPU|member
+HR|UPU|member
+BG|UPU|member
+RO|UPU|member
+TR|UPU|member
+DK|UPU|member
+EW|UPU|member
+SF|UPU|member
+N|UPU|member
+S|UPU|member
+MC|UPU|member
+V|UPU|member
+IS|UPU|member
+IRL|UPU|member
+RSM|UPU|member
+M|UPU|member
+MD|UPU|member
+P|UPU|member
+GB|UPU|member
+AFG|UPU|member
+TJ|UPU|member
+IR|UPU|member
+PK|UPU|member
+TAD|UPU|member
+TM|UPU|member
+UZB|UPU|member
+ARM|UPU|member
+GE|UPU|member
+AZ|UPU|member
+BRN|UPU|member
+BD|UPU|member
+MYA|UPU|member
+IND|UPU|member
+BHT|UPU|member
+BRU|UPU|member
+MAL|UPU|member
+LAO|UPU|member
+THA|UPU|member
+K|UPU|member
+VN|UPU|member
+KAZ|UPU|member
+NOK|UPU|member
+KGZ|UPU|member
+HONX|UPU|member
+MACX|UPU|member
+MNG|UPU|member
+NEP|UPU|member
+CY|UPU|member
+IL|UPU|member
+ET|UPU|member
+RI|UPU|member
+TL|UPU|member
+PNG|UPU|member
+IRQ|UPU|member
+JOR|UPU|member
+KWT|UPU|member
+SA|UPU|member
+SYR|UPU|member
+RL|UPU|member
+J|UPU|member
+ROK|UPU|member
+MV|UPU|member
+OM|UPU|member
+UAE|UPU|member
+YE|UPU|member
+RP|UPU|member
+Q|UPU|member
+SGP|UPU|member
+CL|UPU|member
+AXA|UPU|member
+AG|UPU|member
+ARU|UPU|member
+BS|UPU|member
+BDS|UPU|member
+BZ|UPU|member
+GCA|UPU|member
+MEX|UPU|member
+BERM|UPU|member
+BVIR|UPU|member
+CDN|UPU|member
+USA|UPU|member
+CAYM|UPU|member
+CR|UPU|member
+NIC|UPU|member
+PA|UPU|member
+C|UPU|member
+WD|UPU|member
+DOM|UPU|member
+RH|UPU|member
+ES|UPU|member
+HCA|UPU|member
+WG|UPU|member
+JA|UPU|member
+MNTS|UPU|member
+NA|UPU|member
+SMAR|UPU|member
+CO|UPU|member
+PR|UPU|member
+KN|UPU|member
+WL|UPU|member
+WV|UPU|member
+TT|UPU|member
+TUCA|UPU|member
+AMSA|UPU|member
+AUS|UPU|member
+COOK|UPU|member
+FJI|UPU|member
+GUAM|UPU|member
+KIR|UPU|member
+NAU|UPU|member
+NCA|UPU|member
+NZ|UPU|member
+NIUE|UPU|member
+PITC|UPU|member
+SLB|UPU|member
+TO|UPU|member
+TUV|UPU|member
+VU|UPU|member
+WAFU|UPU|member
+WS|UPU|member
+RA|UPU|member
+BOL|UPU|member
+BR|UPU|member
+RCH|UPU|member
+PY|UPU|member
+ROU|UPU|member
+PE|UPU|member
+GUY|UPU|member
+SME|UPU|member
+YV|UPU|member
+EC|UPU|member
+FALK|UPU|member
+DZ|UPU|member
+LAR|UPU|member
+RMM|UPU|member
+RIM|UPU|member
+MA|UPU|member
+RN|UPU|member
+TN|UPU|member
+ANG|UPU|member
+RCB|UPU|member
+NAM|UPU|member
+ZRE|UPU|member
+Z|UPU|member
+BEN|UPU|member
+BF|UPU|member
+WAN|UPU|member
+RT|UPU|member
+RB|UPU|member
+RSA|UPU|member
+ZW|UPU|member
+CI|UPU|member
+GH|UPU|member
+BI|UPU|member
+RWA|UPU|member
+EAT|UPU|member
+CAM|UPU|member
+RCA|UPU|member
+TCH|UPU|member
+GQ|UPU|member
+G|UPU|member
+CV|UPU|member
+SUD|UPU|member
+COM|UPU|member
+RG|UPU|member
+LB|UPU|member
+DJI|UPU|member
+ER|UPU|member
+ETH|UPU|member
+SP|UPU|member
+EAK|UPU|member
+WAG|UPU|member
+SN|UPU|member
+GNB|UPU|member
+WAL|UPU|member
+EAU|UPU|member
+LS|UPU|member
+RM|UPU|member
+MW|UPU|member
+MOC|UPU|member
+MS|UPU|member
+MAYO|UPU|member
+SD|UPU|member
+HELX|UPU|member
+STP|UPU|member
+SY|UPU|member
+RMM|WADB|member
+RN|WADB|member
+BEN|WADB|member
+BF|WADB|member
+RT|WADB|member
+CI|WADB|member
+SN|WADB|member
+GR|WEU|member
+F|WEU|member
+E|WEU|member
+D|WEU|member
+I|WEU|member
+B|WEU|member
+L|WEU|member
+NL|WEU|member
+P|WEU|member
+GB|WEU|member
+TR|WEU|associate member
+N|WEU|associate member
+IS|WEU|associate member
+A|WEU|observer
+DK|WEU|observer
+SF|WEU|observer
+S|WEU|observer
+IRL|WEU|observer
+CZ|WEU|associate partner
+H|WEU|associate partner
+SK|WEU|associate partner
+LV|WEU|associate partner
+LT|WEU|associate partner
+PL|WEU|associate partner
+BG|WEU|associate partner
+RO|WEU|associate partner
+EW|WEU|associate partner
+SRB|WCL|member
+F|WCL|member
+E|WCL|member
+A|WCL|member
+I|WCL|member
+FL|WCL|member
+CH|WCL|member
+PL|WCL|member
+B|WCL|member
+L|WCL|member
+NL|WCL|member
+RO|WCL|member
+M|WCL|member
+P|WCL|member
+GB|WCL|member
+IR|WCL|member
+PK|WCL|member
+BD|WCL|member
+MAL|WCL|member
+THA|WCL|member
+VN|WCL|member
+HONX|WCL|member
+CY|WCL|member
+RI|WCL|member
+RP|WCL|member
+CL|WCL|member
+RC|WCL|member
+AG|WCL|member
+ARU|WCL|member
+BZ|WCL|member
+GCA|WCL|member
+MEX|WCL|member
+CDN|WCL|member
+USA|WCL|member
+CR|WCL|member
+NIC|WCL|member
+PA|WCL|member
+C|WCL|member
+WD|WCL|member
+DOM|WCL|member
+RH|WCL|member
+ES|WCL|member
+HCA|WCL|member
+WG|WCL|member
+GUAD|WCL|member
+JA|WCL|member
+MART|WCL|member
+NA|WCL|member
+CO|WCL|member
+PR|WCL|member
+KN|WCL|member
+WL|WCL|member
+WV|WCL|member
+RA|WCL|member
+BOL|WCL|member
+BR|WCL|member
+RCH|WCL|member
+PY|WCL|member
+ROU|WCL|member
+PE|WCL|member
+FGU|WCL|member
+GUY|WCL|member
+SME|WCL|member
+YV|WCL|member
+EC|WCL|member
+DZ|WCL|member
+RMM|WCL|member
+RN|WCL|member
+ANG|WCL|member
+NAM|WCL|member
+ZRE|WCL|member
+Z|WCL|member
+BEN|WCL|member
+BF|WCL|member
+WAN|WCL|member
+RT|WCL|member
+RB|WCL|member
+ZW|WCL|member
+CI|WCL|member
+GH|WCL|member
+RWA|WCL|member
+EAT|WCL|member
+CAM|WCL|member
+RCA|WCL|member
+TCH|WCL|member
+G|WCL|member
+CV|WCL|member
+RG|WCL|member
+LB|WCL|member
+EAK|WCL|member
+WAG|WCL|member
+SN|WCL|member
+WAL|WCL|member
+LS|WCL|member
+RM|WCL|member
+MS|WCL|member
+SY|WCL|member
+AL|WFTU|member
+GR|WFTU|member
+SRB|WFTU|member
+MNE|WFTU|member
+F|WFTU|member
+E|WFTU|member
+A|WFTU|member
+CZ|WFTU|member
+H|WFTU|member
+PL|WFTU|member
+BG|WFTU|member
+RO|WFTU|member
+TR|WFTU|member
+DK|WFTU|member
+SF|WFTU|member
+S|WFTU|member
+P|WFTU|member
+AFG|WFTU|member
+IR|WFTU|member
+PK|WFTU|member
+BRN|WFTU|member
+BD|WFTU|member
+IND|WFTU|member
+MAL|WFTU|member
+LAO|WFTU|member
+THA|WFTU|member
+K|WFTU|member
+VN|WFTU|member
+NOK|WFTU|member
+HONX|WFTU|member
+MACX|WFTU|member
+MNG|WFTU|member
+NEP|WFTU|member
+CY|WFTU|member
+ET|WFTU|member
+RI|WFTU|member
+TL|WFTU|member
+PNG|WFTU|member
+IRQ|WFTU|member
+JOR|WFTU|member
+KWT|WFTU|member
+SA|WFTU|member
+SYR|WFTU|member
+RL|WFTU|member
+J|WFTU|member
+OM|WFTU|member
+YE|WFTU|member
+RP|WFTU|member
+CL|WFTU|member
+AXA|WFTU|member
+AG|WFTU|member
+ARU|WFTU|member
+GCA|WFTU|member
+MEX|WFTU|member
+BERM|WFTU|member
+BVIR|WFTU|member
+CDN|WFTU|member
+CAYM|WFTU|member
+CR|WFTU|member
+NIC|WFTU|member
+PA|WFTU|member
+C|WFTU|member
+DOM|WFTU|member
+RH|WFTU|member
+ES|WFTU|member
+HCA|WFTU|member
+GUAD|WFTU|member
+JA|WFTU|member
+MART|WFTU|member
+MNTS|WFTU|member
+SMAR|WFTU|member
+CO|WFTU|member
+PR|WFTU|member
+WL|WFTU|member
+SPMI|WFTU|member
+WV|WFTU|member
+TT|WFTU|member
+AUS|WFTU|member
+FJI|WFTU|member
+NCA|WFTU|member
+NZ|WFTU|member
+SLB|WFTU|member
+VU|WFTU|member
+WAFU|WFTU|member
+RA|WFTU|member
+BOL|WFTU|member
+BR|WFTU|member
+RCH|WFTU|member
+ROU|WFTU|member
+PE|WFTU|member
+FGU|WFTU|member
+GUY|WFTU|member
+YV|WFTU|member
+EC|WFTU|member
+LAR|WFTU|member
+RMM|WFTU|member
+RN|WFTU|member
+TN|WFTU|member
+ANG|WFTU|member
+RCB|WFTU|member
+ZRE|WFTU|member
+BEN|WFTU|member
+BF|WFTU|member
+WAN|WFTU|member
+RT|WFTU|member
+RB|WFTU|member
+RSA|WFTU|member
+ZW|WFTU|member
+CI|WFTU|member
+GH|WFTU|member
+EAT|WFTU|member
+CAM|WFTU|member
+SUD|WFTU|member
+RG|WFTU|member
+LB|WFTU|member
+DJI|WFTU|member
+ER|WFTU|member
+ETH|WFTU|member
+SP|WFTU|member
+WAG|WFTU|member
+SN|WFTU|member
+GNB|WFTU|member
+WAL|WFTU|member
+EAU|WFTU|member
+LS|WFTU|member
+RM|WFTU|member
+MW|WFTU|member
+MOC|WFTU|member
+MS|WFTU|member
+MAYO|WFTU|member
+REUN|WFTU|member
+HELX|WFTU|member
+AL|WHO|member
+GR|WHO|member
+MK|WHO|member
+SRB|WHO|member
+MNE|WHO|member
+F|WHO|member
+E|WHO|member
+A|WHO|member
+CZ|WHO|member
+D|WHO|member
+H|WHO|member
+I|WHO|member
+SK|WHO|member
+SLO|WHO|member
+CH|WHO|member
+BY|WHO|member
+LV|WHO|member
+LT|WHO|member
+PL|WHO|member
+UA|WHO|member
+R|WHO|member
+B|WHO|member
+L|WHO|member
+NL|WHO|member
+BIH|WHO|member
+HR|WHO|member
+BG|WHO|member
+RO|WHO|member
+TR|WHO|member
+DK|WHO|member
+EW|WHO|member
+SF|WHO|member
+N|WHO|member
+S|WHO|member
+MC|WHO|member
+IS|WHO|member
+IRL|WHO|member
+RSM|WHO|member
+M|WHO|member
+MD|WHO|member
+P|WHO|member
+GB|WHO|member
+AFG|WHO|member
+TJ|WHO|member
+IR|WHO|member
+PK|WHO|member
+TAD|WHO|member
+TM|WHO|member
+UZB|WHO|member
+ARM|WHO|member
+GE|WHO|member
+AZ|WHO|member
+BRN|WHO|member
+BD|WHO|member
+MYA|WHO|member
+IND|WHO|member
+BHT|WHO|member
+BRU|WHO|member
+MAL|WHO|member
+LAO|WHO|member
+THA|WHO|member
+K|WHO|member
+VN|WHO|member
+KAZ|WHO|member
+NOK|WHO|member
+KGZ|WHO|member
+MNG|WHO|member
+NEP|WHO|member
+CY|WHO|member
+IL|WHO|member
+ET|WHO|member
+RI|WHO|member
+TL|WHO|member
+PNG|WHO|member
+IRQ|WHO|member
+JOR|WHO|member
+KWT|WHO|member
+SA|WHO|member
+SYR|WHO|member
+RL|WHO|member
+J|WHO|member
+ROK|WHO|member
+MV|WHO|member
+OM|WHO|member
+UAE|WHO|member
+YE|WHO|member
+RP|WHO|member
+Q|WHO|member
+SGP|WHO|member
+CL|WHO|member
+AG|WHO|member
+BS|WHO|member
+BDS|WHO|member
+BZ|WHO|member
+GCA|WHO|member
+MEX|WHO|member
+CDN|WHO|member
+USA|WHO|member
+CR|WHO|member
+NIC|WHO|member
+PA|WHO|member
+C|WHO|member
+WD|WHO|member
+DOM|WHO|member
+RH|WHO|member
+ES|WHO|member
+HCA|WHO|member
+WG|WHO|member
+JA|WHO|member
+CO|WHO|member
+KN|WHO|member
+WL|WHO|member
+WV|WHO|member
+TT|WHO|member
+AUS|WHO|member
+COOK|WHO|member
+FJI|WHO|member
+KIR|WHO|member
+MH|WHO|member
+NAU|WHO|member
+NZ|WHO|member
+NIUE|WHO|member
+PAL|WHO|member
+SLB|WHO|member
+TO|WHO|member
+TUV|WHO|member
+VU|WHO|member
+WS|WHO|member
+RA|WHO|member
+BOL|WHO|member
+BR|WHO|member
+RCH|WHO|member
+PY|WHO|member
+ROU|WHO|member
+PE|WHO|member
+GUY|WHO|member
+SME|WHO|member
+YV|WHO|member
+EC|WHO|member
+DZ|WHO|member
+LAR|WHO|member
+RMM|WHO|member
+RIM|WHO|member
+MA|WHO|member
+RN|WHO|member
+TN|WHO|member
+ANG|WHO|member
+RCB|WHO|member
+NAM|WHO|member
+ZRE|WHO|member
+Z|WHO|member
+BEN|WHO|member
+BF|WHO|member
+WAN|WHO|member
+RT|WHO|member
+RB|WHO|member
+RSA|WHO|member
+ZW|WHO|member
+CI|WHO|member
+GH|WHO|member
+BI|WHO|member
+RWA|WHO|member
+EAT|WHO|member
+CAM|WHO|member
+RCA|WHO|member
+TCH|WHO|member
+GQ|WHO|member
+G|WHO|member
+CV|WHO|member
+SUD|WHO|member
+COM|WHO|member
+RG|WHO|member
+LB|WHO|member
+DJI|WHO|member
+ER|WHO|member
+ETH|WHO|member
+SP|WHO|member
+EAK|WHO|member
+WAG|WHO|member
+SN|WHO|member
+GNB|WHO|member
+WAL|WHO|member
+EAU|WHO|member
+LS|WHO|member
+RM|WHO|member
+MW|WHO|member
+MOC|WHO|member
+MS|WHO|member
+SD|WHO|member
+STP|WHO|member
+SY|WHO|member
+PR|WHO|associate member
+AL|WIPO|member
+GR|WIPO|member
+MK|WIPO|member
+SRB|WIPO|member
+MNE|WIPO|member
+AND|WIPO|member
+F|WIPO|member
+E|WIPO|member
+A|WIPO|member
+CZ|WIPO|member
+D|WIPO|member
+H|WIPO|member
+I|WIPO|member
+FL|WIPO|member
+SK|WIPO|member
+SLO|WIPO|member
+CH|WIPO|member
+BY|WIPO|member
+LV|WIPO|member
+LT|WIPO|member
+PL|WIPO|member
+UA|WIPO|member
+R|WIPO|member
+B|WIPO|member
+L|WIPO|member
+NL|WIPO|member
+BIH|WIPO|member
+HR|WIPO|member
+BG|WIPO|member
+RO|WIPO|member
+TR|WIPO|member
+DK|WIPO|member
+EW|WIPO|member
+SF|WIPO|member
+N|WIPO|member
+S|WIPO|member
+MC|WIPO|member
+V|WIPO|member
+IS|WIPO|member
+IRL|WIPO|member
+RSM|WIPO|member
+M|WIPO|member
+MD|WIPO|member
+P|WIPO|member
+GB|WIPO|member
+TJ|WIPO|member
+IR|WIPO|member
+PK|WIPO|member
+TAD|WIPO|member
+UZB|WIPO|member
+ARM|WIPO|member
+GE|WIPO|member
+AZ|WIPO|member
+BRN|WIPO|member
+BD|WIPO|member
+IND|WIPO|member
+BHT|WIPO|member
+BRU|WIPO|member
+MAL|WIPO|member
+LAO|WIPO|member
+THA|WIPO|member
+K|WIPO|member
+VN|WIPO|member
+KAZ|WIPO|member
+NOK|WIPO|member
+KGZ|WIPO|member
+MNG|WIPO|member
+CY|WIPO|member
+IL|WIPO|member
+ET|WIPO|member
+RI|WIPO|member
+IRQ|WIPO|member
+JOR|WIPO|member
+SA|WIPO|member
+RL|WIPO|member
+J|WIPO|member
+ROK|WIPO|member
+UAE|WIPO|member
+YE|WIPO|member
+RP|WIPO|member
+Q|WIPO|member
+SGP|WIPO|member
+CL|WIPO|member
+BS|WIPO|member
+BDS|WIPO|member
+GCA|WIPO|member
+MEX|WIPO|member
+CDN|WIPO|member
+USA|WIPO|member
+CR|WIPO|member
+NIC|WIPO|member
+PA|WIPO|member
+C|WIPO|member
+DOM|WIPO|member
+RH|WIPO|member
+ES|WIPO|member
+HCA|WIPO|member
+JA|WIPO|member
+CO|WIPO|member
+KN|WIPO|member
+WL|WIPO|member
+TT|WIPO|member
+AUS|WIPO|member
+FJI|WIPO|member
+NZ|WIPO|member
+RA|WIPO|member
+BOL|WIPO|member
+BR|WIPO|member
+RCH|WIPO|member
+PY|WIPO|member
+ROU|WIPO|member
+PE|WIPO|member
+GUY|WIPO|member
+SME|WIPO|member
+YV|WIPO|member
+EC|WIPO|member
+DZ|WIPO|member
+LAR|WIPO|member
+RMM|WIPO|member
+RIM|WIPO|member
+MA|WIPO|member
+RN|WIPO|member
+TN|WIPO|member
+ANG|WIPO|member
+RCB|WIPO|member
+NAM|WIPO|member
+ZRE|WIPO|member
+Z|WIPO|member
+BEN|WIPO|member
+BF|WIPO|member
+WAN|WIPO|member
+RT|WIPO|member
+RSA|WIPO|member
+ZW|WIPO|member
+CI|WIPO|member
+GH|WIPO|member
+BI|WIPO|member
+RWA|WIPO|member
+EAT|WIPO|member
+CAM|WIPO|member
+RCA|WIPO|member
+TCH|WIPO|member
+G|WIPO|member
+SUD|WIPO|member
+RG|WIPO|member
+LB|WIPO|member
+SP|WIPO|member
+EAK|WIPO|member
+WAG|WIPO|member
+SN|WIPO|member
+GNB|WIPO|member
+WAL|WIPO|member
+EAU|WIPO|member
+LS|WIPO|member
+RM|WIPO|member
+MW|WIPO|member
+MS|WIPO|member
+SD|WIPO|member
+AL|WMO|member
+GR|WMO|member
+MK|WMO|member
+SRB|WMO|member
+MNE|WMO|member
+F|WMO|member
+E|WMO|member
+A|WMO|member
+CZ|WMO|member
+D|WMO|member
+H|WMO|member
+I|WMO|member
+SK|WMO|member
+SLO|WMO|member
+CH|WMO|member
+BY|WMO|member
+LV|WMO|member
+LT|WMO|member
+PL|WMO|member
+UA|WMO|member
+R|WMO|member
+B|WMO|member
+L|WMO|member
+NL|WMO|member
+BIH|WMO|member
+HR|WMO|member
+BG|WMO|member
+RO|WMO|member
+TR|WMO|member
+DK|WMO|member
+EW|WMO|member
+SF|WMO|member
+N|WMO|member
+S|WMO|member
+IS|WMO|member
+IRL|WMO|member
+M|WMO|member
+MD|WMO|member
+P|WMO|member
+GB|WMO|member
+AFG|WMO|member
+TJ|WMO|member
+IR|WMO|member
+PK|WMO|member
+TAD|WMO|member
+TM|WMO|member
+UZB|WMO|member
+ARM|WMO|member
+GE|WMO|member
+AZ|WMO|member
+BRN|WMO|member
+BD|WMO|member
+MYA|WMO|member
+IND|WMO|member
+BRU|WMO|member
+MAL|WMO|member
+LAO|WMO|member
+THA|WMO|member
+K|WMO|member
+VN|WMO|member
+KAZ|WMO|member
+NOK|WMO|member
+KGZ|WMO|member
+HONX|WMO|member
+MACX|WMO|member
+MNG|WMO|member
+NEP|WMO|member
+COCO|WMO|member
+CY|WMO|member
+IL|WMO|member
+ET|WMO|member
+RI|WMO|member
+PNG|WMO|member
+IRQ|WMO|member
+JOR|WMO|member
+KWT|WMO|member
+SA|WMO|member
+SYR|WMO|member
+RL|WMO|member
+J|WMO|member
+ROK|WMO|member
+MV|WMO|member
+OM|WMO|member
+UAE|WMO|member
+YE|WMO|member
+RP|WMO|member
+Q|WMO|member
+SGP|WMO|member
+CL|WMO|member
+AG|WMO|member
+ARU|WMO|member
+BS|WMO|member
+BDS|WMO|member
+BZ|WMO|member
+GCA|WMO|member
+MEX|WMO|member
+CDN|WMO|member
+USA|WMO|member
+CR|WMO|member
+NIC|WMO|member
+PA|WMO|member
+C|WMO|member
+WD|WMO|member
+DOM|WMO|member
+RH|WMO|member
+ES|WMO|member
+HCA|WMO|member
+JA|WMO|member
+NA|WMO|member
+CO|WMO|member
+WL|WMO|member
+TT|WMO|member
+AUS|WMO|member
+COOK|WMO|member
+FJI|WMO|member
+FPOL|WMO|member
+NCA|WMO|member
+NZ|WMO|member
+NIUE|WMO|member
+SLB|WMO|member
+VU|WMO|member
+WS|WMO|member
+RA|WMO|member
+BOL|WMO|member
+BR|WMO|member
+RCH|WMO|member
+PY|WMO|member
+ROU|WMO|member
+PE|WMO|member
+GUY|WMO|member
+SME|WMO|member
+YV|WMO|member
+EC|WMO|member
+DZ|WMO|member
+LAR|WMO|member
+RMM|WMO|member
+RIM|WMO|member
+MA|WMO|member
+RN|WMO|member
+TN|WMO|member
+ANG|WMO|member
+RCB|WMO|member
+NAM|WMO|member
+ZRE|WMO|member
+Z|WMO|member
+BEN|WMO|member
+BF|WMO|member
+WAN|WMO|member
+RT|WMO|member
+RB|WMO|member
+RSA|WMO|member
+ZW|WMO|member
+CI|WMO|member
+GH|WMO|member
+BI|WMO|member
+RWA|WMO|member
+EAT|WMO|member
+CAM|WMO|member
+RCA|WMO|member
+TCH|WMO|member
+G|WMO|member
+CV|WMO|member
+SUD|WMO|member
+COM|WMO|member
+RG|WMO|member
+LB|WMO|member
+DJI|WMO|member
+ER|WMO|member
+ETH|WMO|member
+SP|WMO|member
+EAK|WMO|member
+WAG|WMO|member
+SN|WMO|member
+GNB|WMO|member
+WAL|WMO|member
+EAU|WMO|member
+LS|WMO|member
+RM|WMO|member
+MW|WMO|member
+MOC|WMO|member
+MS|WMO|member
+SD|WMO|member
+STP|WMO|member
+SY|WMO|member
+AL|WToO|member
+GR|WToO|member
+F|WToO|member
+E|WToO|member
+A|WToO|member
+CZ|WToO|member
+D|WToO|member
+H|WToO|member
+I|WToO|member
+SK|WToO|member
+SLO|WToO|member
+CH|WToO|member
+PL|WToO|member
+R|WToO|member
+B|WToO|member
+NL|WToO|member
+BIH|WToO|member
+HR|WToO|member
+BG|WToO|member
+RO|WToO|member
+TR|WToO|member
+SF|WToO|member
+RSM|WToO|member
+M|WToO|member
+MD|WToO|member
+P|WToO|member
+AFG|WToO|member
+TJ|WToO|member
+IR|WToO|member
+PK|WToO|member
+TM|WToO|member
+UZB|WToO|member
+GE|WToO|member
+BD|WToO|member
+IND|WToO|member
+MAL|WToO|member
+LAO|WToO|member
+K|WToO|member
+VN|WToO|member
+KAZ|WToO|member
+NOK|WToO|member
+KGZ|WToO|member
+MNG|WToO|member
+NEP|WToO|member
+CY|WToO|member
+IL|WToO|member
+ET|WToO|member
+RI|WToO|member
+IRQ|WToO|member
+JOR|WToO|member
+KWT|WToO|member
+SYR|WToO|member
+RL|WToO|member
+J|WToO|member
+ROK|WToO|member
+MV|WToO|member
+UAE|WToO|member
+YE|WToO|member
+CL|WToO|member
+GCA|WToO|member
+MEX|WToO|member
+CDN|WToO|member
+USA|WToO|member
+NIC|WToO|member
+PA|WToO|member
+C|WToO|member
+DOM|WToO|member
+RH|WToO|member
+ES|WToO|member
+WG|WToO|member
+JA|WToO|member
+CO|WToO|member
+RA|WToO|member
+BOL|WToO|member
+BR|WToO|member
+RCH|WToO|member
+PY|WToO|member
+ROU|WToO|member
+PE|WToO|member
+YV|WToO|member
+EC|WToO|member
+DZ|WToO|member
+LAR|WToO|member
+RMM|WToO|member
+RIM|WToO|member
+MA|WToO|member
+RN|WToO|member
+TN|WToO|member
+ANG|WToO|member
+RCB|WToO|member
+ZRE|WToO|member
+Z|WToO|member
+BEN|WToO|member
+BF|WToO|member
+WAN|WToO|member
+RT|WToO|member
+ZW|WToO|member
+CI|WToO|member
+GH|WToO|member
+BI|WToO|member
+RWA|WToO|member
+EAT|WToO|member
+CAM|WToO|member
+TCH|WToO|member
+G|WToO|member
+SUD|WToO|member
+RG|WToO|member
+ETH|WToO|member
+EAK|WToO|member
+WAG|WToO|member
+SN|WToO|member
+GNB|WToO|member
+WAL|WToO|member
+EAU|WToO|member
+LS|WToO|member
+RM|WToO|member
+MW|WToO|member
+MS|WToO|member
+STP|WToO|member
+SY|WToO|member
+NA|WToO|associate member
+PR|WToO|associate member
+V|WToO|observer
+GR|WTrO|member
+F|WTrO|member
+E|WTrO|member
+A|WTrO|member
+CZ|WTrO|member
+D|WTrO|member
+H|WTrO|member
+I|WTrO|member
+FL|WTrO|member
+SK|WTrO|member
+SLO|WTrO|member
+CH|WTrO|member
+PL|WTrO|member
+B|WTrO|member
+L|WTrO|member
+NL|WTrO|member
+RO|WTrO|member
+TR|WTrO|member
+DK|WTrO|member
+SF|WTrO|member
+N|WTrO|member
+S|WTrO|member
+IS|WTrO|member
+IRL|WTrO|member
+M|WTrO|member
+P|WTrO|member
+GB|WTrO|member
+PK|WTrO|member
+BRN|WTrO|member
+BD|WTrO|member
+MYA|WTrO|member
+IND|WTrO|member
+BRU|WTrO|member
+MAL|WTrO|member
+THA|WTrO|member
+CY|WTrO|member
+IL|WTrO|member
+ET|WTrO|member
+RI|WTrO|member
+KWT|WTrO|member
+J|WTrO|member
+ROK|WTrO|member
+MV|WTrO|member
+RP|WTrO|member
+Q|WTrO|member
+SGP|WTrO|member
+CL|WTrO|member
+AG|WTrO|member
+BDS|WTrO|member
+BZ|WTrO|member
+GCA|WTrO|member
+MEX|WTrO|member
+CDN|WTrO|member
+USA|WTrO|member
+CR|WTrO|member
+NIC|WTrO|member
+C|WTrO|member
+WD|WTrO|member
+DOM|WTrO|member
+ES|WTrO|member
+HCA|WTrO|member
+JA|WTrO|member
+CO|WTrO|member
+WL|WTrO|member
+WV|WTrO|member
+TT|WTrO|member
+AUS|WTrO|member
+FJI|WTrO|member
+NZ|WTrO|member
+RA|WTrO|member
+BOL|WTrO|member
+BR|WTrO|member
+RCH|WTrO|member
+PY|WTrO|member
+ROU|WTrO|member
+PE|WTrO|member
+GUY|WTrO|member
+SME|WTrO|member
+YV|WTrO|member
+RMM|WTrO|member
+RIM|WTrO|member
+MA|WTrO|member
+TN|WTrO|member
+NAM|WTrO|member
+Z|WTrO|member
+BF|WTrO|member
+WAN|WTrO|member
+RT|WTrO|member
+RB|WTrO|member
+RSA|WTrO|member
+ZW|WTrO|member
+CI|WTrO|member
+GH|WTrO|member
+BI|WTrO|member
+EAT|WTrO|member
+CAM|WTrO|member
+RCA|WTrO|member
+G|WTrO|member
+RG|WTrO|member
+DJI|WTrO|member
+EAK|WTrO|member
+SN|WTrO|member
+GNB|WTrO|member
+WAL|WTrO|member
+EAU|WTrO|member
+LS|WTrO|member
+RM|WTrO|member
+MW|WTrO|member
+MOC|WTrO|member
+MS|WTrO|member
+SD|WTrO|member
+MK|WTrO|observer
+TAD|WTrO|observer
+TM|WTrO|observer
+AZ|WTrO|observer
+LAO|WTrO|observer
+KAZ|WTrO|observer
+KGZ|WTrO|observer
+LAR|WTrO|observer
+SUD|WTrO|observer
+ETH|WTrO|observer
+SP|WTrO|observer
+AL|WTrO|applicant
+BY|WTrO|applicant
+LV|WTrO|applicant
+LT|WTrO|applicant
+UA|WTrO|applicant
+R|WTrO|applicant
+HR|WTrO|applicant
+BG|WTrO|applicant
+EW|WTrO|applicant
+MD|WTrO|applicant
+TJ|WTrO|applicant
+UZB|WTrO|applicant
+ARM|WTrO|applicant
+K|WTrO|applicant
+VN|WTrO|applicant
+MNG|WTrO|applicant
+NEP|WTrO|applicant
+JOR|WTrO|applicant
+SA|WTrO|applicant
+YE|WTrO|applicant
+RC|WTrO|applicant
+PA|WTrO|applicant
+EC|WTrO|applicant
+DZ|WTrO|applicant
+GQ|WTrO|applicant
+CV|WTrO|applicant
+STP|WTrO|applicant
+SY|WTrO|applicant
+GR|ZC|member
+F|ZC|member
+E|ZC|member
+A|ZC|member
+CZ|ZC|member
+D|ZC|member
+H|ZC|member
+I|ZC|member
+SK|ZC|member
+CH|ZC|member
+PL|ZC|member
+R|ZC|member
+B|ZC|member
+L|ZC|member
+NL|ZC|member
+BG|ZC|member
+RO|ZC|member
+DK|ZC|member
+SF|ZC|member
+N|ZC|member
+S|ZC|member
+IRL|ZC|member
+P|ZC|member
+GB|ZC|member
+J|ZC|member
+CDN|ZC|member
+USA|ZC|member
+AUS|ZC|member
+RSA|ZC|member

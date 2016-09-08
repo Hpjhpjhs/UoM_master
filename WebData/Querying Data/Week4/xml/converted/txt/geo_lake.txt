@@ -1,0 +1,253 @@
+Inari|SF|Lappia
+Oulujaervi|SF|Oulu
+Kallavesi|SF|Kuopio
+Saimaa|SF|Kymi
+Saimaa|SF|Mikkeli
+Paeijaenne|SF|Haeme
+Paeijaenne|SF|Suomi
+Mjoesa-See|N|Hedmark
+Mjoesa-See|N|Oppland
+Storuman|S|Vasterbotten
+Siljan|S|Dalarna
+Maelaren|S|Sodermanland
+Maelaren|S|Stockholm
+Maelaren|S|Uppsala
+Maelaren|S|Vastmanland
+Vaenern|S|Alvsborg
+Vaenern|S|Skaraborg
+Vaenern|S|Varmland
+Vaettern|S|Jonkoping
+Vaettern|S|Orebro
+Vaettern|S|Ostergotland
+Vaettern|S|Skaraborg
+Arresoe|DK|Denmark
+Loch Ness|GB|Central
+Loch Ness|GB|Strathclyde
+Loch Lomond|GB|Highland
+Bodensee|A|Vorarlberg
+Bodensee|D|Baden Wurttemberg
+Bodensee|D|Bayern
+Bodensee|CH|SG
+Bodensee|CH|TG
+Chiemsee|D|Bayern
+Starnberger See|D|Bayern
+Ammersee|D|Bayern
+Laacher Maar|D|Rheinland Pfalz
+Lac Leman|F|Rhone Alpes
+Lac Leman|CH|GE
+Lac Leman|CH|VS
+Lac Leman|CH|VD
+Zurichsee|CH|GL
+Zurichsee|CH|SZ
+Zurichsee|CH|ZH
+Thunersee|CH|BE
+Brienzersee|CH|BE
+Vierwaldstattersee|CH|LU
+Vierwaldstattersee|CH|NW
+Vierwaldstattersee|CH|OW
+Vierwaldstattersee|CH|SZ
+Vierwaldstattersee|CH|UR
+Lago di Garda |I|Lombardia
+Lago di Garda |I|Veneto
+Lago Maggiore|I|Piemonte
+Lago Maggiore|I|Lombardia
+Lago Maggiore|CH|TI
+Lago di Como|I|Lombardia
+Lago Trasimeno|I|Toscana
+Lago Trasimeno|I|Umbria
+Lago di Bolsena|I|Lazio
+Lago di Bracciano|I|Lazio
+Neusiedlersee|A|Burgenland
+Neusiedlersee|H|Gyor Sopron
+Balaton|H|Fejer
+Balaton|H|Somogy
+Balaton|H|Veszprem
+Balaton|H|Zala
+Lake Skutari|AL|Albania
+Lake Skutari|MNE|Montenegro
+Lake Prespa|AL|Albania
+Lake Prespa|GR|Dhytiki Makedhonia
+Lake Prespa|MK|Macedonia
+Lake Ohrid|AL|Albania
+Lake Ohrid|MK|Macedonia
+Dead Sea|IL|South
+Dead Sea|JOR|Jordan
+Dead Sea|WEST|West Bank
+Lake Genezareth|IL|North
+Lake Genezareth|SYR|Syria
+Lake Van|TR|Bitlis
+Lake Van|TR|Van
+Lake Keban|TR|Elazig
+Lake Keban|TR|Malatya
+Lake Keban|TR|Tunceli
+Lake Urmia|IR|Azarbayian e Gharbt
+Lake Urmia|IR|Azarbayian e Sharqi
+Daryacheh ye Namak|IR|Tehran
+Hamun e Jaz Murian|IR|Kerman
+Hamun e Jaz Murian|IR|Sistan e Baluchestan
+Caspian Sea|R|Rep. of Kalmykiya
+Caspian Sea|R|Astrakhanskaya oblast
+Caspian Sea|R|Rep. of Dagestan
+Caspian Sea|IR|Gilan
+Caspian Sea|IR|Mazandaran
+Caspian Sea|TM|Balkan
+Caspian Sea|AZ|Azerbaijan
+Caspian Sea|KAZ|Atyrau
+Caspian Sea|KAZ|Mangghystau
+Ozero Aral|UZB|Qaraqalpoghiston
+Ozero Aral|KAZ|Qyzylorda
+Ozero Balchash|KAZ|Taldyqorghan
+Ozero Balchash|KAZ|Zhambyl
+Ozero Balchash|KAZ|Zhezkazghan
+Ozero Balchash|KAZ|Almaty (munic.)
+Issyk-Kul|KGZ|Kyrgyzstan
+Lop Nor|TJ|Xinjiang Uygur
+Lake Toba|RI|Indonesia
+Ozero Ladoga|R|Rep. of Karelia
+Ozero Ladoga|R|Leningradskaya oblast
+Ozero Onega|R|Rep. of Karelia
+Ozero Onega|R|Vologodskaya oblast
+Ozero Onega|R|Leningradskaya oblast
+Ozero Pskovskoje|R|Pskovskaya oblast
+Ozero Pskovskoje|EW|Estonia
+Ozero Baikal|R|Rep. of Buryatiya
+Ozero Baikal|R|Irkutskaya oblast
+Ozero Taimyr|R|Krasnoyarskiy kray
+Ozero Chanka|R|Primorsky kray
+Ozero Chanka|TJ|Heilongjiang
+Ozero Tschany|R|Novosibirskaya oblast
+Qinghai Lake|TJ|Qinghai
+Nam Co|TJ|Tibet
+Lake Nasser|ET|Aswan
+Lake Nasser|SUD|ash Shamaliyah
+Lake Volta|GH|Ghana
+Lake Bosumtwi|GH|Ghana
+Lake Kainji|WAN|Nigeria
+Chad Lake|RN|Niger
+Chad Lake|WAN|Nigeria
+Chad Lake|CAM|Nord extreme
+Chad Lake|TCH|Chad
+Barrage de Mbakaou|CAM|Adamaoua
+Lake Nyos|CAM|Nordoueste
+Lac Assal|DJI|Djibouti
+Lake Abbe|DJI|Djibouti
+Lake Abbe|ETH|Ethiopia
+Lake Abaya|ETH|Ethiopia
+Chew Bahir|ETH|Ethiopia
+Chew Bahir|EAK|Eastern
+Lake Turkana|ETH|Ethiopia
+Lake Turkana|EAK|Eastern
+Lake Turkana|EAK|Rift Valley
+Lake Tana|ETH|Ethiopia
+Lake Sese Seko/Albertsee|ZRE|Haut Zaire
+Lake Sese Seko/Albertsee|EAU|Uganda
+Rutanzige/Eduardsee|ZRE|Kivu
+Rutanzige/Eduardsee|EAU|Uganda
+Lake Kioga|EAU|Uganda
+Lake Victoria|EAT|Kagera
+Lake Victoria|EAT|Mwanza
+Lake Victoria|EAT|Mara
+Lake Victoria|EAK|Nyanza
+Lake Victoria|EAK|Western
+Lake Victoria|EAU|Uganda
+Lake Kivu|ZRE|Kivu
+Lake Kivu|RWA|Rwanda
+Lake Tanganjika|ZRE|Kivu
+Lake Tanganjika|ZRE|Shaba/Katanga
+Lake Tanganjika|Z|Northern
+Lake Tanganjika|BI|Burundi
+Lake Tanganjika|EAT|Mbeya
+Lake Tanganjika|EAT|Tabora
+Lake Tanganjika|EAT|Kigoma
+Lake Mweru|ZRE|Shaba/Katanga
+Lake Mweru|Z|Luapula
+Lake Bangweulu|Z|Luapula
+Lake Bangweulu|Z|Northern
+Lake Rukwa|EAT|Mbeya
+Lake Rukwa|EAT|Tabora
+Lake Eyasi|EAT|Arusha
+Lake Natron|EAT|Arusha
+Lake Malawi|EAT|Ruvuma
+Lake Malawi|EAT|Iringa
+Lake Malawi|MW|Malawi
+Lake Malawi|MOC|Niassa
+Lake Chilwa|MW|Malawi
+Lake Chilwa|MOC|Niassa
+Lake Mai Ndombe|ZRE|Bandundu
+Lake Cabora-Bassa|MOC|Tete
+Lake Kariba|Z|Southern
+Lake Kariba|ZW|Zimbabwe
+Lake Ngami|RB|Botswana
+Etoscha Salt Pan|NAM|Namibia
+Makarikari Salt Pan|RB|Botswana
+Great Bear Lake|CDN|Northwest Territories
+Great Slave Lake|CDN|Northwest Territories
+Atlin Lake|CDN|British Columbia
+Atlin Lake|CDN|Yukon Territory
+Lake Winnipeg|CDN|Manitoba
+Lake Nipigon|CDN|Ontario
+Lake Manicouagan|CDN|Quebec
+Lake Ontario|CDN|Ontario
+Lake Ontario|USA|New York
+Lake Erie|CDN|Ontario
+Lake Erie|USA|Michigan
+Lake Erie|USA|New York
+Lake Erie|USA|Ohio
+Lake Erie|USA|Pennsylvania
+Lake Huron|CDN|Ontario
+Lake Huron|USA|Michigan
+Lake Manitou|CDN|Ontario
+Lake Michigan|USA|Illinois
+Lake Michigan|USA|Indiana
+Lake Michigan|USA|Michigan
+Lake Michigan|USA|Wisconsin
+Lake Superior|CDN|Ontario
+Lake Superior|USA|Michigan
+Lake Superior|USA|Minnesota
+Lake Superior|USA|Wisconsin
+Lake Champlain|CDN|Quebec
+Lake Champlain|USA|New York
+Lake Champlain|USA|Vermont
+Lake Winnipesaukee|USA|New Hampshire
+Lake Okeechobee|USA|Florida
+Kentucky Lake|USA|Kentucky
+Kentucky Lake|USA|Tennessee
+Chickamauga Lake|USA|Tennessee
+Franklin. D. Roosevelt Lake|USA|Washington
+Crater Lake|USA|Oregon
+Great Salt Lake|USA|Utah
+Lake Tahoe|USA|California
+Lake Tahoe|USA|Nevada
+Pyramid Lake|USA|Nevada
+Lake Powell|USA|Arizona
+Lake Powell|USA|Utah
+Lake Mead|USA|Arizona
+Lake Mead|USA|Nevada
+Fort Peck Lake|USA|Montana
+Lake Sakakawea|USA|Montana
+Lake Sakakawea|USA|North Dakota
+Lake Oahe|USA|North Dakota
+Lake Oahe|USA|South Dakota
+Lago de Chapala|MEX|Jalisco
+Lake Nicaragua|CR|Alajuela
+Lake Nicaragua|CR|Guanacaste
+Lake Nicaragua|NIC|Nicaragua
+Lake Managua|NIC|Nicaragua
+Lake Irazu|CR|Cartago
+Lake Maracaibo|YV|Merida
+Lake Maracaibo|YV|Trujillo
+Lake Maracaibo|YV|Zulia
+Lago de Sobradinho|BR|Bahia
+Lake Titicaca|BOL|Bolivia
+Lake Titicaca|PE|Puno
+Poopo|BOL|Bolivia
+Salar de Uyuni|BOL|Bolivia
+Licancabur Crater Lake|BOL|Bolivia
+Licancabur Crater Lake|RCH|Chile
+Laguna Mar Chiquita|RA|Cordoba
+Laguna Mar Chiquita|RA|Santa Fe
+Laguna Mar Chiquita|RA|Santiago de Estero
+Lake Eyre|AUS|South Australia
+Lake Burley Griffin|AUS|Australia Capital Territory
+Lake Hume|AUS|New South Wales
+Lake Hume|AUS|Victoria

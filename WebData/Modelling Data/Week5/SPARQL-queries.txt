@@ -1,0 +1,26 @@
+For People:
+# query people from FOAF
+#PREFIX foaf: <http://semanticweb.org/wiki/FOAF>
+
+# 1. Find the the number of friends of Sandro Hawke.
+SELECT DISTINCT COUNT(?friend) 
+WHERE {
+	?person foaf:name "Sandro Hawke"; 
+            foaf:knows ?friend
+}
+
+#2. Find the names of friends of Sandro Hawke.
+SELECT ?name
+WHERE {
+	?person foaf:name "Sandro Hawke"; 
+                foaf:knows ?friend.
+        ?friend foaf:name ?name
+}   
+
+#3. Find the names of all people in Sandro Hawke's social network, i.e., his friends, friends of friends, etc. 
+SELECT ?name
+WHERE {
+	?person foaf:name "Sandro Hawke"; 
+                foaf:knows+ ?friend.
+        ?friend foaf:name ?name
+}

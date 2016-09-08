@@ -1,0 +1,256 @@
+
+<geo_lake>
+   <geo_lake-tuple lake="Inari" country="SF" province="Lappia"/>
+   <geo_lake-tuple lake="Oulujaervi" country="SF" province="Oulu"/>
+   <geo_lake-tuple lake="Kallavesi" country="SF" province="Kuopio"/>
+   <geo_lake-tuple lake="Saimaa" country="SF" province="Kymi"/>
+   <geo_lake-tuple lake="Saimaa" country="SF" province="Mikkeli"/>
+   <geo_lake-tuple lake="Paeijaenne" country="SF" province="Haeme"/>
+   <geo_lake-tuple lake="Paeijaenne" country="SF" province="Suomi"/>
+   <geo_lake-tuple lake="Mjoesa-See" country="N" province="Hedmark"/>
+   <geo_lake-tuple lake="Mjoesa-See" country="N" province="Oppland"/>
+   <geo_lake-tuple lake="Storuman" country="S" province="Vasterbotten"/>
+   <geo_lake-tuple lake="Siljan" country="S" province="Dalarna"/>
+   <geo_lake-tuple lake="Maelaren" country="S" province="Sodermanland"/>
+   <geo_lake-tuple lake="Maelaren" country="S" province="Stockholm"/>
+   <geo_lake-tuple lake="Maelaren" country="S" province="Uppsala"/>
+   <geo_lake-tuple lake="Maelaren" country="S" province="Vastmanland"/>
+   <geo_lake-tuple lake="Vaenern" country="S" province="Alvsborg"/>
+   <geo_lake-tuple lake="Vaenern" country="S" province="Skaraborg"/>
+   <geo_lake-tuple lake="Vaenern" country="S" province="Varmland"/>
+   <geo_lake-tuple lake="Vaettern" country="S" province="Jonkoping"/>
+   <geo_lake-tuple lake="Vaettern" country="S" province="Orebro"/>
+   <geo_lake-tuple lake="Vaettern" country="S" province="Ostergotland"/>
+   <geo_lake-tuple lake="Vaettern" country="S" province="Skaraborg"/>
+   <geo_lake-tuple lake="Arresoe" country="DK" province="Denmark"/>
+   <geo_lake-tuple lake="Loch Ness" country="GB" province="Central"/>
+   <geo_lake-tuple lake="Loch Ness" country="GB" province="Strathclyde"/>
+   <geo_lake-tuple lake="Loch Lomond" country="GB" province="Highland"/>
+   <geo_lake-tuple lake="Bodensee" country="A" province="Vorarlberg"/>
+   <geo_lake-tuple lake="Bodensee" country="D" province="Baden Wurttemberg"/>
+   <geo_lake-tuple lake="Bodensee" country="D" province="Bayern"/>
+   <geo_lake-tuple lake="Bodensee" country="CH" province="SG"/>
+   <geo_lake-tuple lake="Bodensee" country="CH" province="TG"/>
+   <geo_lake-tuple lake="Chiemsee" country="D" province="Bayern"/>
+   <geo_lake-tuple lake="Starnberger See" country="D" province="Bayern"/>
+   <geo_lake-tuple lake="Ammersee" country="D" province="Bayern"/>
+   <geo_lake-tuple lake="Laacher Maar" country="D" province="Rheinland Pfalz"/>
+   <geo_lake-tuple lake="Lac Leman" country="F" province="Rhone Alpes"/>
+   <geo_lake-tuple lake="Lac Leman" country="CH" province="GE"/>
+   <geo_lake-tuple lake="Lac Leman" country="CH" province="VS"/>
+   <geo_lake-tuple lake="Lac Leman" country="CH" province="VD"/>
+   <geo_lake-tuple lake="Zurichsee" country="CH" province="GL"/>
+   <geo_lake-tuple lake="Zurichsee" country="CH" province="SZ"/>
+   <geo_lake-tuple lake="Zurichsee" country="CH" province="ZH"/>
+   <geo_lake-tuple lake="Thunersee" country="CH" province="BE"/>
+   <geo_lake-tuple lake="Brienzersee" country="CH" province="BE"/>
+   <geo_lake-tuple lake="Vierwaldstattersee" country="CH" province="LU"/>
+   <geo_lake-tuple lake="Vierwaldstattersee" country="CH" province="NW"/>
+   <geo_lake-tuple lake="Vierwaldstattersee" country="CH" province="OW"/>
+   <geo_lake-tuple lake="Vierwaldstattersee" country="CH" province="SZ"/>
+   <geo_lake-tuple lake="Vierwaldstattersee" country="CH" province="UR"/>
+   <geo_lake-tuple lake="Lago di Garda " country="I" province="Lombardia"/>
+   <geo_lake-tuple lake="Lago di Garda " country="I" province="Veneto"/>
+   <geo_lake-tuple lake="Lago Maggiore" country="I" province="Piemonte"/>
+   <geo_lake-tuple lake="Lago Maggiore" country="I" province="Lombardia"/>
+   <geo_lake-tuple lake="Lago Maggiore" country="CH" province="TI"/>
+   <geo_lake-tuple lake="Lago di Como" country="I" province="Lombardia"/>
+   <geo_lake-tuple lake="Lago Trasimeno" country="I" province="Toscana"/>
+   <geo_lake-tuple lake="Lago Trasimeno" country="I" province="Umbria"/>
+   <geo_lake-tuple lake="Lago di Bolsena" country="I" province="Lazio"/>
+   <geo_lake-tuple lake="Lago di Bracciano" country="I" province="Lazio"/>
+   <geo_lake-tuple lake="Neusiedlersee" country="A" province="Burgenland"/>
+   <geo_lake-tuple lake="Neusiedlersee" country="H" province="Gyor Sopron"/>
+   <geo_lake-tuple lake="Balaton" country="H" province="Fejer"/>
+   <geo_lake-tuple lake="Balaton" country="H" province="Somogy"/>
+   <geo_lake-tuple lake="Balaton" country="H" province="Veszprem"/>
+   <geo_lake-tuple lake="Balaton" country="H" province="Zala"/>
+   <geo_lake-tuple lake="Lake Skutari" country="AL" province="Albania"/>
+   <geo_lake-tuple lake="Lake Skutari" country="MNE" province="Montenegro"/>
+   <geo_lake-tuple lake="Lake Prespa" country="AL" province="Albania"/>
+   <geo_lake-tuple lake="Lake Prespa" country="GR" province="Dhytiki Makedhonia"/>
+   <geo_lake-tuple lake="Lake Prespa" country="MK" province="Macedonia"/>
+   <geo_lake-tuple lake="Lake Ohrid" country="AL" province="Albania"/>
+   <geo_lake-tuple lake="Lake Ohrid" country="MK" province="Macedonia"/>
+   <geo_lake-tuple lake="Dead Sea" country="IL" province="South"/>
+   <geo_lake-tuple lake="Dead Sea" country="JOR" province="Jordan"/>
+   <geo_lake-tuple lake="Dead Sea" country="WEST" province="West Bank"/>
+   <geo_lake-tuple lake="Lake Genezareth" country="IL" province="North"/>
+   <geo_lake-tuple lake="Lake Genezareth" country="SYR" province="Syria"/>
+   <geo_lake-tuple lake="Lake Van" country="TR" province="Bitlis"/>
+   <geo_lake-tuple lake="Lake Van" country="TR" province="Van"/>
+   <geo_lake-tuple lake="Lake Keban" country="TR" province="Elazig"/>
+   <geo_lake-tuple lake="Lake Keban" country="TR" province="Malatya"/>
+   <geo_lake-tuple lake="Lake Keban" country="TR" province="Tunceli"/>
+   <geo_lake-tuple lake="Lake Urmia" country="IR" province="Azarbayian e Gharbt"/>
+   <geo_lake-tuple lake="Lake Urmia" country="IR" province="Azarbayian e Sharqi"/>
+   <geo_lake-tuple lake="Daryacheh ye Namak" country="IR" province="Tehran"/>
+   <geo_lake-tuple lake="Hamun e Jaz Murian" country="IR" province="Kerman"/>
+   <geo_lake-tuple lake="Hamun e Jaz Murian" country="IR" province="Sistan e Baluchestan"/>
+   <geo_lake-tuple lake="Caspian Sea" country="R" province="Rep. of Kalmykiya"/>
+   <geo_lake-tuple lake="Caspian Sea" country="R" province="Astrakhanskaya oblast"/>
+   <geo_lake-tuple lake="Caspian Sea" country="R" province="Rep. of Dagestan"/>
+   <geo_lake-tuple lake="Caspian Sea" country="IR" province="Gilan"/>
+   <geo_lake-tuple lake="Caspian Sea" country="IR" province="Mazandaran"/>
+   <geo_lake-tuple lake="Caspian Sea" country="TM" province="Balkan"/>
+   <geo_lake-tuple lake="Caspian Sea" country="AZ" province="Azerbaijan"/>
+   <geo_lake-tuple lake="Caspian Sea" country="KAZ" province="Atyrau"/>
+   <geo_lake-tuple lake="Caspian Sea" country="KAZ" province="Mangghystau"/>
+   <geo_lake-tuple lake="Ozero Aral" country="UZB" province="Qaraqalpoghiston"/>
+   <geo_lake-tuple lake="Ozero Aral" country="KAZ" province="Qyzylorda"/>
+   <geo_lake-tuple lake="Ozero Balchash" country="KAZ" province="Taldyqorghan"/>
+   <geo_lake-tuple lake="Ozero Balchash" country="KAZ" province="Zhambyl"/>
+   <geo_lake-tuple lake="Ozero Balchash" country="KAZ" province="Zhezkazghan"/>
+   <geo_lake-tuple lake="Ozero Balchash" country="KAZ" province="Almaty (munic.)"/>
+   <geo_lake-tuple lake="Issyk-Kul" country="KGZ" province="Kyrgyzstan"/>
+   <geo_lake-tuple lake="Lop Nor" country="TJ" province="Xinjiang Uygur"/>
+   <geo_lake-tuple lake="Lake Toba" country="RI" province="Indonesia"/>
+   <geo_lake-tuple lake="Ozero Ladoga" country="R" province="Rep. of Karelia"/>
+   <geo_lake-tuple lake="Ozero Ladoga" country="R" province="Leningradskaya oblast"/>
+   <geo_lake-tuple lake="Ozero Onega" country="R" province="Rep. of Karelia"/>
+   <geo_lake-tuple lake="Ozero Onega" country="R" province="Vologodskaya oblast"/>
+   <geo_lake-tuple lake="Ozero Onega" country="R" province="Leningradskaya oblast"/>
+   <geo_lake-tuple lake="Ozero Pskovskoje" country="R" province="Pskovskaya oblast"/>
+   <geo_lake-tuple lake="Ozero Pskovskoje" country="EW" province="Estonia"/>
+   <geo_lake-tuple lake="Ozero Baikal" country="R" province="Rep. of Buryatiya"/>
+   <geo_lake-tuple lake="Ozero Baikal" country="R" province="Irkutskaya oblast"/>
+   <geo_lake-tuple lake="Ozero Taimyr" country="R" province="Krasnoyarskiy kray"/>
+   <geo_lake-tuple lake="Ozero Chanka" country="R" province="Primorsky kray"/>
+   <geo_lake-tuple lake="Ozero Chanka" country="TJ" province="Heilongjiang"/>
+   <geo_lake-tuple lake="Ozero Tschany" country="R" province="Novosibirskaya oblast"/>
+   <geo_lake-tuple lake="Qinghai Lake" country="TJ" province="Qinghai"/>
+   <geo_lake-tuple lake="Nam Co" country="TJ" province="Tibet"/>
+   <geo_lake-tuple lake="Lake Nasser" country="ET" province="Aswan"/>
+   <geo_lake-tuple lake="Lake Nasser" country="SUD" province="ash Shamaliyah"/>
+   <geo_lake-tuple lake="Lake Volta" country="GH" province="Ghana"/>
+   <geo_lake-tuple lake="Lake Bosumtwi" country="GH" province="Ghana"/>
+   <geo_lake-tuple lake="Lake Kainji" country="WAN" province="Nigeria"/>
+   <geo_lake-tuple lake="Chad Lake" country="RN" province="Niger"/>
+   <geo_lake-tuple lake="Chad Lake" country="WAN" province="Nigeria"/>
+   <geo_lake-tuple lake="Chad Lake" country="CAM" province="Nord extreme"/>
+   <geo_lake-tuple lake="Chad Lake" country="TCH" province="Chad"/>
+   <geo_lake-tuple lake="Barrage de Mbakaou" country="CAM" province="Adamaoua"/>
+   <geo_lake-tuple lake="Lake Nyos" country="CAM" province="Nordoueste"/>
+   <geo_lake-tuple lake="Lac Assal" country="DJI" province="Djibouti"/>
+   <geo_lake-tuple lake="Lake Abbe" country="DJI" province="Djibouti"/>
+   <geo_lake-tuple lake="Lake Abbe" country="ETH" province="Ethiopia"/>
+   <geo_lake-tuple lake="Lake Abaya" country="ETH" province="Ethiopia"/>
+   <geo_lake-tuple lake="Chew Bahir" country="ETH" province="Ethiopia"/>
+   <geo_lake-tuple lake="Chew Bahir" country="EAK" province="Eastern"/>
+   <geo_lake-tuple lake="Lake Turkana" country="ETH" province="Ethiopia"/>
+   <geo_lake-tuple lake="Lake Turkana" country="EAK" province="Eastern"/>
+   <geo_lake-tuple lake="Lake Turkana" country="EAK" province="Rift Valley"/>
+   <geo_lake-tuple lake="Lake Tana" country="ETH" province="Ethiopia"/>
+   <geo_lake-tuple lake="Lake Sese Seko/Albertsee" country="ZRE" province="Haut Zaire"/>
+   <geo_lake-tuple lake="Lake Sese Seko/Albertsee" country="EAU" province="Uganda"/>
+   <geo_lake-tuple lake="Rutanzige/Eduardsee" country="ZRE" province="Kivu"/>
+   <geo_lake-tuple lake="Rutanzige/Eduardsee" country="EAU" province="Uganda"/>
+   <geo_lake-tuple lake="Lake Kioga" country="EAU" province="Uganda"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAT" province="Kagera"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAT" province="Mwanza"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAT" province="Mara"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAK" province="Nyanza"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAK" province="Western"/>
+   <geo_lake-tuple lake="Lake Victoria" country="EAU" province="Uganda"/>
+   <geo_lake-tuple lake="Lake Kivu" country="ZRE" province="Kivu"/>
+   <geo_lake-tuple lake="Lake Kivu" country="RWA" province="Rwanda"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="ZRE" province="Kivu"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="ZRE" province="Shaba/Katanga"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="Z" province="Northern"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="BI" province="Burundi"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="EAT" province="Mbeya"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="EAT" province="Tabora"/>
+   <geo_lake-tuple lake="Lake Tanganjika" country="EAT" province="Kigoma"/>
+   <geo_lake-tuple lake="Lake Mweru" country="ZRE" province="Shaba/Katanga"/>
+   <geo_lake-tuple lake="Lake Mweru" country="Z" province="Luapula"/>
+   <geo_lake-tuple lake="Lake Bangweulu" country="Z" province="Luapula"/>
+   <geo_lake-tuple lake="Lake Bangweulu" country="Z" province="Northern"/>
+   <geo_lake-tuple lake="Lake Rukwa" country="EAT" province="Mbeya"/>
+   <geo_lake-tuple lake="Lake Rukwa" country="EAT" province="Tabora"/>
+   <geo_lake-tuple lake="Lake Eyasi" country="EAT" province="Arusha"/>
+   <geo_lake-tuple lake="Lake Natron" country="EAT" province="Arusha"/>
+   <geo_lake-tuple lake="Lake Malawi" country="EAT" province="Ruvuma"/>
+   <geo_lake-tuple lake="Lake Malawi" country="EAT" province="Iringa"/>
+   <geo_lake-tuple lake="Lake Malawi" country="MW" province="Malawi"/>
+   <geo_lake-tuple lake="Lake Malawi" country="MOC" province="Niassa"/>
+   <geo_lake-tuple lake="Lake Chilwa" country="MW" province="Malawi"/>
+   <geo_lake-tuple lake="Lake Chilwa" country="MOC" province="Niassa"/>
+   <geo_lake-tuple lake="Lake Mai Ndombe" country="ZRE" province="Bandundu"/>
+   <geo_lake-tuple lake="Lake Cabora-Bassa" country="MOC" province="Tete"/>
+   <geo_lake-tuple lake="Lake Kariba" country="Z" province="Southern"/>
+   <geo_lake-tuple lake="Lake Kariba" country="ZW" province="Zimbabwe"/>
+   <geo_lake-tuple lake="Lake Ngami" country="RB" province="Botswana"/>
+   <geo_lake-tuple lake="Etoscha Salt Pan" country="NAM" province="Namibia"/>
+   <geo_lake-tuple lake="Makarikari Salt Pan" country="RB" province="Botswana"/>
+   <geo_lake-tuple lake="Great Bear Lake" country="CDN" province="Northwest Territories"/>
+   <geo_lake-tuple lake="Great Slave Lake" country="CDN" province="Northwest Territories"/>
+   <geo_lake-tuple lake="Atlin Lake" country="CDN" province="British Columbia"/>
+   <geo_lake-tuple lake="Atlin Lake" country="CDN" province="Yukon Territory"/>
+   <geo_lake-tuple lake="Lake Winnipeg" country="CDN" province="Manitoba"/>
+   <geo_lake-tuple lake="Lake Nipigon" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Manicouagan" country="CDN" province="Quebec"/>
+   <geo_lake-tuple lake="Lake Ontario" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Ontario" country="USA" province="New York"/>
+   <geo_lake-tuple lake="Lake Erie" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Erie" country="USA" province="Michigan"/>
+   <geo_lake-tuple lake="Lake Erie" country="USA" province="New York"/>
+   <geo_lake-tuple lake="Lake Erie" country="USA" province="Ohio"/>
+   <geo_lake-tuple lake="Lake Erie" country="USA" province="Pennsylvania"/>
+   <geo_lake-tuple lake="Lake Huron" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Huron" country="USA" province="Michigan"/>
+   <geo_lake-tuple lake="Lake Manitou" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Michigan" country="USA" province="Illinois"/>
+   <geo_lake-tuple lake="Lake Michigan" country="USA" province="Indiana"/>
+   <geo_lake-tuple lake="Lake Michigan" country="USA" province="Michigan"/>
+   <geo_lake-tuple lake="Lake Michigan" country="USA" province="Wisconsin"/>
+   <geo_lake-tuple lake="Lake Superior" country="CDN" province="Ontario"/>
+   <geo_lake-tuple lake="Lake Superior" country="USA" province="Michigan"/>
+   <geo_lake-tuple lake="Lake Superior" country="USA" province="Minnesota"/>
+   <geo_lake-tuple lake="Lake Superior" country="USA" province="Wisconsin"/>
+   <geo_lake-tuple lake="Lake Champlain" country="CDN" province="Quebec"/>
+   <geo_lake-tuple lake="Lake Champlain" country="USA" province="New York"/>
+   <geo_lake-tuple lake="Lake Champlain" country="USA" province="Vermont"/>
+   <geo_lake-tuple lake="Lake Winnipesaukee" country="USA" province="New Hampshire"/>
+   <geo_lake-tuple lake="Lake Okeechobee" country="USA" province="Florida"/>
+   <geo_lake-tuple lake="Kentucky Lake" country="USA" province="Kentucky"/>
+   <geo_lake-tuple lake="Kentucky Lake" country="USA" province="Tennessee"/>
+   <geo_lake-tuple lake="Chickamauga Lake" country="USA" province="Tennessee"/>
+   <geo_lake-tuple lake="Franklin. D. Roosevelt Lake" country="USA" province="Washington"/>
+   <geo_lake-tuple lake="Crater Lake" country="USA" province="Oregon"/>
+   <geo_lake-tuple lake="Great Salt Lake" country="USA" province="Utah"/>
+   <geo_lake-tuple lake="Lake Tahoe" country="USA" province="California"/>
+   <geo_lake-tuple lake="Lake Tahoe" country="USA" province="Nevada"/>
+   <geo_lake-tuple lake="Pyramid Lake" country="USA" province="Nevada"/>
+   <geo_lake-tuple lake="Lake Powell" country="USA" province="Arizona"/>
+   <geo_lake-tuple lake="Lake Powell" country="USA" province="Utah"/>
+   <geo_lake-tuple lake="Lake Mead" country="USA" province="Arizona"/>
+   <geo_lake-tuple lake="Lake Mead" country="USA" province="Nevada"/>
+   <geo_lake-tuple lake="Fort Peck Lake" country="USA" province="Montana"/>
+   <geo_lake-tuple lake="Lake Sakakawea" country="USA" province="Montana"/>
+   <geo_lake-tuple lake="Lake Sakakawea" country="USA" province="North Dakota"/>
+   <geo_lake-tuple lake="Lake Oahe" country="USA" province="North Dakota"/>
+   <geo_lake-tuple lake="Lake Oahe" country="USA" province="South Dakota"/>
+   <geo_lake-tuple lake="Lago de Chapala" country="MEX" province="Jalisco"/>
+   <geo_lake-tuple lake="Lake Nicaragua" country="CR" province="Alajuela"/>
+   <geo_lake-tuple lake="Lake Nicaragua" country="CR" province="Guanacaste"/>
+   <geo_lake-tuple lake="Lake Nicaragua" country="NIC" province="Nicaragua"/>
+   <geo_lake-tuple lake="Lake Managua" country="NIC" province="Nicaragua"/>
+   <geo_lake-tuple lake="Lake Irazu" country="CR" province="Cartago"/>
+   <geo_lake-tuple lake="Lake Maracaibo" country="YV" province="Merida"/>
+   <geo_lake-tuple lake="Lake Maracaibo" country="YV" province="Trujillo"/>
+   <geo_lake-tuple lake="Lake Maracaibo" country="YV" province="Zulia"/>
+   <geo_lake-tuple lake="Lago de Sobradinho" country="BR" province="Bahia"/>
+   <geo_lake-tuple lake="Lake Titicaca" country="BOL" province="Bolivia"/>
+   <geo_lake-tuple lake="Lake Titicaca" country="PE" province="Puno"/>
+   <geo_lake-tuple lake="Poopo" country="BOL" province="Bolivia"/>
+   <geo_lake-tuple lake="Salar de Uyuni" country="BOL" province="Bolivia"/>
+   <geo_lake-tuple lake="Licancabur Crater Lake" country="BOL" province="Bolivia"/>
+   <geo_lake-tuple lake="Licancabur Crater Lake" country="RCH" province="Chile"/>
+   <geo_lake-tuple lake="Laguna Mar Chiquita" country="RA" province="Cordoba"/>
+   <geo_lake-tuple lake="Laguna Mar Chiquita" country="RA" province="Santa Fe"/>
+   <geo_lake-tuple lake="Laguna Mar Chiquita" country="RA" province="Santiago de Estero"/>
+   <geo_lake-tuple lake="Lake Eyre" country="AUS" province="South Australia"/>
+   <geo_lake-tuple lake="Lake Burley Griffin" country="AUS" province="Australia Capital Territory"/>
+   <geo_lake-tuple lake="Lake Hume" country="AUS" province="New South Wales"/>
+   <geo_lake-tuple lake="Lake Hume" country="AUS" province="Victoria"/>
+</geo_lake>

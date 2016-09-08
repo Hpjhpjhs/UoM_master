@@ -1,0 +1,434 @@
+<mergeswith>
+   <mergeswith-tuple>
+      <sea1>
+         Kattegat
+      </sea1>
+      <sea2>
+         Skagerrak
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         North Sea
+      </sea1>
+      <sea2>
+         Skagerrak
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         North Sea
+      </sea1>
+      <sea2>
+         The Channel
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         North Sea
+      </sea1>
+      <sea2>
+         Norwegian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Black Sea
+      </sea1>
+      <sea2>
+         Sea of Azov
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Black Sea
+      </sea1>
+      <sea2>
+         Mediterranean Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Baltic Sea
+      </sea1>
+      <sea2>
+         North Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         North Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         The Channel
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Mediterranean Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Gulf of Mexico
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Norwegian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Pacific Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Irish Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Caribbean Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Atlantic Ocean
+      </sea1>
+      <sea2>
+         Indian Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Barents Sea
+      </sea1>
+      <sea2>
+         Norwegian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Barents Sea
+      </sea1>
+      <sea2>
+         Sibirian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arctic Ocean
+      </sea1>
+      <sea2>
+         Atlantic Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arctic Ocean
+      </sea1>
+      <sea2>
+         Norwegian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arctic Ocean
+      </sea1>
+      <sea2>
+         Barents Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arctic Ocean
+      </sea1>
+      <sea2>
+         Sibirian Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arctic Ocean
+      </sea1>
+      <sea2>
+         Bering Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Bering Sea
+      </sea1>
+      <sea2>
+         Pacific Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Pacific Ocean
+      </sea1>
+      <sea2>
+         Sea of Okhotsk
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Pacific Ocean
+      </sea1>
+      <sea2>
+         Sea of Japan
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Pacific Ocean
+      </sea1>
+      <sea2>
+         South China Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Pacific Ocean
+      </sea1>
+      <sea2>
+         Sunda Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Pacific Ocean
+      </sea1>
+      <sea2>
+         Sulawesi Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Sea of Japan
+      </sea1>
+      <sea2>
+         Sea of Okhotsk
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Sea of Japan
+      </sea1>
+      <sea2>
+         Yellow Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         East China Sea
+      </sea1>
+      <sea2>
+         Pacific Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         East China Sea
+      </sea1>
+      <sea2>
+         Sea of Japan
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         East China Sea
+      </sea1>
+      <sea2>
+         Yellow Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         East China Sea
+      </sea1>
+      <sea2>
+         South China Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         South China Sea
+      </sea1>
+      <sea2>
+         Sunda Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         South China Sea
+      </sea1>
+      <sea2>
+         Sulawesi Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Caribbean Sea
+      </sea1>
+      <sea2>
+         Gulf of Mexico
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Indian Ocean
+      </sea1>
+      <sea2>
+         Pacific Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Indian Ocean
+      </sea1>
+      <sea2>
+         Sunda Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arabian Sea
+      </sea1>
+      <sea2>
+         Indian Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arabian Sea
+      </sea1>
+      <sea2>
+         Gulf of Oman
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Arabian Sea
+      </sea1>
+      <sea2>
+         Gulf of Aden
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Oman
+      </sea1>
+      <sea2>
+         Persian Gulf
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Oman
+      </sea1>
+      <sea2>
+         Indian Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Aden
+      </sea1>
+      <sea2>
+         Indian Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Aden
+      </sea1>
+      <sea2>
+         Red Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Bengal
+      </sea1>
+      <sea2>
+         Pacific Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Gulf of Bengal
+      </sea1>
+      <sea2>
+         Sunda Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Andaman Sea
+      </sea1>
+      <sea2>
+         Indian Ocean
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Andaman Sea
+      </sea1>
+      <sea2>
+         Gulf of Bengal
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Andaman Sea
+      </sea1>
+      <sea2>
+         Malakka Strait
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Malakka Strait
+      </sea1>
+      <sea2>
+         South China Sea
+      </sea2>
+   </mergeswith-tuple>
+   <mergeswith-tuple>
+      <sea1>
+         Sulawesi Sea
+      </sea1>
+      <sea2>
+         Sunda Sea
+      </sea2>
+   </mergeswith-tuple>
+</mergeswith>

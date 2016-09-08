@@ -1,0 +1,73 @@
+TRC expression
+(1)Return the name of any country that has a lake.
+select distinct c.name from geo_lake l join country c on c.code=l.country;
+
+
+(2)Return all the information available on cities whose population is between 3 and 5 million inhabitants.
+select * from city where population>3000000 and population<5000000;
+
+
+(3)Return the country code and the continent of every country not in Europe or in Australia/Oceania.
+select c.name, con.continent from encompasses con, country c where c.code=con.country and con.continent!='Europe' and con.continent!='Australia/Oceania';
+
+
+(4)Return the names of countries that also give their name a province.
+select c.name from country c, province p where p.country=c.code and c.name=p.name;
+
+
+(5)Return countries that are not landlocked (i.e., have a sea coast).
+
+
+RA Expressions
+(6)Return countries that are not landlocked (i.e., have a sea coast).//has sea coast. 
+\project_{name} (\project_{name, code} country \join_{country=code} geo_sea)  
+
+(7)Return the names of all lakes, rivers and seas.
+\rename_{L_R_S_names} (\project_{name} lake) \union (\project_{name} river) \union (\project_{name} sea);
+
+(8)Return the average length of a river.
+\sqlexec_{select avg(length) from river};
+\project_{avg(length)} river;
+
+(9)Return the name of countries that have more than 10 islands.
+select c.name, isl.num_island from country c join (select count(island) as num_island, country from geo_island group by country having num_island > 10) isl on isl.country = c.code;
+
+(10)Return the length of all rivers in Great Britain.
+\project_{rname, length} \select_{country = 'GB'} (\rename_{rname, length} \project_{name, length} river \join \rename_{rname, country} \project_{river, country} geo_river);
+
+(11)Return the name of the countries that have the 10 longest total length of rivers.
+select distinct gc.country_name 
+from river r join 
+(select c.name as country_name, geo.river from geo_river geo join country c on geo.country=c.code) gc on r.name=gc.river
+group by gc.country_name order by sum(r.length) desc limit 10;
+
+  
+SQL expressions:
+(12)Return the names of up to 10 countries and the value corresponding to half the country’s population.
+select name, (population/2) from country limit 10；
+
+(13)Return all the information available about cities whose name is Manchester.
+select * from City where name='Manchester' 
+select * from organization where city='Manchester';
+select * from citypops where city='Manchester';
+select * from locatedon where city='Manchester';
+select * from located  where city='Manchester';
+
+(14)Return the name of cities whose name starts with the substring 'Man’.
+select name from city where name like 'Man%'
+
+(15)Return the name of both countries with Buddhist populations and organizations, established after 1st December 1994, that the country is a member of.
+select name from country c join ( select country from religion where name='Buddhist' intersect select distinct m.country from organization o join ismember m on m.organization=o.abbreviation where o.established > '1994-12-01' ) mem on mem.country=c.code;
+
+
+select c.name as country, organization 
+	from country c join 
+	(select distinct m.country as country_code, o.name as organization 
+		from organization o join ismember m on m.organization=o.abbreviation 
+		where o.established > '1994-12-01' 
+		and m.country in ( select country from religion where name='Buddhist' ) ) mem 
+	on c.code = mem.country_code;
+
+(16)Return the name of each country with the number of islands in it.
+select c.name, count(geo.island) as num_island from country c join geo_island geo on c.code=geo.country group by geo.island;
+

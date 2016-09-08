@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="persontypes.xsd">
+  
+  <person phone="2">
+    <Name>Peter</Name>
+    <DoB>1966-05-04</DoB>
+  </person>
+  
+  <person xsi:type="LongPersonType" phone="5432" friend="0">
+    <Name>Paul</Name>
+    <DoB> 1967-05-04</DoB>
+    <address> Manchester</address>
+  </person>
+  
+  <person xsi:type="LongPersonType" phone="5433">
+    <Name> Mardy</Name>
+    <DoB> 1968-05-04</DoB>
+    <address> Liverpool</address>
+  </person>
+  
+</PersonList> 

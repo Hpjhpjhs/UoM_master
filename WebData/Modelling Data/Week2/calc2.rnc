@@ -1,0 +1,63 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+namespace xhtml="http://www.w3.org/1999/xhtml"
+
+grammar
+{
+
+start = expression-description
+expression-description = element expression { expr-description }
+expr-description =
+  (  plus-description
+   | times-description
+   | minus-description
+   | int-description
+   | dec-description
+   | division-description) &
+  comment-description*
+  
+# plus support unary plus
+plus-description = 
+  element plus { expr-description, expr-description* }
+#times are n-ary, where n is greater than 2
+times-description =
+  element times { expr-description, expr-description+ }
+# minus support unary minus
+minus-description =
+  element minus { expr-description, expr-description* }
+# Must be Integer range from -1000 to 1000
+int-description =
+  element int {
+    attribute value {
+      # datatype integer constraint the value of int element
+      xsd:integer {
+        # maxInclusive and minInclusive param constraint the range of value
+        maxInclusive = "1000"
+        minInclusive = "-1000"
+      }
+    },
+    empty
+  }
+# musst be decimal range from -1000 to 1000
+dec-description =
+  element dec {
+    attribute value {
+      # datatype integer constraint the value of int element
+      xsd:decimal {
+        # maxInclusive and minInclusive param constraint the range of value
+        maxInclusive = "1000"
+        minInclusive = "-1000"
+      }
+    },
+    empty
+  }
+#  *binary* division must contain two elements
+division-description = 
+  element division { expr-description, expr-description }
+# comment elements
+comment-description =
+  element comment {
+    text 
+    & ( element b { text } | element i { text } )*
+  }
+
+}

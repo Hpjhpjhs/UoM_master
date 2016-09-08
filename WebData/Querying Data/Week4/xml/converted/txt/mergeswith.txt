@@ -1,0 +1,54 @@
+Kattegat|Skagerrak
+North Sea|Skagerrak
+North Sea|The Channel
+North Sea|Norwegian Sea
+Black Sea|Sea of Azov
+Black Sea|Mediterranean Sea
+Baltic Sea|North Sea
+Atlantic Ocean|North Sea
+Atlantic Ocean|The Channel
+Atlantic Ocean|Mediterranean Sea
+Atlantic Ocean|Gulf of Mexico
+Atlantic Ocean|Norwegian Sea
+Atlantic Ocean|Pacific Ocean
+Atlantic Ocean|Irish Sea
+Atlantic Ocean|Caribbean Sea
+Atlantic Ocean|Indian Ocean
+Barents Sea|Norwegian Sea
+Barents Sea|Sibirian Sea
+Arctic Ocean|Atlantic Ocean
+Arctic Ocean|Norwegian Sea
+Arctic Ocean|Barents Sea
+Arctic Ocean|Sibirian Sea
+Arctic Ocean|Bering Sea
+Bering Sea|Pacific Ocean
+Pacific Ocean|Sea of Okhotsk
+Pacific Ocean|Sea of Japan
+Pacific Ocean|South China Sea
+Pacific Ocean|Sunda Sea
+Pacific Ocean|Sulawesi Sea
+Sea of Japan|Sea of Okhotsk
+Sea of Japan|Yellow Sea
+East China Sea|Pacific Ocean
+East China Sea|Sea of Japan
+East China Sea|Yellow Sea
+East China Sea|South China Sea
+South China Sea|Sunda Sea
+South China Sea|Sulawesi Sea
+Caribbean Sea|Gulf of Mexico
+Indian Ocean|Pacific Ocean
+Indian Ocean|Sunda Sea
+Arabian Sea|Indian Ocean
+Arabian Sea|Gulf of Oman
+Arabian Sea|Gulf of Aden
+Gulf of Oman|Persian Gulf
+Gulf of Oman|Indian Ocean
+Gulf of Aden|Indian Ocean
+Gulf of Aden|Red Sea
+Gulf of Bengal|Pacific Ocean
+Gulf of Bengal|Sunda Sea
+Andaman Sea|Indian Ocean
+Andaman Sea|Gulf of Bengal
+Andaman Sea|Malakka Strait
+Malakka Strait|South China Sea
+Sulawesi Sea|Sunda Sea

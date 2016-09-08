@@ -1,0 +1,57 @@
+
+<mergeswith>
+   <mergeswith-tuple sea1="Kattegat" sea2="Skagerrak"/>
+   <mergeswith-tuple sea1="North Sea" sea2="Skagerrak"/>
+   <mergeswith-tuple sea1="North Sea" sea2="The Channel"/>
+   <mergeswith-tuple sea1="North Sea" sea2="Norwegian Sea"/>
+   <mergeswith-tuple sea1="Black Sea" sea2="Sea of Azov"/>
+   <mergeswith-tuple sea1="Black Sea" sea2="Mediterranean Sea"/>
+   <mergeswith-tuple sea1="Baltic Sea" sea2="North Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="North Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="The Channel"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Mediterranean Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Gulf of Mexico"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Norwegian Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Pacific Ocean"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Irish Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Caribbean Sea"/>
+   <mergeswith-tuple sea1="Atlantic Ocean" sea2="Indian Ocean"/>
+   <mergeswith-tuple sea1="Barents Sea" sea2="Norwegian Sea"/>
+   <mergeswith-tuple sea1="Barents Sea" sea2="Sibirian Sea"/>
+   <mergeswith-tuple sea1="Arctic Ocean" sea2="Atlantic Ocean"/>
+   <mergeswith-tuple sea1="Arctic Ocean" sea2="Norwegian Sea"/>
+   <mergeswith-tuple sea1="Arctic Ocean" sea2="Barents Sea"/>
+   <mergeswith-tuple sea1="Arctic Ocean" sea2="Sibirian Sea"/>
+   <mergeswith-tuple sea1="Arctic Ocean" sea2="Bering Sea"/>
+   <mergeswith-tuple sea1="Bering Sea" sea2="Pacific Ocean"/>
+   <mergeswith-tuple sea1="Pacific Ocean" sea2="Sea of Okhotsk"/>
+   <mergeswith-tuple sea1="Pacific Ocean" sea2="Sea of Japan"/>
+   <mergeswith-tuple sea1="Pacific Ocean" sea2="South China Sea"/>
+   <mergeswith-tuple sea1="Pacific Ocean" sea2="Sunda Sea"/>
+   <mergeswith-tuple sea1="Pacific Ocean" sea2="Sulawesi Sea"/>
+   <mergeswith-tuple sea1="Sea of Japan" sea2="Sea of Okhotsk"/>
+   <mergeswith-tuple sea1="Sea of Japan" sea2="Yellow Sea"/>
+   <mergeswith-tuple sea1="East China Sea" sea2="Pacific Ocean"/>
+   <mergeswith-tuple sea1="East China Sea" sea2="Sea of Japan"/>
+   <mergeswith-tuple sea1="East China Sea" sea2="Yellow Sea"/>
+   <mergeswith-tuple sea1="East China Sea" sea2="South China Sea"/>
+   <mergeswith-tuple sea1="South China Sea" sea2="Sunda Sea"/>
+   <mergeswith-tuple sea1="South China Sea" sea2="Sulawesi Sea"/>
+   <mergeswith-tuple sea1="Caribbean Sea" sea2="Gulf of Mexico"/>
+   <mergeswith-tuple sea1="Indian Ocean" sea2="Pacific Ocean"/>
+   <mergeswith-tuple sea1="Indian Ocean" sea2="Sunda Sea"/>
+   <mergeswith-tuple sea1="Arabian Sea" sea2="Indian Ocean"/>
+   <mergeswith-tuple sea1="Arabian Sea" sea2="Gulf of Oman"/>
+   <mergeswith-tuple sea1="Arabian Sea" sea2="Gulf of Aden"/>
+   <mergeswith-tuple sea1="Gulf of Oman" sea2="Persian Gulf"/>
+   <mergeswith-tuple sea1="Gulf of Oman" sea2="Indian Ocean"/>
+   <mergeswith-tuple sea1="Gulf of Aden" sea2="Indian Ocean"/>
+   <mergeswith-tuple sea1="Gulf of Aden" sea2="Red Sea"/>
+   <mergeswith-tuple sea1="Gulf of Bengal" sea2="Pacific Ocean"/>
+   <mergeswith-tuple sea1="Gulf of Bengal" sea2="Sunda Sea"/>
+   <mergeswith-tuple sea1="Andaman Sea" sea2="Indian Ocean"/>
+   <mergeswith-tuple sea1="Andaman Sea" sea2="Gulf of Bengal"/>
+   <mergeswith-tuple sea1="Andaman Sea" sea2="Malakka Strait"/>
+   <mergeswith-tuple sea1="Malakka Strait" sea2="South China Sea"/>
+   <mergeswith-tuple sea1="Sulawesi Sea" sea2="Sunda Sea"/>
+</mergeswith>
